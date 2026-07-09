@@ -1,69 +1,73 @@
 {
-  "dateLong": "Mer. 8 juil.",
+  "dateLong": "Jeu. 9 juil.",
   "essentiel": [
-    { "text": "Le décret d'" },
-    { "text": "accès direct aux IPA", "strong": true },
-    { "text": " paraît au Journal officiel. L'" },
+    { "text": "L'" },
+    { "text": "arrêté du 26 juin 2026", "strong": true },
+    { "text": " élargit les actes infirmiers réalisables en autonomie. L'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle trois pompes à insuline. La " },
-    { "text": "HAS", "strong": true },
-    { "text": " actualise ses recommandations sur les plaies chroniques." }
+    { "text": " rappelle les canules artérielles " },
+    { "text": "Eopa de Medtronic", "strong": true },
+    { "text": ". Le baromètre " },
+    { "text": "Albus-OpinionWay", "strong": true },
+    { "text": " révèle que " },
+    { "text": "36 % des infirmiers", "strong": true },
+    { "text": " envisagent de quitter la profession." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Accès direct aux IPA publié au Journal officiel",
-      "summary": "Les patients peuvent consulter un IPA en premier recours dans les structures d'exercice coordonné, sans adressage médical.",
+      "title": "Arrêté du 26 juin 2026 fixant la liste des actes et soins infirmiers",
+      "summary": "Publié au Journal officiel en application de la loi du 27 juin 2025, ce texte élargit la liste des actes et soins que les infirmiers diplômés d'État peuvent réaliser en autonomie, sans prescription médicale préalable.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "ANSM — rappel de trois pompes à insuline",
-      "summary": "Risque de sous-dosage par occlusion silencieuse du cathéter ; conduite à tenir diffusée aux services.",
+      "title": "Rappel des canules artérielles Eopa et Select Series (Medtronic)",
+      "summary": "L'ANSM annonce le 6 juillet 2026 le rappel (n° R2619062) des canules artérielles Eopa 3D, Eopa monocorps allongé et Select Series de Medtronic, destinées aux pharmacies à usage intérieur des établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr"
+      "url": "https://ansm.sante.fr/informations-de-securite/canules-arterielles-canules-arterielles-pediatriques-monobloc-dlp-canule-arterielle-eopa-canule-arterielle-a-extremite-coudee-select-series-medtronic"
     },
     {
       "category": "science",
-      "title": "Friction hydro-alcoolique supérieure au lavage",
-      "summary": "Étude multicentrique : −24 % d'infections associées aux soins par rapport au lavage classique.",
-      "source": "Le Quotidien du Médecin",
-      "url": "https://www.lequotidiendumedecin.fr"
+      "title": "Baromètre bien-être infirmiers 2026 : une profession en tension",
+      "summary": "Menée en février 2026 auprès de 782 professionnels (300 hospitaliers, 482 libéraux), l'étude Albus x OpinionWay montre que 36 % des infirmiers envisagent de quitter la profession et que le stress dépasse 8/10 pour un IDEL sur cinq.",
+      "source": "Albus / OpinionWay",
+      "url": "https://www.albus.fr/blog/actualites/barometre-bien-etre-infirmiers-albus-opinionway/"
     },
     {
       "category": "profession",
-      "title": "Cotisation ordinale 2026 fixée à 30 €",
-      "summary": "Appel à cotisation ouvert ; paiement en ligne possible jusqu’au 31 octobre.",
-      "source": "Ordre infirmier",
-      "url": "https://www.ordre-infirmiers.fr"
+      "title": "Violences sexistes et sexuelles : l'Ordre signe avec France Victimes",
+      "summary": "L'Ordre national des infirmiers a signé une convention de partenariat avec l'association France Victimes, dans le cadre de sa campagne nationale « tolérance zéro », après qu'une consultation menée en 2024 auprès de plus de 21 000 professionnels a révélé qu'un infirmier sur deux avait déjà subi des violences sexistes et sexuelles.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/lutte-contre-les-violences-sexistes-et-sexuelles-l-ordre-national-des-infirmiers-signe-un"
     },
     {
       "category": "technique",
-      "title": "Cathéters à sécurité passive : ce qui change",
-      "summary": "Nouveaux dispositifs à protection automatique de l'aiguille pour réduire les accidents d'exposition au sang.",
-      "source": "ActuSoins",
-      "url": "https://www.actusoins.com"
+      "title": "Medi'Nov Connection 2026 : l'IA au cœur des dispositifs médicaux",
+      "summary": "Les 1er et 2 juillet 2026 au Centre de Congrès de Lyon, la 14e édition de Medi'Nov Connection a réuni 1 250 participants et 130 exposants autour du rôle de l'intelligence artificielle dans le cycle de vie des dispositifs médicaux.",
+      "source": "Medi'Nov Connection",
+      "url": "https://www.medinov-connection.com/"
     },
     {
       "category": "formation",
-      "title": "Trois nouvelles actions DPC agréées ce mois",
-      "summary": "Nouveaux programmes en plaies et cicatrisation, prise en charge de la douleur et éthique du soin.",
+      "title": "DPC : les orientations prioritaires 2023-2025 prorogées jusqu'en 2027",
+      "summary": "L'Agence nationale du DPC confirme la prorogation jusqu'au 31 décembre 2027 des 256 orientations prioritaires triennales, dont les soins et surveillance des plaies, des patients perfusés et des pathologies cardiovasculaires pour les infirmiers.",
       "source": "Agence du DPC",
-      "url": "https://www.agencedpc.fr"
+      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
     }
   ],
   "word": {
-    "field": "Urgences",
-    "term": "Sepsis",
-    "subtitle": "Dysfonction d'organe menaçant le pronostic vital",
-    "definition": "Réponse inflammatoire généralisée et dérégulée de l'organisme face à une infection, pouvant entraîner une ou plusieurs défaillances d'organe mortelles.",
+    "field": "Réglementaire / Rôle propre",
+    "term": "Consultation infirmière",
+    "subtitle": "Un temps d'évaluation et de décision reconnu comme acte autonome",
+    "definition": "Temps dédié où l'infirmier évalue l'état de santé d'un patient, pose un diagnostic infirmier et décide des soins ou orientations relevant de son rôle propre, sans prescription médicale préalable.",
     "steps": [
-      { "n": "1", "h": "Reconnaître", "t": "FR ≥ 22/min, PAS ≤ 100 mmHg, confusion (score qSOFA)." },
-      { "n": "2", "h": "Alerter · bundle 1 h", "t": "hémocultures, lactates, antibiothérapie et remplissage dans l'heure." },
-      { "n": "3", "h": "Réévaluer", "t": "lactate de contrôle, diurèse, hémodynamique, traçabilité des paramètres." }
+      { "n": "1", "h": "Évaluer", "t": "Recueillir données cliniques, antécédents et attentes du patient pour poser un diagnostic infirmier." },
+      { "n": "2", "h": "Décider", "t": "Choisir les actes, soins ou orientations relevant du rôle propre ou du champ de compétences élargi." },
+      { "n": "3", "h": "Tracer", "t": "Consigner la consultation dans le dossier patient et transmettre aux professionnels concernés si besoin." }
     ],
-    "retenir": "La définition Sepsis-3 (2016) recentre le diagnostic sur la défaillance d’organe. Le repérage infirmier précoce, au chevet, change le pronostic. ",
-    "sources": "Sources : SSC 2021 · HAS 2024."
+    "retenir": "La consultation infirmière formalise une pratique déjà réelle sur le terrain et sécurise juridiquement l'autonomie de jugement de l'infirmier depuis la loi du 27 juin 2025. ",
+    "sources": "Sources : Légifrance · Ordre national des infirmiers."
   }
 }

@@ -58,16 +58,16 @@
     }
   ],
   "word": {
-    "field": "Réglementaire / Rôle propre",
-    "term": "Consultation infirmière",
-    "subtitle": "Un temps d'évaluation et de décision reconnu comme acte autonome",
-    "definition": "Temps dédié où l'infirmier évalue l'état de santé d'un patient, pose un diagnostic infirmier et décide des soins ou orientations relevant de son rôle propre, sans prescription médicale préalable.",
+    "field": "Oncologie (UE 2.9 — Processus tumoraux)",
+    "term": "Syndrome de lyse tumorale",
+    "subtitle": "Une urgence métabolique liée à la destruction massive de cellules cancéreuses",
+    "definition": "Libération brutale dans la circulation du contenu intracellulaire des cellules tumorales détruites (potassium, phosphore, acide urique), le plus souvent dans les 12 à 72 h suivant le début d'une chimiothérapie sur une hémopathie à forte masse tumorale, pouvant entraîner une insuffisance rénale aiguë et des troubles du rythme cardiaque.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "Recueillir données cliniques, antécédents et attentes du patient pour poser un diagnostic infirmier." },
-      { "n": "2", "h": "Décider", "t": "Choisir les actes, soins ou orientations relevant du rôle propre ou du champ de compétences élargi." },
-      { "n": "3", "h": "Tracer", "t": "Consigner la consultation dans le dossier patient et transmettre aux professionnels concernés si besoin." }
+      { "n": "1", "h": "Anticiper", "t": "Identifier les patients à risque (lymphomes, leucémies) et programmer un bilan kaliémie, uricémie, phosphorémie, créatininémie avant la cure." },
+      { "n": "2", "h": "Prévenir", "t": "Assurer l'hyperhydratation IV et l'administration de rasburicase ou d'allopurinol sur prescription avant le début du traitement." },
+      { "n": "3", "h": "Alerter", "t": "Signaler sans délai troubles du rythme, oligurie ou paresthésies évocateurs d'une hyperkaliémie et prévenir le médecin en urgence." }
     ],
-    "retenir": "La consultation infirmière formalise une pratique déjà réelle sur le terrain et sécurise juridiquement l'autonomie de jugement de l'infirmier depuis la loi du 27 juin 2025. ",
-    "sources": "Sources : Légifrance · Ordre national des infirmiers."
+    "retenir": "Le syndrome de lyse tumorale est une urgence prévisible : la surveillance biologique rapprochée et l'hyperhydratation préventive avant la première cure en réduisent fortement le risque. ",
+    "sources": "Sources : HAS · Société française d'hématologie."
   }
 }

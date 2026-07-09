@@ -1,0 +1,69 @@
+{
+  "dateLong": "Mer. 8 juil.",
+  "essentiel": [
+    { "text": "Le décret d'" },
+    { "text": "accès direct aux IPA", "strong": true },
+    { "text": " paraît au Journal officiel. L'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " rappelle trois pompes à insuline. La " },
+    { "text": "HAS", "strong": true },
+    { "text": " actualise ses recommandations sur les plaies chroniques." }
+  ],
+  "articles": [
+    {
+      "category": "reglementaire",
+      "title": "Accès direct aux IPA publié au Journal officiel",
+      "summary": "Les patients peuvent consulter un IPA en premier recours dans les structures d'exercice coordonné, sans adressage médical.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr"
+    },
+    {
+      "category": "alertes",
+      "title": "ANSM — rappel de trois pompes à insuline",
+      "summary": "Risque de sous-dosage par occlusion silencieuse du cathéter ; conduite à tenir diffusée aux services.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr"
+    },
+    {
+      "category": "science",
+      "title": "Friction hydro-alcoolique supérieure au lavage",
+      "summary": "Étude multicentrique : −24 % d'infections associées aux soins par rapport au lavage classique.",
+      "source": "Le Quotidien du Médecin",
+      "url": "https://www.lequotidiendumedecin.fr"
+    },
+    {
+      "category": "profession",
+      "title": "Cotisation ordinale 2026 fixée à 30 €",
+      "summary": "Appel à cotisation ouvert ; paiement en ligne possible jusqu’au 31 octobre.",
+      "source": "Ordre infirmier",
+      "url": "https://www.ordre-infirmiers.fr"
+    },
+    {
+      "category": "technique",
+      "title": "Cathéters à sécurité passive : ce qui change",
+      "summary": "Nouveaux dispositifs à protection automatique de l'aiguille pour réduire les accidents d'exposition au sang.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com"
+    },
+    {
+      "category": "formation",
+      "title": "Trois nouvelles actions DPC agréées ce mois",
+      "summary": "Nouveaux programmes en plaies et cicatrisation, prise en charge de la douleur et éthique du soin.",
+      "source": "Agence du DPC",
+      "url": "https://www.agencedpc.fr"
+    }
+  ],
+  "word": {
+    "field": "Urgences",
+    "term": "Sepsis",
+    "subtitle": "Dysfonction d'organe menaçant le pronostic vital",
+    "definition": "Réponse inflammatoire généralisée et dérégulée de l'organisme face à une infection, pouvant entraîner une ou plusieurs défaillances d'organe mortelles.",
+    "steps": [
+      { "n": "1", "h": "Reconnaître", "t": "FR ≥ 22/min, PAS ≤ 100 mmHg, confusion (score qSOFA)." },
+      { "n": "2", "h": "Alerter · bundle 1 h", "t": "hémocultures, lactates, antibiothérapie et remplissage dans l'heure." },
+      { "n": "3", "h": "Réévaluer", "t": "lactate de contrôle, diurèse, hémodynamique, traçabilité des paramètres." }
+    ],
+    "retenir": "La définition Sepsis-3 (2016) recentre le diagnostic sur la défaillance d’organe. Le repérage infirmier précoce, au chevet, change le pronostic. ",
+    "sources": "Sources : SSC 2021 · HAS 2024."
+  }
+}

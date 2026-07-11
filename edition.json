@@ -1,71 +1,73 @@
 {
-  "dateLong": "Ven. 10 juil.",
+  "dateLong": "Sam. 11 juil.",
   "essentiel": [
-    { "text": "Le second " },
-    { "text": "arrêté du 26 juin 2026", "strong": true },
-    { "text": " étend la prescription infirmière aux dispositifs implantables télésurveillés. Le " },
-    { "text": "CHU de Poitiers", "strong": true },
-    { "text": " expérimente depuis le 6 juillet la régulation de ses urgences par le 15. L'" },
+    { "text": "L'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle les pinces à biopsie " },
-    { "text": "Radial Jaw 4 de Boston Scientific", "strong": true },
-    { "text": "." }
+    { "text": " rappelle les canules artérielles Eopa 3D de " },
+    { "text": "Medtronic", "strong": true },
+    { "text": ". À l'hôpital " },
+    { "text": "Necker", "strong": true },
+    { "text": ", les " },
+    { "text": "IBODE", "strong": true },
+    { "text": " sont en grève, avec 18 postes vacants sur 51 au bloc pédiatrique. Une étude " },
+    { "text": "MACSF", "strong": true },
+    { "text": " révèle que 47 % des médecins restent réservés face à la réforme infirmière." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Arrêté du 26 juin 2026 fixant la liste des produits de santé et examens complémentaires prescriptibles par les infirmiers",
-      "summary": "Publié au Journal officiel le 27 juin 2026 en miroir de l'arrêté sur les actes et soins, ce second texte élargit la liste des produits de santé, dispositifs médicaux et examens complémentaires que les infirmiers diplômés d'État peuvent prescrire ou renouveler sans prescription médicale préalable, dont le contrôle des dispositifs implantables rythmologiques par télésurveillance.",
+      "title": "Arrêté du 26 février 2026 relatif aux référentiels de certification périodique des professions de santé relevant d'un ordre professionnel",
+      "summary": "Publié au Journal officiel, cet arrêté fixe les référentiels de certification périodique applicables aux sept professions de santé réglementées par un ordre — médecins, chirurgiens-dentistes, sages-femmes, pharmaciens, infirmiers, masseurs-kinésithérapeutes et pédicures-podologues —, qui devront désormais justifier tous les six ans d'un parcours de certification, alors que l'Agence du DPC entame sa transition vers ce nouveau dispositif.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053587033"
     },
     {
       "category": "alertes",
-      "title": "Rappel des pinces à biopsie Radial Jaw 4 (Boston Scientific)",
-      "summary": "L'ANSM annonce le 2 juillet 2026 le retrait de lot (n° R2619209) des pinces à biopsie Radial Jaw 4 de Boston Scientific Corporation, utilisées en endoscopie digestive et pulmonaire au sein des établissements de santé.",
+      "title": "Rappel des canules artérielles Eopa 3D et Eopa monocorps allongées (Medtronic)",
+      "summary": "Le 6 juillet 2026, l'ANSM annonce le rappel (n° R2619062) des canules artérielles Eopa 3D et de la canule artérielle monocorps allongée Eopa de Medtronic France, utilisées en circulation extracorporelle (CEC/ECMO), destiné aux pharmacies à usage intérieur des établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/pince-a-biopsie-radial-jaw-4-biopsy-forceps-boston-scientific-corporation"
+      "url": "https://ansm.sante.fr/informations-de-securite/canules-arterielles-canules-arterielles-pediatriques-monobloc-dlp-canule-arterielle-eopa-canule-arterielle-a-extremite-coudee-select-series-medtronic"
     },
     {
       "category": "science",
-      "title": "Partenariat en santé et patients partenaires : la HAS publie un guide de référence",
-      "summary": "Le 30 juin 2026, la HAS publie un guide d'une cinquantaine de pages, accompagné de 4 fiches pratiques, pour structurer le recours aux patients partenaires dans les parcours de soins, la recherche et la formation, et mieux reconnaître les compétences des professionnels, dont les infirmiers, qui les accompagnent.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4085651/fr/partenariat-en-sante-et-patients-partenaires"
+      "title": "Évolution de la profession infirmière : les médecins toujours réservés sur la réforme, avec 47 % d'avis négatifs",
+      "summary": "Une étude MACSF menée en février 2026 auprès de 890 professionnels, dont 201 médecins, montre que 47 % des médecins jugent défavorablement l'élargissement des compétences infirmières issu du décret du 24 décembre 2025, avec 63 % opposés à la prescription médicamenteuse et 55 % opposés à la consultation infirmière sans prescription préalable.",
+      "source": "Le Quotidien du Médecin",
+      "url": "https://www.lequotidiendumedecin.fr/liberal-soins-de-ville/exercice/evolution-de-la-profession-infirmiere-les-medecins-toujours-reserves-sur-la-reforme-avec-47-davis"
     },
     {
       "category": "profession",
-      "title": "Urgences : le CHU de Poitiers expérimente la régulation systématique par le 15",
-      "summary": "Depuis le 6 juillet 2026 et pour trois mois, l'accès aux urgences du CHU de Poitiers (sites de Poitiers, Châtellerault, Loudun et Montmorillon) est conditionné, de 22h à 7h hors pédiatrie, à un appel préalable au 15, le médecin régulateur pouvant confirmer l'admission, différer la prise en charge ou réorienter vers la médecine de ville.",
-      "source": "CHU de Poitiers",
-      "url": "https://www.chu-poitiers.fr/en/regulation-de-lacces-aux-urgences-un-dispositif-experimental-a-partir-du-6-juillet-2026/"
+      "title": "Grève IBODE à Necker : un révélateur de la crise d'attractivité infirmière à l'hôpital",
+      "summary": "Depuis plusieurs semaines, les IBODE de l'hôpital Necker sont en grève : le bloc opératoire pédiatrique, qui réalise 8 000 interventions par an, ne compte début juillet que 33 professionnels pour 51 postes nécessaires, un déficit de 18 postes qui impose à certains soignants des semaines allant jusqu'à 58 heures.",
+      "source": "SNPI",
+      "url": "https://syndicat-infirmier.com/Greve-IBODE-a-Necker-un-revelateur-de-la-crise-d-attractivite-infirmiere-a-l.html"
     },
     {
       "category": "technique",
-      "title": "Objets connectés : 68 % des infirmiers libéraux en utilisent au moins un en tournée",
-      "summary": "Selon une enquête de l'Ordre national des infirmiers relayée en 2026, 68 % des infirmiers libéraux utilisent au moins un objet connecté (tensiomètre, glucomètre, thermomètre ou capteur de constantes) au cours de leurs tournées à domicile.",
+      "title": "Les innovations 2026 pour les infirmières libérales",
+      "summary": "Parmi les innovations 2026 recensées pour les infirmières libérales figurent des glucomètres intelligents assurant une surveillance continue de la glycémie avec alerte en cas d'anomalie, et des patchs cardiaques connectés détectant à distance les arythmies des patients suivis à domicile.",
       "source": "La Ruche",
-      "url": "https://laruche.cbainfo.fr/actualites/objets-connectes-en-sante/"
+      "url": "https://laruche.cbainfo.fr/gerer-cabinet-infirmier/innovations-idel/"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : indemnisation à 38 €/h et remise à zéro des compteurs de formation",
-      "summary": "L'Agence nationale du DPC confirme pour 2026 une indemnisation de 38 € par heure pour les formations présentielles et classes virtuelles avec prise en charge à 100 % des frais pédagogiques, la fin de l'indemnisation des formations continues en e-learning, et la remise à zéro de tous les compteurs de formation continue des infirmiers.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "Suppression de l'ANDPC : ce qui change pour votre formation 2026",
+      "summary": "Avec la suppression annoncée de l'Agence nationale du DPC, dont les missions seront réparties entre la HAS et France Compétences à partir de 2027, les formations DPC suivies par les infirmiers en 2026 et 2027 compteront automatiquement dans leur nouvelle certification périodique, due tous les six ans.",
+      "source": "Medere",
+      "url": "https://www.medere.fr/blog/suppression-de-l-andpc"
     }
   ],
   "word": {
-    "field": "Soins palliatifs (UE 4.7)",
-    "term": "Sédation profonde et continue maintenue jusqu'au décès",
-    "subtitle": "Un droit du patient en fin de vie, encadré par la loi Claeys-Leonetti",
-    "definition": "Pratique qui consiste à altérer la conscience du patient de façon profonde et continue jusqu'au décès, associée à l'arrêt de l'ensemble des traitements de maintien en vie, afin de soulager une souffrance réfractaire chez un patient en phase avancée ou terminale d'une affection grave et incurable.",
+    "field": "Antalgie (UE 4.4)",
+    "term": "Titration",
+    "subtitle": "Ajuster la dose d'un antalgique par petits paliers, guidé par la réponse du patient",
+    "definition": "Méthode d'administration progressive et individualisée d'un médicament, le plus souvent un antalgique opioïde comme la morphine, par bolus successifs de faible dose, jusqu'à obtenir le soulagement recherché avec le minimum de risque de surdosage.",
     "steps": [
-      { "n": "1", "h": "Identifier", "t": "Repérer les critères d'éligibilité (souffrance réfractaire, pronostic vital engagé à court terme) et vérifier l'existence de directives anticipées ou l'avis de la personne de confiance." },
-      { "n": "2", "h": "Accompagner", "t": "Participer à la procédure collégiale, assurer l'information du patient et de ses proches, et préparer l'environnement (isolement, confort, matériel)." },
-      { "n": "3", "h": "Surveiller", "t": "Évaluer en continu la profondeur de la sédation (échelle de Rudkin ou RASS) et le confort du patient, et soutenir l'entourage jusqu'au décès." }
+      { "n": "1", "h": "Évaluer", "t": "Mesurer l'intensité de la douleur (EVA ou EN) et vérifier l'absence de contre-indication avant le premier bolus." },
+      { "n": "2", "h": "Administrer", "t": "Injecter des bolus de faible dose à intervalles réguliers (ex. 2 à 3 mg de morphine IV toutes les 5 à 7 minutes), selon le protocole ou la prescription." },
+      { "n": "3", "h": "Réévaluer", "t": "Réévaluer la douleur, la sédation, la fréquence respiratoire et la SpO2 après chaque bolus, jusqu'au soulagement ou à l'apparition d'un effet indésirable." }
     ],
-    "retenir": "La sédation profonde et continue jusqu'au décès est un droit encadré par la loi Claeys-Leonetti de 2016, réservé aux situations de souffrance réfractaire en fin de vie et décidé après une procédure collégiale. ",
-    "sources": "Sources : HAS · Loi n° 2016-87 du 2 février 2016 (Claeys-Leonetti)."
+    "retenir": "La titration permet d'atteindre rapidement la dose antalgique efficace tout en limitant le risque de surdosage, grâce à une réévaluation systématique après chaque palier et à un protocole ou une prescription médicale anticipée. ",
+    "sources": "Sources : HAS · SFETD (Société française d'étude et de traitement de la douleur)."
   }
 }

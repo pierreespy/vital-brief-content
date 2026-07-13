@@ -1,79 +1,77 @@
 {
-  "dateLong": "Dim. 12 juil.",
+  "dateLong": "Lun. 13 juil.",
   "essentiel": [
-    { "text": "Le second " },
-    { "text": "arrêté du 26 juin 2026", "strong": true },
-    { "text": " ouvre la " },
-    { "text": "prescription infirmière autonome", "strong": true },
-    { "text": " (plaies, douleur, prévention). L'" },
+    { "text": "L'" },
+    { "text": "avenant 11", "strong": true },
+    { "text": " revalorise les infirmiers libéraux et crée le statut d'" },
+    { "text": "infirmier référent", "strong": true },
+    { "text": ". L'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle les pinces à biopsie " },
-    { "text": "Radial Jaw 4 de Boston Scientific", "strong": true },
-    { "text": ". La " },
-    { "text": "HAS", "strong": true },
-    { "text": " publie un guide sur les " },
-    { "text": "patients partenaires", "strong": true },
-    { "text": ", et l'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " prépare ses " },
-    { "text": "élections ordinales", "strong": true },
-    { "text": " de l'automne." }
+    { "text": " rappelle des canules artérielles " },
+    { "text": "Eopa de Medtronic", "strong": true },
+    { "text": ". Le diplôme d'État sera délivré par les " },
+    { "text": "universités", "strong": true },
+    { "text": " dès la rentrée 2026, la " },
+    { "text": "télésurveillance médicale", "strong": true },
+    { "text": " entre sur la liste de remboursement, et le " },
+    { "text": "DPC", "strong": true },
+    { "text": " ouvre son nouveau cycle 2026." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Arrêté du 26 juin 2026 fixant la liste des produits de santé et examens que les infirmiers sont autorisés à prescrire",
-      "summary": "Publié au Journal officiel le 27 juin 2026 en miroir de l'arrêté sur les actes et soins, ce texte ouvre la prescription infirmière autonome dans cinq domaines : prévention, plaies (pansements sur sept jours, supports de prévention d'escarres), santé sexuelle, sevrage tabagique et douleur.",
+      "title": "Avenant n° 11 à la convention nationale des infirmiers libéraux",
+      "summary": "Signé le 31 mars 2026 et publié au Journal officiel le 6 mai, l'avenant revalorise la lettre clé AMI de 9,5 % en deux temps, crée le statut d'infirmier référent pour les patients fragiles et élargit l'accès direct aux plaies non chirurgicales.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054037411"
     },
     {
       "category": "alertes",
-      "title": "Rappel des pinces à biopsie Radial Jaw 4 (Boston Scientific)",
-      "summary": "L'ANSM annonce le 2 juillet 2026 le rappel de lot (n° R2619209) des pinces à biopsie endoscopique à usage unique Radial Jaw 4 de Boston Scientific, utilisées en gastro-entérologie et en pneumologie interventionnelle.",
+      "title": "Rappel des canules artérielles Eopa (CEC/ECMO) de Medtronic",
+      "summary": "L'ANSM annonce le 6 juillet 2026 le rappel (n° R2619062) des canules artérielles Eopa 3D et Eopa monobloc allongées de Medtronic, utilisées en circulation extracorporelle et ECMO, à destination des pharmacies à usage intérieur.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/pince-a-biopsie-radial-jaw-4-biopsy-forceps-boston-scientific-corporation"
+      "url": "https://ansm.sante.fr/informations-de-securite/canules-arterielles-canules-arterielles-pediatriques-monobloc-dlp-canule-arterielle-eopa-canule-arterielle-a-extremite-coudee-select-series-medtronic"
     },
     {
       "category": "science",
-      "title": "La HAS publie un guide sur le partenariat en santé et les patients partenaires",
-      "summary": "Le 30 juin 2026, la HAS diffuse un guide pédagogique et quatre fiches pratiques pour structurer le recours aux patients partenaires dans la recherche, la formation, les parcours de soins et l'organisation des établissements.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4085651/fr/partenariat-en-sante-et-patients-partenaires"
+      "title": "ReAScI : une nouvelle revue en libre accès pour la recherche en sciences infirmières",
+      "summary": "Portée par le département universitaire de sciences infirmières de Limoges, cette revue francophone à comité de lecture publie des travaux quantitatifs, qualitatifs et mixtes pour structurer la discipline infirmière.",
+      "source": "ANFH",
+      "url": "https://www.anfh.fr/actualites/recherche-et-avancees-en-sciences-infirmieres-nouvelle-revue-en-libre-acces"
     },
     {
       "category": "profession",
-      "title": "Élections ordinales : l'Ordre national des infirmiers appelle à voter à l'automne 2026",
-      "summary": "Après la promulgation de la loi du 27 juin 2025 et sa mise en œuvre réglementaire, l'Ordre fait de 2026 une année électorale : les infirmiers seront appelés à élire leurs représentants départementaux à l'automne.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier/profession-infirmiere-les-grands-enjeux-de-lordre-pour-2026"
+      "title": "Diplôme d'État infirmier : la délivrance passe aux universités dès la rentrée 2026",
+      "summary": "L'Ordre national des infirmiers salue le décret n° 2026-130 du 20 février 2026 : à partir de la rentrée, le DE sera délivré par les universités accréditées et signé par leur président, et non plus par les régions.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-salue-la-publication-au-journal-officiel-du-decret-ndeg-2026-130-du"
     },
     {
       "category": "technique",
-      "title": "Décret infirmier : quelles conséquences sur les outils numériques des cabinets ?",
-      "summary": "ActuSoins détaille comment la nouvelle liste d'actes et de prescriptions infirmières impose une mise à jour des logiciels métier et du DMP pour tracer les nouveaux actes réalisés en autonomie.",
-      "source": "ActuSoins",
-      "url": "https://www.actusoins.com/decret-infirmiere-quelles-consequences-sur-les-outils-numeriques.html"
+      "title": "La télésurveillance médicale inscrite sur la liste de remboursement de droit commun",
+      "summary": "L'arrêté du 20 mai 2026 inscrit une nouvelle activité de télésurveillance médicale sur la liste de l'article L. 162-52 du code de la sécurité sociale, élargissant les dispositifs connectés pris en charge pour le suivi à domicile.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000054122378"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : les inscriptions aux sessions sont ouvertes",
-      "summary": "L'Agence nationale du DPC ouvre les inscriptions 2026 avec un forfait revalorisé à 38 €/heure en présentiel et classe virtuelle, des compteurs de formation remis à zéro et l'e-learning non indemnisé au titre de la formation continue.",
-      "source": "Agence nationale du DPC",
-      "url": "https://www.agencedpc.fr/Les-inscriptions-aux-sessions-de-DPC-2026-sont-ouvertes"
+      "title": "DPC 2026 : nouveau cycle triennal et thématiques prioritaires",
+      "summary": "Avec l'ouverture du cycle 2026, les compteurs de formation continue sont remis à zéro et les thématiques prioritaires se recentrent sur les soins palliatifs, la douleur, la santé mentale et les nouvelles missions élargies des infirmiers.",
+      "source": "Pôle Formation Santé",
+      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
     }
   ],
   "word": {
-    "field": "Pharmacologie / Thérapeutique",
-    "term": "Titration",
-    "subtitle": "L'ajustement progressif d'une dose médicamenteuse selon la réponse clinique du patient",
-    "definition": "Technique d'administration consistant à adapter par paliers la dose d'un médicament (antalgique, anticoagulant, insuline…) en fonction de l'effet observé et de la tolérance du patient, jusqu'à l'obtention de l'effet thérapeutique recherché.",
+    "field": "Réglementaire / Exercice professionnel",
+    "term": "Protocole de coopération",
+    "subtitle": "Un dispositif qui permet à un infirmier de réaliser, par délégation, un acte normalement réservé au médecin",
+    "definition": "Prévu par l'article L. 4011-1 du code de la santé publique (issu de l'article 51 de la loi HPST), le protocole de coopération organise un transfert d'activités ou d'actes de soins entre professionnels de santé, sous forme dérogatoire aux conditions légales d'exercice, après autorisation de l'ARS.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "Mesurer l'intensité du symptôme (douleur EVA, glycémie…) et les paramètres de surveillance avant chaque palier." },
-      { "n": "2", "h": "Administrer par paliers", "t": "Injecter ou augmenter la dose par petites quantités successives, en respectant le délai d'action du produit." },
-      { "n": "3", "h": "Réévaluer", "t": "Contrôler l'effet obtenu et la tolérance après chaque palier pour décider de poursuivre, stabiliser ou arrêter la titration." }
+      { "n": "1", "h": "Identifier", "t": "Vérifier que l'acte visé est couvert par un protocole national existant (répertoire national) ou construire un protocole local avec l'équipe médicale." },
+      { "n": "2", "h": "Se former", "t": "Suivre la formation spécifique prévue par le protocole et attester des compétences requises avant toute délégation d'acte." },
+      { "n": "3", "h": "Tracer", "t": "Consigner chaque acte réalisé dans le cadre du protocole au dossier patient, en mentionnant le protocole appliqué et le médecin délégant." }
     ],
-    "retenir": "La titration permet d'individualiser la dose à l'effet recherché tout en limitant le risque de surdosage ; elle exige une surveillance clinique rapprochée entre chaque palier. ",
-    "sources": "Sources : HAS · SFAR (Société Française d'Anesthésie et de Réanimation)."
+    "retenir": "Le protocole de coopération sécurise juridiquement une délégation d'acte du médecin vers l'infirmier ; il ne s'improvise pas et exige formation, traçabilité et respect strict du périmètre autorisé. ",
+    "sources": "Sources : HAS · Code de la santé publique (art. L. 4011-1 et s.)."
   }
 }

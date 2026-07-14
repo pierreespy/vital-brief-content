@@ -1,77 +1,75 @@
 {
-  "dateLong": "Lun. 13 juil.",
+  "dateLong": "Mar. 14 juil.",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "avenant 11", "strong": true },
-    { "text": " revalorise les infirmiers libéraux et crée le statut d'" },
-    { "text": "infirmier référent", "strong": true },
-    { "text": ". L'" },
+    { "text": "Les " },
+    { "text": "arrêtés du 26 juin", "strong": true },
+    { "text": " élargissent la prescription et les actes infirmiers (vaccination, plaies, santé sexuelle). L'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle des canules artérielles " },
-    { "text": "Eopa de Medtronic", "strong": true },
-    { "text": ". Le diplôme d'État sera délivré par les " },
-    { "text": "universités", "strong": true },
-    { "text": " dès la rentrée 2026, la " },
-    { "text": "télésurveillance médicale", "strong": true },
-    { "text": " entre sur la liste de remboursement, et le " },
+    { "text": " alerte sur une forte tension d'approvisionnement en aspirine faible dose et sur une anomalie de l'alarme des ventilateurs " },
+    { "text": "Astral de ResMed", "strong": true },
+    { "text": ". Une enquête du collectif " },
+    { "text": "Santé en danger", "strong": true },
+    { "text": " révèle que près de 8 professionnels de santé sur 10 ont été diagnostiqués en burn-out, l'" },
+    { "text": "AP-HP", "strong": true },
+    { "text": " se mobilise contre le plan d'économies hospitalier, et les orientations prioritaires du " },
     { "text": "DPC", "strong": true },
-    { "text": " ouvre son nouveau cycle 2026." }
+    { "text": " sont prorogées jusqu'à fin 2026." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Avenant n° 11 à la convention nationale des infirmiers libéraux",
-      "summary": "Signé le 31 mars 2026 et publié au Journal officiel le 6 mai, l'avenant revalorise la lettre clé AMI de 9,5 % en deux temps, crée le statut d'infirmier référent pour les patients fragiles et élargit l'accès direct aux plaies non chirurgicales.",
+      "title": "Arrêtés du 26 juin 2026 : la prescription et les actes infirmiers élargis",
+      "summary": "Publiés au Journal officiel le 27 juin, deux arrêtés ouvrent la consultation infirmière autonome, la prescription de vaccins dès 11 ans, la prise en charge des plaies chroniques et aiguës, la santé sexuelle et le sevrage tabagique aux infirmiers diplômés d'État.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054037411"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "Rappel des canules artérielles Eopa (CEC/ECMO) de Medtronic",
-      "summary": "L'ANSM annonce le 6 juillet 2026 le rappel (n° R2619062) des canules artérielles Eopa 3D et Eopa monobloc allongées de Medtronic, utilisées en circulation extracorporelle et ECMO, à destination des pharmacies à usage intérieur.",
+      "title": "Fortes tensions d'approvisionnement sur l'aspirine faible dose (75 et 100 mg)",
+      "summary": "L'ANSM alerte le 29 juin 2026 sur des tensions majeures affectant les comprimés gastro-résistants d'acide acétylsalicylique à 75 et 100 mg, utilisés en prévention cardiovasculaire, et autorise à titre exceptionnel la substitution entre dosages en pharmacie.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/canules-arterielles-canules-arterielles-pediatriques-monobloc-dlp-canule-arterielle-eopa-canule-arterielle-a-extremite-coudee-select-series-medtronic"
+      "url": "https://ansm.sante.fr/actualites/fortes-tensions-dapprovisionnement-sur-les-comprimes-gastro-resistants-a-base-dacide-acetylsalicylique-aspirine-75-mg-et-100-mg"
     },
     {
       "category": "science",
-      "title": "ReAScI : une nouvelle revue en libre accès pour la recherche en sciences infirmières",
-      "summary": "Portée par le département universitaire de sciences infirmières de Limoges, cette revue francophone à comité de lecture publie des travaux quantitatifs, qualitatifs et mixtes pour structurer la discipline infirmière.",
-      "source": "ANFH",
-      "url": "https://www.anfh.fr/actualites/recherche-et-avancees-en-sciences-infirmieres-nouvelle-revue-en-libre-acces"
+      "title": "Près de 8 professionnels de santé sur 10 disent avoir été diagnostiqués en burn-out",
+      "summary": "Une enquête du collectif Santé en danger, relayée début juillet 2026, montre une aggravation de la souffrance au travail chez les soignants, avec plus de 40 % des infirmiers hospitaliers rapportant une fatigue avancée.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/burn-out-en-hausse-et-toujours-plus-de-souffrance-chez-les-professionnels-de-sante"
     },
     {
       "category": "profession",
-      "title": "Diplôme d'État infirmier : la délivrance passe aux universités dès la rentrée 2026",
-      "summary": "L'Ordre national des infirmiers salue le décret n° 2026-130 du 20 février 2026 : à partir de la rentrée, le DE sera délivré par les universités accréditées et signé par leur président, et non plus par les régions.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-salue-la-publication-au-journal-officiel-du-decret-ndeg-2026-130-du"
+      "title": "AP-HP : la mobilisation s'intensifie contre le plan d'économies hospitalier",
+      "summary": "Après la grève des IBODE de l'hôpital Necker début juillet, quatre syndicats (CGT, FO, CFTC, UNSA) appellent les personnels de l'AP-HP à se mobiliser contre les 5 milliards d'euros d'économies annoncés pour les hôpitaux publics.",
+      "source": "France Bleu",
+      "url": "https://www.francebleu.fr/infos/sante-sciences/il-y-a-une-vraie-colere-greve-dans-les-38-hopitaux-de-l-ap-hp-contre-le-plan-d-economie-du-gouvernement-2622472"
     },
     {
       "category": "technique",
-      "title": "La télésurveillance médicale inscrite sur la liste de remboursement de droit commun",
-      "summary": "L'arrêté du 20 mai 2026 inscrit une nouvelle activité de télésurveillance médicale sur la liste de l'article L. 162-52 du code de la sécurité sociale, élargissant les dispositifs connectés pris en charge pour le suivi à domicile.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000054122378"
+      "title": "Ventilateurs Astral 100/150 de ResMed : anomalie de l'alarme de panne secteur",
+      "summary": "L'ANSM relaie une information de sécurité concernant les ventilateurs à domicile Astral 100 et 150 fabriqués avant octobre 2024 : l'alarme de coupure totale d'alimentation peut ne pas se déclencher ; une mise à jour logicielle R6.2 corrige le défaut.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/ventilateur-pour-usage-a-domicile-astral-100-astral-150-resmed"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : nouveau cycle triennal et thématiques prioritaires",
-      "summary": "Avec l'ouverture du cycle 2026, les compteurs de formation continue sont remis à zéro et les thématiques prioritaires se recentrent sur les soins palliatifs, la douleur, la santé mentale et les nouvelles missions élargies des infirmiers.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "DPC : les orientations prioritaires 2023-2025 prorogées jusqu'à fin 2026",
+      "summary": "L'Agence nationale du DPC maintient ses 256 orientations triennales : les soins et la surveillance des plaies, des perfusions et des pathologies cardiaques restent des priorités de formation pour les infirmiers jusqu'au 31 décembre 2026.",
+      "source": "Agence nationale du DPC",
+      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
     }
   ],
   "word": {
-    "field": "Réglementaire / Exercice professionnel",
-    "term": "Protocole de coopération",
-    "subtitle": "Un dispositif qui permet à un infirmier de réaliser, par délégation, un acte normalement réservé au médecin",
-    "definition": "Prévu par l'article L. 4011-1 du code de la santé publique (issu de l'article 51 de la loi HPST), le protocole de coopération organise un transfert d'activités ou d'actes de soins entre professionnels de santé, sous forme dérogatoire aux conditions légales d'exercice, après autorisation de l'ARS.",
+    "field": "Urgences / Vigilance",
+    "term": "Choc anaphylactique",
+    "subtitle": "Une réaction allergique généralisée et brutale pouvant engager le pronostic vital en quelques minutes",
+    "definition": "Le choc anaphylactique est une réaction d'hypersensibilité immédiate, médiée par les IgE, entraînant une vasodilatation massive et une hyperperméabilité capillaire à l'origine d'une hypotension, d'un bronchospasme et parfois d'un œdème de Quincke ; c'est une urgence vitale nécessitant l'adrénaline en première intention.",
     "steps": [
-      { "n": "1", "h": "Identifier", "t": "Vérifier que l'acte visé est couvert par un protocole national existant (répertoire national) ou construire un protocole local avec l'équipe médicale." },
-      { "n": "2", "h": "Se former", "t": "Suivre la formation spécifique prévue par le protocole et attester des compétences requises avant toute délégation d'acte." },
-      { "n": "3", "h": "Tracer", "t": "Consigner chaque acte réalisé dans le cadre du protocole au dossier patient, en mentionnant le protocole appliqué et le médecin délégant." }
+      { "n": "1", "h": "Reconnaître", "t": "Repérer l'association rapide de signes cutanéo-muqueux (urticaire, œdème), respiratoires (bronchospasme, dyspnée) et hémodynamiques (hypotension, tachycardie) après exposition à un allergène (médicament, venin, aliment)." },
+      { "n": "2", "h": "Agir", "t": "Injecter l'adrénaline en intramusculaire (face antéro-latérale de la cuisse) sans délai, allonger le patient jambes surélevées, poser une voie veineuse et administrer de l'oxygène, alerter le médecin ou le SAMU." },
+      { "n": "3", "h": "Surveiller", "t": "Réévaluer toutes les 5 à 10 minutes (pression artérielle, saturation, conscience), renouveler l'adrénaline si besoin, et maintenir une surveillance prolongée en raison du risque de réaction biphasique." }
     ],
-    "retenir": "Le protocole de coopération sécurise juridiquement une délégation d'acte du médecin vers l'infirmier ; il ne s'improvise pas et exige formation, traçabilité et respect strict du périmètre autorisé. ",
-    "sources": "Sources : HAS · Code de la santé publique (art. L. 4011-1 et s.)."
+    "retenir": "Le choc anaphylactique est une urgence vitale où chaque minute compte : l'adrénaline intramusculaire est le traitement de première intention, à administrer sans attendre l'avis médical devant des signes évocateurs. ",
+    "sources": "Sources : HAS · Société française de médecine d'urgence (SFMU)."
   }
 }

@@ -1,73 +1,71 @@
 {
-  "dateLong": "Mer. 15 juil.",
+  "dateLong": "Jeu. 16 juil.",
   "essentiel": [
-    { "text": "Le " },
-    { "text": "diplôme d'État infirmier", "strong": true },
-    { "text": " sera délivré par les universités dès la rentrée 2026, " },
-    { "text": "Météo-France", "strong": true },
-    { "text": " place 24 départements en vigilance rouge canicule, " },
-    { "text": "FO-SPSS", "strong": true },
-    { "text": " dépose un préavis de grève dénonçant 60 000 postes infirmiers vacants, une étude en " },
-    { "text": "HAD", "strong": true },
-    { "text": " confirme l'intérêt de l'alginate de calcium dans les escarres, et l'" },
-    { "text": "Agence du DPC", "strong": true },
-    { "text": " ouvre ses inscriptions 2026 autour des soins palliatifs et de la santé mentale." }
+    { "text": "Les arrêtés du " },
+    { "text": "26 juin 2026", "strong": true },
+    { "text": " élargissent les actes et la prescription infirmière, l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " rappelle un lot de set de perfusion Absosoins pour risque de rupture, sept " },
+    { "text": "Ordres de santé", "strong": true },
+    { "text": " signent une charte contre les violences sexistes et sexuelles, et la " },
+    { "text": "HAS", "strong": true },
+    { "text": " lance sa première campagne patients sur l'hygiène des mains." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Diplôme d'État infirmier : les universités habilitées à le délivrer dès la rentrée 2026",
-      "summary": "Le décret n° 2026-130 du 20 février 2026 et son arrêté transfèrent la délivrance du diplôme d'État infirmier des préfets de région vers les universités accréditées, une réforme applicable aux étudiants entrant en IFSI en septembre 2026.",
+      "title": "Actes, soins et prescription infirmière : les arrêtés du 26 juin 2026 publiés au Journal officiel",
+      "summary": "Deux arrêtés élargissent la liste des actes et soins relevant du rôle infirmier (plaies chroniques, pose de cathéter court sous échographie, évaluation du risque d'escarre) et ouvrent la prescription autonome sur cinq domaines — prévention, plaies, santé sexuelle, tabac, douleur — conformément à l'avis de la HAS du 11 juin 2026.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053568871"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "Canicule : 24 départements en vigilance rouge, les hôpitaux de nouveau sous tension",
-      "summary": "Météo-France a placé 24 départements en vigilance rouge canicule le 11 juillet 2026 et le gouvernement a déclenché le plan Orsec « chaleurs extrêmes » ; après l'épisode de fin juin, les services redoutent un nouveau pic d'activité avec un personnel déjà épuisé.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/epuisement-manque-dequipement-lhopital-redoute-la-nouvelle-vague-de-chaleur"
+      "title": "Rappel ANSM du set de perfusion Absosoins pour risque de rupture au site d'injection en Y",
+      "summary": "Le laboratoire Marque Verte rappelle le lot 2506Z200 du set de perfusion Setperf-VV après la découverte d'un défaut au site d'injection en Y pouvant se fissurer, entraîner une rupture ou une entrée d'air dans la ligne de perfusion.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/set-de-perfusion-absosoins-laboratoire-marque-verte"
     },
     {
       "category": "science",
-      "title": "Une étude en HAD confirme l'intérêt de l'alginate de calcium dans la cicatrisation des escarres",
-      "summary": "Menée avec seize structures d'hospitalisation à domicile, dont la Fondation Santé Service, une étude prospective observationnelle du laboratoire Brothier valide l'usage de l'Algostéril® en pansement primaire dans la prise en charge des escarres à domicile.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/exercice-liberal/le-metier-didel/innovations-et-expertise-dans-la-prise-en-charge-des-plaies-chroniques-et-complexes"
+      "title": "La HAS lance sa première campagne de mesure de l'hygiène des mains vue par les patients",
+      "summary": "Menée du 10 mars au 11 juin 2026, cette campagne d'indicateurs de qualité (IQSS) recueille pour la première fois l'expérience rapportée par les patients sur l'hygiène des mains des soignants ; les résultats sont attendus au second semestre 2026.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_3858254/fr/iqss-2026-mesure-de-l-experience-rapportee-par-les-patients-sur-l-hygiene-des-mains"
     },
     {
       "category": "profession",
-      "title": "FO-SPSS dépose un préavis de grève reconductible jusqu'au 15 octobre",
-      "summary": "La fédération Force Ouvrière des services publics et de santé dénonce plus de 60 000 postes infirmiers non pourvus à l'hôpital, la dégradation des conditions de travail, les fermetures de lits et des locaux mal adaptés aux épisodes de forte chaleur.",
-      "source": "Force Ouvrière",
-      "url": "https://58.force-ouvriere.org/preavis-de-greve-du-jeudi-2-juillet-2026-au-jeudi-15-octobre-2026-minuit"
+      "title": "Violences sexistes et sexuelles : l'État et sept Ordres de santé signent une charte d'engagement commun",
+      "summary": "Signée le 2 juillet 2026 par la ministre de la Santé et la ministre chargée de l'Égalité, la charte engage les Ordres, dont celui des infirmiers, à renforcer la prévention, le traitement des signalements et l'accompagnement des victimes de violences sexistes et sexuelles en santé.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/violences-sexistes-et-sexuelles-les-ordres-des-professions-de-sante-et-letat-renforcent-leur"
     },
     {
       "category": "technique",
-      "title": "Télésurveillance des dispositifs implantables rythmologiques : un nouvel acte reconnu aux infirmiers",
-      "summary": "Parmi les actes infirmiers élargis en 2026, le contrôle en télésurveillance des dispositifs cardiaques implantables (pacemakers, défibrillateurs) permet désormais aux IDE d'assurer un suivi à distance de certains patients porteurs, en lien avec les plateformes de télésanté.",
-      "source": "La Ruche",
-      "url": "https://laruche.cbainfo.fr/actualites/objets-connectes-en-sante/"
+      "title": "Un patch connecté pour surveiller les constantes vitales à distance",
+      "summary": "Posé sur le thorax, ce dispositif sans fil convertit fréquence cardiaque, fréquence respiratoire et température en données transmises en Wi-Fi, avec alerte automatique sur l'ordinateur ou le smartphone de l'infirmière en cas de valeur anormale.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/un-patch-connecte-qui-surveille-les-patients-a-distance.html"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : nouvelles modalités de financement, priorité aux soins palliatifs et à la santé mentale",
-      "summary": "L'Agence nationale du DPC a ouvert les inscriptions aux formations 2026 avec des compteurs remis à zéro et des forfaits revus ; les soins palliatifs, la prise en charge de la douleur, la santé mentale et les nouvelles missions élargies des infirmiers figurent parmi les thématiques prioritaires.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "DPC : les orientations prioritaires 2023-2025 prorogées jusqu'en 2027",
+      "summary": "L'Agence du DPC maintient ses 256 orientations prioritaires, dont trois ciblent directement les infirmiers libéraux : plaies et cicatrisation, surveillance des patients sous perfusion et suivi des pathologies cardiaques.",
+      "source": "Agence du DPC",
+      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
     }
   ],
   "word": {
-    "field": "Gestes & soins / Plaies",
-    "term": "Détersion",
-    "subtitle": "Le nettoyage d'une plaie pour retirer les tissus nécrotiques ou fibrineux avant cicatrisation",
-    "definition": "La détersion consiste à éliminer les tissus dévitalisés (nécrose noire, fibrine jaune, exsudat) présents au fond d'une plaie chronique afin de favoriser le bourgeonnement et l'épithélialisation ; elle peut être mécanique, autolytique (pansements humides), enzymatique ou biologique (larvothérapie).",
+    "field": "Gériatrie",
+    "term": "Delirium (état confusionnel aigu)",
+    "subtitle": "Une confusion aiguë et fluctuante, à repérer sans délai",
+    "definition": "Trouble aigu et fluctuant de l'attention et de la conscience, souvent réversible, déclenché par une cause organique sous-jacente (infection, douleur, médicament, sevrage).",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "Observer la plaie (couleur, exsudat, odeur, profondeur) et repérer la part de tissus nécrotiques, fibrineux ou de bourgeonnement pour choisir la méthode de détersion adaptée." },
-      { "n": "2", "h": "Détersion", "t": "Réaliser une détersion mécanique douce à la pince et à la compresse, ou poser un pansement favorisant l'autolyse (hydrogel, hydrocolloïde), en respectant le seuil de douleur et sans léser les tissus sains." },
-      { "n": "3", "h": "Surveiller", "t": "Réévaluer la plaie à chaque soin, tracer son évolution et adapter le protocole avec le médecin ou l'IDE référente plaies et cicatrisation en cas de stagnation." }
+      { "n": "1", "h": "Repérer", "t": "évaluer l'attention et la fluctuation avec le CAM (Confusion Assessment Method), penser au sous-type hypoactif, souvent méconnu." },
+      { "n": "2", "h": "Rechercher la cause", "t": "douleur, globe vésical, fécalome, infection, hypoxie, sevrage ou iatrogénie médicamenteuse." },
+      { "n": "3", "h": "Sécuriser · réévaluer", "t": "réorientation, présence rassurante, limiter contention et benzodiazépines, tracer l'évolution." }
     ],
-    "retenir": "La détersion prépare le lit de la plaie pour la cicatrisation, mais elle n'est jamais systématique : sur une plaie artérielle non revascularisée, elle nécessite un avis médical préalable. ",
-    "sources": "Sources : HAS · Cicat-Occitanie."
+    "retenir": "Le delirium touche jusqu'à un patient âgé hospitalisé sur trois et aggrave le pronostic ; un repérage infirmier précoce au CAM change la prise en charge. ",
+    "sources": "Sources : HAS 2024 · SFGG."
   }
 }

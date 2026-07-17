@@ -1,71 +1,71 @@
 {
-  "dateLong": "Jeu. 16 juil.",
+  "dateLong": "Ven. 17 juil.",
   "essentiel": [
-    { "text": "Les arrêtés du " },
-    { "text": "26 juin 2026", "strong": true },
-    { "text": " élargissent les actes et la prescription infirmière, l'" },
+    { "text": "L'" },
+    { "text": "Ordre national des infirmiers", "strong": true },
+    { "text": " alerte sur des tentatives d'hameçonnage visant la profession, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle un lot de set de perfusion Absosoins pour risque de rupture, sept " },
-    { "text": "Ordres de santé", "strong": true },
-    { "text": " signent une charte contre les violences sexistes et sexuelles, et la " },
+    { "text": " rappelle plusieurs fils de suture Covidien, la canicule pousse les hôpitaux vers " },
+    { "text": "30 000 climatiseurs", "strong": true },
+    { "text": " d'urgence pendant que le personnel s'épuise, et la " },
     { "text": "HAS", "strong": true },
-    { "text": " lance sa première campagne patients sur l'hygiène des mains." }
+    { "text": " publie un guide sur les patients partenaires." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Actes, soins et prescription infirmière : les arrêtés du 26 juin 2026 publiés au Journal officiel",
-      "summary": "Deux arrêtés élargissent la liste des actes et soins relevant du rôle infirmier (plaies chroniques, pose de cathéter court sous échographie, évaluation du risque d'escarre) et ouvrent la prescription autonome sur cinq domaines — prévention, plaies, santé sexuelle, tabac, douleur — conformément à l'avis de la HAS du 11 juin 2026.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "title": "Hameçonnage et usurpation d'identité : l'Ordre national des infirmiers appelle à la vigilance",
+      "summary": "Après une tentative de faux courrier évoquant de prétendues poursuites disciplinaires reçue par une infirmière libérale du Nord, l'Ordre rappelle qu'il ne réclame jamais coordonnées bancaires, codes de connexion ou paiement par mail, téléphone ou SMS.",
+      "source": "Ordre infirmier",
+      "url": "https://www.ordre-infirmiers.fr/soyons-vigilants-les-bons-reflexes-a-adopter-face-aux-tentatives-d-hameconnage-d-escroquerie"
     },
     {
       "category": "alertes",
-      "title": "Rappel ANSM du set de perfusion Absosoins pour risque de rupture au site d'injection en Y",
-      "summary": "Le laboratoire Marque Verte rappelle le lot 2506Z200 du set de perfusion Setperf-VV après la découverte d'un défaut au site d'injection en Y pouvant se fissurer, entraîner une rupture ou une entrée d'air dans la ligne de perfusion.",
+      "title": "ANSM : rappel de plusieurs fils de suture chirurgicale Covidien (Surgipro, Dermalon, V-Loc)",
+      "summary": "Le fabricant Covidien (Medtronic) rappelle les références Surgipro, Surgipro II, Dermalon et V-Loc 90/180, information de sécurité publiée le 15 juillet 2026 par l'ANSM.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/set-de-perfusion-absosoins-laboratoire-marque-verte"
+      "url": "https://ansm.sante.fr/informations-de-securite/fil-de-suture-chirurgicale-sutures-non-resorbables-medtronic-covidien"
     },
     {
       "category": "science",
-      "title": "La HAS lance sa première campagne de mesure de l'hygiène des mains vue par les patients",
-      "summary": "Menée du 10 mars au 11 juin 2026, cette campagne d'indicateurs de qualité (IQSS) recueille pour la première fois l'expérience rapportée par les patients sur l'hygiène des mains des soignants ; les résultats sont attendus au second semestre 2026.",
+      "title": "Partenariat en santé : la HAS publie un guide pour structurer le rôle des patients partenaires",
+      "summary": "Ce référentiel d'une cinquantaine de pages propose des outils pratiques (grilles, méthodologie) pour harmoniser les partenariats patients-professionnels, en écho à l'autonomie clinique élargie des infirmiers.",
       "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_3858254/fr/iqss-2026-mesure-de-l-experience-rapportee-par-les-patients-sur-l-hygiene-des-mains"
+      "url": "https://www.has-sante.fr/jcms/p_4085651/fr/partenariat-en-sante-et-patients-partenaires"
     },
     {
       "category": "profession",
-      "title": "Violences sexistes et sexuelles : l'État et sept Ordres de santé signent une charte d'engagement commun",
-      "summary": "Signée le 2 juillet 2026 par la ministre de la Santé et la ministre chargée de l'Égalité, la charte engage les Ordres, dont celui des infirmiers, à renforcer la prévention, le traitement des signalements et l'accompagnement des victimes de violences sexistes et sexuelles en santé.",
+      "title": "Canicule : épuisement des équipes et manque d'équipement, l'hôpital redoute une nouvelle vague de chaleur",
+      "summary": "Après un épisode d'une intensité comparable à 2003, soignants et syndicats dénoncent l'impréparation des services face aux fortes chaleurs et la charge accrue sur des équipes déjà exsangues.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/violences-sexistes-et-sexuelles-les-ordres-des-professions-de-sante-et-letat-renforcent-leur"
+      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/epuisement-manque-dequipement-lhopital-redoute-la-nouvelle-vague-de-chaleur"
     },
     {
       "category": "technique",
-      "title": "Un patch connecté pour surveiller les constantes vitales à distance",
-      "summary": "Posé sur le thorax, ce dispositif sans fil convertit fréquence cardiaque, fréquence respiratoire et température en données transmises en Wi-Fi, avec alerte automatique sur l'ordinateur ou le smartphone de l'infirmière en cas de valeur anormale.",
-      "source": "ActuSoins",
-      "url": "https://www.actusoins.com/un-patch-connecte-qui-surveille-les-patients-a-distance.html"
+      "title": "Canicule : où en est la livraison des 30 000 climatiseurs promis aux hôpitaux ?",
+      "summary": "7 500 climatiseurs mobiles avaient été livrés aux établissements sanitaires et médico-sociaux au 10 juillet, avec un objectif de 15 000 le 15 juillet puis 30 000 début août, sur fond de pénurie chez les fournisseurs.",
+      "source": "France Info",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/ou-en-est-la-livraison-des-30-000-climatiseurs-promis-aux-hopitaux-par-le-gouvernement-en-pleine-canicule_8096270.html"
     },
     {
       "category": "formation",
-      "title": "DPC : les orientations prioritaires 2023-2025 prorogées jusqu'en 2027",
-      "summary": "L'Agence du DPC maintient ses 256 orientations prioritaires, dont trois ciblent directement les infirmiers libéraux : plaies et cicatrisation, surveillance des patients sous perfusion et suivi des pathologies cardiaques.",
-      "source": "Agence du DPC",
-      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
+      "title": "DU Recherche paramédicale (DURP) 2026-2027 : les inscriptions sont ouvertes",
+      "summary": "Porté par le GIRCI Île-de-France, ce diplôme universitaire initie les paramédicaux, dont les infirmiers, à la méthodologie de la recherche clinique ; la première session débute les 14 et 15 septembre 2026.",
+      "source": "GIRCI Île-de-France",
+      "url": "https://girci-idf.fr/formations/du-recherche-paramedicale-2026-2027-formation-clinique-paramedicaux/"
     }
   ],
   "word": {
-    "field": "Gériatrie",
-    "term": "Delirium (état confusionnel aigu)",
-    "subtitle": "Une confusion aiguë et fluctuante, à repérer sans délai",
-    "definition": "Trouble aigu et fluctuant de l'attention et de la conscience, souvent réversible, déclenché par une cause organique sous-jacente (infection, douleur, médicament, sevrage).",
+    "field": "Urgences",
+    "term": "Coup de chaleur",
+    "subtitle": "Une hyperthermie brutale qui engage le pronostic vital en quelques minutes",
+    "definition": "Élévation de la température corporelle au-delà de 40°C avec atteinte neurologique (confusion, coma), consécutive à une défaillance des mécanismes de thermorégulation, le plus souvent lors d'une canicule ou d'un effort intense.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "évaluer l'attention et la fluctuation avec le CAM (Confusion Assessment Method), penser au sous-type hypoactif, souvent méconnu." },
-      { "n": "2", "h": "Rechercher la cause", "t": "douleur, globe vésical, fécalome, infection, hypoxie, sevrage ou iatrogénie médicamenteuse." },
-      { "n": "3", "h": "Sécuriser · réévaluer", "t": "réorientation, présence rassurante, limiter contention et benzodiazépines, tracer l'évolution." }
+      { "n": "1", "h": "Reconnaître", "t": "température ≥ 40°C, peau chaude et moite ou sèche, troubles de la conscience, parfois convulsions — ne pas attendre l'absence de sueur pour évoquer le diagnostic." },
+      { "n": "2", "h": "Refroidir sans délai", "t": "déshabiller, aspersion d'eau tiède associée à une ventilation, glaçage des zones vascularisées (cou, aisselles, aines), objectif < 39°C en 30 minutes." },
+      { "n": "3", "h": "Surveiller · alerter", "t": "scope, glycémie, diurèse horaire, ionogramme à la recherche d'une rhabdomyolyse, transfert en réanimation si coma ou défaillance d'organe." }
     ],
-    "retenir": "Le delirium touche jusqu'à un patient âgé hospitalisé sur trois et aggrave le pronostic ; un repérage infirmier précoce au CAM change la prise en charge. ",
-    "sources": "Sources : HAS 2024 · SFGG."
+    "retenir": "Le coup de chaleur reste mortel dans 15 à 30 % des cas malgré la prise en charge ; chaque minute sans refroidissement actif aggrave le pronostic neurologique. ",
+    "sources": "Sources : SFMU 2024 · Santé publique France."
   }
 }

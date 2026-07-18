@@ -1,71 +1,75 @@
 {
-  "dateLong": "Ven. 17 juil.",
+  "dateLong": "Sam. 18 juil.",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " alerte sur des tentatives d'hameçonnage visant la profession, l'" },
+    { "text": "Deux " },
+    { "text": "arrêtés du 26 juin", "strong": true },
+    { "text": " consacrent le " },
+    { "text": "diagnostic infirmier", "strong": true },
+    { "text": " et élargissent la prescription, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle plusieurs fils de suture Covidien, la canicule pousse les hôpitaux vers " },
-    { "text": "30 000 climatiseurs", "strong": true },
-    { "text": " d'urgence pendant que le personnel s'épuise, et la " },
-    { "text": "HAS", "strong": true },
-    { "text": " publie un guide sur les patients partenaires." }
+    { "text": " restreint le vaccin " },
+    { "text": "Ixchiq", "strong": true },
+    { "text": " après des cas de méningite, les " },
+    { "text": "IBODE de Necker", "strong": true },
+    { "text": " poursuivent leur grève, et le nouveau référentiel " },
+    { "text": "IFSI", "strong": true },
+    { "text": " entre en vigueur à la rentrée de septembre." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Hameçonnage et usurpation d'identité : l'Ordre national des infirmiers appelle à la vigilance",
-      "summary": "Après une tentative de faux courrier évoquant de prétendues poursuites disciplinaires reçue par une infirmière libérale du Nord, l'Ordre rappelle qu'il ne réclame jamais coordonnées bancaires, codes de connexion ou paiement par mail, téléphone ou SMS.",
+      "title": "Actes, soins et prescription infirmière : les deux arrêtés d'application de la loi infirmière sont publiés",
+      "summary": "Signés le 26 juin 2026, ces textes achèvent la trajectoire réglementaire ouverte par la loi du 27 juin 2025 : rôle propre, consultation infirmière et diagnostic infirmier sont désormais inscrits dans le code de la santé publique, avec une prescription élargie à de nouveaux produits de santé et examens.",
       "source": "Ordre infirmier",
-      "url": "https://www.ordre-infirmiers.fr/soyons-vigilants-les-bons-reflexes-a-adopter-face-aux-tentatives-d-hameconnage-d-escroquerie"
+      "url": "https://www.ordre-infirmiers.fr/publication-de-l-arrete-relatif-a-la-liste-des-actes-et-soins-infirmiers-et-de-l-arrete-relatif-a"
     },
     {
       "category": "alertes",
-      "title": "ANSM : rappel de plusieurs fils de suture chirurgicale Covidien (Surgipro, Dermalon, V-Loc)",
-      "summary": "Le fabricant Covidien (Medtronic) rappelle les références Surgipro, Surgipro II, Dermalon et V-Loc 90/180, information de sécurité publiée le 15 juillet 2026 par l'ANSM.",
+      "title": "Chikungunya : l'ANSM restreint l'usage du vaccin Ixchiq après des cas de méningite aseptique",
+      "summary": "À la suite d'un signal de pharmacovigilance européen (PRAC) et de cas graves dont des décès, le vaccin est désormais réservé aux personnes à haut risque d'exposition, à partir de 12 ans et après évaluation individuelle du rapport bénéfice-risque.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/fil-de-suture-chirurgicale-sutures-non-resorbables-medtronic-covidien"
+      "url": "https://ansm.sante.fr/actualites/chikungunya-lansm-poursuit-la-surveillance-des-effets-indesirables-du-vaccin-ixchiq"
     },
     {
       "category": "science",
-      "title": "Partenariat en santé : la HAS publie un guide pour structurer le rôle des patients partenaires",
-      "summary": "Ce référentiel d'une cinquantaine de pages propose des outils pratiques (grilles, méthodologie) pour harmoniser les partenariats patients-professionnels, en écho à l'autonomie clinique élargie des infirmiers.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4085651/fr/partenariat-en-sante-et-patients-partenaires"
+      "title": "Triage aux urgences : une étude nationale compare tri infirmier, recommandations expertes et intelligence artificielle",
+      "summary": "Le projet TIAEU-2, porté via le Health Data Hub, évalue sur plusieurs milliers de passages la fiabilité de modèles d'IA en appui du tri infirmier, alors que le règlement européen imposera un contrôle humain obligatoire sur ces systèmes dès août 2026.",
+      "source": "Health Data Hub",
+      "url": "https://health-data-hub.fr/projets/tiaeu-2-triage-intelligent-lentree-des-urgences-2"
     },
     {
       "category": "profession",
-      "title": "Canicule : épuisement des équipes et manque d'équipement, l'hôpital redoute une nouvelle vague de chaleur",
-      "summary": "Après un épisode d'une intensité comparable à 2003, soignants et syndicats dénoncent l'impréparation des services face aux fortes chaleurs et la charge accrue sur des équipes déjà exsangues.",
+      "title": "Bloc opératoire pédiatrique : la grève des IBODE de l'hôpital Necker se poursuit",
+      "summary": "En grève depuis le 11 juin, les infirmiers de bloc opératoire dénoncent 18 postes vacants sur 51 nécessaires, un recours croissant à l'intérim et réclament le recrutement de personnels qualifiés et l'adaptation du programme opératoire aux effectifs réels.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/epuisement-manque-dequipement-lhopital-redoute-la-nouvelle-vague-de-chaleur"
+      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/les-ibode-appeles-la-greve-pour-defendre-leur-specialite"
     },
     {
       "category": "technique",
-      "title": "Canicule : où en est la livraison des 30 000 climatiseurs promis aux hôpitaux ?",
-      "summary": "7 500 climatiseurs mobiles avaient été livrés aux établissements sanitaires et médico-sociaux au 10 juillet, avec un objectif de 15 000 le 15 juillet puis 30 000 début août, sur fond de pénurie chez les fournisseurs.",
-      "source": "France Info",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/ou-en-est-la-livraison-des-30-000-climatiseurs-promis-aux-hopitaux-par-le-gouvernement-en-pleine-canicule_8096270.html"
+      "title": "Télésoin infirmier : la cotation TSI à 11,50 € désormais stabilisée",
+      "summary": "Après plusieurs arrêtés d'ajustement en 2026, le télésoin infirmier se facture via SESAM-Vitale avec un code acte dédié, pris en charge à 100 % pour les patients en ALD et 60 % pour les autres, sur une plateforme conforme au référentiel PGSSI-S.",
+      "source": "Maison des Infirmiers",
+      "url": "https://maisondesinfirmiers.fr/blog/telesoin-infirmier-2026-reglementation-facturation"
     },
     {
       "category": "formation",
-      "title": "DU Recherche paramédicale (DURP) 2026-2027 : les inscriptions sont ouvertes",
-      "summary": "Porté par le GIRCI Île-de-France, ce diplôme universitaire initie les paramédicaux, dont les infirmiers, à la méthodologie de la recherche clinique ; la première session débute les 14 et 15 septembre 2026.",
-      "source": "GIRCI Île-de-France",
-      "url": "https://girci-idf.fr/formations/du-recherche-paramedicale-2026-2027-formation-clinique-paramedicaux/"
+      "title": "IFSI : le nouveau référentiel de formation entre en vigueur à la rentrée de septembre 2026",
+      "summary": "Il remplace le texte de 2009 avec cinq domaines et treize compétences dont la prescription infirmière, 4 620 heures de formation, des stages obligatoires en psychiatrie et santé de l'enfant, et un diplôme désormais délivré par l'université.",
+      "source": "L'Étudiant",
+      "url": "https://www.letudiant.fr/etudes/medecine-sante/ifsi-a-quoi-devrait-ressembler-la-formation-infirmier-a-la-rentree-2026.html"
     }
   ],
   "word": {
-    "field": "Urgences",
-    "term": "Coup de chaleur",
-    "subtitle": "Une hyperthermie brutale qui engage le pronostic vital en quelques minutes",
-    "definition": "Élévation de la température corporelle au-delà de 40°C avec atteinte neurologique (confusion, coma), consécutive à une défaillance des mécanismes de thermorégulation, le plus souvent lors d'une canicule ou d'un effort intense.",
+    "field": "Réglementaire",
+    "term": "Diagnostic infirmier",
+    "subtitle": "Le raisonnement clinique propre à l'infirmier, désormais consacré par les textes",
+    "definition": "Jugement clinique porté par l'infirmier sur les réactions d'une personne à un problème de santé actuel ou potentiel, qui fonde les actions de soins relevant de son rôle propre — distinct du diagnostic médical porté par le médecin.",
     "steps": [
-      { "n": "1", "h": "Reconnaître", "t": "température ≥ 40°C, peau chaude et moite ou sèche, troubles de la conscience, parfois convulsions — ne pas attendre l'absence de sueur pour évoquer le diagnostic." },
-      { "n": "2", "h": "Refroidir sans délai", "t": "déshabiller, aspersion d'eau tiède associée à une ventilation, glaçage des zones vascularisées (cou, aisselles, aines), objectif < 39°C en 30 minutes." },
-      { "n": "3", "h": "Surveiller · alerter", "t": "scope, glycémie, diurèse horaire, ionogramme à la recherche d'une rhabdomyolyse, transfert en réanimation si coma ou défaillance d'organe." }
+      { "n": "1", "h": "Recueillir", "t": "données cliniques, biologiques, contexte de vie et ressenti du patient lors de l'entretien et de l'examen infirmier." },
+      { "n": "2", "h": "Analyser", "t": "identifier les réactions humaines (douleur, anxiété, risque de chute, déficit de soins personnels…) et hiérarchiser les priorités." },
+      { "n": "3", "h": "Formuler · transmettre", "t": "poser un diagnostic infirmier structuré, le tracer dans le dossier de soins et l'utiliser pour bâtir le plan de soins personnalisé." }
     ],
-    "retenir": "Le coup de chaleur reste mortel dans 15 à 30 % des cas malgré la prise en charge ; chaque minute sans refroidissement actif aggrave le pronostic neurologique. ",
-    "sources": "Sources : SFMU 2024 · Santé publique France."
+    "retenir": "L'arrêté du 26 juin 2026 ancre la consultation et le diagnostic infirmiers dans le code de la santé publique : un langage clinique propre à la profession, support de son autonomie élargie. ",
+    "sources": "Sources : Arrêté du 26 juin 2026 · Ordre national des infirmiers."
   }
 }

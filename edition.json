@@ -1,75 +1,77 @@
 {
-  "dateLong": "Sam. 18 juil.",
+  "dateLong": "Dim. 19 juil.",
   "essentiel": [
-    { "text": "Deux " },
-    { "text": "arrêtés du 26 juin", "strong": true },
-    { "text": " consacrent le " },
-    { "text": "diagnostic infirmier", "strong": true },
-    { "text": " et élargissent la prescription, l'" },
+    { "text": "Un décret élargit le " },
+    { "text": "portail de signalement des événements sanitaires indésirables", "strong": true },
+    { "text": ", l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " restreint le vaccin " },
-    { "text": "Ixchiq", "strong": true },
-    { "text": " après des cas de méningite, les " },
-    { "text": "IBODE de Necker", "strong": true },
-    { "text": " poursuivent leur grève, et le nouveau référentiel " },
-    { "text": "IFSI", "strong": true },
-    { "text": " entre en vigueur à la rentrée de septembre." }
+    { "text": " alerte sur le risque de méningiome lié au " },
+    { "text": "désogestrel", "strong": true },
+    { "text": ", l'" },
+    { "text": "OPCO Santé", "strong": true },
+    { "text": " chiffre à " },
+    { "text": "33 860", "strong": true },
+    { "text": " les postes infirmiers en tension, et " },
+    { "text": "B. Braun", "strong": true },
+    { "text": " alerte sur ses pousse-seringues " },
+    { "text": "Space Plus Perfusor", "strong": true },
+    { "text": "." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Actes, soins et prescription infirmière : les deux arrêtés d'application de la loi infirmière sont publiés",
-      "summary": "Signés le 26 juin 2026, ces textes achèvent la trajectoire réglementaire ouverte par la loi du 27 juin 2025 : rôle propre, consultation infirmière et diagnostic infirmier sont désormais inscrits dans le code de la santé publique, avec une prescription élargie à de nouveaux produits de santé et examens.",
-      "source": "Ordre infirmier",
-      "url": "https://www.ordre-infirmiers.fr/publication-de-l-arrete-relatif-a-la-liste-des-actes-et-soins-infirmiers-et-de-l-arrete-relatif-a"
+      "title": "Portail de signalement des événements sanitaires indésirables : le décret du 26 juin 2026 y intègre les maladies à déclaration obligatoire",
+      "summary": "Le décret n° 2026-567 modifie le code de la santé publique pour permettre aux professionnels de signaler, via un portail unique, les cas de maladies à signalement obligatoire aux côtés des événements indésirables classiques.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054341413"
     },
     {
       "category": "alertes",
-      "title": "Chikungunya : l'ANSM restreint l'usage du vaccin Ixchiq après des cas de méningite aseptique",
-      "summary": "À la suite d'un signal de pharmacovigilance européen (PRAC) et de cas graves dont des décès, le vaccin est désormais réservé aux personnes à haut risque d'exposition, à partir de 12 ans et après évaluation individuelle du rapport bénéfice-risque.",
+      "title": "Contraceptifs au désogestrel et à l'étonogestrel : l'ANSM confirme un risque accru de méningiome",
+      "summary": "Le PRAC européen, réuni du 6 au 9 juillet 2026, estime à un cas supplémentaire pour 67 300 utilisatrices le risque de méningiome au-delà d'un an d'usage continu, et contre-indique désormais ces contraceptifs en cas d'antécédent.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/chikungunya-lansm-poursuit-la-surveillance-des-effets-indesirables-du-vaccin-ixchiq"
+      "url": "https://ansm.sante.fr/actualites/retour-dinformation-sur-le-prac"
     },
     {
       "category": "science",
-      "title": "Triage aux urgences : une étude nationale compare tri infirmier, recommandations expertes et intelligence artificielle",
-      "summary": "Le projet TIAEU-2, porté via le Health Data Hub, évalue sur plusieurs milliers de passages la fiabilité de modèles d'IA en appui du tri infirmier, alors que le règlement européen imposera un contrôle humain obligatoire sur ces systèmes dès août 2026.",
-      "source": "Health Data Hub",
-      "url": "https://health-data-hub.fr/projets/tiaeu-2-triage-intelligent-lentree-des-urgences-2"
+      "title": "Escarres : la Haute Autorité de santé prépare une réévaluation de ses recommandations, dix ans après les premières",
+      "summary": "Après la conférence de consensus de l'association PERSE confirmant la pertinence de l'échelle de Braden et la supériorité des matelas en mousse structurée, la HAS doit rendre ses conclusions à l'issue du premier semestre 2026.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/prevenir-et-soigner-les-escarres-nouvelles-recommandations.html"
     },
     {
       "category": "profession",
-      "title": "Bloc opératoire pédiatrique : la grève des IBODE de l'hôpital Necker se poursuit",
-      "summary": "En grève depuis le 11 juin, les infirmiers de bloc opératoire dénoncent 18 postes vacants sur 51 nécessaires, un recours croissant à l'intérim et réclament le recrutement de personnels qualifiés et l'adaptation du programme opératoire aux effectifs réels.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/les-ibode-appeles-la-greve-pour-defendre-leur-specialite"
+      "title": "Recrutement infirmier : l'OPCO Santé chiffre 33 860 postes en tension sur le Baromètre emploi-formation 2025",
+      "summary": "Deuxième profession la plus recherchée du secteur sanitaire et médico-social derrière les aides-soignants, les infirmiers et sages-femmes restent confrontés à une pénurie de candidats qualifiés, avec 54 % des projets de recrutement jugés difficiles en 2026.",
+      "source": "OPCO Santé",
+      "url": "https://www.opco-sante.fr/nos-outils/tensions-de-recrutement-des-difficultes-durables-qui-transforment-le-secteur/"
     },
     {
       "category": "technique",
-      "title": "Télésoin infirmier : la cotation TSI à 11,50 € désormais stabilisée",
-      "summary": "Après plusieurs arrêtés d'ajustement en 2026, le télésoin infirmier se facture via SESAM-Vitale avec un code acte dédié, pris en charge à 100 % pour les patients en ALD et 60 % pour les autres, sur une plateforme conforme au référentiel PGSSI-S.",
-      "source": "Maison des Infirmiers",
-      "url": "https://maisondesinfirmiers.fr/blog/telesoin-infirmier-2026-reglementation-facturation"
+      "title": "Pousse-seringues Space Plus Perfusor : B. Braun alerte sur le mode Take Over et le risque d'à-coups hémodynamiques",
+      "summary": "Le fabricant rappelle qu'un relais automatique entre deux seringues (mode TOM) peut provoquer un effet de démarrage retardant la perfusion, avec un risque accru sous vasopresseurs et inotropes à demi-vie courte.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/uploads/2026/02/19/20260219-mes-pousse-seringue-space-plus-perfusion-bbraun-r2601733-fsn.pdf"
     },
     {
       "category": "formation",
-      "title": "IFSI : le nouveau référentiel de formation entre en vigueur à la rentrée de septembre 2026",
-      "summary": "Il remplace le texte de 2009 avec cinq domaines et treize compétences dont la prescription infirmière, 4 620 heures de formation, des stages obligatoires en psychiatrie et santé de l'enfant, et un diplôme désormais délivré par l'université.",
-      "source": "L'Étudiant",
-      "url": "https://www.letudiant.fr/etudes/medecine-sante/ifsi-a-quoi-devrait-ressembler-la-formation-infirmier-a-la-rentree-2026.html"
+      "title": "IFSI : le nouveau régime des dispenses d'enseignement veut reconnaître les acquis pour diversifier les parcours",
+      "summary": "Pris en application de l'arrêté du 20 février 2026, les articles 18 à 21 permettent au président d'université d'exempter un étudiant d'unités d'enseignement après avis de la commission d'admission, sur présentation de diplômes ou d'attestations d'expérience.",
+      "source": "SNPI CFE-CGC",
+      "url": "https://syndicat-infirmier.com/Dispenses-d-enseignements-en-IFSI-en-2026-reconnaitre-les-acquis-pour.html"
     }
   ],
   "word": {
-    "field": "Réglementaire",
-    "term": "Diagnostic infirmier",
-    "subtitle": "Le raisonnement clinique propre à l'infirmier, désormais consacré par les textes",
-    "definition": "Jugement clinique porté par l'infirmier sur les réactions d'une personne à un problème de santé actuel ou potentiel, qui fonde les actions de soins relevant de son rôle propre — distinct du diagnostic médical porté par le médecin.",
+    "field": "Pharmaco · vigilance",
+    "term": "Extravasation",
+    "subtitle": "Le passage accidentel d'un produit perfusé hors de la veine, vers les tissus environnants",
+    "definition": "Diffusion involontaire d'un soluté ou d'un médicament vasotoxique (notamment un vasopresseur) hors du capital veineux vers le tissu sous-cutané, pouvant provoquer une nécrose locale si elle n'est pas repérée à temps.",
     "steps": [
-      { "n": "1", "h": "Recueillir", "t": "données cliniques, biologiques, contexte de vie et ressenti du patient lors de l'entretien et de l'examen infirmier." },
-      { "n": "2", "h": "Analyser", "t": "identifier les réactions humaines (douleur, anxiété, risque de chute, déficit de soins personnels…) et hiérarchiser les priorités." },
-      { "n": "3", "h": "Formuler · transmettre", "t": "poser un diagnostic infirmier structuré, le tracer dans le dossier de soins et l'utiliser pour bâtir le plan de soins personnalisé." }
+      { "n": "1", "h": "Surveiller", "t": "point de ponction, douleur, œdème, blanchiment cutané à chaque changement de seringue ou de débit, en particulier sous vasopresseur." },
+      { "n": "2", "h": "Stopper · aspirer", "t": "arrêter immédiatement la perfusion, aspirer si possible le produit résiduel avant de retirer le cathéter." },
+      { "n": "3", "h": "Tracer · alerter", "t": "prévenir le médecin, appliquer le protocole de l'établissement (antidote, froid ou chaud selon la molécule), tracer dans le dossier de soins." }
     ],
-    "retenir": "L'arrêté du 26 juin 2026 ancre la consultation et le diagnostic infirmiers dans le code de la santé publique : un langage clinique propre à la profession, support de son autonomie élargie. ",
-    "sources": "Sources : Arrêté du 26 juin 2026 · Ordre national des infirmiers."
+    "retenir": "Un simple changement de seringue sous pousse-seringue peut suffire à provoquer un à-coup hémodynamique ou une extravasation sous vasopresseur : la vigilance infirmière au point d'injection reste la meilleure protection. ",
+    "sources": "Sources : ANSM (alerte pousse-seringues Space Plus Perfusor, 2026) · Bonnes pratiques de perfusion (Omedit)."
   }
 }

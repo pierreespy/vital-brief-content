@@ -1,77 +1,79 @@
 {
-  "dateLong": "Lun. 20 juil.",
+  "dateLong": "Mar. 21 juil.",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "arrêté du 26 juin 2026", "strong": true },
-    { "text": " élargit les actes et la prescription infirmière, l'" },
+    { "text": "Un décret précise les missions de l'" },
+    { "text": "infirmier référent", "strong": true },
+    { "text": ", l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle des fils de suture " },
-    { "text": "Covidien", "strong": true },
-    { "text": ", la " },
-    { "text": "HAS", "strong": true },
-    { "text": " publie un guide sur les patients partenaires, l'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " alerte sur un possible manque de " },
-    { "text": "80 000", "strong": true },
-    { "text": " infirmiers d'ici 2050, et le " },
-    { "text": "DPC 2026", "strong": true },
-    { "text": " remet les compteurs de formation à zéro." }
+    { "text": " recommande le retrait du " },
+    { "text": "Tavneos", "strong": true },
+    { "text": " pour risque hépatique grave, le " },
+    { "text": "SNPI", "strong": true },
+    { "text": " révèle que " },
+    { "text": "30 %", "strong": true },
+    { "text": " des jeunes diplômés quittent la profession en 5 ans, la grève des " },
+    { "text": "IBODE de Necker", "strong": true },
+    { "text": " expose la crise d'attractivité hospitalière, la " },
+    { "text": "télésurveillance médicale", "strong": true },
+    { "text": " voit sa liste d'actes remboursés élargie, et le nouveau " },
+    { "text": "référentiel de formation infirmière", "strong": true },
+    { "text": " (4 620 heures) entre en vigueur dès septembre." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Liste des actes et soins infirmiers : l'arrêté du 26 juin 2026 élargit le périmètre d'exercice",
-      "summary": "Le texte reconnaît formellement l'infirmier comme professionnel de santé clinicien autonome, avec consultation infirmière en autonomie, ECG sans prescription et prise en charge élargie des plaies.",
+      "title": "Infirmier référent : le décret fixant ses missions est publié",
+      "summary": "Le texte du 22 mai 2026 confie à l'infirmier référent la coordination des soins des patients en ALD dès 16 ans, avec accès au dossier médical partagé et compte rendu systématique au médecin traitant.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
     },
     {
       "category": "alertes",
-      "title": "Fils de suture Surgipro, Dermalon et V-Loc : l'ANSM signale un rappel de lots chez Covidien",
-      "summary": "L'agence a diffusé le 15 juillet une information de sécurité sur ces sutures non résorbables et barbelées, utilisées en bloc opératoire et en gestion des plaies complexes.",
+      "title": "Tavneos (avacopan) : l'ANSM recommande le retrait de l'autorisation de mise sur le marché",
+      "summary": "Après des cas d'atteintes hépatiques graves, parfois mortelles, sous ce traitement des vascularites à ANCA, le CHMP européen juge désormais le rapport bénéfice/risque défavorable.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "url": "https://ansm.sante.fr/informations-de-securite/tavneos-10-mg-gelule-avacopan-recommandation-de-retrait-de-lautorisation-de-mise-sur-le-marche-dans-lunion-europeenne-en-raison-dun-rapport-benefice-risque-defavorable"
     },
     {
       "category": "science",
-      "title": "Partenariat en santé : la HAS publie un guide pour structurer le rôle des patients partenaires",
-      "summary": "Quatre fiches pratiques (parcours de soin, adaptation de l'offre, formation, recherche) et une check-list de conformité outillent désormais les équipes, y compris infirmières, pour co-construire les projets de santé avec les patients.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4121671/fr/partenariat-en-sante-structurer-et-developper-le-role-des-patients-partenaires"
+      "title": "Infirmiers : 30 % des nouveaux diplômés quittent la profession dans les 5 ans",
+      "summary": "Le SNPI rapproche ce chiffre d'une étude de l'INED des années 1960 pour souligner que la dégradation des conditions de travail ramène la profession à une durée de carrière comparable à celle d'il y a soixante ans.",
+      "source": "SNPI",
+      "url": "https://syndicat-infirmier.com/Infirmiers-30-des-nouveaux-diplomes-abandonnent-dans-les-5-ans.html"
     },
     {
       "category": "profession",
-      "title": "Démographie infirmière : l'Ordre national alerte sur un possible manque de 80 000 infirmiers en 2050",
-      "summary": "Avec 565 500 infirmiers inscrits, la profession reste jeune (45,7 ans en moyenne en libéral) mais des zones comme les Pays-de-la-Loire ou l'Île-de-France sont déjà sous-dotées, malgré un quota de formation porté à 38 000 places par an.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-publie-une-nouvelle-etude-sur-la-demographie-de-la-profession-et"
+      "title": "Grève des IBODE à Necker : révélateur de la crise d'attractivité infirmière à l'hôpital",
+      "summary": "Le bloc opératoire pédiatrique, qui nécessite 51 IBODE, ne compte début juillet que 33 professionnelles en poste, symptôme d'une AP-HP où le solde recrutements-départs s'est effondré en 2026.",
+      "source": "SNPI",
+      "url": "https://syndicat-infirmier.com/Greve-IBODE-a-Necker-un-revelateur-de-la-crise-d-attractivite-infirmiere-a-l.html"
     },
     {
       "category": "technique",
-      "title": "Prescription infirmière : la liste des dispositifs médicaux prescriptibles par l'IDE est publiée",
-      "summary": "L'infirmier peut désormais prescrire et renouveler seul supports anti-escarres, béquilles, cannes, soulève-malades et matériel pour l'incontinence, sans passage médical préalable.",
+      "title": "Télésurveillance médicale : de nouvelles activités inscrites sur la liste des actes remboursés",
+      "summary": "L'arrêté du 20 mai 2026 élargit la liste des dispositifs de télésurveillance pris en charge par l'Assurance maladie ; l'infirmier peut y participer dans son rôle propre, un protocole de coopération ou la pratique avancée.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000054122378"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : les compteurs de formation continue repartent à zéro pour tous les infirmiers",
-      "summary": "L'indemnisation présentielle passe à 38 € de l'heure prise en charge à 100 %, tandis que l'e-learning en formation continue ne sera plus indemnisé cette année.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "Diplôme d'État infirmier : le nouveau référentiel de 4 620 heures entre en vigueur dès septembre 2026",
+      "summary": "Structuré en 5 domaines et 13 compétences, le programme intègre pour la première fois la prescription infirmière, la santé environnementale et les transmissions ciblées numériques.",
+      "source": "Caducee.net",
+      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
     }
   ],
   "word": {
-    "field": "Gestes & soins · cardiologie",
-    "term": "Électrocardiogramme (ECG)",
-    "subtitle": "Le tracé de l'activité électrique du cœur, un geste que l'infirmier peut désormais réaliser sans prescription",
-    "definition": "Enregistrement graphique de l'activité électrique cardiaque par électrodes cutanées, permettant de dépister troubles du rythme, signes d'ischémie ou anomalies de conduction.",
+    "field": "Pharmaco & vigilance · pharmacovigilance",
+    "term": "Iatrogénie médicamenteuse",
+    "subtitle": "Quand le traitement devient lui-même la cause du mal — l'atteinte hépatique du Tavneos en est un exemple récent",
+    "definition": "Ensemble des conséquences indésirables ou dommageables résultant d'un acte ou d'une thérapeutique médicale, en particulier la survenue d'effets indésirables graves liés à un médicament.",
     "steps": [
-      { "n": "1", "h": "Préparer", "t": "peau propre et sèche, pose des 10 électrodes (6 précordiales, 4 périphériques), patient allongé et détendu." },
-      { "n": "2", "h": "Réaliser · vérifier", "t": "tracé sur les 12 dérivations, contrôle de l'absence d'artefacts (tremblements, mauvais contact), fréquence et rythme." },
-      { "n": "3", "h": "Transmettre · tracer", "t": "repérage des anomalies évidentes, alerte médicale si besoin, tracé daté et archivé au dossier de soins." }
+      { "n": "1", "h": "Repérer", "t": "tout signe inhabituel après introduction ou modification d'un traitement (ictère, prurit, troubles digestifs, chute inexpliquée, confusion) et le rattacher chronologiquement à la prise médicamenteuse." },
+      { "n": "2", "h": "Tracer · alerter", "t": "noter l'événement dans le dossier de soins, prévenir sans délai le médecin prescripteur si le signe est sévère ou inattendu." },
+      { "n": "3", "h": "Déclarer", "t": "signaler l'effet indésirable grave ou inattendu au centre régional de pharmacovigilance ou via le portail national de signalement, un geste qui alimente la surveillance post-AMM." }
     ],
-    "retenir": "L'arrêté du 26 juin 2026 fait entrer l'ECG dans le rôle propre infirmier, sans prescription médicale préalable : la rigueur du geste technique reste la même, mais la responsabilité de son déclenchement change de mains. ",
-    "sources": "Sources : Arrêté du 26 juin 2026 (actes et soins infirmiers) · HAS."
+    "retenir": "Le retrait programmé du Tavneos, décidé après des atteintes hépatiques graves détectées en vie réelle, rappelle que la vigilance infirmière au lit du patient est un maillon essentiel de la pharmacovigilance : chaque effet indésirable signalé peut infléchir la balance bénéfice/risque d'un médicament. ",
+    "sources": "Sources : ANSM · Signalement-sante.gouv.fr."
   }
 }

@@ -1,79 +1,85 @@
 {
-  "dateLong": "Mar. 21 juil.",
+  "dateLong": "Mer. 22 juil.",
   "essentiel": [
-    { "text": "Un décret précise les missions de l'" },
-    { "text": "infirmier référent", "strong": true },
-    { "text": ", l'" },
+    { "text": "L'" },
+    { "text": "avenant 11", "strong": true },
+    { "text": " revalorise de " },
+    { "text": "9,5 %", "strong": true },
+    { "text": " les tarifs des infirmiers libéraux et leur ouvre l'accès direct au traitement des plaies, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " recommande le retrait du " },
-    { "text": "Tavneos", "strong": true },
-    { "text": " pour risque hépatique grave, le " },
-    { "text": "SNPI", "strong": true },
-    { "text": " révèle que " },
-    { "text": "30 %", "strong": true },
-    { "text": " des jeunes diplômés quittent la profession en 5 ans, la grève des " },
-    { "text": "IBODE de Necker", "strong": true },
-    { "text": " expose la crise d'attractivité hospitalière, la " },
-    { "text": "télésurveillance médicale", "strong": true },
-    { "text": " voit sa liste d'actes remboursés élargie, et le nouveau " },
-    { "text": "référentiel de formation infirmière", "strong": true },
-    { "text": " (4 620 heures) entre en vigueur dès septembre." }
+    { "text": " restreint le vaccin " },
+    { "text": "Ixchiq", "strong": true },
+    { "text": " contre le chikungunya après des cas d'encéphalite, l'" },
+    { "text": "Ordre national des infirmiers", "strong": true },
+    { "text": " anticipe des besoins en hausse d'au moins " },
+    { "text": "54 %", "strong": true },
+    { "text": " d'ici 2040, " },
+    { "text": "FO Santé", "strong": true },
+    { "text": " dépose un préavis de grève national jusqu'au 15 octobre face à " },
+    { "text": "60 000 postes vacants", "strong": true },
+    { "text": ", " },
+    { "text": "Calmedica", "strong": true },
+    { "text": " franchit les " },
+    { "text": "22 millions", "strong": true },
+    { "text": " de patients suivis par IA, et l'" },
+    { "text": "ANDPC", "strong": true },
+    { "text": " dévoile ses priorités de formation 2026." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Infirmier référent : le décret fixant ses missions est publié",
-      "summary": "Le texte du 22 mai 2026 confie à l'infirmier référent la coordination des soins des patients en ALD dès 16 ans, avec accès au dossier médical partagé et compte rendu systématique au médecin traitant.",
+      "title": "Avenant 11 : la convention des infirmiers libéraux revalorisée pour la première fois depuis 2009",
+      "summary": "Signé le 31 mars 2026 et doté de 500 millions d'euros sur 2026-2029, le texte relève la lettre clé AMI de 9,5 % en deux temps et ouvre l'accès direct des IDEL au traitement des plaies.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054037411"
     },
     {
       "category": "alertes",
-      "title": "Tavneos (avacopan) : l'ANSM recommande le retrait de l'autorisation de mise sur le marché",
-      "summary": "Après des cas d'atteintes hépatiques graves, parfois mortelles, sous ce traitement des vascularites à ANCA, le CHMP européen juge désormais le rapport bénéfice/risque défavorable.",
+      "title": "Chikungunya : le vaccin Ixchiq restreint aux personnes à haut risque après des cas d'encéphalite",
+      "summary": "L'ANSM et l'EMA réservent désormais Ixchiq aux patients les plus exposés au virus, après des signalements de méningites, d'encéphalites et de décès chez des personnes vaccinées.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/tavneos-10-mg-gelule-avacopan-recommandation-de-retrait-de-lautorisation-de-mise-sur-le-marche-dans-lunion-europeenne-en-raison-dun-rapport-benefice-risque-defavorable"
+      "url": "https://ansm.sante.fr/informations-de-securite/vaccin-ixchiq-contre-le-chikungunya-levee-de-la-contre-indication-temporaire-chez-les-adultes-de-65-ans-et-plus-mise-en-garde-concernant-les-effets-indesirables-graves-notamment-lencephalite"
     },
     {
       "category": "science",
-      "title": "Infirmiers : 30 % des nouveaux diplômés quittent la profession dans les 5 ans",
-      "summary": "Le SNPI rapproche ce chiffre d'une étude de l'INED des années 1960 pour souligner que la dégradation des conditions de travail ramène la profession à une durée de carrière comparable à celle d'il y a soixante ans.",
-      "source": "SNPI",
-      "url": "https://syndicat-infirmier.com/Infirmiers-30-des-nouveaux-diplomes-abandonnent-dans-les-5-ans.html"
+      "title": "Démographie infirmière : l'Ordre alerte sur des besoins en hausse d'au moins 54 % d'ici 2040",
+      "summary": "Avec 565 500 infirmiers en exercice aujourd'hui, l'Ordre national projette entre 693 000 et 815 000 professionnels nécessaires en 2040 face au vieillissement de la population et aux départs à la retraite.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-publie-une-nouvelle-etude-sur-la-demographie-de-la-profession-et"
     },
     {
       "category": "profession",
-      "title": "Grève des IBODE à Necker : révélateur de la crise d'attractivité infirmière à l'hôpital",
-      "summary": "Le bloc opératoire pédiatrique, qui nécessite 51 IBODE, ne compte début juillet que 33 professionnelles en poste, symptôme d'une AP-HP où le solde recrutements-départs s'est effondré en 2026.",
-      "source": "SNPI",
-      "url": "https://syndicat-infirmier.com/Greve-IBODE-a-Necker-un-revelateur-de-la-crise-d-attractivite-infirmiere-a-l.html"
+      "title": "Hôpital public : FO Santé dépose un préavis de grève national jusqu'au 15 octobre",
+      "summary": "Face à plus de 60 000 postes infirmiers vacants et à la dégradation des conditions de travail, la fédération dénonce « l'état de délabrement » du système de santé, canicule à l'appui.",
+      "source": "FO Santé (FO-SPSS)",
+      "url": "https://58.force-ouvriere.org/preavis-de-greve-du-jeudi-2-juillet-2026-au-jeudi-15-octobre-2026-minuit"
     },
     {
       "category": "technique",
-      "title": "Télésurveillance médicale : de nouvelles activités inscrites sur la liste des actes remboursés",
-      "summary": "L'arrêté du 20 mai 2026 élargit la liste des dispositifs de télésurveillance pris en charge par l'Assurance maladie ; l'infirmier peut y participer dans son rôle propre, un protocole de coopération ou la pratique avancée.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000054122378"
+      "title": "Télésuivi post-opératoire par IA : Calmedica franchit les 22 millions de patients suivis",
+      "summary": "La solution française de télésuivi automatisé par SMS, déployée dans plus de 200 établissements, dégage du temps infirmier pour l'anticipation des complications post-opératoires.",
+      "source": "La Ruche des infirmières",
+      "url": "https://laruche.cbainfo.fr/gerer-cabinet-infirmier/innovations-idel/"
     },
     {
       "category": "formation",
-      "title": "Diplôme d'État infirmier : le nouveau référentiel de 4 620 heures entre en vigueur dès septembre 2026",
-      "summary": "Structuré en 5 domaines et 13 compétences, le programme intègre pour la première fois la prescription infirmière, la santé environnementale et les transmissions ciblées numériques.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
+      "title": "DPC 2026 : les nouvelles priorités triennales pour les infirmiers libéraux",
+      "summary": "L'ANDPC fixe 256 orientations prioritaires pour 2026, avec un accent sur les soins de plaies, la surveillance des perfusions et le suivi des pathologies cardiaques, pour 14 heures de formation indemnisées par an.",
+      "source": "Pôle Formation Santé",
+      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
     }
   ],
   "word": {
-    "field": "Pharmaco & vigilance · pharmacovigilance",
-    "term": "Iatrogénie médicamenteuse",
-    "subtitle": "Quand le traitement devient lui-même la cause du mal — l'atteinte hépatique du Tavneos en est un exemple récent",
-    "definition": "Ensemble des conséquences indésirables ou dommageables résultant d'un acte ou d'une thérapeutique médicale, en particulier la survenue d'effets indésirables graves liés à un médicament.",
+    "field": "Plaies & cicatrisation · évaluation du risque",
+    "term": "Échelle de Braden",
+    "subtitle": "L'outil de référence pour évaluer le risque d'escarre — un enjeu renforcé par l'accès direct infirmier au traitement des plaies",
+    "definition": "Grille validée de dépistage du risque d'escarre, cotant de 6 à 23 points six critères (perception sensorielle, humidité, activité, mobilité, nutrition, frottement/cisaillement) ; un score bas signale un risque élevé.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "tout signe inhabituel après introduction ou modification d'un traitement (ictère, prurit, troubles digestifs, chute inexpliquée, confusion) et le rattacher chronologiquement à la prise médicamenteuse." },
-      { "n": "2", "h": "Tracer · alerter", "t": "noter l'événement dans le dossier de soins, prévenir sans délai le médecin prescripteur si le signe est sévère ou inattendu." },
-      { "n": "3", "h": "Déclarer", "t": "signaler l'effet indésirable grave ou inattendu au centre régional de pharmacovigilance ou via le portail national de signalement, un geste qui alimente la surveillance post-AMM." }
+      { "n": "1", "h": "Évaluer", "t": "coter les six items de l'échelle à l'admission puis à intervalle régulier (au moins hebdomadaire, plus souvent si l'état du patient s'aggrave)." },
+      { "n": "2", "h": "Agir", "t": "mettre en place les mesures de prévention adaptées au score obtenu : changements de position, supports adaptés, protection cutanée, apports nutritionnels." },
+      { "n": "3", "h": "Tracer", "t": "consigner le score et les actions dans le dossier de soins pour assurer la continuité de la surveillance entre les équipes." }
     ],
-    "retenir": "Le retrait programmé du Tavneos, décidé après des atteintes hépatiques graves détectées en vie réelle, rappelle que la vigilance infirmière au lit du patient est un maillon essentiel de la pharmacovigilance : chaque effet indésirable signalé peut infléchir la balance bénéfice/risque d'un médicament. ",
-    "sources": "Sources : ANSM · Signalement-sante.gouv.fr."
+    "retenir": "L'avenant 11, qui ouvre aux infirmiers libéraux l'accès direct au traitement des plaies, place l'évaluation du risque d'escarre au cœur d'une pratique désormais plus autonome : maîtriser l'échelle de Braden, c'est sécuriser cette nouvelle responsabilité clinique. ",
+    "sources": "Sources : HAS · Braden & Bergstrom (1987)."
   }
 }

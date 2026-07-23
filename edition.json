@@ -1,85 +1,75 @@
 {
-  "dateLong": "Mer. 22 juil.",
+  "dateLong": "Jeu. 23 juil.",
   "essentiel": [
     { "text": "L'" },
-    { "text": "avenant 11", "strong": true },
-    { "text": " revalorise de " },
-    { "text": "9,5 %", "strong": true },
-    { "text": " les tarifs des infirmiers libéraux et leur ouvre l'accès direct au traitement des plaies, l'" },
-    { "text": "ANSM", "strong": true },
-    { "text": " restreint le vaccin " },
-    { "text": "Ixchiq", "strong": true },
-    { "text": " contre le chikungunya après des cas d'encéphalite, l'" },
+    { "text": "arrêté du 26 juin", "strong": true },
+    { "text": " ouvre aux infirmiers libéraux la prescription élargie et l'accès direct au traitement des plaies, un troisième épisode de canicule place " },
+    { "text": "37 départements", "strong": true },
+    { "text": " en alerte rouge, la " },
+    { "text": "HAS", "strong": true },
+    { "text": " lance sa première mesure nationale de l'expérience patient sur l'hygiène des mains, l'" },
     { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " anticipe des besoins en hausse d'au moins " },
-    { "text": "54 %", "strong": true },
-    { "text": " d'ici 2040, " },
-    { "text": "FO Santé", "strong": true },
-    { "text": " dépose un préavis de grève national jusqu'au 15 octobre face à " },
-    { "text": "60 000 postes vacants", "strong": true },
-    { "text": ", " },
-    { "text": "Calmedica", "strong": true },
-    { "text": " franchit les " },
-    { "text": "22 millions", "strong": true },
-    { "text": " de patients suivis par IA, et l'" },
-    { "text": "ANDPC", "strong": true },
-    { "text": " dévoile ses priorités de formation 2026." }
+    { "text": " débat de l'inscription obligatoire des cadres de santé, l'appli " },
+    { "text": "carte Vitale", "strong": true },
+    { "text": " s'enrichit de l'identifiant mutuelle, et l'" },
+    { "text": "ANCIM", "strong": true },
+    { "text": " annonce ses Journées nationales des cadres de santé à Nantes." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Avenant 11 : la convention des infirmiers libéraux revalorisée pour la première fois depuis 2009",
-      "summary": "Signé le 31 mars 2026 et doté de 500 millions d'euros sur 2026-2029, le texte relève la lettre clé AMI de 9,5 % en deux temps et ouvre l'accès direct des IDEL au traitement des plaies.",
+      "title": "Prescription et actes infirmiers : le nouveau périmètre entre en vigueur",
+      "summary": "L'arrêté du 26 juin 2026, publié au Journal officiel, ouvre aux infirmiers diplômés d'État la consultation autonome, l'ECG sans prescription, le traitement des plaies et la prescription d'examens biologiques.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054037411"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "Chikungunya : le vaccin Ixchiq restreint aux personnes à haut risque après des cas d'encéphalite",
-      "summary": "L'ANSM et l'EMA réservent désormais Ixchiq aux patients les plus exposés au virus, après des signalements de méningites, d'encéphalites et de décès chez des personnes vaccinées.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/vaccin-ixchiq-contre-le-chikungunya-levee-de-la-contre-indication-temporaire-chez-les-adultes-de-65-ans-et-plus-mise-en-garde-concernant-les-effets-indesirables-graves-notamment-lencephalite"
+      "title": "Canicule : un troisième épisode intense place 37 départements en alerte rouge",
+      "summary": "Entre le 4 et le 15 juillet, 98 % de la population a été soumise à une vigilance orange ou rouge canicule, avec un pic de 39 % du territoire métropolitain en alerte rouge, selon le bulletin de Santé publique France.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/climat/fortes-chaleurs-canicule/bulletin-national/canicule-et-sante-en-france-bulletin-du-16-juillet-2026"
     },
     {
       "category": "science",
-      "title": "Démographie infirmière : l'Ordre alerte sur des besoins en hausse d'au moins 54 % d'ici 2040",
-      "summary": "Avec 565 500 infirmiers en exercice aujourd'hui, l'Ordre national projette entre 693 000 et 815 000 professionnels nécessaires en 2040 face au vieillissement de la population et aux départs à la retraite.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-publie-une-nouvelle-etude-sur-la-demographie-de-la-profession-et"
+      "title": "Hygiène des mains : la HAS lance sa première mesure nationale de l'expérience patient",
+      "summary": "Menée du 10 mars au 11 juin 2026 dans les établissements de santé, cette campagne inédite interroge les patients sur l'hygiène des mains des soignants ; les résultats par établissement seront publiés fin d'année.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_3858254/fr/iqss-2026-mesure-de-l-experience-rapportee-par-les-patients-sur-l-hygiene-des-mains"
     },
     {
       "category": "profession",
-      "title": "Hôpital public : FO Santé dépose un préavis de grève national jusqu'au 15 octobre",
-      "summary": "Face à plus de 60 000 postes infirmiers vacants et à la dégradation des conditions de travail, la fédération dénonce « l'état de délabrement » du système de santé, canicule à l'appui.",
-      "source": "FO Santé (FO-SPSS)",
-      "url": "https://58.force-ouvriere.org/preavis-de-greve-du-jeudi-2-juillet-2026-au-jeudi-15-octobre-2026-minuit"
+      "title": "Cadres de santé infirmiers : la fin de l'inscription obligatoire à l'Ordre en débat",
+      "summary": "Le secrétaire général de l'Ordre national des infirmiers et un expert juridique s'opposent sur l'obligation d'inscription des cadres de santé, dont les fonctions relèvent davantage du management que du rôle propre infirmier.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/cadre-de-sante-infirmier-vers-la-fin-dune-inscription-obligatoire-a-lordre.html"
     },
     {
       "category": "technique",
-      "title": "Télésuivi post-opératoire par IA : Calmedica franchit les 22 millions de patients suivis",
-      "summary": "La solution française de télésuivi automatisé par SMS, déployée dans plus de 200 établissements, dégage du temps infirmier pour l'anticipation des complications post-opératoires.",
-      "source": "La Ruche des infirmières",
-      "url": "https://laruche.cbainfo.fr/gerer-cabinet-infirmier/innovations-idel/"
+      "title": "L'appli carte Vitale s'enrichit de l'identifiant de la complémentaire santé",
+      "summary": "Après sa généralisation à tous les patients, l'application carte Vitale intègre en 2026 l'identifiant de la mutuelle, permettant aux infirmiers libéraux de facturer la part complémentaire en un seul geste.",
+      "source": "Ameli.fr",
+      "url": "https://www.ameli.fr/infirmier/exercice-liberal/facturation-remuneration/appli-carte-vitale-des-patients"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : les nouvelles priorités triennales pour les infirmiers libéraux",
-      "summary": "L'ANDPC fixe 256 orientations prioritaires pour 2026, avec un accent sur les soins de plaies, la surveillance des perfusions et le suivi des pathologies cardiaques, pour 14 heures de formation indemnisées par an.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "Cadres de santé : les 34es Journées nationales (ANCIM) se tiendront à Nantes en novembre",
+      "summary": "Programmées les 23 et 24 novembre 2026 à la Cité des congrès, ces journées exploreront l'alliance entre intelligence humaine, collective et artificielle dans l'encadrement des équipes de soins.",
+      "source": "ANCIM",
+      "url": "https://www.calameo.com/books/000771646cb24d31b4a21"
     }
   ],
   "word": {
-    "field": "Plaies & cicatrisation · évaluation du risque",
-    "term": "Échelle de Braden",
-    "subtitle": "L'outil de référence pour évaluer le risque d'escarre — un enjeu renforcé par l'accès direct infirmier au traitement des plaies",
-    "definition": "Grille validée de dépistage du risque d'escarre, cotant de 6 à 23 points six critères (perception sensorielle, humidité, activité, mobilité, nutrition, frottement/cisaillement) ; un score bas signale un risque élevé.",
+    "field": "Clinique · troubles hydro-électrolytiques",
+    "term": "Hyponatrémie",
+    "subtitle": "Le trouble électrolytique à surveiller de près pendant les épisodes de canicule",
+    "definition": "Concentration plasmatique de sodium inférieure à 135 mmol/L, souvent aggravée par la sudation excessive, une prise hydrique inadaptée ou les diurétiques lors des fortes chaleurs.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "coter les six items de l'échelle à l'admission puis à intervalle régulier (au moins hebdomadaire, plus souvent si l'état du patient s'aggrave)." },
-      { "n": "2", "h": "Agir", "t": "mettre en place les mesures de prévention adaptées au score obtenu : changements de position, supports adaptés, protection cutanée, apports nutritionnels." },
-      { "n": "3", "h": "Tracer", "t": "consigner le score et les actions dans le dossier de soins pour assurer la continuité de la surveillance entre les équipes." }
+      { "n": "1", "h": "Repérer", "t": "confusion, céphalées, crampes, troubles digestifs, voire convulsions dans les formes sévères ou d'installation rapide." },
+      { "n": "2", "h": "Vérifier", "t": "ionogramme sanguin, contexte (sudation, apports hydriques, diurétiques, antidépresseurs) et rapidité d'installation du trouble." },
+      { "n": "3", "h": "Corriger prudemment", "t": "restriction ou apport hydrosodé selon la cause, correction lente (< 10-12 mmol/L/24h) pour éviter une myélinolyse centropontine." }
     ],
-    "retenir": "L'avenant 11, qui ouvre aux infirmiers libéraux l'accès direct au traitement des plaies, place l'évaluation du risque d'escarre au cœur d'une pratique désormais plus autonome : maîtriser l'échelle de Braden, c'est sécuriser cette nouvelle responsabilité clinique. ",
-    "sources": "Sources : HAS · Braden & Bergstrom (1987)."
+    "retenir": "Avec l'intensification des épisodes de canicule en France, l'hyponatrémie devient un piège fréquent chez les patients âgés ou sous diurétiques : la repérer tôt et la corriger lentement évite des complications neurologiques graves. ",
+    "sources": "Sources : Santé publique France · HAS."
   }
 }

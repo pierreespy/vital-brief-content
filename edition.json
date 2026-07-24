@@ -1,75 +1,75 @@
 {
-  "dateLong": "Jeu. 23 juil.",
+  "dateLong": "Ven. 24 juil.",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "arrêté du 26 juin", "strong": true },
-    { "text": " ouvre aux infirmiers libéraux la prescription élargie et l'accès direct au traitement des plaies, un troisième épisode de canicule place " },
-    { "text": "37 départements", "strong": true },
-    { "text": " en alerte rouge, la " },
+    { "text": "La " },
     { "text": "HAS", "strong": true },
-    { "text": " lance sa première mesure nationale de l'expérience patient sur l'hygiène des mains, l'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " débat de l'inscription obligatoire des cadres de santé, l'appli " },
-    { "text": "carte Vitale", "strong": true },
-    { "text": " s'enrichit de l'identifiant mutuelle, et l'" },
-    { "text": "ANCIM", "strong": true },
-    { "text": " annonce ses Journées nationales des cadres de santé à Nantes." }
+    { "text": " recommande une vaccination antigrippale obligatoire pour tous les soignants, l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " restreint le vaccin contre le chikungunya " },
+    { "text": "Ixchiq", "strong": true },
+    { "text": " aux personnes à haut risque après des effets indésirables graves, l'" },
+    { "text": "avenant 11", "strong": true },
+    { "text": " revalorise de 9,5 % la lettre clé des infirmiers libéraux, des " },
+    { "text": "exosquelettes", "strong": true },
+    { "text": " s'installent en réanimation pour soulager les équipes, et les " },
+    { "text": "Journées des Infirmiers", "strong": true },
+    { "text": " 2026 se tiendront à Paris les 4 et 5 novembre." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Prescription et actes infirmiers : le nouveau périmètre entre en vigueur",
-      "summary": "L'arrêté du 26 juin 2026, publié au Journal officiel, ouvre aux infirmiers diplômés d'État la consultation autonome, l'ECG sans prescription, le traitement des plaies et la prescription d'examens biologiques.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "title": "Grippe : la HAS recommande une vaccination obligatoire pour tous les soignants",
+      "summary": "Face à une couverture vaccinale antigrippale des professionnels de santé jugée insuffisante malgré des années d'incitation, la HAS préconise une obligation vaccinale, avec un déploiement prioritaire en Ehpad et USLD, avant un décret gouvernemental.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_4214093/fr/la-has-se-prononce-sur-l-obligation-vaccinale-contre-la-grippe"
     },
     {
       "category": "alertes",
-      "title": "Canicule : un troisième épisode intense place 37 départements en alerte rouge",
-      "summary": "Entre le 4 et le 15 juillet, 98 % de la population a été soumise à une vigilance orange ou rouge canicule, avec un pic de 39 % du territoire métropolitain en alerte rouge, selon le bulletin de Santé publique France.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/climat/fortes-chaleurs-canicule/bulletin-national/canicule-et-sante-en-france-bulletin-du-16-juillet-2026"
+      "title": "Chikungunya : l'ANSM restreint le vaccin Ixchiq aux personnes à haut risque",
+      "summary": "Après plusieurs cas graves (méningites aseptiques, hospitalisations, décès), l'ANSM et l'Agence européenne du médicament réservent Ixchiq aux profils à haut risque et le soumettent désormais à prescription obligatoire depuis le 10 juillet.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/actualites/chikungunya-lansm-poursuit-la-surveillance-des-effets-indesirables-du-vaccin-ixchiq"
     },
     {
       "category": "science",
-      "title": "Hygiène des mains : la HAS lance sa première mesure nationale de l'expérience patient",
-      "summary": "Menée du 10 mars au 11 juin 2026 dans les établissements de santé, cette campagne inédite interroge les patients sur l'hygiène des mains des soignants ; les résultats par établissement seront publiés fin d'année.",
+      "title": "Patients partenaires : la HAS publie un guide pour structurer les partenariats en santé",
+      "summary": "Ce guide d'une cinquantaine de pages et ses quatre fiches pratiques offrent un cadre de référence commun aux établissements, associations et professionnels, avec l'ambition de mieux reconnaître les compétences infirmières mobilisées dans ces partenariats.",
       "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_3858254/fr/iqss-2026-mesure-de-l-experience-rapportee-par-les-patients-sur-l-hygiene-des-mains"
+      "url": "https://www.has-sante.fr/jcms/p_4121671/fr/partenariat-en-sante-structurer-et-developper-le-role-des-patients-partenaires"
     },
     {
       "category": "profession",
-      "title": "Cadres de santé infirmiers : la fin de l'inscription obligatoire à l'Ordre en débat",
-      "summary": "Le secrétaire général de l'Ordre national des infirmiers et un expert juridique s'opposent sur l'obligation d'inscription des cadres de santé, dont les fonctions relèvent davantage du management que du rôle propre infirmier.",
-      "source": "ActuSoins",
-      "url": "https://www.actusoins.com/cadre-de-sante-infirmier-vers-la-fin-dune-inscription-obligatoire-a-lordre.html"
+      "title": "Infirmiers libéraux : l'avenant 11 revalorise la lettre clé AMI de 9,5 %",
+      "summary": "L'accord conventionnel, qui représente un investissement de 500 millions d'euros sur 2026-2029, porte l'AMI à 3,35 € dès novembre 2026 puis 3,45 € en 2027, et crée deux nouvelles consultations infirmières autour de l'insulinothérapie et du bilan de prévention.",
+      "source": "Ameli.fr",
+      "url": "https://www.ameli.fr/infirmier/actualites/convention-des-infirmiers-liberaux-un-avenant-structurant-pour-accompagner-l-evolution-du-metier"
     },
     {
       "category": "technique",
-      "title": "L'appli carte Vitale s'enrichit de l'identifiant de la complémentaire santé",
-      "summary": "Après sa généralisation à tous les patients, l'application carte Vitale intègre en 2026 l'identifiant de la mutuelle, permettant aux infirmiers libéraux de facturer la part complémentaire en un seul geste.",
-      "source": "Ameli.fr",
-      "url": "https://www.ameli.fr/infirmier/exercice-liberal/facturation-remuneration/appli-carte-vitale-des-patients"
+      "title": "Des exosquelettes s'installent dans les services de réanimation pour soulager les soignants",
+      "summary": "Né avec le projet ExoTurn au CHRU de Nancy, l'usage d'exosquelettes pour le retournement des patients s'étend désormais à la toilette matinale, une tâche qui impose de rester penché au-dessus du lit plusieurs minutes d'affilée.",
+      "source": "CNRS Le Journal",
+      "url": "https://lejournal.cnrs.fr/articles/des-exosquelettes-pour-soulager-les-soignants"
     },
     {
       "category": "formation",
-      "title": "Cadres de santé : les 34es Journées nationales (ANCIM) se tiendront à Nantes en novembre",
-      "summary": "Programmées les 23 et 24 novembre 2026 à la Cité des congrès, ces journées exploreront l'alliance entre intelligence humaine, collective et artificielle dans l'encadrement des équipes de soins.",
-      "source": "ANCIM",
-      "url": "https://www.calameo.com/books/000771646cb24d31b4a21"
+      "title": "Journées des Infirmiers 2026 : rendez-vous à Paris les 4 et 5 novembre",
+      "summary": "Cette édition s'articule autour de quatre axes — spécialités infirmières, numérique au service du soin, sécurité des pratiques et santé du soignant — avec ateliers, recrutement et rencontres professionnelles.",
+      "source": "Journées des Infirmiers",
+      "url": "https://journeesdesinfirmiers.fr/"
     }
   ],
   "word": {
-    "field": "Clinique · troubles hydro-électrolytiques",
-    "term": "Hyponatrémie",
-    "subtitle": "Le trouble électrolytique à surveiller de près pendant les épisodes de canicule",
-    "definition": "Concentration plasmatique de sodium inférieure à 135 mmol/L, souvent aggravée par la sudation excessive, une prise hydrique inadaptée ou les diurétiques lors des fortes chaleurs.",
+    "field": "Urgences · complications de la chaleur",
+    "term": "Rhabdomyolyse",
+    "subtitle": "La destruction musculaire aiguë qui peut suivre un coup de chaleur ou un effort intense",
+    "definition": "Lyse des cellules musculaires striées libérant myoglobine, potassium et créatine kinase dans la circulation, avec un risque d'insuffisance rénale aiguë par précipitation tubulaire de la myoglobine.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "confusion, céphalées, crampes, troubles digestifs, voire convulsions dans les formes sévères ou d'installation rapide." },
-      { "n": "2", "h": "Vérifier", "t": "ionogramme sanguin, contexte (sudation, apports hydriques, diurétiques, antidépresseurs) et rapidité d'installation du trouble." },
-      { "n": "3", "h": "Corriger prudemment", "t": "restriction ou apport hydrosodé selon la cause, correction lente (< 10-12 mmol/L/24h) pour éviter une myélinolyse centropontine." }
+      { "n": "1", "h": "Repérer", "t": "urines foncées (« coca »), myalgies diffuses, faiblesse musculaire, dans un contexte de chaleur extrême, d'effort intense, d'immobilisation prolongée ou de certains médicaments (statines)." },
+      { "n": "2", "h": "Vérifier", "t": "CPK plasmatiques (souvent > 5 fois la normale), ionogramme (hyperkaliémie), fonction rénale (urée, créatinine) et diurèse horaire." },
+      { "n": "3", "h": "Prendre en charge", "t": "réhydratation IV précoce et abondante pour maintenir une diurèse élevée, surveillance rapprochée de la kaliémie et de la fonction rénale, alcalinisation des urines si besoin." }
     ],
-    "retenir": "Avec l'intensification des épisodes de canicule en France, l'hyponatrémie devient un piège fréquent chez les patients âgés ou sous diurétiques : la repérer tôt et la corriger lentement évite des complications neurologiques graves. ",
+    "retenir": "Avec la multiplication des épisodes de canicule, la rhabdomyolyse guette aussi en dehors des efforts sportifs intenses : une hydratation précoce et une surveillance rénale rapprochée évitent l'évolution vers l'insuffisance rénale aiguë. ",
     "sources": "Sources : Santé publique France · HAS."
   }
 }

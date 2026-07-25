@@ -1,75 +1,73 @@
 {
-  "dateLong": "Ven. 24 juil.",
+  "dateLong": "Sam. 25 juil.",
   "essentiel": [
-    { "text": "La " },
-    { "text": "HAS", "strong": true },
-    { "text": " recommande une vaccination antigrippale obligatoire pour tous les soignants, l'" },
+    { "text": "Le nouvel " },
+    { "text": "arrêté sur les actes et soins infirmiers", "strong": true },
+    { "text": " du 26 juin entre en application, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " restreint le vaccin contre le chikungunya " },
-    { "text": "Ixchiq", "strong": true },
-    { "text": " aux personnes à haut risque après des effets indésirables graves, l'" },
-    { "text": "avenant 11", "strong": true },
-    { "text": " revalorise de 9,5 % la lettre clé des infirmiers libéraux, des " },
-    { "text": "exosquelettes", "strong": true },
-    { "text": " s'installent en réanimation pour soulager les équipes, et les " },
-    { "text": "Journées des Infirmiers", "strong": true },
-    { "text": " 2026 se tiendront à Paris les 4 et 5 novembre." }
+    { "text": " alerte sur les peptides dangereux vendus en ligne, la " },
+    { "text": "HAS", "strong": true },
+    { "text": " lance une mesure nationale de l'hygiène des mains vue par les patients, l'" },
+    { "text": "Ordre national des infirmiers", "strong": true },
+    { "text": " publie une étude sur la démographie de la profession, et les hôpitaux poursuivent le déploiement de " },
+    { "text": "30 000 climatiseurs", "strong": true },
+    { "text": " face à la canicule." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Grippe : la HAS recommande une vaccination obligatoire pour tous les soignants",
-      "summary": "Face à une couverture vaccinale antigrippale des professionnels de santé jugée insuffisante malgré des années d'incitation, la HAS préconise une obligation vaccinale, avec un déploiement prioritaire en Ehpad et USLD, avant un décret gouvernemental.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4214093/fr/la-has-se-prononce-sur-l-obligation-vaccinale-contre-la-grippe"
+      "title": "Actes et soins infirmiers : le nouvel arrêté du 26 juin 2026 est entré en application",
+      "summary": "Ce texte élargit la liste des actes, soins, produits de santé et examens que les infirmiers diplômés d'État peuvent réaliser ou prescrire, concrétisant la réforme de l'autonomie infirmière engagée en 2025.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "Chikungunya : l'ANSM restreint le vaccin Ixchiq aux personnes à haut risque",
-      "summary": "Après plusieurs cas graves (méningites aseptiques, hospitalisations, décès), l'ANSM et l'Agence européenne du médicament réservent Ixchiq aux profils à haut risque et le soumettent désormais à prescription obligatoire depuis le 10 juillet.",
+      "title": "Peptides vendus en ligne : l'ANSM alerte sur des effets indésirables graves",
+      "summary": "Plusieurs signalements, dont des hospitalisations après usage de peptides frauduleux comme la rétatrutide, poussent l'agence à déconseiller tout achat de ces produits injectables sur internet ou les réseaux sociaux.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/chikungunya-lansm-poursuit-la-surveillance-des-effets-indesirables-du-vaccin-ixchiq"
+      "url": "https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux"
     },
     {
       "category": "science",
-      "title": "Patients partenaires : la HAS publie un guide pour structurer les partenariats en santé",
-      "summary": "Ce guide d'une cinquantaine de pages et ses quatre fiches pratiques offrent un cadre de référence commun aux établissements, associations et professionnels, avec l'ambition de mieux reconnaître les compétences infirmières mobilisées dans ces partenariats.",
+      "title": "Hygiène des mains : la HAS lance une mesure nationale de l'expérience patient",
+      "summary": "Intégrée au dispositif e-Satis et coconstruite avec la Société Française d'Hygiène Hospitalière, cette première campagne (mars-juin 2026) érige le ressenti des patients en indicateur officiel de qualité et de sécurité des soins.",
       "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4121671/fr/partenariat-en-sante-structurer-et-developper-le-role-des-patients-partenaires"
+      "url": "https://www.has-sante.fr/jcms/p_3858254/fr/iqss-2026-mesure-de-l-experience-rapportee-par-les-patients-sur-l-hygiene-des-mains"
     },
     {
       "category": "profession",
-      "title": "Infirmiers libéraux : l'avenant 11 revalorise la lettre clé AMI de 9,5 %",
-      "summary": "L'accord conventionnel, qui représente un investissement de 500 millions d'euros sur 2026-2029, porte l'AMI à 3,35 € dès novembre 2026 puis 3,45 € en 2027, et crée deux nouvelles consultations infirmières autour de l'insulinothérapie et du bilan de prévention.",
-      "source": "Ameli.fr",
-      "url": "https://www.ameli.fr/infirmier/actualites/convention-des-infirmiers-liberaux-un-avenant-structurant-pour-accompagner-l-evolution-du-metier"
+      "title": "Démographie infirmière : l'Ordre national publie une nouvelle étude et appelle à revaloriser la profession",
+      "summary": "Face aux besoins croissants en soins, l'Ordre national des infirmiers alerte sur les tensions démographiques à venir et plaide pour des mesures d'attractivité du métier.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-publie-une-nouvelle-etude-sur-la-demographie-de-la-profession-et"
     },
     {
       "category": "technique",
-      "title": "Des exosquelettes s'installent dans les services de réanimation pour soulager les soignants",
-      "summary": "Né avec le projet ExoTurn au CHRU de Nancy, l'usage d'exosquelettes pour le retournement des patients s'étend désormais à la toilette matinale, une tâche qui impose de rester penché au-dessus du lit plusieurs minutes d'affilée.",
-      "source": "CNRS Le Journal",
-      "url": "https://lejournal.cnrs.fr/articles/des-exosquelettes-pour-soulager-les-soignants"
+      "title": "Canicule : les hôpitaux accélèrent l'équipement en climatiseurs, mais s'interrogent sur son suffisance",
+      "summary": "Sur les 30 000 unités promises par le gouvernement, une partie est déjà installée dans les établissements sanitaires et médico-sociaux, alors que plus de la moitié des soignants interrogés disent souffrir de la chaleur en poste.",
+      "source": "Caducee.net",
+      "url": "https://www.caducee.net/actualite-medicale/16942/canicule-a-l-hopital-la-climatisation-ne-suffira-pas.html"
     },
     {
       "category": "formation",
-      "title": "Journées des Infirmiers 2026 : rendez-vous à Paris les 4 et 5 novembre",
-      "summary": "Cette édition s'articule autour de quatre axes — spécialités infirmières, numérique au service du soin, sécurité des pratiques et santé du soignant — avec ateliers, recrutement et rencontres professionnelles.",
-      "source": "Journées des Infirmiers",
-      "url": "https://journeesdesinfirmiers.fr/"
+      "title": "Prévention des infections : les Rencontres internationales francophones des infirmiers en PCI 2026",
+      "summary": "La SF2H réunit les infirmiers hygiénistes francophones autour des pratiques de prévention et de contrôle des infections associées aux soins.",
+      "source": "SF2H",
+      "url": "https://www.sf2h.net/actualites/rencontres-internationales-francophones-des-infirmiers-en-pci-2026.html"
     }
   ],
   "word": {
-    "field": "Urgences · complications de la chaleur",
-    "term": "Rhabdomyolyse",
-    "subtitle": "La destruction musculaire aiguë qui peut suivre un coup de chaleur ou un effort intense",
-    "definition": "Lyse des cellules musculaires striées libérant myoglobine, potassium et créatine kinase dans la circulation, avec un risque d'insuffisance rénale aiguë par précipitation tubulaire de la myoglobine.",
+    "field": "Réglementaire · rôle propre infirmier",
+    "term": "Transmissions ciblées",
+    "subtitle": "La méthode de traçabilité qui structure les transmissions autour des problèmes du patient",
+    "definition": "Méthode de rédaction des transmissions infirmières organisée autour de « cibles » — les problèmes de santé prioritaires du patient — plutôt que de la chronologie des soins, avec pour chaque cible une donnée, une action et un résultat.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "urines foncées (« coca »), myalgies diffuses, faiblesse musculaire, dans un contexte de chaleur extrême, d'effort intense, d'immobilisation prolongée ou de certains médicaments (statines)." },
-      { "n": "2", "h": "Vérifier", "t": "CPK plasmatiques (souvent > 5 fois la normale), ionogramme (hyperkaliémie), fonction rénale (urée, créatinine) et diurèse horaire." },
-      { "n": "3", "h": "Prendre en charge", "t": "réhydratation IV précoce et abondante pour maintenir une diurèse élevée, surveillance rapprochée de la kaliémie et de la fonction rénale, alcalinisation des urines si besoin." }
+      { "n": "1", "h": "Cibler", "t": "identifier le problème prioritaire à partir des données cliniques recueillies (douleur, anxiété, risque de chute, escarre…)." },
+      { "n": "2", "h": "Rédiger en DAR", "t": "Donnée (signes, propos du patient), Action (soins réalisés), Résultat (réponse du patient, évolution)." },
+      { "n": "3", "h": "Assurer la continuité", "t": "relier la cible au diagnostic infirmier et au plan de soins pour une transmission exploitable par toute l'équipe." }
     ],
-    "retenir": "Avec la multiplication des épisodes de canicule, la rhabdomyolyse guette aussi en dehors des efforts sportifs intenses : une hydratation précoce et une surveillance rénale rapprochée évitent l'évolution vers l'insuffisance rénale aiguë. ",
-    "sources": "Sources : Santé publique France · HAS."
+    "retenir": "Bien menées, les transmissions ciblées évitent la perte d'information au changement d'équipe et objectivent la traçabilité exigée par la certification HAS. ",
+    "sources": "Sources : HAS · ANFH."
   }
 }

@@ -1,73 +1,71 @@
 {
-  "dateLong": "Sam. 25 juil.",
+  "dateLong": "Dim. 26 juil.",
   "essentiel": [
-    { "text": "Le nouvel " },
-    { "text": "arrêté sur les actes et soins infirmiers", "strong": true },
-    { "text": " du 26 juin entre en application, l'" },
+    { "text": "Un décret du 20 juillet permet à l'" },
+    { "text": "Ordre infirmier", "strong": true },
+    { "text": " de porter plainte pour les libéraux victimes de violence, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur les peptides dangereux vendus en ligne, la " },
+    { "text": " restreint le vaccin Ixchiq contre le chikungunya après des décès, la " },
     { "text": "HAS", "strong": true },
-    { "text": " lance une mesure nationale de l'hygiène des mains vue par les patients, l'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " publie une étude sur la démographie de la profession, et les hôpitaux poursuivent le déploiement de " },
-    { "text": "30 000 climatiseurs", "strong": true },
-    { "text": " face à la canicule." }
+    { "text": " publie un guide sur les patients partenaires, et " },
+    { "text": "72 %", "strong": true },
+    { "text": " des recrutements paramédicaux restent en tension à l'hôpital cet été." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Actes et soins infirmiers : le nouvel arrêté du 26 juin 2026 est entré en application",
-      "summary": "Ce texte élargit la liste des actes, soins, produits de santé et examens que les infirmiers diplômés d'État peuvent réaliser ou prescrire, concrétisant la réforme de l'autonomie infirmière engagée en 2025.",
+      "title": "Violences envers les soignants : l'Ordre pourra porter plainte au nom des infirmiers libéraux",
+      "summary": "Le décret n° 2026-641 du 20 juillet 2026 permet à un infirmier libéral victime de violence de mandater par écrit son conseil de l'Ordre ou son URPS pour déposer plainte en son nom, jamais de façon automatique.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054448016"
     },
     {
       "category": "alertes",
-      "title": "Peptides vendus en ligne : l'ANSM alerte sur des effets indésirables graves",
-      "summary": "Plusieurs signalements, dont des hospitalisations après usage de peptides frauduleux comme la rétatrutide, poussent l'agence à déconseiller tout achat de ces produits injectables sur internet ou les réseaux sociaux.",
+      "title": "Chikungunya : le vaccin Ixchiq restreint aux personnes à haut risque après des cas de méningite et des décès",
+      "summary": "Depuis le 10 juillet 2026, l'ANSM a soumis Ixchiq à prescription obligatoire ; le fabricant et l'Agence européenne du médicament en réservent désormais l'usage aux profils les plus exposés après des cas de méningite aseptique, d'encéphalite et de décès.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux"
+      "url": "https://ansm.sante.fr/actualites/chikungunya-lansm-poursuit-la-surveillance-des-effets-indesirables-du-vaccin-ixchiq"
     },
     {
       "category": "science",
-      "title": "Hygiène des mains : la HAS lance une mesure nationale de l'expérience patient",
-      "summary": "Intégrée au dispositif e-Satis et coconstruite avec la Société Française d'Hygiène Hospitalière, cette première campagne (mars-juin 2026) érige le ressenti des patients en indicateur officiel de qualité et de sécurité des soins.",
+      "title": "Partenariat en santé : la HAS publie un guide de référence sur le rôle des patients partenaires",
+      "summary": "Publié le 30 juin 2026, ce guide d'une cinquantaine de pages propose un cadre commun pour structurer l'intervention des patients partenaires dans le parcours de soins, l'organisation des établissements, la formation et la recherche.",
       "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_3858254/fr/iqss-2026-mesure-de-l-experience-rapportee-par-les-patients-sur-l-hygiene-des-mains"
+      "url": "https://www.has-sante.fr/jcms/p_4121671/fr/partenariat-en-sante-structurer-et-developper-le-role-des-patients-partenaires"
     },
     {
       "category": "profession",
-      "title": "Démographie infirmière : l'Ordre national publie une nouvelle étude et appelle à revaloriser la profession",
-      "summary": "Face aux besoins croissants en soins, l'Ordre national des infirmiers alerte sur les tensions démographiques à venir et plaide pour des mesures d'attractivité du métier.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-publie-une-nouvelle-etude-sur-la-demographie-de-la-profession-et"
+      "title": "Recrutement hospitalier : 72 % des postes paramédicaux restent difficiles à pourvoir en 2026",
+      "summary": "Infirmiers, aides-soignants, pharmaciens et médecins urgentistes affichent jusqu'à 80 % de difficultés de recrutement, un été marqué par des fermetures nocturnes de services d'urgences et un recours croissant à l'intérim.",
+      "source": "Annonces Médicales",
+      "url": "https://www.annonces-medicales.com/article/enjeux-recrutement-hospitalier-2026-defis-solutions"
     },
     {
       "category": "technique",
-      "title": "Canicule : les hôpitaux accélèrent l'équipement en climatiseurs, mais s'interrogent sur son suffisance",
-      "summary": "Sur les 30 000 unités promises par le gouvernement, une partie est déjà installée dans les établissements sanitaires et médico-sociaux, alors que plus de la moitié des soignants interrogés disent souffrir de la chaleur en poste.",
+      "title": "Télésurveillance des implants cardiaques : une nouvelle compétence infirmière encadrée",
+      "summary": "L'arrêté du 26 juin 2026 confie aux infirmiers le contrôle en télésurveillance des dispositifs implantables rythmologiques, sous réserve d'un DPC en rythmologie et de 12 mois d'expérience dans les pathologies concernées.",
       "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16942/canicule-a-l-hopital-la-climatisation-ne-suffira-pas.html"
+      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
     },
     {
       "category": "formation",
-      "title": "Prévention des infections : les Rencontres internationales francophones des infirmiers en PCI 2026",
-      "summary": "La SF2H réunit les infirmiers hygiénistes francophones autour des pratiques de prévention et de contrôle des infections associées aux soins.",
-      "source": "SF2H",
-      "url": "https://www.sf2h.net/actualites/rencontres-internationales-francophones-des-infirmiers-en-pci-2026.html"
+      "title": "Développement professionnel continu : la suppression de l'ANDPC actée pour 2026",
+      "summary": "Le financement du DPC reste garanti jusqu'au 31 décembre 2026, mais l'agence doit fermer dans l'année : le volet scientifique reviendrait à la HAS et le volet financier à France Compétences dès 2027.",
+      "source": "Medscape",
+      "url": "https://francais.medscape.com/viewarticle/suppression-lagence-du-dpc-d%C3%A9cision-2025a1000xgv"
     }
   ],
   "word": {
-    "field": "Réglementaire · rôle propre infirmier",
-    "term": "Transmissions ciblées",
-    "subtitle": "La méthode de traçabilité qui structure les transmissions autour des problèmes du patient",
-    "definition": "Méthode de rédaction des transmissions infirmières organisée autour de « cibles » — les problèmes de santé prioritaires du patient — plutôt que de la chronologie des soins, avec pour chaque cible une donnée, une action et un résultat.",
+    "field": "Pharmaco · vigilance sanitaire",
+    "term": "Pharmacovigilance",
+    "subtitle": "Le dispositif de surveillance et de signalement des effets indésirables des médicaments",
+    "definition": "Système de surveillance des médicaments après leur mise sur le marché, reposant sur le signalement obligatoire par les professionnels de santé de tout effet indésirable suspecté grave ou inattendu.",
     "steps": [
-      { "n": "1", "h": "Cibler", "t": "identifier le problème prioritaire à partir des données cliniques recueillies (douleur, anxiété, risque de chute, escarre…)." },
-      { "n": "2", "h": "Rédiger en DAR", "t": "Donnée (signes, propos du patient), Action (soins réalisés), Résultat (réponse du patient, évolution)." },
-      { "n": "3", "h": "Assurer la continuité", "t": "relier la cible au diagnostic infirmier et au plan de soins pour une transmission exploitable par toute l'équipe." }
+      { "n": "1", "h": "Repérer", "t": "identifier un effet indésirable inhabituel, grave ou disproportionné après l'administration d'un médicament ou d'un vaccin." },
+      { "n": "2", "h": "Déclarer", "t": "signaler l'événement au centre régional de pharmacovigilance ou via le portail national des signalements, en décrivant la chronologie et les symptômes." },
+      { "n": "3", "h": "Tracer et surveiller", "t": "consigner l'événement dans le dossier patient et rester attentif aux alertes ultérieures de l'ANSM sur le produit concerné." }
     ],
-    "retenir": "Bien menées, les transmissions ciblées évitent la perte d'information au changement d'équipe et objectivent la traçabilité exigée par la certification HAS. ",
-    "sources": "Sources : HAS · ANFH."
+    "retenir": "Chaque déclaration infirmière alimente la détection de signaux rares, comme les restrictions récentes prononcées par l'ANSM sur certains vaccins ou dispositifs médicaux. ",
+    "sources": "Sources : ANSM · Code de la santé publique."
   }
 }

@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Œdème aigu du poumon (OAP)", "date": "2026-07-27" },
     { "term": "Pharmacovigilance", "date": "2026-07-26" },
     { "term": "Transmissions ciblées", "date": "2026-07-25" },
     { "term": "Rhabdomyolyse", "date": "2026-07-24" },
@@ -17,7 +18,6 @@
     { "term": "Titration", "date": "2026-07-12" },
     { "term": "Ventilation non invasive (VNI)", "date": "2026-07-11" },
     { "term": "Sédation profonde et continue maintenue jusqu'au décès", "date": "2026-07-10" },
-    { "term": "Syndrome de lyse tumorale", "date": "2026-07-09" },
-    { "term": "Sepsis", "date": "2026-07-08" }
+    { "term": "Syndrome de lyse tumorale", "date": "2026-07-09" }
   ]
 }

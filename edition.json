@@ -1,71 +1,71 @@
 {
-  "dateLong": "Dim. 26 juil.",
+  "dateLong": "Lun. 27 juil.",
   "essentiel": [
-    { "text": "Un décret du 20 juillet permet à l'" },
-    { "text": "Ordre infirmier", "strong": true },
-    { "text": " de porter plainte pour les libéraux victimes de violence, l'" },
+    { "text": "Un décret précise les missions de l'" },
+    { "text": "infirmier référent", "strong": true },
+    { "text": " pour les patients en ALD, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " restreint le vaccin Ixchiq contre le chikungunya après des décès, la " },
-    { "text": "HAS", "strong": true },
-    { "text": " publie un guide sur les patients partenaires, et " },
-    { "text": "72 %", "strong": true },
-    { "text": " des recrutements paramédicaux restent en tension à l'hôpital cet été." }
+    { "text": " alerte sur de nouvelles tensions en collyres, la " },
+    { "text": "mission flash", "strong": true },
+    { "text": " de l'Assemblée sur les IPA formule 20 recommandations, et le nouveau référentiel " },
+    { "text": "IFSI", "strong": true },
+    { "text": " entre en vigueur dès la rentrée de septembre." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Violences envers les soignants : l'Ordre pourra porter plainte au nom des infirmiers libéraux",
-      "summary": "Le décret n° 2026-641 du 20 juillet 2026 permet à un infirmier libéral victime de violence de mandater par écrit son conseil de l'Ordre ou son URPS pour déposer plainte en son nom, jamais de façon automatique.",
+      "title": "Infirmier référent : le décret précise ses missions de coordination pour les patients en ALD",
+      "summary": "Le décret n° 2026-396 du 22 mai 2026 permet aux assurés de 16 ans et plus en affection de longue durée de désigner un infirmier référent, destinataire des comptes rendus médicaux et chargé de tracer ses actions dans le DMP, en lien avec le médecin traitant.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054448016"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
     },
     {
       "category": "alertes",
-      "title": "Chikungunya : le vaccin Ixchiq restreint aux personnes à haut risque après des cas de méningite et des décès",
-      "summary": "Depuis le 10 juillet 2026, l'ANSM a soumis Ixchiq à prescription obligatoire ; le fabricant et l'Agence européenne du médicament en réservent désormais l'usage aux profils les plus exposés après des cas de méningite aseptique, d'encéphalite et de décès.",
+      "title": "Collyres : l'ANSM signale de nouvelles tensions d'approvisionnement, deux références au bord de la rupture",
+      "summary": "Dix collyres sont en tension, dont deux jugées « très sévères » (fluorescéine Faure, Mydriaticum unidose), aggravées par des difficultés de production chez le fabricant français Excelvision ; l'ANSM demande de réserver ces traitements aux situations essentielles.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/chikungunya-lansm-poursuit-la-surveillance-des-effets-indesirables-du-vaccin-ixchiq"
+      "url": "https://ansm.sante.fr/actualites/tensions-en-collyres-bien-les-prescrire-pour-preserver-les-stocks-disponibles"
     },
     {
       "category": "science",
-      "title": "Partenariat en santé : la HAS publie un guide de référence sur le rôle des patients partenaires",
-      "summary": "Publié le 30 juin 2026, ce guide d'une cinquantaine de pages propose un cadre commun pour structurer l'intervention des patients partenaires dans le parcours de soins, l'organisation des établissements, la formation et la recherche.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4121671/fr/partenariat-en-sante-structurer-et-developper-le-role-des-patients-partenaires"
+      "title": "Vaccination anti-méningocoques : seulement 17,1 % des 11-14 ans couverts en 2025",
+      "summary": "Le bilan de couverture vaccinale de Santé publique France relève 17,1 % de couverture ACWY chez les 11-14 ans et 7,9 % chez les 15-24 ans, loin des objectifs, alors que l'adhésion globale à la vaccination reste élevée chez les adultes.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/vaccination/bulletin-national/vaccination-des-enfants-adolescents-et-jeunes-adultes-en-france-bilan-de-la-couverture-vaccinale-en"
     },
     {
       "category": "profession",
-      "title": "Recrutement hospitalier : 72 % des postes paramédicaux restent difficiles à pourvoir en 2026",
-      "summary": "Infirmiers, aides-soignants, pharmaciens et médecins urgentistes affichent jusqu'à 80 % de difficultés de recrutement, un été marqué par des fermetures nocturnes de services d'urgences et un recours croissant à l'intérim.",
-      "source": "Annonces Médicales",
-      "url": "https://www.annonces-medicales.com/article/enjeux-recrutement-hospitalier-2026-defis-solutions"
+      "title": "Pratique avancée : la mission flash de l'Assemblée formule 20 recommandations, les spécialités s'inquiètent",
+      "summary": "Présentée le 8 juillet 2026 devant la commission des affaires sociales, la mission sur les 4 000 IPA en exercice propose une vingtaine de recommandations pour clarifier un cadre jugé trop complexe, suscitant l'inquiétude de plusieurs spécialités infirmières.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/mission-flash-sur-les-ipa-les-specialites-infirmieres-sinquietent-des-recommandations"
     },
     {
       "category": "technique",
-      "title": "Télésurveillance des implants cardiaques : une nouvelle compétence infirmière encadrée",
-      "summary": "L'arrêté du 26 juin 2026 confie aux infirmiers le contrôle en télésurveillance des dispositifs implantables rythmologiques, sous réserve d'un DPC en rythmologie et de 12 mois d'expérience dans les pathologies concernées.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
+      "title": "Diabète de type 1 : la pompe patch Omnipod 5 couplée au capteur Dexcom G7 désormais remboursée",
+      "summary": "L'arrêté du 22 janvier 2026 inscrit ce système en boucle semi-fermée sur la liste des produits remboursables, pour les patients dès 2 ans dont l'équilibre glycémique n'est pas atteint malgré une insulinothérapie intensive bien conduite.",
+      "source": "Fédération Française des Diabétiques",
+      "url": "https://www.federationdesdiabetiques.org/federation/actualites/remboursement-de-lomnipod-5-couple-au-dexcom-g7"
     },
     {
       "category": "formation",
-      "title": "Développement professionnel continu : la suppression de l'ANDPC actée pour 2026",
-      "summary": "Le financement du DPC reste garanti jusqu'au 31 décembre 2026, mais l'agence doit fermer dans l'année : le volet scientifique reviendrait à la HAS et le volet financier à France Compétences dès 2027.",
-      "source": "Medscape",
-      "url": "https://francais.medscape.com/viewarticle/suppression-lagence-du-dpc-d%C3%A9cision-2025a1000xgv"
+      "title": "IFSI : le nouveau référentiel de formation (4 620 heures) entre en vigueur dès la rentrée de septembre",
+      "summary": "Porté par le décret du 20 février 2026, le cursus passe de 4 200 à 4 620 heures sur trois ans ; la prescription infirmière entre en formation dès la 3e année et la psychiatrie comme la santé de l'enfant deviennent des terrains de stage obligatoires.",
+      "source": "Caducee.net",
+      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
     }
   ],
   "word": {
-    "field": "Pharmaco · vigilance sanitaire",
-    "term": "Pharmacovigilance",
-    "subtitle": "Le dispositif de surveillance et de signalement des effets indésirables des médicaments",
-    "definition": "Système de surveillance des médicaments après leur mise sur le marché, reposant sur le signalement obligatoire par les professionnels de santé de tout effet indésirable suspecté grave ou inattendu.",
+    "field": "Urgences · cardio-respiratoire",
+    "term": "Œdème aigu du poumon (OAP)",
+    "subtitle": "Détresse respiratoire brutale par inondation alvéolaire d'origine cardiaque",
+    "definition": "Accumulation rapide de liquide dans les alvéoles pulmonaires, le plus souvent secondaire à une décompensation cardiaque gauche, entraînant une détresse respiratoire aiguë qui nécessite une prise en charge en urgence.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "identifier un effet indésirable inhabituel, grave ou disproportionné après l'administration d'un médicament ou d'un vaccin." },
-      { "n": "2", "h": "Déclarer", "t": "signaler l'événement au centre régional de pharmacovigilance ou via le portail national des signalements, en décrivant la chronologie et les symptômes." },
-      { "n": "3", "h": "Tracer et surveiller", "t": "consigner l'événement dans le dossier patient et rester attentif aux alertes ultérieures de l'ANSM sur le produit concerné." }
+      { "n": "1", "h": "Reconnaître", "t": "polypnée, orthopnée, sueurs, crépitants bilatéraux à l'auscultation, parfois expectoration mousseuse rosée." },
+      { "n": "2", "h": "Installer et oxygéner", "t": "position demi-assise, oxygénothérapie ou VNI, voie veineuse, monitorage SpO2/FR/TA." },
+      { "n": "3", "h": "Traiter et surveiller", "t": "diurétique IV sur prescription, réévaluation de la diurèse et de la saturation, traçabilité des paramètres." }
     ],
-    "retenir": "Chaque déclaration infirmière alimente la détection de signaux rares, comme les restrictions récentes prononcées par l'ANSM sur certains vaccins ou dispositifs médicaux. ",
-    "sources": "Sources : ANSM · Code de la santé publique."
+    "retenir": "Le repérage infirmier précoce des signes d'OAP et la position demi-assise immédiate limitent l'aggravation avant l'arrivée du traitement diurétique. ",
+    "sources": "Sources : SFMU · HAS."
   }
 }

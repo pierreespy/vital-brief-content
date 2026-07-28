@@ -1,71 +1,71 @@
 {
-  "dateLong": "Lun. 27 juil.",
+  "dateLong": "Mar. 28 juil.",
   "essentiel": [
-    { "text": "Un décret précise les missions de l'" },
-    { "text": "infirmier référent", "strong": true },
-    { "text": " pour les patients en ALD, l'" },
+    { "text": "Deux " },
+    { "text": "arrêtés du 26 juin 2026", "strong": true },
+    { "text": " élargissent les actes et les prescriptions infirmières, la " },
+    { "text": "HAS", "strong": true },
+    { "text": " se prononce pour une obligation vaccinale antigrippale des soignants, et l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur de nouvelles tensions en collyres, la " },
-    { "text": "mission flash", "strong": true },
-    { "text": " de l'Assemblée sur les IPA formule 20 recommandations, et le nouveau référentiel " },
-    { "text": "IFSI", "strong": true },
-    { "text": " entre en vigueur dès la rentrée de septembre." }
+    { "text": " alerte sur un défaut de canule des pompes à insuline " },
+    { "text": "Omnipod", "strong": true },
+    { "text": "." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Infirmier référent : le décret précise ses missions de coordination pour les patients en ALD",
-      "summary": "Le décret n° 2026-396 du 22 mai 2026 permet aux assurés de 16 ans et plus en affection de longue durée de désigner un infirmier référent, destinataire des comptes rendus médicaux et chargé de tracer ses actions dans le DMP, en lien avec le médecin traitant.",
+      "title": "Arrêté du 26 juin 2026 : la liste des actes et soins infirmiers redéfinie",
+      "summary": "Pris en application de la loi infirmière du 27 juin 2025, ce texte reconnaît une expertise clinique de premier recours aux infirmiers diplômés d'État, avec un droit de prescription circonscrit et traçable en vaccination, plaies, santé sexuelle et douleur de premier niveau.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "Collyres : l'ANSM signale de nouvelles tensions d'approvisionnement, deux références au bord de la rupture",
-      "summary": "Dix collyres sont en tension, dont deux jugées « très sévères » (fluorescéine Faure, Mydriaticum unidose), aggravées par des difficultés de production chez le fabricant français Excelvision ; l'ANSM demande de réserver ces traitements aux situations essentielles.",
+      "title": "Pompes à insuline Omnipod : l'ANSM alerte sur un défaut de canule à risque de sous-dosage",
+      "summary": "Insulet a identifié une déchirure possible sur la canule externe de certains lots d'Omnipod 5, Omnipod DASH et Omnipod, pouvant provoquer une fuite d'insuline et exposer à une acidocétose diabétique ; la distribution de ces lots a été arrêtée le 28 février 2026.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/tensions-en-collyres-bien-les-prescrire-pour-preserver-les-stocks-disponibles"
+      "url": "https://ansm.sante.fr/informations-de-securite/pompe-a-insuline-externe-systeme-de-delivrance-dinsuline-omnipod-5-omnipod-dash-et-omnipod-insulet-defaut-de-la-canule"
     },
     {
       "category": "science",
-      "title": "Vaccination anti-méningocoques : seulement 17,1 % des 11-14 ans couverts en 2025",
-      "summary": "Le bilan de couverture vaccinale de Santé publique France relève 17,1 % de couverture ACWY chez les 11-14 ans et 7,9 % chez les 15-24 ans, loin des objectifs, alors que l'adhésion globale à la vaccination reste élevée chez les adultes.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/vaccination/bulletin-national/vaccination-des-enfants-adolescents-et-jeunes-adultes-en-france-bilan-de-la-couverture-vaccinale-en"
+      "title": "La HAS se prononce pour une obligation vaccinale antigrippale des soignants",
+      "summary": "Face à une couverture vaccinale des professionnels de santé de seulement 20 % en établissements et 21 % en Ehpad lors de la saison 2024-2025, la HAS recommande une obligation vaccinale déployée progressivement sur deux ans pour les soignants, étudiants des filières médicales et paramédicales et personnels d'Ehpad/USLD.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_4214093/fr/la-has-se-prononce-sur-l-obligation-vaccinale-contre-la-grippe"
     },
     {
       "category": "profession",
-      "title": "Pratique avancée : la mission flash de l'Assemblée formule 20 recommandations, les spécialités s'inquiètent",
-      "summary": "Présentée le 8 juillet 2026 devant la commission des affaires sociales, la mission sur les 4 000 IPA en exercice propose une vingtaine de recommandations pour clarifier un cadre jugé trop complexe, suscitant l'inquiétude de plusieurs spécialités infirmières.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/mission-flash-sur-les-ipa-les-specialites-infirmieres-sinquietent-des-recommandations"
+      "title": "Le SNPI détaille cinq priorités pour « rebâtir l'hôpital »",
+      "summary": "Le Syndicat National des Professionnels Infirmiers appelle à sécuriser les effectifs par des ratios soignants/patients, recentrer l'hôpital sur ses missions de service public territorial et réformer durablement le financement, la prévention et la souveraineté sanitaire.",
+      "source": "SNPI",
+      "url": "https://syndicat-infirmier.com/Rebatir-l-hopital-les-cinq-priorites-pour-sauver-le-service-public-de-sante.html"
     },
     {
       "category": "technique",
-      "title": "Diabète de type 1 : la pompe patch Omnipod 5 couplée au capteur Dexcom G7 désormais remboursée",
-      "summary": "L'arrêté du 22 janvier 2026 inscrit ce système en boucle semi-fermée sur la liste des produits remboursables, pour les patients dès 2 ans dont l'équilibre glycémique n'est pas atteint malgré une insulinothérapie intensive bien conduite.",
-      "source": "Fédération Française des Diabétiques",
-      "url": "https://www.federationdesdiabetiques.org/federation/actualites/remboursement-de-lomnipod-5-couple-au-dexcom-g7"
+      "title": "Prescription infirmière : ce que change le second arrêté du 26 juin 2026",
+      "summary": "Depuis le 26 juin 2026, les infirmiers peuvent prescrire sans ordonnance médicale préalable l'ensemble des vaccins du calendrier (dès 11 ans), les pansements et dispositifs de prise en charge des plaies, la contraception d'urgence et des tests IST, et renouveler une contraception orale pour six mois maximum.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
     },
     {
       "category": "formation",
-      "title": "IFSI : le nouveau référentiel de formation (4 620 heures) entre en vigueur dès la rentrée de septembre",
-      "summary": "Porté par le décret du 20 février 2026, le cursus passe de 4 200 à 4 620 heures sur trois ans ; la prescription infirmière entre en formation dès la 3e année et la psychiatrie comme la santé de l'enfant deviennent des terrains de stage obligatoires.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
+      "title": "DPC infirmiers 2026 : les nouvelles règles de prise en charge sont publiées",
+      "summary": "L'Agence Nationale du DPC fixe le tarif de prise en charge des formations infirmières 2026 à 38 €/heure en présentiel et en classe virtuelle, avec une prise en charge à 100 % des frais pédagogiques dans la limite de 14 heures et une remise à zéro des compteurs au 1er janvier 2026.",
+      "source": "Agence Nationale du DPC",
+      "url": "https://www.agencedpc.fr/sites/default/files/2025-12/Forfaits_infirmiers_2026.pdf"
     }
   ],
   "word": {
-    "field": "Urgences · cardio-respiratoire",
-    "term": "Œdème aigu du poumon (OAP)",
-    "subtitle": "Détresse respiratoire brutale par inondation alvéolaire d'origine cardiaque",
-    "definition": "Accumulation rapide de liquide dans les alvéoles pulmonaires, le plus souvent secondaire à une décompensation cardiaque gauche, entraînant une détresse respiratoire aiguë qui nécessite une prise en charge en urgence.",
+    "field": "Gestes & soins · Urologie",
+    "term": "Sondage vésical",
+    "subtitle": "Pose d'une sonde urinaire à demeure, geste technique à risque infectieux",
+    "definition": "Introduction d'une sonde stérile dans la vessie par l'urètre pour drainer les urines, sur prescription médicale, exposant au risque d'infection urinaire associée aux soins si l'asepsie n'est pas rigoureuse.",
     "steps": [
-      { "n": "1", "h": "Reconnaître", "t": "polypnée, orthopnée, sueurs, crépitants bilatéraux à l'auscultation, parfois expectoration mousseuse rosée." },
-      { "n": "2", "h": "Installer et oxygéner", "t": "position demi-assise, oxygénothérapie ou VNI, voie veineuse, monitorage SpO2/FR/TA." },
-      { "n": "3", "h": "Traiter et surveiller", "t": "diurétique IV sur prescription, réévaluation de la diurèse et de la saturation, traçabilité des paramètres." }
+      { "n": "1", "h": "Vérifier l'indication", "t": "rétention aiguë, surveillance de diurèse horaire, geste chirurgical ; écarter les alternatives (étui pénien, sondages itératifs)." },
+      { "n": "2", "h": "Poser en asepsie stricte", "t": "champ stérile, désinfection du méat, lubrifiant anesthésiant, sonde de calibre adapté, système clos dès la pose." },
+      { "n": "3", "h": "Surveiller et tracer", "t": "aspect et volume des urines, fixation, poche sous le niveau de la vessie, ablation dès que possible pour limiter le risque infectieux." }
     ],
-    "retenir": "Le repérage infirmier précoce des signes d'OAP et la position demi-assise immédiate limitent l'aggravation avant l'arrivée du traitement diurétique. ",
-    "sources": "Sources : SFMU · HAS."
+    "retenir": "Le système clos et le retrait précoce de la sonde restent les deux leviers infirmiers majeurs pour prévenir l'infection urinaire associée aux soins. ",
+    "sources": "Sources : SF2H · HAS."
   }
 }

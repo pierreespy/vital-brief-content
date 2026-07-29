@@ -1,71 +1,71 @@
 {
-  "dateLong": "Mar. 28 juil.",
+  "dateLong": "Mer. 29 juil.",
   "essentiel": [
-    { "text": "Deux " },
-    { "text": "arrêtés du 26 juin 2026", "strong": true },
-    { "text": " élargissent les actes et les prescriptions infirmières, la " },
-    { "text": "HAS", "strong": true },
-    { "text": " se prononce pour une obligation vaccinale antigrippale des soignants, et l'" },
-    { "text": "ANSM", "strong": true },
-    { "text": " alerte sur un défaut de canule des pompes à insuline " },
-    { "text": "Omnipod", "strong": true },
-    { "text": "." }
+    { "text": "Un " },
+    { "text": "décret du 20 juillet 2026", "strong": true },
+    { "text": " facilite le dépôt de plainte des infirmiers libéraux agressés, l'" },
+    { "text": "avenant 11", "strong": true },
+    { "text": " acte une revalorisation de l'AMI de " },
+    { "text": "9,5 %", "strong": true },
+    { "text": ", et " },
+    { "text": "Santé publique France", "strong": true },
+    { "text": " recense un pic historique de passages aux urgences après la canicule de juillet." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Arrêté du 26 juin 2026 : la liste des actes et soins infirmiers redéfinie",
-      "summary": "Pris en application de la loi infirmière du 27 juin 2025, ce texte reconnaît une expertise clinique de premier recours aux infirmiers diplômés d'État, avec un droit de prescription circonscrit et traçable en vaccination, plaies, santé sexuelle et douleur de premier niveau.",
+      "title": "Agressions de soignants : le décret du 20 juillet 2026 facilite le dépôt de plainte via l'Ordre",
+      "summary": "Le décret n° 2026-641 permet aux infirmiers libéraux victimes de violences dans l'exercice de leur activité de mandater leur conseil de l'Ordre ou leur URPS pour porter plainte en leur nom, sur mandat écrit signé et pièce d'identité.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054448016"
     },
     {
       "category": "alertes",
-      "title": "Pompes à insuline Omnipod : l'ANSM alerte sur un défaut de canule à risque de sous-dosage",
-      "summary": "Insulet a identifié une déchirure possible sur la canule externe de certains lots d'Omnipod 5, Omnipod DASH et Omnipod, pouvant provoquer une fuite d'insuline et exposer à une acidocétose diabétique ; la distribution de ces lots a été arrêtée le 28 février 2026.",
+      "title": "ANSM : rappels de dispositifs médicaux hospitaliers fin juillet (moniteurs, occludeur cardiaque, respirateurs d'anesthésie)",
+      "summary": "L'ANSM a publié le 28 juillet 2026 plusieurs alertes concernant notamment les moniteurs de surveillance cardio-respiratoire BeneVision/BeneHeart (Mindray), l'occludeur intracardiaque Figulla Flex II ASD et les respirateurs d'anesthésie Flow-i (Getinge).",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/pompe-a-insuline-externe-systeme-de-delivrance-dinsuline-omnipod-5-omnipod-dash-et-omnipod-insulet-defaut-de-la-canule"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "La HAS se prononce pour une obligation vaccinale antigrippale des soignants",
-      "summary": "Face à une couverture vaccinale des professionnels de santé de seulement 20 % en établissements et 21 % en Ehpad lors de la saison 2024-2025, la HAS recommande une obligation vaccinale déployée progressivement sur deux ans pour les soignants, étudiants des filières médicales et paramédicales et personnels d'Ehpad/USLD.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4214093/fr/la-has-se-prononce-sur-l-obligation-vaccinale-contre-la-grippe"
+      "title": "Canicule de juillet 2026 : Santé publique France recense un pic historique de passages aux urgences",
+      "summary": "Le bulletin du 22 juillet 2026 fait état de 98 % de la population sous vigilance orange ou rouge canicule entre le 4 et le 15 juillet, avec des passages aux urgences pour hyperthermie et déshydratation à des niveaux jamais observés depuis 2004.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/climat/fortes-chaleurs-canicule/bulletin-national/canicule-et-sante-en-france-bulletin-du-22-juillet-2026"
     },
     {
       "category": "profession",
-      "title": "Le SNPI détaille cinq priorités pour « rebâtir l'hôpital »",
-      "summary": "Le Syndicat National des Professionnels Infirmiers appelle à sécuriser les effectifs par des ratios soignants/patients, recentrer l'hôpital sur ses missions de service public territorial et réformer durablement le financement, la prévention et la souveraineté sanitaire.",
-      "source": "SNPI",
-      "url": "https://syndicat-infirmier.com/Rebatir-l-hopital-les-cinq-priorites-pour-sauver-le-service-public-de-sante.html"
+      "title": "IDEL : l'avenant 11 acte une revalorisation de 9,5 % de l'AMI, une première depuis 2009",
+      "summary": "Signé le 31 mars par la Cnam et les trois syndicats représentatifs (FNI, SNIIL, Convergence infirmière), le texte relève la lettre-clé AMI de 20 centimes dès novembre 2026 puis de 10 centimes en 2027 ; la FNI réclame une application sans délai.",
+      "source": "FNI",
+      "url": "https://fni.fr/negos-conventionnelles-pas-de-temps-a-perdre-pour-les-revalos/"
     },
     {
       "category": "technique",
-      "title": "Prescription infirmière : ce que change le second arrêté du 26 juin 2026",
-      "summary": "Depuis le 26 juin 2026, les infirmiers peuvent prescrire sans ordonnance médicale préalable l'ensemble des vaccins du calendrier (dès 11 ans), les pansements et dispositifs de prise en charge des plaies, la contraception d'urgence et des tests IST, et renouveler une contraception orale pour six mois maximum.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
+      "title": "Cathéters courts, voie intra-osseuse, TPN : les nouveaux gestes techniques ouverts aux IDE",
+      "summary": "L'arrêté du 26 juin 2026 autorise désormais les infirmiers à poser et retirer des cathéters veineux périphériques courts et intra-osseux, à retirer des cathéters centraux et périnerveux, et à réaliser la thérapie par pression négative sur plaies complexes.",
+      "source": "Caducee.net",
+      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
     },
     {
       "category": "formation",
-      "title": "DPC infirmiers 2026 : les nouvelles règles de prise en charge sont publiées",
-      "summary": "L'Agence Nationale du DPC fixe le tarif de prise en charge des formations infirmières 2026 à 38 €/heure en présentiel et en classe virtuelle, avec une prise en charge à 100 % des frais pédagogiques dans la limite de 14 heures et une remise à zéro des compteurs au 1er janvier 2026.",
-      "source": "Agence Nationale du DPC",
-      "url": "https://www.agencedpc.fr/sites/default/files/2025-12/Forfaits_infirmiers_2026.pdf"
+      "title": "DPC : l'administratrice provisoire de l'ANDPC engage la transition vers la certification périodique",
+      "summary": "Après le départ de la directrice générale le 11 janvier 2026, Sandrine Pautot pilote la fin programmée de l'Agence nationale du DPC, dont les missions scientifiques devraient basculer vers la HAS et les missions financières vers France Compétences.",
+      "source": "Le Moniteur des pharmacies",
+      "url": "https://www.lemoniteurdespharmacies.fr/profession/socio-professionnel/landpc-fermera-t-elle-ses-portes-en-2026"
     }
   ],
   "word": {
-    "field": "Gestes & soins · Urologie",
-    "term": "Sondage vésical",
-    "subtitle": "Pose d'une sonde urinaire à demeure, geste technique à risque infectieux",
-    "definition": "Introduction d'une sonde stérile dans la vessie par l'urètre pour drainer les urines, sur prescription médicale, exposant au risque d'infection urinaire associée aux soins si l'asepsie n'est pas rigoureuse.",
+    "field": "Gestes & soins · Urgences",
+    "term": "Voie intra-osseuse",
+    "subtitle": "Accès vasculaire d'urgence par la moelle osseuse quand la voie veineuse est impossible",
+    "definition": "Insertion d'une aiguille spécifique dans la cavité médullaire d'un os long ou du sternum pour perfuser rapidement solutés et médicaments lorsque l'abord veineux périphérique échoue ou prendrait trop de temps en situation d'urgence vitale.",
     "steps": [
-      { "n": "1", "h": "Vérifier l'indication", "t": "rétention aiguë, surveillance de diurèse horaire, geste chirurgical ; écarter les alternatives (étui pénien, sondages itératifs)." },
-      { "n": "2", "h": "Poser en asepsie stricte", "t": "champ stérile, désinfection du méat, lubrifiant anesthésiant, sonde de calibre adapté, système clos dès la pose." },
-      { "n": "3", "h": "Surveiller et tracer", "t": "aspect et volume des urines, fixation, poche sous le niveau de la vessie, ablation dès que possible pour limiter le risque infectieux." }
+      { "n": "1", "h": "Identifier l'indication", "t": "arrêt cardiaque, choc hémorragique ou état de mal chez un patient sans accès veineux rapide, en pré-hospitalier comme en réanimation." },
+      { "n": "2", "h": "Poser au bon site", "t": "tibia proximal, humérus proximal ou sternum selon le dispositif ; asepsie, fixation du perforateur, vérification du reflux médullaire ou du test au sérum physiologique." },
+      { "n": "3", "h": "Surveiller et retirer rapidement", "t": "douleur à l'injection, syndrome des loges au point d'insertion, ablation dès qu'une voie veineuse est obtenue (limite habituelle 24 h)." }
     ],
-    "retenir": "Le système clos et le retrait précoce de la sonde restent les deux leviers infirmiers majeurs pour prévenir l'infection urinaire associée aux soins. ",
-    "sources": "Sources : SF2H · HAS."
+    "retenir": "La voie intra-osseuse permet une perfusion aussi rapide que la voie veineuse centrale mais reste une solution transitoire, à remplacer dès que possible par un abord veineux classique. ",
+    "sources": "Sources : SFMU · ERC."
   }
 }

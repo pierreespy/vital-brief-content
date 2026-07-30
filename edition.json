@@ -1,71 +1,71 @@
 {
-  "dateLong": "Mer. 29 juil.",
+  "dateLong": "Jeu. 30 juil.",
   "essentiel": [
-    { "text": "Un " },
-    { "text": "décret du 20 juillet 2026", "strong": true },
-    { "text": " facilite le dépôt de plainte des infirmiers libéraux agressés, l'" },
-    { "text": "avenant 11", "strong": true },
-    { "text": " acte une revalorisation de l'AMI de " },
-    { "text": "9,5 %", "strong": true },
-    { "text": ", et " },
+    { "text": "Le " },
+    { "text": "Journal officiel", "strong": true },
+    { "text": " publie l'avis de représentativité syndicale des infirmiers libéraux, l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " étend le rappel du réchauffeur de sang M Warmer, et " },
     { "text": "Santé publique France", "strong": true },
-    { "text": " recense un pic historique de passages aux urgences après la canicule de juillet." }
+    { "text": " dresse le bilan de la canicule de juillet : " },
+    { "text": "587 passages aux urgences", "strong": true },
+    { "text": " au pic du 10 juillet." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Agressions de soignants : le décret du 20 juillet 2026 facilite le dépôt de plainte via l'Ordre",
-      "summary": "Le décret n° 2026-641 permet aux infirmiers libéraux victimes de violences dans l'exercice de leur activité de mandater leur conseil de l'Ordre ou leur URPS pour porter plainte en leur nom, sur mandat écrit signé et pièce d'identité.",
+      "title": "Représentativité des syndicats d'infirmiers libéraux : l'avis officiel paraît au JO",
+      "summary": "Publié au JORF du 28 juillet 2026, cet avis relatif à l'enquête de représentativité (art. L. 162-33 du code de la sécurité sociale) déterminera quelles organisations syndicales négocieront la prochaine convention nationale des IDEL.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054448016"
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/07/28/0174"
     },
     {
       "category": "alertes",
-      "title": "ANSM : rappels de dispositifs médicaux hospitaliers fin juillet (moniteurs, occludeur cardiaque, respirateurs d'anesthésie)",
-      "summary": "L'ANSM a publié le 28 juillet 2026 plusieurs alertes concernant notamment les moniteurs de surveillance cardio-respiratoire BeneVision/BeneHeart (Mindray), l'occludeur intracardiaque Figulla Flex II ASD et les respirateurs d'anesthésie Flow-i (Getinge).",
+      "title": "ANSM : extension du rappel du réchauffeur de sang et de perfusion M Warmer (Mequ A/S)",
+      "summary": "L'ANSM a diffusé le 28 juillet 2026 une extension de rappel de lots visant les pharmacies, PUI, établissements de santé et prestataires de soins à domicile utilisant ce dispositif de réchauffement des solutés.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "url": "https://ansm.sante.fr/informations-de-securite/dmu-pour-rechauffeur-de-sang-m-warmer-mequ-a-s-extension-de-rappel"
     },
     {
       "category": "science",
-      "title": "Canicule de juillet 2026 : Santé publique France recense un pic historique de passages aux urgences",
-      "summary": "Le bulletin du 22 juillet 2026 fait état de 98 % de la population sous vigilance orange ou rouge canicule entre le 4 et le 15 juillet, avec des passages aux urgences pour hyperthermie et déshydratation à des niveaux jamais observés depuis 2004.",
+      "title": "Canicule de juillet : Santé publique France publie le bilan complet des trois semaines de vague de chaleur",
+      "summary": "Le bulletin du 29 juillet 2026 chiffre le pic à 587 passages aux urgences le 10 juillet et 250 à 350 hospitalisations quotidiennes jusqu'au 16 juillet, avec 37 départements en alerte rouge entre le 10 et le 15 juillet.",
       "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/climat/fortes-chaleurs-canicule/bulletin-national/canicule-et-sante-en-france-bulletin-du-22-juillet-2026"
+      "url": "https://www.santepubliquefrance.fr/climat/fortes-chaleurs-canicule/bulletin-national/canicule-et-sante-en-france-bulletin-du-29-juillet-2026"
     },
     {
       "category": "profession",
-      "title": "IDEL : l'avenant 11 acte une revalorisation de 9,5 % de l'AMI, une première depuis 2009",
-      "summary": "Signé le 31 mars par la Cnam et les trois syndicats représentatifs (FNI, SNIIL, Convergence infirmière), le texte relève la lettre-clé AMI de 20 centimes dès novembre 2026 puis de 10 centimes en 2027 ; la FNI réclame une application sans délai.",
-      "source": "FNI",
-      "url": "https://fni.fr/negos-conventionnelles-pas-de-temps-a-perdre-pour-les-revalos/"
+      "title": "Prescription infirmière autonome : la HAS donne un avis favorable, mais sous réserve",
+      "summary": "Dans son avis n° 2026.0033/AC/SBP, la HAS valide le périmètre proposé (vaccins, plaies, santé sexuelle, sevrage tabagique, biologie ciblée) tout en pointant des réserves sur plusieurs examens biologiques.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-avis-favorable-de-la-has-mais-des-reserves-qui-persistent"
     },
     {
       "category": "technique",
-      "title": "Cathéters courts, voie intra-osseuse, TPN : les nouveaux gestes techniques ouverts aux IDE",
-      "summary": "L'arrêté du 26 juin 2026 autorise désormais les infirmiers à poser et retirer des cathéters veineux périphériques courts et intra-osseux, à retirer des cathéters centraux et périnerveux, et à réaliser la thérapie par pression négative sur plaies complexes.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
+      "title": "Capteurs de glucose interstitiel et dispositifs de perfusion à domicile : ce que les IDE peuvent désormais prescrire",
+      "summary": "L'arrêté du 26 juin 2026 fixant la liste des produits de santé prescriptibles par les infirmiers ouvre le renouvellement à l'identique du matériel de surveillance glycémique et des dispositifs de perfusion à domicile.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
     },
     {
       "category": "formation",
-      "title": "DPC : l'administratrice provisoire de l'ANDPC engage la transition vers la certification périodique",
-      "summary": "Après le départ de la directrice générale le 11 janvier 2026, Sandrine Pautot pilote la fin programmée de l'Agence nationale du DPC, dont les missions scientifiques devraient basculer vers la HAS et les missions financières vers France Compétences.",
-      "source": "Le Moniteur des pharmacies",
-      "url": "https://www.lemoniteurdespharmacies.fr/profession/socio-professionnel/landpc-fermera-t-elle-ses-portes-en-2026"
+      "title": "DPC : les orientations prioritaires 2023-2025 prorogées jusqu'à fin 2027",
+      "summary": "Un arrêté du 3 juin 2026 proroge les orientations nationales prioritaires de DPC : toutes les actions déjà publiées restent valables, sécurisant les parcours de formation en cours pour les infirmiers.",
+      "source": "Agence du DPC",
+      "url": "https://www.agencedpc.fr/Prorogation-des-orientations-prioritaires-de-DPC"
     }
   ],
   "word": {
-    "field": "Gestes & soins · Urgences",
-    "term": "Voie intra-osseuse",
-    "subtitle": "Accès vasculaire d'urgence par la moelle osseuse quand la voie veineuse est impossible",
-    "definition": "Insertion d'une aiguille spécifique dans la cavité médullaire d'un os long ou du sternum pour perfuser rapidement solutés et médicaments lorsque l'abord veineux périphérique échoue ou prendrait trop de temps en situation d'urgence vitale.",
+    "field": "Urgences · Oncologie",
+    "term": "Neutropénie fébrile",
+    "subtitle": "Fièvre chez un patient dont les globules blancs sont effondrés par la chimiothérapie : une urgence vitale",
+    "definition": "Élévation thermique ≥ 38,3 °C associée à un taux de polynucléaires neutrophiles inférieur à 500/mm³, le plus souvent après chimiothérapie, exposant à un risque d'infection sévère et de choc septique en quelques heures.",
     "steps": [
-      { "n": "1", "h": "Identifier l'indication", "t": "arrêt cardiaque, choc hémorragique ou état de mal chez un patient sans accès veineux rapide, en pré-hospitalier comme en réanimation." },
-      { "n": "2", "h": "Poser au bon site", "t": "tibia proximal, humérus proximal ou sternum selon le dispositif ; asepsie, fixation du perforateur, vérification du reflux médullaire ou du test au sérum physiologique." },
-      { "n": "3", "h": "Surveiller et retirer rapidement", "t": "douleur à l'injection, syndrome des loges au point d'insertion, ablation dès qu'une voie veineuse est obtenue (limite habituelle 24 h)." }
+      { "n": "1", "h": "Repérer", "t": "toute fièvre chez un patient sous chimiothérapie récente doit être considérée comme une neutropénie fébrile jusqu'à preuve du contraire." },
+      { "n": "2", "h": "Alerter et prélever", "t": "hémocultures avant toute antibiothérapie, numération formule sanguine en urgence, contact médical immédiat sans attendre les résultats." },
+      { "n": "3", "h": "Traiter dans l'heure", "t": "antibiothérapie probabiliste à large spectre débutée idéalement dans les 60 minutes, isolement protecteur, surveillance hémodynamique rapprochée." }
     ],
-    "retenir": "La voie intra-osseuse permet une perfusion aussi rapide que la voie veineuse centrale mais reste une solution transitoire, à remplacer dès que possible par un abord veineux classique. ",
-    "sources": "Sources : SFMU · ERC."
+    "retenir": "Toute fièvre chez un patient neutropénique est une urgence : le délai avant l'antibiothérapie conditionne directement le pronostic vital. ",
+    "sources": "Sources : SFH · HAS."
   }
 }

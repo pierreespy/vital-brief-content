@@ -1,71 +1,69 @@
 {
-  "dateLong": "Jeu. 30 juil.",
+  "dateLong": "Ven. 31 juil.",
   "essentiel": [
-    { "text": "Le " },
-    { "text": "Journal officiel", "strong": true },
-    { "text": " publie l'avis de représentativité syndicale des infirmiers libéraux, l'" },
+    { "text": "La " },
+    { "text": "HAS", "strong": true },
+    { "text": " recommande une vaccination antigrippale obligatoire pour les soignants, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " étend le rappel du réchauffeur de sang M Warmer, et " },
-    { "text": "Santé publique France", "strong": true },
-    { "text": " dresse le bilan de la canicule de juillet : " },
-    { "text": "587 passages aux urgences", "strong": true },
-    { "text": " au pic du 10 juillet." }
+    { "text": " rappelle des sachets de Movicol dépourvus d'électrolytes, et le " },
+    { "text": "nouveau référentiel de formation infirmière", "strong": true },
+    { "text": " entrera en vigueur dès la rentrée de septembre 2026." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Représentativité des syndicats d'infirmiers libéraux : l'avis officiel paraît au JO",
-      "summary": "Publié au JORF du 28 juillet 2026, cet avis relatif à l'enquête de représentativité (art. L. 162-33 du code de la sécurité sociale) déterminera quelles organisations syndicales négocieront la prochaine convention nationale des IDEL.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/07/28/0174"
+      "title": "Vaccination antigrippale : la HAS se prononce pour une obligation vaccinale des soignants",
+      "summary": "Dans un avis publié le 20 juillet 2026, la HAS recommande de rendre la vaccination contre la grippe obligatoire pour l'ensemble des professionnels de santé, avec un déploiement prioritaire en Ehpad et USLD ; un décret en Conseil d'État doit désormais en fixer les modalités.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_4214093/fr/la-has-se-prononce-sur-l-obligation-vaccinale-contre-la-grippe"
     },
     {
       "category": "alertes",
-      "title": "ANSM : extension du rappel du réchauffeur de sang et de perfusion M Warmer (Mequ A/S)",
-      "summary": "L'ANSM a diffusé le 28 juillet 2026 une extension de rappel de lots visant les pharmacies, PUI, établissements de santé et prestataires de soins à domicile utilisant ce dispositif de réchauffement des solutés.",
+      "title": "ANSM : rappel de lot de Movicol, poudre pour solution buvable (laboratoire Norgine)",
+      "summary": "Le laboratoire Norgine SAS rappelle le lot 472732 (péremption 07/2028) de Movicol après la découverte de sachets ne contenant pas d'électrolytes, un défaut susceptible d'exposer les patients à un déséquilibre électrolytique en cas d'usage prolongé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/dmu-pour-rechauffeur-de-sang-m-warmer-mequ-a-s-extension-de-rappel"
+      "url": "https://ansm.sante.fr/informations-de-securite/movicol-poudre-pour-solution-buvable-en-sachet-laboratoire-norgine-sas"
     },
     {
       "category": "science",
-      "title": "Canicule de juillet : Santé publique France publie le bilan complet des trois semaines de vague de chaleur",
-      "summary": "Le bulletin du 29 juillet 2026 chiffre le pic à 587 passages aux urgences le 10 juillet et 250 à 350 hospitalisations quotidiennes jusqu'au 16 juillet, avec 37 départements en alerte rouge entre le 10 et le 15 juillet.",
+      "title": "Virus West Nile : premier cas autochtone de l'année identifié dans les Pyrénées-Orientales",
+      "summary": "Le bulletin de surveillance renforcée des arboviroses de Santé publique France du 16 juillet 2026 rapporte un premier cas autochtone d'infection à virus West Nile, contracté par piqûre de moustique en métropole et ayant nécessité une hospitalisation.",
       "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/climat/fortes-chaleurs-canicule/bulletin-national/canicule-et-sante-en-france-bulletin-du-29-juillet-2026"
+      "url": "https://www.santepubliquefrance.fr/maladies-a-transmission-vectorielle/chikungunya/bulletin-national/chikungunya-dengue-zika-et-16"
     },
     {
       "category": "profession",
-      "title": "Prescription infirmière autonome : la HAS donne un avis favorable, mais sous réserve",
-      "summary": "Dans son avis n° 2026.0033/AC/SBP, la HAS valide le périmètre proposé (vaccins, plaies, santé sexuelle, sevrage tabagique, biologie ciblée) tout en pointant des réserves sur plusieurs examens biologiques.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-avis-favorable-de-la-has-mais-des-reserves-qui-persistent"
+      "title": "Infirmier référent : le décret précisant ses missions est publié",
+      "summary": "Le décret n° 2026-396 du 22 mai 2026 définit les missions de l'infirmier référent — prévention, suivi et coordination des soins du patient en lien avec le médecin traitant — et ouvre l'accès au dossier médical partagé pour cette nouvelle fonction.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
     },
     {
       "category": "technique",
-      "title": "Capteurs de glucose interstitiel et dispositifs de perfusion à domicile : ce que les IDE peuvent désormais prescrire",
-      "summary": "L'arrêté du 26 juin 2026 fixant la liste des produits de santé prescriptibles par les infirmiers ouvre le renouvellement à l'identique du matériel de surveillance glycémique et des dispositifs de perfusion à domicile.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
+      "title": "Objets connectés : 68 % des infirmières libérales en utilisent au moins un en tournée",
+      "summary": "Tensiomètres, thermomètres et glucomètres connectés se généralisent dans la pratique des IDEL, qui y voient un gain de temps et de sécurité pour le suivi des paramètres vitaux à domicile, selon les données de l'Ordre national des infirmiers.",
+      "source": "La Ruche des IDEL",
+      "url": "https://laruche.cbainfo.fr/actualites/objets-connectes-en-sante/"
     },
     {
       "category": "formation",
-      "title": "DPC : les orientations prioritaires 2023-2025 prorogées jusqu'à fin 2027",
-      "summary": "Un arrêté du 3 juin 2026 proroge les orientations nationales prioritaires de DPC : toutes les actions déjà publiées restent valables, sécurisant les parcours de formation en cours pour les infirmiers.",
-      "source": "Agence du DPC",
-      "url": "https://www.agencedpc.fr/Prorogation-des-orientations-prioritaires-de-DPC"
+      "title": "IFSI : le nouveau référentiel de formation infirmière s'appliquera dès septembre 2026",
+      "summary": "Pris par l'arrêté du 20 février 2026, le nouveau référentiel restructure la formation autour de 5 domaines et 13 compétences, porte les stages à 66 semaines et introduit la prescription infirmière dans le cursus initial.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/etudiants/admission-et-cursus-en-ifsi/le-nouveau-referentiel-de-formation-infirmiere-annonce-pour-septembre-2026"
     }
   ],
   "word": {
-    "field": "Urgences · Oncologie",
-    "term": "Neutropénie fébrile",
-    "subtitle": "Fièvre chez un patient dont les globules blancs sont effondrés par la chimiothérapie : une urgence vitale",
-    "definition": "Élévation thermique ≥ 38,3 °C associée à un taux de polynucléaires neutrophiles inférieur à 500/mm³, le plus souvent après chimiothérapie, exposant à un risque d'infection sévère et de choc septique en quelques heures.",
+    "field": "Douleur · Pharmacologie",
+    "term": "Antalgie multimodale",
+    "subtitle": "Associer plusieurs classes d'antalgiques pour soulager plus efficacement, à doses plus faibles",
+    "definition": "Stratégie thérapeutique combinant des antalgiques d'action et de mécanismes différents (paliers 1, 2, 3, co-antalgiques) pour obtenir une analgésie optimale tout en limitant les effets indésirables liés à de fortes doses d'une seule molécule.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "toute fièvre chez un patient sous chimiothérapie récente doit être considérée comme une neutropénie fébrile jusqu'à preuve du contraire." },
-      { "n": "2", "h": "Alerter et prélever", "t": "hémocultures avant toute antibiothérapie, numération formule sanguine en urgence, contact médical immédiat sans attendre les résultats." },
-      { "n": "3", "h": "Traiter dans l'heure", "t": "antibiothérapie probabiliste à large spectre débutée idéalement dans les 60 minutes, isolement protecteur, surveillance hémodynamique rapprochée." }
+      { "n": "1", "h": "Évaluer", "t": "mesurer la douleur avec une échelle adaptée (EVA, EN, Algoplus) avant et après chaque antalgique administré." },
+      { "n": "2", "h": "Associer", "t": "combiner les paliers selon la prescription (ex. paracétamol + AINS + morphinique) en respectant horaires et contre-indications." },
+      { "n": "3", "h": "Surveiller", "t": "réévaluer régulièrement l'efficacité et les effets secondaires (somnolence, dépression respiratoire, constipation) pour ajuster les doses." }
     ],
-    "retenir": "Toute fièvre chez un patient neutropénique est une urgence : le délai avant l'antibiothérapie conditionne directement le pronostic vital. ",
-    "sources": "Sources : SFH · HAS."
+    "retenir": "Associer plutôt qu'augmenter une seule molécule réduit les effets secondaires tout en améliorant le soulagement de la douleur. ",
+    "sources": "Sources : SFETD · HAS."
   }
 }

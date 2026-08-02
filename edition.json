@@ -1,69 +1,69 @@
 {
-  "dateLong": "Sam. 1er août",
+  "dateLong": "Dim. 2 août",
   "essentiel": [
-    { "text": "Les nouveaux arrêtés du " },
-    { "text": "26 juin 2026", "strong": true },
-    { "text": " élargissent le rôle propre et la prescription infirmière, l'" },
-    { "text": "ANSM", "strong": true },
-    { "text": " rappelle un lot de sets de perfusion Spike 4038, et la " },
+    { "text": "La " },
     { "text": "HAS", "strong": true },
-    { "text": " détaille sa feuille de route sur les ratios minimums de soignants." }
+    { "text": " recommande une vaccination antigrippale obligatoire pour tous les soignants, l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " rappelle un lot de Movicol dépourvu d'électrolytes, et " },
+    { "text": "Santé publique France", "strong": true },
+    { "text": " confirme un premier cas de virus West Nile dans les Pyrénées-Orientales." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Nouveaux actes et prescriptions infirmiers : les arrêtés du 26 juin 2026 publiés au Journal officiel",
-      "summary": "Pris en application de la loi du 27 juin 2025 et du décret du 24 décembre 2025, ces deux arrêtés élargissent le rôle propre infirmier (ECG 12 dérivations, lecture d'IDR tuberculinique) et ouvrent la prescription aux pansements, supports de prévention d'escarres et dispositifs de compression.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "title": "Grippe : la HAS recommande une vaccination obligatoire pour tous les professionnels de santé",
+      "summary": "Dans son avis du 20 juillet 2026, la Haute Autorité de santé préconise une obligation vaccinale annuelle pour les soignants salariés et libéraux, à déployer en priorité en Ehpad et en unités de soins de longue durée.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_3701698/fr/grippe-saisonniere-evaluation-de-la-pertinence-d-une-obligation-vaccinale"
     },
     {
       "category": "alertes",
-      "title": "ANSM : rappel de sets de perfusion Spike 4038 (Sidam Srl)",
-      "summary": "L'information de sécurité n° R2613270, publiée le 30 juillet 2026, demande aux pharmacies à usage intérieur et établissements de santé de retirer le lot concerné de ce dispositif utilisé pour la perfusion.",
+      "title": "ANSM : rappel de lot de Movicol, poudre pour solution buvable (laboratoire Norgine)",
+      "summary": "Publié le 29 juillet 2026, le rappel concerne le lot 472732 (péremption 07/2028), dont certains sachets se sont révélés dépourvus d'électrolytes.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/set-de-perfusion-spike-4038-sidam-srl"
+      "url": "https://ansm.sante.fr/informations-de-securite/movicol-poudre-pour-solution-buvable-en-sachet-laboratoire-norgine-sas"
     },
     {
       "category": "science",
-      "title": "Ratios minimums de soignants : la HAS publie sa feuille de route",
-      "summary": "Dans sa note de cadrage de juin 2026, la HAS annonce un premier avis sur les ratios minimums en obstétrique-néonatologie pour novembre 2026 — en vue d'un décret au 1er janvier 2027 — avant des propositions pour la psychiatrie et les soins palliatifs en 2027.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage"
+      "title": "Virus West Nile : premier cas humain autochtone de 2026 détecté dans les Pyrénées-Orientales",
+      "summary": "Le bulletin de surveillance renforcée de Santé publique France du 23 juillet 2026 confirme une contamination locale par piqûre de moustique, sans voyage récent en zone endémique.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-a-transmission-vectorielle/chikungunya/bulletin-national/chikungunya-dengue-zika-et-17"
     },
     {
       "category": "profession",
-      "title": "Démographie infirmière : jusqu'à 815 000 professionnels projetés en 2040, pour des besoins en hausse d'au moins 54 %",
-      "summary": "L'Ordre national des infirmiers publie une étude selon laquelle les effectifs, actuellement de 565 553 infirmiers, pourraient atteindre entre 693 000 et 815 000 en 2040, sans suffire à couvrir la hausse des besoins liée au vieillissement et aux maladies chroniques.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-publie-une-nouvelle-etude-sur-la-demographie-de-la-profession-et"
+      "title": "Universitarisation des IFSI : la rentrée de septembre 2026 marque une étape charnière",
+      "summary": "Les étudiants entrant en première année dès le 1er septembre 2026 recevront un diplôme délivré par les universités accréditées, dans un cursus porté à 4 600 heures conformément aux standards européens.",
+      "source": "L'Étudiant · Educpros",
+      "url": "https://www.letudiant.fr/educpros/actualite/universitarisation-des-ifsi-la-rentree-2026-marque-une-etape-importante.html"
     },
     {
       "category": "technique",
-      "title": "Alliance Santé IA : 14,9 M€ pour le premier hôpital augmenté par l'intelligence artificielle",
-      "summary": "Annoncé le 9 avril 2026 dans le cadre de France 2030, ce projet mobilise le CHU de Montpellier pour déployer une IA hospitalière souveraine capable de structurer les données cliniques, biologiques et d'imagerie, avec de premiers effets attendus fin 2026.",
-      "source": "Hospimedia",
-      "url": "https://www.hospimedia.fr/actualite/articles/20260410-e-sante-le-premier-grand-projet-d-hopital"
+      "title": "ANSM : action de sécurité sur le stérilisateur basse température Getinge Poladus 150",
+      "summary": "L'information de sécurité R2621269, publiée le 30 juillet 2026 par Maquet GmbH, concerne les établissements de santé équipés de ce stérilisateur pour dispositifs thermosensibles.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/sterilisateur-getinge-poladus-150-maquet-gmbh"
     },
     {
       "category": "formation",
-      "title": "Certification périodique : les référentiels infirmiers officialisés par l'arrêté du 26 février 2026",
-      "summary": "Publié au Journal officiel le 27 février 2026, l'arrêté fixe les référentiels de certification périodique de l'ensemble des professions de santé ordinales, dont cinq déclinaisons infirmières (IDE, IADE, IBODE, IPA, puéricultrice), sur un cycle de six ans.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053587033"
+      "title": "DPC 2026 : les inscriptions aux sessions sont ouvertes, compteurs remis à zéro",
+      "summary": "L'Agence du DPC rappelle que les crédits de formation continue repartent à zéro pour 2026, avec une prise en charge à 100 % des frais pédagogiques en présentiel et en classe virtuelle.",
+      "source": "Agence du DPC",
+      "url": "https://www.agencedpc.fr/Les-inscriptions-aux-sessions-de-DPC-2026-sont-ouvertes"
     }
   ],
   "word": {
-    "field": "Réglementaire · Rôle propre",
-    "term": "Consultation infirmière",
-    "subtitle": "Un temps d'évaluation clinique mené en autonomie par l'infirmier, sans consultation médicale simultanée",
-    "definition": "Acte inscrit dans le rôle propre infirmier permettant d'évaluer l'état de santé d'un patient et de renouveler, adapter ou orienter certains soins dans un cadre réglementaire défini, en dehors de toute prescription médicale immédiate.",
+    "field": "Urgences · Vigilance",
+    "term": "Purpura fulminans",
+    "subtitle": "Une éruption purpurique extensive signant une septicémie foudroyante, urgence vitale absolue",
+    "definition": "Syndrome septique gravissime, le plus souvent à méningocoque, associant un état infectieux sévère à des taches purpuriques nécrotiques qui s'étendent en quelques heures, avec un risque majeur de choc et de défaillance multiviscérale.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "recueillir antécédents, traitement en cours et motif pour poser un jugement clinique infirmier." },
-      { "n": "2", "h": "Agir", "t": "renouveler, adapter ou orienter selon les référentiels en vigueur (pansements, dispositifs de compression, examens complémentaires...)." },
-      { "n": "3", "h": "Tracer", "t": "consigner la consultation dans le dossier patient et transmettre au médecin traitant si nécessaire." }
+      { "n": "1", "h": "Repérer", "t": "rechercher un purpura ne s'effaçant pas à la vitropression, associé à fièvre et altération de l'état général." },
+      { "n": "2", "h": "Alerter", "t": "antibiothérapie probabiliste immédiate si un accès veineux est disponible, appel du 15 sans délai." },
+      { "n": "3", "h": "Surveiller", "t": "constantes hémodynamiques rapprochées, extension des lésions, signes de choc jusqu'à la prise en charge en réanimation." }
     ],
-    "retenir": "La consultation infirmière formalise, dans un cadre réglementaire précis, une autonomie déjà exercée au quotidien. ",
-    "sources": "Sources : Légifrance · Ordre national des infirmiers."
+    "retenir": "Devant un purpura fébrile qui s'étend, chaque minute compte : l'antibiothérapie ne doit jamais attendre le transfert. ",
+    "sources": "Sources : HAS · SPILF."
   }
 }

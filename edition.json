@@ -1,69 +1,69 @@
 {
-  "dateLong": "Dim. 2 août",
+  "dateLong": "Lun. 3 août",
   "essentiel": [
-    { "text": "La " },
-    { "text": "HAS", "strong": true },
-    { "text": " recommande une vaccination antigrippale obligatoire pour tous les soignants, l'" },
+    { "text": "La loi de stratégie nationale contre les " },
+    { "text": "maladies cardio-neuro-vasculaires", "strong": true },
+    { "text": " est publiée au Journal officiel, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle un lot de Movicol dépourvu d'électrolytes, et " },
-    { "text": "Santé publique France", "strong": true },
-    { "text": " confirme un premier cas de virus West Nile dans les Pyrénées-Orientales." }
+    { "text": " alerte sur les dispositifs d'assistance ventriculaire Impella, et l'" },
+    { "text": "IRDES", "strong": true },
+    { "text": " documente les bénéfices du passage à l'exercice libéral sur la santé des infirmières." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Grippe : la HAS recommande une vaccination obligatoire pour tous les professionnels de santé",
-      "summary": "Dans son avis du 20 juillet 2026, la Haute Autorité de santé préconise une obligation vaccinale annuelle pour les soignants salariés et libéraux, à déployer en priorité en Ehpad et en unités de soins de longue durée.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_3701698/fr/grippe-saisonniere-evaluation-de-la-pertinence-d-une-obligation-vaccinale"
+      "title": "Maladies cardio-neuro-vasculaires : la loi de stratégie nationale est publiée au Journal officiel",
+      "summary": "Promulguée le 27 juillet 2026, la loi n° 2026-668 portée par le député Yannick Neuder généralise le dépistage aux moments clés de la vie et renforce la prévention en milieu professionnel.",
+      "source": "Vie publique",
+      "url": "https://www.vie-publique.fr/loi/303718-prevention-maladies-cardio-neuro-vasculaire-loi-neuder-27-juillet-2026"
     },
     {
       "category": "alertes",
-      "title": "ANSM : rappel de lot de Movicol, poudre pour solution buvable (laboratoire Norgine)",
-      "summary": "Publié le 29 juillet 2026, le rappel concerne le lot 472732 (péremption 07/2028), dont certains sachets se sont révélés dépourvus d'électrolytes.",
+      "title": "ANSM : information de sécurité sur les dispositifs d'assistance ventriculaire Impella (Abiomed)",
+      "summary": "Publiée le 30 juillet 2026 sous la référence R2620031, l'information concerne l'introducteur pour assistance ventriculaire (kits de pompe et packs individuels), à destination des établissements de santé utilisateurs.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/movicol-poudre-pour-solution-buvable-en-sachet-laboratoire-norgine-sas"
+      "url": "https://ansm.sante.fr/informations-de-securite/introducteur-pour-assistance-ventriculaire-impella-kits-de-pompe-et-packs-individuels-abiomed"
     },
     {
       "category": "science",
-      "title": "Virus West Nile : premier cas humain autochtone de 2026 détecté dans les Pyrénées-Orientales",
-      "summary": "Le bulletin de surveillance renforcée de Santé publique France du 23 juillet 2026 confirme une contamination locale par piqûre de moustique, sans voyage récent en zone endémique.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/maladies-a-transmission-vectorielle/chikungunya/bulletin-national/chikungunya-dengue-zika-et-17"
+      "title": "IRDES : le passage à l'exercice libéral améliore la santé des infirmières hospitalières épuisées",
+      "summary": "Le rapport n° 602 montre que les infirmières quittant l'hôpital présentent d'abord un état de santé dégradé, qui s'améliore après leur installation en libéral, le soutien social et la reconnaissance atténuant les risques psychosociaux.",
+      "source": "IRDES",
+      "url": "https://www.irdes.fr/recherche/2026/rapport-602-entre-hopital-et-liberal-trajectoires-professionnelles-et-sante-face-aux-facteurs-de-risques-psychosociaux-des-infirmieres.html"
     },
     {
       "category": "profession",
-      "title": "Universitarisation des IFSI : la rentrée de septembre 2026 marque une étape charnière",
-      "summary": "Les étudiants entrant en première année dès le 1er septembre 2026 recevront un diplôme délivré par les universités accréditées, dans un cursus porté à 4 600 heures conformément aux standards européens.",
-      "source": "L'Étudiant · Educpros",
-      "url": "https://www.letudiant.fr/educpros/actualite/universitarisation-des-ifsi-la-rentree-2026-marque-une-etape-importante.html"
+      "title": "Ordre infirmier : ouverture des candidatures pour les élections départementales et interdépartementales",
+      "summary": "Les infirmiers souhaitant devenir conseillers ordinaux doivent transmettre leur dossier de candidature avant le 30 septembre 2026 à 16h, en vue du scrutin de l'automne.",
+      "source": "Ordre infirmier",
+      "url": "https://www.ordre-infirmiers.fr/elections-ordinales-ouverture-des-candidatures-pour-les-conseils-departementaux-et"
     },
     {
       "category": "technique",
-      "title": "ANSM : action de sécurité sur le stérilisateur basse température Getinge Poladus 150",
-      "summary": "L'information de sécurité R2621269, publiée le 30 juillet 2026 par Maquet GmbH, concerne les établissements de santé équipés de ce stérilisateur pour dispositifs thermosensibles.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/sterilisateur-getinge-poladus-150-maquet-gmbh"
+      "title": "Retraitement des dispositifs médicaux à usage unique : dix établissements désignés pour l'expérimentation",
+      "summary": "L'arrêté du 22 juillet 2026 lance concrètement l'expérimentation prévue par le décret du 4 septembre 2025, avec des contrats en circuit fermé jusqu'en septembre 2028, dont l'AP-HP pour l'Île-de-France.",
+      "source": "OMEDIT Île-de-France",
+      "url": "https://www.omedit-idf.fr/veille/experimentation-du-retraitement-de-certains-dispositifs-medicaux-a-usage-unique-arrete-du-22-juillet-2026-portant-application-du-decret-n-2025-895-du-4-septembre-2025/"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : les inscriptions aux sessions sont ouvertes, compteurs remis à zéro",
-      "summary": "L'Agence du DPC rappelle que les crédits de formation continue repartent à zéro pour 2026, avec une prise en charge à 100 % des frais pédagogiques en présentiel et en classe virtuelle.",
-      "source": "Agence du DPC",
-      "url": "https://www.agencedpc.fr/Les-inscriptions-aux-sessions-de-DPC-2026-sont-ouvertes"
+      "title": "Sciences infirmières : l'ANFH lance une nouvelle revue de recherche en libre accès",
+      "summary": "Portée par l'université de Limoges, « Recherche et Avancées en Sciences Infirmières » (ReAScI) publie des travaux originaux utiles à la pratique, à l'enseignement et à la formation continue.",
+      "source": "ANFH",
+      "url": "https://www.anfh.fr/actualites/recherche-et-avancees-en-sciences-infirmieres-nouvelle-revue-en-libre-acces"
     }
   ],
   "word": {
-    "field": "Urgences · Vigilance",
-    "term": "Purpura fulminans",
-    "subtitle": "Une éruption purpurique extensive signant une septicémie foudroyante, urgence vitale absolue",
-    "definition": "Syndrome septique gravissime, le plus souvent à méningocoque, associant un état infectieux sévère à des taches purpuriques nécrotiques qui s'étendent en quelques heures, avec un risque majeur de choc et de défaillance multiviscérale.",
+    "field": "Technique · Surveillance",
+    "term": "Capnographie",
+    "subtitle": "La mesure continue du CO2 expiré, témoin en temps réel de la ventilation du patient",
+    "definition": "Technique de monitorage continu de la concentration de dioxyde de carbone en fin d'expiration (EtCO2), reflet indirect de la ventilation alvéolaire, de la perfusion pulmonaire et du métabolisme du patient.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "rechercher un purpura ne s'effaçant pas à la vitropression, associé à fièvre et altération de l'état général." },
-      { "n": "2", "h": "Alerter", "t": "antibiothérapie probabiliste immédiate si un accès veineux est disponible, appel du 15 sans délai." },
-      { "n": "3", "h": "Surveiller", "t": "constantes hémodynamiques rapprochées, extension des lésions, signes de choc jusqu'à la prise en charge en réanimation." }
+      { "n": "1", "h": "Installer", "t": "positionner le capteur sur la canule ou le masque, vérifier l'étalonnage et la courbe de base avant surveillance." },
+      { "n": "2", "h": "Surveiller", "t": "repérer une EtCO2 basse (hypoventilation, arrêt circulatoire) ou une élévation brutale (hypercapnie, réveil per-anesthésique)." },
+      { "n": "3", "h": "Alerter", "t": "signaler toute perte de courbe ou variation brutale : elle précède souvent la chute de la SpO2 en cas de détresse respiratoire." }
     ],
-    "retenir": "Devant un purpura fébrile qui s'étend, chaque minute compte : l'antibiothérapie ne doit jamais attendre le transfert. ",
-    "sources": "Sources : HAS · SPILF."
+    "retenir": "En sédation ou en ventilation mécanique, la capnographie détecte une hypoventilation avant même la désaturation : c'est l'un des monitorages les plus précoces au chevet. ",
+    "sources": "Sources : SFAR · SRLF."
   }
 }

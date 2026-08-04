@@ -1,69 +1,71 @@
 {
-  "dateLong": "Lun. 3 août",
+  "dateLong": "Mar. 4 août",
   "essentiel": [
-    { "text": "La loi de stratégie nationale contre les " },
-    { "text": "maladies cardio-neuro-vasculaires", "strong": true },
-    { "text": " est publiée au Journal officiel, l'" },
+    { "text": "Un nouvel " },
+    { "text": "arrêté", "strong": true },
+    { "text": " fixe la tarification des " },
+    { "text": "rendez-vous de prévention", "strong": true },
+    { "text": ", l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur les dispositifs d'assistance ventriculaire Impella, et l'" },
-    { "text": "IRDES", "strong": true },
-    { "text": " documente les bénéfices du passage à l'exercice libéral sur la santé des infirmières." }
+    { "text": " actualise son alerte sur les écarteurs chirurgicaux Omni-Tract, et un " },
+    { "text": "décret", "strong": true },
+    { "text": " permet à l'Ordre de porter plainte pour les infirmiers agressés." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Maladies cardio-neuro-vasculaires : la loi de stratégie nationale est publiée au Journal officiel",
-      "summary": "Promulguée le 27 juillet 2026, la loi n° 2026-668 portée par le député Yannick Neuder généralise le dépistage aux moments clés de la vie et renforce la prévention en milieu professionnel.",
-      "source": "Vie publique",
-      "url": "https://www.vie-publique.fr/loi/303718-prevention-maladies-cardio-neuro-vasculaire-loi-neuder-27-juillet-2026"
+      "title": "Rendez-vous de prévention : l'arrêté du 28 juillet 2026 refond tarification et périmètre",
+      "summary": "Paru au Journal officiel le 2 août 2026, le texte fixe la rémunération infirmière à 30 € (31,50 € en outre-mer, code RDI), formalise le plan personnalisé de prévention et intègre les pharmaciens, pour une entrée en vigueur le 1er octobre 2026.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054596416"
     },
     {
       "category": "alertes",
-      "title": "ANSM : information de sécurité sur les dispositifs d'assistance ventriculaire Impella (Abiomed)",
-      "summary": "Publiée le 30 juillet 2026 sous la référence R2620031, l'information concerne l'introducteur pour assistance ventriculaire (kits de pompe et packs individuels), à destination des établissements de santé utilisateurs.",
+      "title": "ANSM : information de sécurité actualisée sur l'écarteur chirurgical Integra Omni-Tract",
+      "summary": "La référence R2616578, mise à jour le 3 août 2026, informe les pharmacies à usage intérieur d'une action de sécurité engagée par Integra LifeSciences sur ce système utilisé en bloc opératoire.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/introducteur-pour-assistance-ventriculaire-impella-kits-de-pompe-et-packs-individuels-abiomed"
+      "url": "https://ansm.sante.fr/informations-de-securite/systeme-decarteur-chirurgical-integra-omni-tract-integra-lifesciences-corporation"
     },
     {
       "category": "science",
-      "title": "IRDES : le passage à l'exercice libéral améliore la santé des infirmières hospitalières épuisées",
-      "summary": "Le rapport n° 602 montre que les infirmières quittant l'hôpital présentent d'abord un état de santé dégradé, qui s'améliore après leur installation en libéral, le soutien social et la reconnaissance atténuant les risques psychosociaux.",
-      "source": "IRDES",
-      "url": "https://www.irdes.fr/recherche/2026/rapport-602-entre-hopital-et-liberal-trajectoires-professionnelles-et-sante-face-aux-facteurs-de-risques-psychosociaux-des-infirmieres.html"
+      "title": "Réforme des compétences infirmières : 47 % des médecins expriment un avis défavorable",
+      "summary": "Une étude MACSF relayée par Le Quotidien du Médecin montre que la montée en autonomie des infirmiers, actée par le décret du 24 décembre 2025, continue de diviser fortement le corps médical.",
+      "source": "Le Quotidien du Médecin",
+      "url": "https://www.lequotidiendumedecin.fr/liberal-soins-de-ville/exercice/evolution-de-la-profession-infirmiere-les-medecins-toujours-reserves-sur-la-reforme-avec-47-davis"
     },
     {
       "category": "profession",
-      "title": "Ordre infirmier : ouverture des candidatures pour les élections départementales et interdépartementales",
-      "summary": "Les infirmiers souhaitant devenir conseillers ordinaux doivent transmettre leur dossier de candidature avant le 30 septembre 2026 à 16h, en vue du scrutin de l'automne.",
-      "source": "Ordre infirmier",
-      "url": "https://www.ordre-infirmiers.fr/elections-ordinales-ouverture-des-candidatures-pour-les-conseils-departementaux-et"
+      "title": "Infirmiers agressés : l'Ordre et les URPS pourront désormais porter plainte à leur place",
+      "summary": "Le décret n° 2026-641 du 20 juillet 2026 permet à un infirmier libéral victime de violences de mandater son conseil ordinal ou son URPS pour déposer plainte en son nom, sur consentement écrit.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/ordre-et-urps-peuvent-desormais-porter-plainte-la-place-des-infirmiers"
     },
     {
       "category": "technique",
-      "title": "Retraitement des dispositifs médicaux à usage unique : dix établissements désignés pour l'expérimentation",
-      "summary": "L'arrêté du 22 juillet 2026 lance concrètement l'expérimentation prévue par le décret du 4 septembre 2025, avec des contrats en circuit fermé jusqu'en septembre 2028, dont l'AP-HP pour l'Île-de-France.",
-      "source": "OMEDIT Île-de-France",
-      "url": "https://www.omedit-idf.fr/veille/experimentation-du-retraitement-de-certains-dispositifs-medicaux-a-usage-unique-arrete-du-22-juillet-2026-portant-application-du-decret-n-2025-895-du-4-septembre-2025/"
+      "title": "Télésurveillance et dispositifs médicaux numériques : un arrêté fixe leur prise en charge anticipée",
+      "summary": "Le texte du 17 juillet 2026 précise les conditions de remboursement anticipé de certains dispositifs médicaux numériques à visée thérapeutique et des activités de télésurveillance médicale, un enjeu croissant pour le suivi infirmier à distance.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054448186"
     },
     {
       "category": "formation",
-      "title": "Sciences infirmières : l'ANFH lance une nouvelle revue de recherche en libre accès",
-      "summary": "Portée par l'université de Limoges, « Recherche et Avancées en Sciences Infirmières » (ReAScI) publie des travaux originaux utiles à la pratique, à l'enseignement et à la formation continue.",
-      "source": "ANFH",
-      "url": "https://www.anfh.fr/actualites/recherche-et-avancees-en-sciences-infirmieres-nouvelle-revue-en-libre-acces"
+      "title": "DPC : l'année de transition vers la fin de l'ANDPC s'engage avant la réforme de 2027",
+      "summary": "Après la fin du mandat de sa direction générale en janvier 2026, l'agence assure une gestion transitoire du DPC ; dès 2027, ses missions scientifiques et financières devraient être réparties entre la HAS et France Compétences.",
+      "source": "Acuité",
+      "url": "https://www.acuite.fr/actualite/profession/324294/suppression-de-landpc-un-tournant-pour-la-formation-obligatoire-des"
     }
   ],
   "word": {
-    "field": "Technique · Surveillance",
-    "term": "Capnographie",
-    "subtitle": "La mesure continue du CO2 expiré, témoin en temps réel de la ventilation du patient",
-    "definition": "Technique de monitorage continu de la concentration de dioxyde de carbone en fin d'expiration (EtCO2), reflet indirect de la ventilation alvéolaire, de la perfusion pulmonaire et du métabolisme du patient.",
+    "field": "Réglementaire · Exercice professionnel",
+    "term": "Infirmier en pratique avancée (IPA)",
+    "subtitle": "Un infirmier diplômé au niveau master, habilité à un suivi clinique élargi en autonomie",
+    "definition": "Professionnel titulaire du diplôme d'État d'infirmier en pratique avancée, habilité à assurer le suivi, la prescription et le renouvellement de traitements dans le cadre d'un protocole d'organisation, y compris en accès direct dans les structures d'exercice coordonné.",
     "steps": [
-      { "n": "1", "h": "Installer", "t": "positionner le capteur sur la canule ou le masque, vérifier l'étalonnage et la courbe de base avant surveillance." },
-      { "n": "2", "h": "Surveiller", "t": "repérer une EtCO2 basse (hypoventilation, arrêt circulatoire) ou une élévation brutale (hypercapnie, réveil per-anesthésique)." },
-      { "n": "3", "h": "Alerter", "t": "signaler toute perte de courbe ou variation brutale : elle précède souvent la chute de la SpO2 en cas de détresse respiratoire." }
+      { "n": "1", "h": "Orienter", "t": "vérifier l'éligibilité du patient au suivi IPA (pathologie chronique stabilisée, structure d'exercice coordonné) avant toute prise en charge autonome." },
+      { "n": "2", "h": "Suivre", "t": "assurer les consultations de suivi, le renouvellement et l'adaptation des traitements dans le champ défini par le protocole d'organisation." },
+      { "n": "3", "h": "Coordonner", "t": "transmettre systématiquement au médecin traitant les éléments cliniques et orienter sans délai en cas de signe d'alerte hors du champ de compétence." }
     ],
-    "retenir": "En sédation ou en ventilation mécanique, la capnographie détecte une hypoventilation avant même la désaturation : c'est l'un des monitorages les plus précoces au chevet. ",
-    "sources": "Sources : SFAR · SRLF."
+    "retenir": "Depuis les textes 2025-2026, l'IPA peut intervenir en accès direct dans les structures d'exercice coordonné : un repère clé pour orienter patients et collègues. ",
+    "sources": "Sources : Ordre national des infirmiers · Légifrance."
   }
 }

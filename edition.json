@@ -1,69 +1,69 @@
 {
-  "dateLong": "Mer. 5 août",
+  "dateLong": "Jeu. 6 août",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "avenant n°11", "strong": true },
-    { "text": " revalorise l'AMI de 9,5 % pour les infirmiers libéraux, l'" },
+    { "text": "La " },
+    { "text": "HAS", "strong": true },
+    { "text": " recommande la vaccination antigrippale obligatoire des soignants, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur le logiciel de prescription Orbis Medication, et une étude place les soignants français en tête du " },
-    { "text": "burn-out", "strong": true },
-    { "text": " parmi dix pays." }
+    { "text": " alerte sur la pompe à perfusion Alaris GW 800, et l'" },
+    { "text": "Agence du DPC", "strong": true },
+    { "text": " cessera ses activités en septembre 2026." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Infirmiers libéraux : l'avenant n° 11 à la convention nationale revalorise l'AMI de 9,5 %",
-      "summary": "Signé le 31 mars 2026 et entré en vigueur le 6 mai, le texte relève la lettre-clé AMI en deux temps (+0,20 € dès novembre 2026, +0,10 € en 2027) et crée deux nouvelles consultations infirmières, dont le suivi d'initiation à l'insulinothérapie, pour 500 M€ investis sur 2026-2029.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054037411"
+      "title": "Grippe : la HAS recommande la vaccination obligatoire de tous les soignants",
+      "summary": "Dans un avis du 20 juillet 2026, la Haute Autorité de santé préconise une obligation vaccinale annuelle pour l'ensemble des professionnels de santé, salariés et libéraux, avec un déploiement prioritaire en Ehpad et en USLD, faute d'amélioration des couvertures vaccinales (20 % en établissement de santé en 2024-2025).",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_4214093/fr/la-has-se-prononce-sur-l-obligation-vaccinale-contre-la-grippe"
     },
     {
       "category": "alertes",
-      "title": "ANSM : information de sécurité sur le logiciel d'aide à la prescription Orbis Medication 3.x",
-      "summary": "Publiée le 3 août 2026 sous la référence R2622641, l'information signale une action de sécurité engagée par DH Healthcare GmbH sur ce LAP utilisé en établissement, à relayer aux équipes concernées.",
+      "title": "ANSM : action de sécurité sur la pompe à perfusion Alaris GW 800 (BD)",
+      "summary": "Publiée le 4 août 2026 sous la référence R2622916, cette information de sécurité signale une action correctrice engagée par BD sur ce dispositif largement utilisé en établissement, à relayer sans délai aux équipes concernées.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-daide-a-la-prescription-orbis-medication-3-x-dh-healthcare-gmbh-15"
+      "url": "https://ansm.sante.fr/informations-de-securite/pompe-a-perfusion-alaris-gw-800-bd"
     },
     {
       "category": "science",
-      "title": "Burn-out des soignants : la France en tête d'un comparatif portant sur dix pays",
-      "summary": "Une enquête internationale relayée par Le Quotidien du Médecin montre que médecins et infirmiers français affichent le taux d'épuisement professionnel le plus élevé parmi les dix pays étudiés.",
-      "source": "Le Quotidien du Médecin",
-      "url": "https://www.lequotidiendumedecin.fr/hopital/conditions-de-travail/burn-out-des-soignants-medecins-et-infirmiers-francais-les-plus-touches-par-le-sentiment-depuisement"
+      "title": "Coqueluche : une recrudescence de cas confirmée sur tout le territoire",
+      "summary": "Santé publique France et les ARS signalent, fin juillet 2026, une hausse continue des signalements de coqueluche dans plusieurs régions, avec une vigilance particulière demandée en crèches et en collectivités auprès des nourrissons non ou incomplètement vaccinés.",
+      "source": "ARS Île-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/coqueluche-recrudescence-de-cas-en-france-0"
     },
     {
       "category": "profession",
-      "title": "Budget 2026 : le SNPI dénonce des économies « d'une violence sociale inédite » pour les infirmiers",
-      "summary": "Face au plan visant 5,5 Md€ d'économies sur la santé (sur 43,8 Md€ au total), le syndicat national des professionnels infirmiers alerte sur l'aggravation de la crise hospitalière et de la souffrance au travail.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/budget-des-economies-qui-revoltent-les-infirmiers"
+      "title": "Budget 2026 : les syndicats de l'AP-HP préparent une mobilisation à la rentrée",
+      "summary": "Face au plan d'économies présenté par Matignon le 15 juillet (5,5 Md€ dans la santé sur 43,8 Md€ au total) et à la suppression annoncée de deux jours fériés, la CGT, FO, la CFTC et l'UNSA appellent les 38 hôpitaux de l'AP-HP à des assemblées générales dès le 25 août.",
+      "source": "Orange Actu",
+      "url": "https://actu.orange.fr/france/budget-2026-les-syndicats-de-l-ap-hp-preparent-une-greve-contre-les-mesures-d-economies-de-francois-bayrou-magic-CNT000002k6ZXg.html"
     },
     {
       "category": "technique",
-      "title": "Maintien à domicile : Arkéa Care et la start-up Sonaid s'allient autour de la détection sonore de détresse",
-      "summary": "Le partenariat intègre à la téléassistance une IA capable d'identifier par l'analyse de la voix et des sons ambiants une chute ou un appel à l'aide, même sans déclenchement manuel de l'alerte.",
-      "source": "Silvereco",
-      "url": "https://www.silvereco.fr/maintien-a-domicile-securise-arkea-care-et-sonaid-signent-un-partenariat-strategique-autour-de-la-detection-de-detresse/"
+      "title": "Cicatrisation : la medtech strasbourgeoise Pixacare lève 3 M€ pour sa télésurveillance IA des plaies",
+      "summary": "L'application, qui associe photographie médicale et intelligence artificielle pour le suivi des plaies chroniques, lance avec le hub IN CITU une étude médico-économique afin de documenter son intérêt clinique en vue d'une prise en charge par l'Assurance Maladie.",
+      "source": "Le Journal des Entreprises",
+      "url": "https://www.lejournaldesentreprises.com/article/pixacare-leve-3-millions-deuros-pour-automatiser-le-suivi-de-la-cicatrisation-2094937"
     },
     {
       "category": "formation",
-      "title": "Prix de la Recherche en Sciences Infirmières 2026 : les lauréats dévoilés",
-      "summary": "Organisé avec la Chaire de Recherche en Sciences Infirmières de Sorbonne Paris Nord et la MNH, le PRSI 2026 a distingué trois lauréats dans les catégories « Jeune chercheur » et « Meilleure publication scientifique ».",
-      "source": "Infirmiers.com",
-      "url": "https://infirmiers.com/ipa-specialites/recherche-et-bibliographie/prix-de-la-recherche-en-sciences-infirmieres-voici-les-laureats-2026"
+      "title": "DPC : l'Agence nationale cessera ses activités en septembre 2026",
+      "summary": "2026 est une année de transition : le financement des actions reste garanti jusqu'à fin décembre, mais l'ANDPC fermera en septembre et cédera la place, dès 2027, à un nouveau cadre porté par la HAS et France Compétences, articulé avec la certification périodique.",
+      "source": "Medscape",
+      "url": "https://francais.medscape.com/viewarticle/suppression-lagence-du-dpc-dgos-pr%C3%A9cise-2025a1000zs4"
     }
   ],
   "word": {
-    "field": "Réglementaire · Rôle propre",
-    "term": "Éducation thérapeutique du patient (ETP)",
-    "subtitle": "Une démarche structurée pour rendre le patient acteur de sa maladie chronique",
-    "definition": "Ensemble d'activités organisées, intégrées aux soins, visant à aider le patient et son entourage à comprendre la maladie et les traitements, et à acquérir les compétences nécessaires pour gérer leur vie avec une pathologie chronique.",
+    "field": "Gestes & soins vasculaires",
+    "term": "Voie veineuse centrale (VVC)",
+    "subtitle": "Un accès vasculaire à haut risque nécessitant une surveillance infirmière rigoureuse",
+    "definition": "Cathéter inséré dans une veine profonde (jugulaire, sous-clavière ou fémorale) dont l'extrémité se situe près de l'oreillette droite, utilisé pour la perfusion de produits vésicants, la nutrition parentérale ou le monitorage hémodynamique.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "réaliser le diagnostic éducatif initial : connaissances, freins, ressources et attentes du patient." },
-      { "n": "2", "h": "Coconstruire", "t": "définir avec le patient un programme personnalisé et des objectifs d'apprentissage réalistes." },
-      { "n": "3", "h": "Ajuster", "t": "évaluer les compétences acquises lors du suivi et réajuster le programme en conséquence." }
+      { "n": "1", "h": "Surveiller", "t": "vérifier quotidiennement l'aspect du point de ponction (rougeur, douleur, écoulement) et la perméabilité de la voie." },
+      { "n": "2", "h": "Sécuriser", "t": "manipuler en asepsie stricte, rincer au sérum physiologique entre chaque produit, clamper avant toute déconnexion." },
+      { "n": "3", "h": "Tracer", "t": "consigner la date de pose, l'aspect du pansement et tout signe d'alerte (infection, thrombose, migration)." }
     ],
-    "retenir": "Depuis l'avenant n° 11 (2026), deux nouvelles consultations infirmières couvrent notamment l'initiation à l'insulinothérapie : l'ETP y trouve une porte d'entrée concrète en libéral. ",
-    "sources": "Sources : HAS · Assurance Maladie."
+    "retenir": "L'alerte ANSM du 4 août 2026 sur la pompe Alaris GW 800 le rappelle : la sécurité d'une perfusion sur VVC repose autant sur le dispositif que sur la vigilance infirmière au quotidien. ",
+    "sources": "Sources : SF2H · HAS."
   }
 }

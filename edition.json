@@ -1,69 +1,69 @@
 {
-  "dateLong": "Jeu. 6 août",
+  "dateLong": "Ven. 7 août",
   "essentiel": [
     { "text": "La " },
     { "text": "HAS", "strong": true },
-    { "text": " recommande la vaccination antigrippale obligatoire des soignants, l'" },
+    { "text": " se prononce pour l'extension de la vaccination infirmière aux enfants de 2 à 15 ans, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur la pompe à perfusion Alaris GW 800, et l'" },
-    { "text": "Agence du DPC", "strong": true },
-    { "text": " cessera ses activités en septembre 2026." }
+    { "text": " alerte sur l'endoprothèse aortique Gore Excluder TAMBE, et le rapport de l'" },
+    { "text": "IGAS", "strong": true },
+    { "text": " sur la mortalité infantile relance le débat sur la place des infirmières en périnatalité." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Grippe : la HAS recommande la vaccination obligatoire de tous les soignants",
-      "summary": "Dans un avis du 20 juillet 2026, la Haute Autorité de santé préconise une obligation vaccinale annuelle pour l'ensemble des professionnels de santé, salariés et libéraux, avec un déploiement prioritaire en Ehpad et en USLD, faute d'amélioration des couvertures vaccinales (20 % en établissement de santé en 2024-2025).",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4214093/fr/la-has-se-prononce-sur-l-obligation-vaccinale-contre-la-grippe"
+      "title": "Vaccination : la HAS favorable à l'élargissement des compétences infirmières aux enfants de 2 à 15 ans",
+      "summary": "Dans un avis du 28 juin 2026, la Haute Autorité de santé recommande d'autoriser infirmiers, pharmaciens et sages-femmes à prescrire et administrer tous les vaccins du calendrier vaccinal aux 2-15 ans, une demande de longue date portée par l'Ordre national des infirmiers.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/extension-des-competences-vaccinales-des-infirmiers-chez-les-enfants-avis-favorable-de-la-has-a"
     },
     {
       "category": "alertes",
-      "title": "ANSM : action de sécurité sur la pompe à perfusion Alaris GW 800 (BD)",
-      "summary": "Publiée le 4 août 2026 sous la référence R2622916, cette information de sécurité signale une action correctrice engagée par BD sur ce dispositif largement utilisé en établissement, à relayer sans délai aux équipes concernées.",
+      "title": "ANSM : action de sécurité sur l'endoprothèse aortique thoraco-abdominale Gore Excluder TAMBE",
+      "summary": "Publiée le 5 août 2026 sous la référence R2622638, cette information de sécurité signale une action correctrice engagée par W. L. Gore & Associates sur ce dispositif implantable, à relayer sans délai aux équipes de chirurgie vasculaire.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/pompe-a-perfusion-alaris-gw-800-bd"
+      "url": "https://ansm.sante.fr/informations-de-securite/endoprothese-aortique-thoraco-abdominale-gore-excluder-tambe-w-l-gore-associates"
     },
     {
       "category": "science",
-      "title": "Coqueluche : une recrudescence de cas confirmée sur tout le territoire",
-      "summary": "Santé publique France et les ARS signalent, fin juillet 2026, une hausse continue des signalements de coqueluche dans plusieurs régions, avec une vigilance particulière demandée en crèches et en collectivités auprès des nourrissons non ou incomplètement vaccinés.",
-      "source": "ARS Île-de-France",
-      "url": "https://www.iledefrance.ars.sante.fr/coqueluche-recrudescence-de-cas-en-france-0"
+      "title": "77 % des étudiants en soins infirmiers ont envisagé d'abandonner leur formation",
+      "summary": "Une enquête menée auprès de plus de 6 000 étudiants par la plateforme Réussis ton Ifsi et l'association SPS montre une nette hausse du mal-être en IFSI depuis 2022 (59 %), l'anxiété liée aux stages (55 %) et l'épuisement (44 %) arrivant en tête des causes citées.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/formation-professionnelle/77-des-etudiants-en-soins-infirmiers-ont-envisage-dabandonner-leurs-etudes"
     },
     {
       "category": "profession",
-      "title": "Budget 2026 : les syndicats de l'AP-HP préparent une mobilisation à la rentrée",
-      "summary": "Face au plan d'économies présenté par Matignon le 15 juillet (5,5 Md€ dans la santé sur 43,8 Md€ au total) et à la suppression annoncée de deux jours fériés, la CGT, FO, la CFTC et l'UNSA appellent les 38 hôpitaux de l'AP-HP à des assemblées générales dès le 25 août.",
-      "source": "Orange Actu",
-      "url": "https://actu.orange.fr/france/budget-2026-les-syndicats-de-l-ap-hp-preparent-une-greve-contre-les-mesures-d-economies-de-francois-bayrou-magic-CNT000002k6ZXg.html"
+      "title": "Mortalité infantile : le rapport enterré de l'IGAS relance le débat, le SNPI propose d'agir avec les infirmières",
+      "summary": "Rendu public le 4 août 2026 après sa révélation par Le Canard enchaîné, le rapport de l'IGAS pointe un taux de mortalité infantile de 4,1 ‰ en France (23e rang sur 27 pays de l'UE, 529 décès évitables par an) ; le syndicat infirmier réclame une place centrale pour la profession dans le futur plan périnatal.",
+      "source": "SNPI",
+      "url": "https://syndicat-infirmier.com/Mortalite-infantile-l-IGAS-alerte-le-SNPI-propose-d-agir-avec-les-infirmieres.html"
     },
     {
       "category": "technique",
-      "title": "Cicatrisation : la medtech strasbourgeoise Pixacare lève 3 M€ pour sa télésurveillance IA des plaies",
-      "summary": "L'application, qui associe photographie médicale et intelligence artificielle pour le suivi des plaies chroniques, lance avec le hub IN CITU une étude médico-économique afin de documenter son intérêt clinique en vue d'une prise en charge par l'Assurance Maladie.",
-      "source": "Le Journal des Entreprises",
-      "url": "https://www.lejournaldesentreprises.com/article/pixacare-leve-3-millions-deuros-pour-automatiser-le-suivi-de-la-cicatrisation-2094937"
+      "title": "AusculPatch : un timbre connecté de 3,2 g pour ausculter cœur et poumons à distance",
+      "summary": "Présenté le 5 juin 2026 dans Nature Communications par des chercheurs australiens (UNSW), ce capteur portable capte en continu bruits cardiaques, respiratoires et pouls sur une large bande de fréquences, ouvrant la voie à une surveillance à domicile des patients cardio-respiratoires.",
+      "source": "Pourquoi Docteur",
+      "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/55038-Ce-capteur-surveille-coeur-maison"
     },
     {
       "category": "formation",
-      "title": "DPC : l'Agence nationale cessera ses activités en septembre 2026",
-      "summary": "2026 est une année de transition : le financement des actions reste garanti jusqu'à fin décembre, mais l'ANDPC fermera en septembre et cédera la place, dès 2027, à un nouveau cadre porté par la HAS et France Compétences, articulé avec la certification périodique.",
-      "source": "Medscape",
-      "url": "https://francais.medscape.com/viewarticle/suppression-lagence-du-dpc-dgos-pr%C3%A9cise-2025a1000zs4"
+      "title": "DPC : les orientations nationales prioritaires 2023-2025 prorogées jusqu'en 2027",
+      "summary": "Un arrêté du 3 juin 2026, publié au Journal officiel le 6 juin, prolonge une nouvelle fois les orientations en vigueur : les organismes de formation peuvent continuer à déposer des actions DPC sur cette base pendant la transition de l'ANDPC vers un nouveau cadre porté par la HAS.",
+      "source": "Agence du DPC",
+      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
     }
   ],
   "word": {
-    "field": "Gestes & soins vasculaires",
-    "term": "Voie veineuse centrale (VVC)",
-    "subtitle": "Un accès vasculaire à haut risque nécessitant une surveillance infirmière rigoureuse",
-    "definition": "Cathéter inséré dans une veine profonde (jugulaire, sous-clavière ou fémorale) dont l'extrémité se situe près de l'oreillette droite, utilisé pour la perfusion de produits vésicants, la nutrition parentérale ou le monitorage hémodynamique.",
+    "field": "Diabétologie",
+    "term": "Hypoglycémie",
+    "subtitle": "Une baisse de la glycémie pouvant engager le pronostic vital si elle n'est pas rapidement corrigée",
+    "definition": "Chute du taux de glucose sanguin en dessous de 0,70 g/L, provoquant sueurs, tremblements, confusion puis, en l'absence de resucrage, convulsions ou coma ; complication fréquente du traitement par insuline ou sulfamides hypoglycémiants.",
     "steps": [
-      { "n": "1", "h": "Surveiller", "t": "vérifier quotidiennement l'aspect du point de ponction (rougeur, douleur, écoulement) et la perméabilité de la voie." },
-      { "n": "2", "h": "Sécuriser", "t": "manipuler en asepsie stricte, rincer au sérum physiologique entre chaque produit, clamper avant toute déconnexion." },
-      { "n": "3", "h": "Tracer", "t": "consigner la date de pose, l'aspect du pansement et tout signe d'alerte (infection, thrombose, migration)." }
+      { "n": "1", "h": "Reconnaître", "t": "sueurs, tremblements, pâleur, faim brutale, confusion ou trouble du comportement ; vérifier la glycémie capillaire au moindre doute." },
+      { "n": "2", "h": "Resucrer", "t": "15 g de sucre rapide per os si le patient est conscient (3 morceaux de sucre, jus de fruit) ; glucagon IM ou G30 % IV en cas de troubles de la conscience." },
+      { "n": "3", "h": "Réévaluer", "t": "contrôler la glycémie 15 minutes après, renouveler le resucrage si besoin, puis rechercher la cause (dose d'insuline, repas sauté, effort)." }
     ],
-    "retenir": "L'alerte ANSM du 4 août 2026 sur la pompe Alaris GW 800 le rappelle : la sécurité d'une perfusion sur VVC repose autant sur le dispositif que sur la vigilance infirmière au quotidien. ",
-    "sources": "Sources : SF2H · HAS."
+    "retenir": "Le resucrage doit être immédiat dès la suspicion clinique, sans attendre la confirmation glycémique si le dextro n'est pas disponible sur-le-champ. ",
+    "sources": "Sources : SFD 2024 · HAS."
   }
 }

@@ -1,71 +1,69 @@
 {
-  "dateLong": "Dim. 9 août",
+  "dateLong": "Lun. 10 août",
   "essentiel": [
-    { "text": "Un arrêté élargit le " },
-    { "text": "remboursement des protections périodiques réutilisables", "strong": true },
-    { "text": ", l'" },
+    { "text": "L'" },
+    { "text": "avenant 11", "strong": true },
+    { "text": " revalorise les actes infirmiers libéraux, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " actualise son rappel du dispositif de dialyse péritonéale " },
-    { "text": "HomeChoice", "strong": true },
-    { "text": ", et l'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " lance la préparation des élections ordinales de l'automne." }
+    { "text": " rappelle des lots d'implants dentaires Straumann BLT, et une intersyndicale de l'" },
+    { "text": "AP-HP", "strong": true },
+    { "text": " dépose un préavis de grève illimitée contre le plan Bayrou." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Protections périodiques réutilisables : l'arrêté du 6 août 2026 fixe les modalités de remboursement",
-      "summary": "Pris en application du décret du 17 avril 2026, ce texte publié au Journal officiel précise les conditions de prise en charge des coupes et culottes menstruelles par l'Assurance maladie pour les moins de 26 ans et les bénéficiaires de la complémentaire santé solidaire, à compter du 1er octobre 2026.",
+      "title": "Avenant 11 : la revalorisation des actes infirmiers libéraux entre en vigueur",
+      "summary": "Approuvé par arrêté du 5 mai 2026 après sa signature le 31 mars entre l'Assurance maladie et les syndicats représentatifs, ce texte crée deux consultations infirmières à 20 €, révise la cotation du bilan de soins infirmiers et porte l'AMI à 3,35 € à partir du 7 novembre 2026.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054632785"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054037411"
     },
     {
       "category": "alertes",
-      "title": "ANSM : mise à jour du rappel de la ligne à sang HomeChoice Automated PD Set (Vantive)",
-      "summary": "Initié le 21 juillet et actualisé le 7 août 2026, ce rappel de lots concerne les établissements de santé et les infirmiers assurant le suivi de patients en dialyse péritonéale automatisée à domicile avec ce dispositif Vantive S.A.S. (ex-Baxter).",
+      "title": "ANSM : rappel de lots d'implants dentaires Straumann BLT Ø4,1 mm RC SLActive",
+      "summary": "Publiée le 4 août 2026 sous la référence R2621001, cette information de sécurité de l'Institut Straumann AG concerne les centres de santé, établissements et chirurgiens-dentistes ayant reçu ces implants, invités à vérifier leurs stocks et à cesser leur utilisation.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/ligne-a-sang-dhemodialyse-avec-cassette-homechoice-automated-pd-set-with-cassette-vantive-s-a-s-1"
+      "url": "https://ansm.sante.fr/informations-de-securite/implantologie-dentaire-blt-o4-1mm-rc-slactive-12mm-tizr-ntp-institut-straumann-ag"
     },
     {
       "category": "science",
-      "title": "Infections du site opératoire : la prévalence confirmée en hausse par l'enquête nationale 2022",
-      "summary": "Sur 151 676 patients suivis dans 1 155 établissements, Santé publique France situe désormais les infections du site opératoire au 3ᵉ rang des infections associées aux soins (0,87 %), derrière les infections urinaires et les pneumopathies.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/infections-associees-aux-soins/enquetesetudes/principaux-resultats-de-lenquete-nationale-de-prevalence-2022-des-infections-nosocomiales-et-des"
+      "title": "Acouphènes invalidants : la HAS publie ses premières recommandations de bonne pratique",
+      "summary": "Publiée le 16 juillet 2026, cette recommandation place la thérapie cognitivo-comportementale au cœur de la prise en charge et mobilise infirmiers, médecins généralistes et ORL autour du Tinnitus Handicap Inventory (THI) pour évaluer le retentissement fonctionnel.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_4196187/fr/acouphenes-invalidants-des-cles-pour-ameliorer-le-diagnostic-et-la-prise-en-charge-des-adultes"
     },
     {
       "category": "profession",
-      "title": "Élections ordinales 2026 : l'Ordre national des infirmiers prépare le scrutin des conseils départementaux à l'automne",
-      "summary": "Un an après l'élection d'Alain Desbouchages à la présidence, l'Ordre appelle les infirmiers inscrits à élire à l'automne leurs représentants départementaux et interdépartementaux, un scrutin présenté comme déterminant pour porter les priorités fixées au niveau national.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/les-elections-ordinales"
+      "title": "Budget 2026 : une intersyndicale de l'AP-HP dépose un préavis de grève illimitée contre le plan Bayrou",
+      "summary": "CGT, FO, CFTC, CFDT et Unsa, qui représentent 61 % des voix aux dernières élections professionnelles, dénoncent le plan d'économies de 44 Md€ (dont environ 5 Md€ sur la santé) et rejoignent l'appel à la mobilisation générale du 10 septembre.",
+      "source": "SNPI",
+      "url": "https://www.syndicat-infirmier.com/AP-HP-vers-une-greve-unitaire-contre-le-plan-Bayrou-et-l-austerite-hospitaliere.html"
     },
     {
       "category": "technique",
-      "title": "Rééducation numérique : la medtech lilloise Axomove lève 4 M€ pour accélérer son déploiement",
-      "summary": "Ce tour de série A, co-mené par le Fonds Prévention Numérique (Bpifrance) et Go Capital, doit accélérer le déploiement de ce dispositif médical de télérééducation déjà utilisé par 150 clients B2B (CHU de Lille, Ramsay Santé) et remboursé par l'Assurance maladie.",
-      "source": "L'Oeil de la e-Santé",
-      "url": "https://oeil-esante.media/focus-startup/axomove-boris-leveque-la-clinique-digitale-de-reeducation/"
+      "title": "Cancers de la peau : la medtech SquareMind lève 18 M$ pour déployer son robot d'imagerie cutanée Swan",
+      "summary": "Ce tour de table mené par Bpifrance (plan Deeptech 2030) et le fonds américain Sonder Capital doit accélérer le déploiement de Swan, capable de cartographier toute la surface cutanée d'un patient en moins de dix minutes, face à un délai moyen de 95 jours pour un rendez-vous chez le dermatologue.",
+      "source": "Usine Digitale",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/robotique/un-robot-dimagerie-medicale-qui-detecte-les-cancers-de-la-peau-la-start-up-francaise-squaremind-leve-18-millions-de-dollars-pour-mettre-sa-technologie-au-service-des-hopitaux.PEDPSX5TIRBGTBIZJNPSTPCBXY.html"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : l'indemnisation des formations en e-learning supprimée pour les IDEL",
-      "summary": "Les nouvelles règles maintiennent l'indemnisation à 38 €/heure pour le présentiel et la classe virtuelle (14 h/an, plafond 532 €), mais suppriment l'indemnité professionnelle pour l'e-learning ; tous les compteurs de formation continue ont par ailleurs été remis à zéro.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "Formation infirmière : le nouveau référentiel s'applique aux étudiants entrant en IFSI dès le 1er septembre 2026",
+      "summary": "Fixé par l'arrêté du 20 février 2026, ce référentiel structuré autour de 13 compétences réparties en 5 domaines pour 4 620 heures sur trois ans porte la durée des stages à 66 semaines et coexistera deux ans avec celui de 2009 pour les étudiants déjà engagés dans leur cursus.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/etudiants/admission-et-cursus-en-ifsi/le-nouveau-referentiel-de-formation-infirmiere-annonce-pour-septembre-2026"
     }
   ],
   "word": {
-    "field": "Clinique",
-    "term": "Infection du site opératoire (ISO)",
-    "subtitle": "Une infection survenant après une chirurgie, au niveau ou à proximité de l'incision",
-    "definition": "Infection associée aux soins qui se développe dans les 30 jours suivant une intervention chirurgicale — ou dans l'année en cas de pose de matériel étranger —, touchant la plaie superficielle, les tissus profonds ou l'organe/espace opéré.",
+    "field": "Exercice libéral",
+    "term": "Bilan de soins infirmiers (BSI)",
+    "subtitle": "L'évaluation initiale de la dépendance qui ouvre et encadre la prise en charge infirmière à domicile",
+    "definition": "Acte infirmier coté qui évalue, à l'aide d'une grille de dépendance (toilette, habillage, alimentation, élimination, mobilité, comportement), le niveau d'autonomie d'un patient âgé ou dépendant pris en charge à domicile, et détermine la fréquence et le contenu des séances de soins qui en découlent.",
     "steps": [
-      { "n": "1", "h": "Surveiller", "t": "la plaie à chaque pansement : rougeur, chaleur, écoulement, déhiscence, et prendre la température à chaque poste." },
-      { "n": "2", "h": "Prévenir", "t": "par une antisepsie rigoureuse, le respect des règles d'asepsie lors des soins de pansement et l'hygiène des mains avant/après contact." },
-      { "n": "3", "h": "Signaler", "t": "sans délai tout signe évocateur au chirurgien ou au médecin référent, et tracer l'observation dans le dossier de soins." }
+      { "n": "1", "h": "Évaluer", "t": "chacun des items de la grille de dépendance lors de la première visite, puis réévaluer à chaque changement notable de l'état du patient." },
+      { "n": "2", "h": "Formaliser", "t": "le bilan dans le dossier de soins et le transmettre au médecin traitant, qui valide la démarche de soins proposée." },
+      { "n": "3", "h": "Réviser", "t": "le bilan à échéance réglementaire ou lors de toute évolution de la dépendance, pour ajuster le plan de soins et sa cotation." }
     ],
-    "retenir": "L'enquête nationale de prévalence 2022 confirme que les ISO sont devenues la 3ᵉ infection associée aux soins la plus fréquente (0,87 %) : la surveillance infirmière du pansement post-opératoire reste un maillon clé de leur détection précoce. ",
-    "sources": "Sources : Santé publique France, ENP 2022 · HAS."
+    "retenir": "Le bilan de soins infirmiers conditionne la fréquence et la cotation des séances à domicile : sa qualité et son actualisation sont la meilleure garantie d'une prise en charge ajustée aux besoins réels du patient. ",
+    "sources": "Sources : Ameli.fr, convention nationale des infirmiers · Avenant 11 (2026)."
   }
 }

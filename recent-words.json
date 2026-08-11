@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Escarre", "date": "2026-08-11" },
     { "term": "Bilan de soins infirmiers (BSI)", "date": "2026-08-10" },
     { "term": "Infection du site opératoire (ISO)", "date": "2026-08-09" },
     { "term": "Rôle sur prescription", "date": "2026-08-08" },
@@ -28,7 +29,6 @@
     { "term": "Delirium (état confusionnel aigu)", "date": "2026-07-16" },
     { "term": "Détersion", "date": "2026-07-15" },
     { "term": "Choc anaphylactique", "date": "2026-07-14" },
-    { "term": "Protocole de coopération", "date": "2026-07-13" },
-    { "term": "Titration", "date": "2026-07-12" }
+    { "term": "Protocole de coopération", "date": "2026-07-13" }
   ]
 }

@@ -1,73 +1,71 @@
 {
-  "dateLong": "Mar. 11 août",
+  "dateLong": "Mer. 12 août",
   "essentiel": [
     { "text": "La " },
-    { "text": "canicule", "strong": true },
-    { "text": " de fin juillet a provoqué un pic de " },
-    { "text": "293 passages aux urgences", "strong": true },
-    { "text": " selon " },
-    { "text": "Santé publique France", "strong": true },
-    { "text": ", un nouvel arrêté élargit les actes que les " },
-    { "text": "infirmiers", "strong": true },
-    { "text": " sont autorisés à réaliser, et la " },
     { "text": "HAS", "strong": true },
-    { "text": " ouvre la voie au remboursement d'une première thérapie numérique pédiatrique." }
+    { "text": " rend un avis favorable, sous réserve, à la " },
+    { "text": "prescription infirmière autonome", "strong": true },
+    { "text": " dans cinq domaines, actualise ses recommandations de " },
+    { "text": "vaccination contre le mpox", "strong": true },
+    { "text": " clade Ib, alors que plus de " },
+    { "text": "60 000 postes infirmiers", "strong": true },
+    { "text": " restent vacants à l'approche de la rentrée." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Actes infirmiers : un nouvel arrêté élargit la liste des soins autorisés",
-      "summary": "Publié au Journal officiel le 27 juin 2026 en application de la loi du 27 juin 2025 sur les compétences infirmières, ce texte étend le champ de pratique : consultations infirmières autonomes, ECG sans prescription médicale, prise en charge des plaies et prescription de certains examens biologiques.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "title": "Prescription infirmière : la HAS rend un avis favorable sous réserve, l'arrêté opérationnel depuis fin juin",
+      "summary": "Dans son avis du 11 juin 2026, la Haute Autorité de santé valide l'élargissement de la prescription infirmière à cinq domaines (vaccins, plaies, santé sexuelle, sevrage tabagique, biologie ciblée), tout en posant des réserves sur certains examens biologiques et sur l'accès du pharmacien à la prescription initiale.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-avis-favorable-de-la-has-mais-des-reserves-qui-persistent"
     },
     {
       "category": "alertes",
-      "title": "Canicule : plus de 160 hospitalisations quotidiennes fin juillet selon Santé publique France",
-      "summary": "Le bulletin du 5 août 2026 fait état d'un épisode de canicule ayant placé 24 % de la population sous alerte orange entre le 29 juillet et le 3 août, avec un pic de 293 passages aux urgences pour hyperthermie, déshydratation ou hyponatrémie le 29 juillet.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/climat/fortes-chaleurs-canicule/bulletin-national/canicule-et-sante-en-france-bulletin-du-5-aout-2026"
+      "title": "Alepsal : l'ANSM prolonge la rupture de stock du phénobarbital 100 mg jusqu'à fin juillet",
+      "summary": "Faute d'un réapprovisionnement suffisant du laboratoire Teofarma, l'ANSM interdit l'exportation de l'Alepsal 100 mg par les grossistes-répartiteurs et recommande de basculer les patients épileptiques vers le Gardenal ou le Phénobarbital Richard, disponibles en quantité suffisante.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/page/medicaments-ayant-fait-lobjet-dun-signalement-de-rupture-ou-de-risque-de-rupture-de-stock"
     },
     {
       "category": "science",
-      "title": "Asthme de l'enfant : premier avis favorable de la HAS au remboursement d'une thérapie numérique",
-      "summary": "Publié le 2 avril 2026, cet avis de la CNEDiMTS ouvre la voie au remboursement en droit commun de Joe, dispositif conçu par Ludocare qui accompagne les enfants asthmatiques de 7 à 11 ans dans l'observance de leur traitement via un petit robot à écran.",
+      "title": "Mpox clade Ib : la HAS actualise ses recommandations vaccinales pour freiner la circulation du virus",
+      "summary": "Face au risque d'arrivée du clade Ib sur le territoire, la HAS maintient la vaccination préventive pour les publics à haut risque et la vaccination réactive des cas contacts, et recommande désormais une dose de rappel pour les personnes vaccinées il y a plus de deux ans.",
       "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_3901145/fr/premier-avis-favorable-au-remboursement-d-une-therapie-numerique"
+      "url": "https://www.has-sante.fr/jcms/p_3538112/fr/mpox-mpxv-la-has-actualise-ses-recommandations-vaccinales-pour-mieux-lutter-contre-la-circulation-du-virus"
     },
     {
       "category": "profession",
-      "title": "Démographie des professionnels de santé : la DREES confirme la hausse des effectifs au 1er janvier 2026",
-      "summary": "Publiée le 2 juillet 2026, cette étude recense 242 200 médecins en activité (+5 000 en un an) mais pointe des données encore insuffisantes sur le registre RPPS infirmier, poussant la DREES à mobiliser d'autres sources pour fiabiliser le comptage de la profession.",
-      "source": "DREES",
-      "url": "https://drees.solidarites-sante.gouv.fr/communique-de-presse-jeux-de-donnees/jeux-de-donnees/260702-demographie-des-professionnels-de-sante-au-1er-janvier-2026"
+      "title": "Plus de 60 000 postes infirmiers vacants : les hôpitaux anticipent un été sous tension",
+      "summary": "Départs à la retraite, difficultés de recrutement et hausse continue des volumes de soins alourdissent les plannings des services d'urgences et de gériatrie, dans un contexte marqué par un préavis de grève national déposé par la fédération FO-SPS Santé jusqu'à la mi-octobre.",
+      "source": "Actualités Santé",
+      "url": "https://actualites-sante.com/hopitaux-france-tensions-greves/"
     },
     {
       "category": "technique",
-      "title": "Rééducation numérique : la medtech lilloise Axomove lève 4 M€",
-      "summary": "Annoncée le 22 avril 2026, cette levée en série A, menée par le tout nouveau Digital Prevention Fund de Bpifrance (100 M€) et Go Capital, doit accélérer le déploiement d'Axomove, seul dispositif médical numérique de rééducation actuellement remboursé par l'Assurance Maladie.",
-      "source": "Maddyness",
-      "url": "https://www.maddyness.com/2026/04/22/axomove-boucle-sa-serie-a-pour-ameliorer-le-suivi-de-la-reeducation/"
+      "title": "Santé mentale : la medtech Sonomind lève 20 M€ pour son traitement par ultrasons de la dépression résistante",
+      "summary": "Menée par Critical Path Ventures et Bpifrance, cette série A doit financer le déploiement clinique d'un dispositif de neuromodulation par ultrasons focalisés, conçu comme alternative non invasive pour les patients en échec des traitements médicamenteux classiques.",
+      "source": "Bpifrance",
+      "url": "https://bigmedia.bpifrance.fr/nos-actualites/sante-mentale-sonomind-leve-20-millions-et-propose-une-nouvelle-voie-therapeutique-contre-la-depression"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : l'ANDPC réduit l'indemnisation des formations 100 % e-learning",
-      "summary": "Pour cette année de transition avant une nouvelle gouvernance en 2027, les formations 100 % à distance asynchrones perdent leur indemnisation de perte d'activité tandis que le présentiel et la classe virtuelle synchrone conservent leur prise en charge intégrale.",
-      "source": "Info Formation DPC",
-      "url": "https://www.infodpc.fr/inscriptions-dpc-2026-dates-nouveautes-baisses-dindemnisation-et-avenir-de-landpc/"
+      "title": "DE infirmier : le nouveau référentiel de formation (4 620 heures en trois ans) entre en vigueur dès la rentrée 2026",
+      "summary": "Porté par l'arrêté du 20 février 2026, ce référentiel confie désormais la délivrance du diplôme aux universités accréditées et vise à combler le décalage entre la formation initiale et les compétences élargies récemment reconnues aux infirmiers, au prix d'un volume horaire jugé dense par les étudiants.",
+      "source": "Caducee.net",
+      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
     }
   ],
   "word": {
-    "field": "Plaies et cicatrisation",
-    "term": "Escarre",
-    "subtitle": "La lésion cutanée d'appui que l'infirmier doit d'abord savoir prévenir",
-    "definition": "Lésion cutanée et parfois sous-cutanée d'origine ischémique, causée par une compression prolongée des tissus mous entre un plan dur et une saillie osseuse, classée en quatre stades selon la profondeur de l'atteinte (érythème, phlyctène, nécrose, ulcération profonde).",
+    "field": "Vaccination et pharmacologie",
+    "term": "Chaîne du froid",
+    "subtitle": "La règle de conservation qui garantit l'efficacité d'un vaccin, de la fabrication à l'injection",
+    "definition": "Ensemble des conditions de stockage et de transport, le plus souvent entre +2 °C et +8 °C, qui préservent l'activité biologique d'un vaccin ou d'un produit thermosensible depuis sa fabrication jusqu'à son administration au patient.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "le risque dès l'admission à l'aide de l'échelle de Braden, puis réévaluer à chaque changement notable de l'état du patient." },
-      { "n": "2", "h": "Repositionner", "t": "le patient toutes les 2 à 4 heures et utiliser un support adapté (matelas à air, coussin) pour réduire la pression sur les points d'appui." },
-      { "n": "3", "h": "Traiter", "t": "selon le stade observé : protection cutanée simple pour l'érythème, détersion et pansement adapté pour les lésions ouvertes, en réévaluant régulièrement la cicatrisation." }
+      { "n": "1", "h": "Vérifier", "t": "la température du réfrigérateur à vaccins au moins une fois par jour avec un thermomètre à sonde, et consigner la valeur sur le relevé de suivi." },
+      { "n": "2", "h": "Détecter", "t": "toute rupture de la chaîne (porte restée ouverte, panne électrique, transport prolongé), mettre le produit en quarantaine et ne pas l'administrer avant l'avis du pharmacien ou du fabricant." },
+      { "n": "3", "h": "Respecter", "t": "l'ordre de sortie des flacons (premier entré, premier sorti) et limiter au strict délai de préparation le temps du produit hors réfrigérateur." }
     ],
-    "retenir": "La meilleure prise en charge de l'escarre reste sa prévention : repérage précoce du risque, mobilisation régulière et surveillance cutanée systématique évitent la majorité des lésions évitables. ",
-    "sources": "Sources : HAS, référentiel de prévention des escarres · arrêté du 26 juin 2026 sur les actes infirmiers (prise en charge des plaies)."
+    "retenir": "Une rupture de la chaîne du froid, même brève, peut rendre un vaccin inefficace sans altération visible : la vigilance sur la température prime toujours sur l'aspect du produit. ",
+    "sources": "Sources : HAS, recommandations vaccinales actualisées (mpox, juin 2026) · Vaccination Info Service."
   }
 }

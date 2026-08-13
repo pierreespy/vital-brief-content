@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Score de Glasgow", "date": "2026-08-13" },
     { "term": "Chaîne du froid", "date": "2026-08-12" },
     { "term": "Escarre", "date": "2026-08-11" },
     { "term": "Bilan de soins infirmiers (BSI)", "date": "2026-08-10" },
@@ -28,7 +29,6 @@
     { "term": "Diagnostic infirmier", "date": "2026-07-18" },
     { "term": "Coup de chaleur", "date": "2026-07-17" },
     { "term": "Delirium (état confusionnel aigu)", "date": "2026-07-16" },
-    { "term": "Détersion", "date": "2026-07-15" },
-    { "term": "Choc anaphylactique", "date": "2026-07-14" }
+    { "term": "Détersion", "date": "2026-07-15" }
   ]
 }

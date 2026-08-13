@@ -1,71 +1,73 @@
 {
-  "dateLong": "Mer. 12 août",
+  "dateLong": "Jeu. 13 août",
   "essentiel": [
-    { "text": "La " },
+    { "text": "L'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " confirme un risque de " },
+    { "text": "méningiome", "strong": true },
+    { "text": " lié aux contraceptifs au désogestrel et à l'étonogestrel, un décret précise les missions de l'" },
+    { "text": "infirmier référent", "strong": true },
+    { "text": ", et la " },
     { "text": "HAS", "strong": true },
-    { "text": " rend un avis favorable, sous réserve, à la " },
-    { "text": "prescription infirmière autonome", "strong": true },
-    { "text": " dans cinq domaines, actualise ses recommandations de " },
-    { "text": "vaccination contre le mpox", "strong": true },
-    { "text": " clade Ib, alors que plus de " },
-    { "text": "60 000 postes infirmiers", "strong": true },
-    { "text": " restent vacants à l'approche de la rentrée." }
+    { "text": " recommande l'" },
+    { "text": "intelligence artificielle", "strong": true },
+    { "text": " pour anticiper les escarres 48 heures à l'avance." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Prescription infirmière : la HAS rend un avis favorable sous réserve, l'arrêté opérationnel depuis fin juin",
-      "summary": "Dans son avis du 11 juin 2026, la Haute Autorité de santé valide l'élargissement de la prescription infirmière à cinq domaines (vaccins, plaies, santé sexuelle, sevrage tabagique, biologie ciblée), tout en posant des réserves sur certains examens biologiques et sur l'accès du pharmacien à la prescription initiale.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-avis-favorable-de-la-has-mais-des-reserves-qui-persistent"
+      "title": "Infirmier référent : le décret du 22 mai 2026 précise les missions et le cadre d'exercice",
+      "summary": "Publié au Journal officiel, le décret n° 2026-396 fixe les missions de l'infirmier référent — désigné par le patient au sein d'une structure d'exercice coordonné — dans le suivi et la coordination des parcours de soins.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
     },
     {
       "category": "alertes",
-      "title": "Alepsal : l'ANSM prolonge la rupture de stock du phénobarbital 100 mg jusqu'à fin juillet",
-      "summary": "Faute d'un réapprovisionnement suffisant du laboratoire Teofarma, l'ANSM interdit l'exportation de l'Alepsal 100 mg par les grossistes-répartiteurs et recommande de basculer les patients épileptiques vers le Gardenal ou le Phénobarbital Richard, disponibles en quantité suffisante.",
+      "title": "Désogestrel et étonogestrel : l'ANSM confirme un risque accru de méningiome et renforce la surveillance",
+      "summary": "Après l'avis du comité européen de pharmacovigilance (PRAC), l'ANSM contre-indique ces contraceptifs progestatifs chez les patientes ayant un méningiome ou des antécédents, et recommande une vigilance accrue au-delà d'un an d'utilisation.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/page/medicaments-ayant-fait-lobjet-dun-signalement-de-rupture-ou-de-risque-de-rupture-de-stock"
+      "url": "https://ansm.sante.fr/informations-de-securite/contraceptifs-a-base-de-desogestrel-et-detonogestrel-risque-de-meningiome-et-mesures-pour-minimiser-le-risque"
     },
     {
       "category": "science",
-      "title": "Mpox clade Ib : la HAS actualise ses recommandations vaccinales pour freiner la circulation du virus",
-      "summary": "Face au risque d'arrivée du clade Ib sur le territoire, la HAS maintient la vaccination préventive pour les publics à haut risque et la vaccination réactive des cas contacts, et recommande désormais une dose de rappel pour les personnes vaccinées il y a plus de deux ans.",
+      "title": "Prévention des escarres : la HAS recommande l'appui de l'intelligence artificielle en services à haut risque",
+      "summary": "Les outils de prédiction par IA, capables d'identifier jusqu'à 48 heures à l'avance les patients à risque, doivent compléter sans la remplacer l'évaluation clinique infirmière ; les services dotés d'équipes dédiées rapportent une baisse de 45 % des escarres nosocomiales.",
       "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_3538112/fr/mpox-mpxv-la-has-actualise-ses-recommandations-vaccinales-pour-mieux-lutter-contre-la-circulation-du-virus"
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/escarresdef_long.pdf"
     },
     {
       "category": "profession",
-      "title": "Plus de 60 000 postes infirmiers vacants : les hôpitaux anticipent un été sous tension",
-      "summary": "Départs à la retraite, difficultés de recrutement et hausse continue des volumes de soins alourdissent les plannings des services d'urgences et de gériatrie, dans un contexte marqué par un préavis de grève national déposé par la fédération FO-SPS Santé jusqu'à la mi-octobre.",
-      "source": "Actualités Santé",
-      "url": "https://actualites-sante.com/hopitaux-france-tensions-greves/"
+      "title": "Ordre national des infirmiers : Alain Desbouchages fixe les priorités 2026, de l'autonomie à sa mise en œuvre",
+      "summary": "Élu à la présidence de l'Ordre en novembre 2025, Alain Desbouchages veut faire de 2026 l'année de la traduction concrète, sur le terrain, des avancées réglementaires obtenues sur l'autonomie infirmière.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier/profession-infirmiere-les-grands-enjeux-de-lordre-pour-2026"
     },
     {
       "category": "technique",
-      "title": "Santé mentale : la medtech Sonomind lève 20 M€ pour son traitement par ultrasons de la dépression résistante",
-      "summary": "Menée par Critical Path Ventures et Bpifrance, cette série A doit financer le déploiement clinique d'un dispositif de neuromodulation par ultrasons focalisés, conçu comme alternative non invasive pour les patients en échec des traitements médicamenteux classiques.",
-      "source": "Bpifrance",
-      "url": "https://bigmedia.bpifrance.fr/nos-actualites/sante-mentale-sonomind-leve-20-millions-et-propose-une-nouvelle-voie-therapeutique-contre-la-depression"
+      "title": "Rééducation numérique : Axomove lève 4 M€ pour déployer son dispositif médical remboursé",
+      "summary": "Menée par le Fonds Prévention Numérique de Bpifrance et Go Capital, cette série A doit accélérer le déploiement du seul dispositif médical numérique de rééducation actuellement remboursé par l'Assurance Maladie.",
+      "source": "Maddyness",
+      "url": "https://www.maddyness.com/2026/04/22/axomove-boucle-sa-serie-a-pour-ameliorer-le-suivi-de-la-reeducation/"
     },
     {
       "category": "formation",
-      "title": "DE infirmier : le nouveau référentiel de formation (4 620 heures en trois ans) entre en vigueur dès la rentrée 2026",
-      "summary": "Porté par l'arrêté du 20 février 2026, ce référentiel confie désormais la délivrance du diplôme aux universités accréditées et vise à combler le décalage entre la formation initiale et les compétences élargies récemment reconnues aux infirmiers, au prix d'un volume horaire jugé dense par les étudiants.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
+      "title": "DPC 2026 : les compteurs des infirmiers libéraux repartent à zéro, priorité à la santé mentale",
+      "summary": "L'Agence du DPC a ouvert les inscriptions avec une remise à zéro des compteurs de formation continue et une place renforcée aux modules de santé mentale dans le catalogue proposé aux IDEL.",
+      "source": "Pôle Formation Santé",
+      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
     }
   ],
   "word": {
-    "field": "Vaccination et pharmacologie",
-    "term": "Chaîne du froid",
-    "subtitle": "La règle de conservation qui garantit l'efficacité d'un vaccin, de la fabrication à l'injection",
-    "definition": "Ensemble des conditions de stockage et de transport, le plus souvent entre +2 °C et +8 °C, qui préservent l'activité biologique d'un vaccin ou d'un produit thermosensible depuis sa fabrication jusqu'à son administration au patient.",
+    "field": "Neurologie et urgences",
+    "term": "Score de Glasgow",
+    "subtitle": "L'échelle qui objective le niveau de conscience d'un patient, essentielle en traumatologie et en réanimation",
+    "definition": "Outil de mesure clinique côtant de 3 à 15 l'ouverture des yeux, la réponse verbale et la réponse motrice, permettant de quantifier et de suivre dans le temps l'altération de la conscience d'un patient, notamment après un traumatisme crânien.",
     "steps": [
-      { "n": "1", "h": "Vérifier", "t": "la température du réfrigérateur à vaccins au moins une fois par jour avec un thermomètre à sonde, et consigner la valeur sur le relevé de suivi." },
-      { "n": "2", "h": "Détecter", "t": "toute rupture de la chaîne (porte restée ouverte, panne électrique, transport prolongé), mettre le produit en quarantaine et ne pas l'administrer avant l'avis du pharmacien ou du fabricant." },
-      { "n": "3", "h": "Respecter", "t": "l'ordre de sortie des flacons (premier entré, premier sorti) et limiter au strict délai de préparation le temps du produit hors réfrigérateur." }
+      { "n": "1", "h": "Évaluer", "t": "successivement les trois composantes (yeux, verbal, moteur) en stimulant si besoin le patient, et additionner les scores obtenus pour chaque item." },
+      { "n": "2", "h": "Tracer", "t": "le score sur la feuille de surveillance neurologique à intervalles réguliers, pour objectiver une évolution plutôt qu'une valeur isolée." },
+      { "n": "3", "h": "Alerter", "t": "sans délai le médecin en cas de baisse de 2 points ou plus, ou d'un score inférieur ou égal à 8, seuil évocateur d'un coma nécessitant une protection des voies aériennes." }
     ],
-    "retenir": "Une rupture de la chaîne du froid, même brève, peut rendre un vaccin inefficace sans altération visible : la vigilance sur la température prime toujours sur l'aspect du produit. ",
-    "sources": "Sources : HAS, recommandations vaccinales actualisées (mpox, juin 2026) · Vaccination Info Service."
+    "retenir": "Un score de Glasgow s'interprète toujours en tendance : c'est sa baisse dans le temps, plus que sa valeur absolue, qui doit alerter l'infirmier sur une aggravation neurologique. ",
+    "sources": "Sources : Teasdale & Jennett (1974) · Recommandations SFAR sur le traumatisme crânien."
   }
 }

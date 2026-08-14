@@ -1,73 +1,69 @@
 {
-  "dateLong": "Jeu. 13 août",
+  "dateLong": "Ven. 14 août",
   "essentiel": [
     { "text": "L'" },
-    { "text": "ANSM", "strong": true },
-    { "text": " confirme un risque de " },
-    { "text": "méningiome", "strong": true },
-    { "text": " lié aux contraceptifs au désogestrel et à l'étonogestrel, un décret précise les missions de l'" },
-    { "text": "infirmier référent", "strong": true },
-    { "text": ", et la " },
+    { "text": "arrêté du 26 juin", "strong": true },
+    { "text": " sur les actes infirmiers est pleinement applicable, une " },
+    { "text": "recrudescence de légionellose", "strong": true },
+    { "text": " est surveillée en Savoie, et la " },
     { "text": "HAS", "strong": true },
-    { "text": " recommande l'" },
-    { "text": "intelligence artificielle", "strong": true },
-    { "text": " pour anticiper les escarres 48 heures à l'avance." }
+    { "text": " lance ses travaux sur les ratios minimums de soignants." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Infirmier référent : le décret du 22 mai 2026 précise les missions et le cadre d'exercice",
-      "summary": "Publié au Journal officiel, le décret n° 2026-396 fixe les missions de l'infirmier référent — désigné par le patient au sein d'une structure d'exercice coordonné — dans le suivi et la coordination des parcours de soins.",
+      "title": "Consultation infirmière et nouveaux actes : l'arrêté du 26 juin 2026 pleinement applicable",
+      "summary": "Publié au Journal officiel le 27 juin, le texte consacre la consultation infirmière en autonomie et étend la liste des produits de santé, dispositifs et examens que les IDE peuvent prescrire ou renouveler.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "Désogestrel et étonogestrel : l'ANSM confirme un risque accru de méningiome et renforce la surveillance",
-      "summary": "Après l'avis du comité européen de pharmacovigilance (PRAC), l'ANSM contre-indique ces contraceptifs progestatifs chez les patientes ayant un méningiome ou des antécédents, et recommande une vigilance accrue au-delà d'un an d'utilisation.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/contraceptifs-a-base-de-desogestrel-et-detonogestrel-risque-de-meningiome-et-mesures-pour-minimiser-le-risque"
+      "title": "Légionellose : recrudescence de cas en Savoie, investigation en cours",
+      "summary": "43 cas ont été déclarés entre le 1er juin et le 12 août 2026 dans le département, dont 36 chez des résidents ; l'ARS Auvergne-Rhône-Alpes recherche la source de contamination.",
+      "source": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/recrudescence-de-cas-de-legionellose-en-savoie"
     },
     {
       "category": "science",
-      "title": "Prévention des escarres : la HAS recommande l'appui de l'intelligence artificielle en services à haut risque",
-      "summary": "Les outils de prédiction par IA, capables d'identifier jusqu'à 48 heures à l'avance les patients à risque, doivent compléter sans la remplacer l'évaluation clinique infirmière ; les services dotés d'équipes dédiées rapportent une baisse de 45 % des escarres nosocomiales.",
+      "title": "Ratios minimums de soignants : la HAS engage ses travaux, priorité à l'obstétrique et à la néonatalogie",
+      "summary": "Saisie par le ministère, la Haute Autorité de santé publie sa note de cadrage sur les ratios minimums en néonatalogie, obstétrique, soins palliatifs et psychiatrie, avec une priorité donnée en 2026 aux deux premiers champs.",
       "source": "HAS",
-      "url": "https://www.has-sante.fr/upload/docs/application/pdf/escarresdef_long.pdf"
+      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage"
     },
     {
       "category": "profession",
-      "title": "Ordre national des infirmiers : Alain Desbouchages fixe les priorités 2026, de l'autonomie à sa mise en œuvre",
-      "summary": "Élu à la présidence de l'Ordre en novembre 2025, Alain Desbouchages veut faire de 2026 l'année de la traduction concrète, sur le terrain, des avancées réglementaires obtenues sur l'autonomie infirmière.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier/profession-infirmiere-les-grands-enjeux-de-lordre-pour-2026"
+      "title": "Imagerie médicale : l'Ordre infirmier rappelle la frontière des compétences avec les manipulateurs de radiologie",
+      "summary": "Dans une publication du 23 juillet, l'Ordre national des infirmiers précise le rôle de chacun en imagerie médicale, médecine nucléaire et imagerie interventionnelle, pour éviter toute confusion avec la réforme en cours.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/pratiques-en-imagerie-medicale-delimitation-des-competences-entre-infirmiers-diplomes-d-etat-et"
     },
     {
       "category": "technique",
-      "title": "Rééducation numérique : Axomove lève 4 M€ pour déployer son dispositif médical remboursé",
-      "summary": "Menée par le Fonds Prévention Numérique de Bpifrance et Go Capital, cette série A doit accélérer le déploiement du seul dispositif médical numérique de rééducation actuellement remboursé par l'Assurance Maladie.",
-      "source": "Maddyness",
-      "url": "https://www.maddyness.com/2026/04/22/axomove-boucle-sa-serie-a-pour-ameliorer-le-suivi-de-la-reeducation/"
+      "title": "Nouveau référentiel d'actes : ECG, bladder scanner et mini-spirométrie entrent dans la pratique infirmière",
+      "summary": "Le référentiel publié fin juin élargit la liste des dispositifs que l'infirmier peut désormais utiliser en autonomie — électrocardiogramme, bladder scanner, mini-spiromètre, index de pression systolique — pour un premier repérage clinique.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38027-actes-et-prescriptions-realises-par-les-infirmiers-un-nouveau-referentiel-pour-une-autonomie-elargie.html"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : les compteurs des infirmiers libéraux repartent à zéro, priorité à la santé mentale",
-      "summary": "L'Agence du DPC a ouvert les inscriptions avec une remise à zéro des compteurs de formation continue et une place renforcée aux modules de santé mentale dans le catalogue proposé aux IDEL.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "Compétences vaccinales élargies : la formation de 10h30 reste la clé pour déclarer son activité de prescripteur",
+      "summary": "Pour exercer la prescription de vaccins, l'infirmier doit justifier d'une attestation de formation dédiée — décret et arrêté du 8 août 2023 — avant de déclarer son activité au tableau de l'Ordre.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/extension-des-competences-vaccinales-des-infirmiers-une-demande-portee-par-l-ordre-une-mesure"
     }
   ],
   "word": {
-    "field": "Neurologie et urgences",
-    "term": "Score de Glasgow",
-    "subtitle": "L'échelle qui objective le niveau de conscience d'un patient, essentielle en traumatologie et en réanimation",
-    "definition": "Outil de mesure clinique côtant de 3 à 15 l'ouverture des yeux, la réponse verbale et la réponse motrice, permettant de quantifier et de suivre dans le temps l'altération de la conscience d'un patient, notamment après un traumatisme crânien.",
+    "field": "Infectiologie",
+    "term": "Légionellose",
+    "subtitle": "Une pneumopathie bactérienne à surveiller dès qu'un cluster de cas atypiques apparaît",
+    "definition": "Infection pulmonaire causée par la bactérie Legionella, transmise par inhalation d'aérosols d'eau contaminée (tours aéroréfrigérantes, réseaux d'eau chaude, douches), pouvant évoluer vers une pneumopathie sévère chez les personnes fragiles.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "successivement les trois composantes (yeux, verbal, moteur) en stimulant si besoin le patient, et additionner les scores obtenus pour chaque item." },
-      { "n": "2", "h": "Tracer", "t": "le score sur la feuille de surveillance neurologique à intervalles réguliers, pour objectiver une évolution plutôt qu'une valeur isolée." },
-      { "n": "3", "h": "Alerter", "t": "sans délai le médecin en cas de baisse de 2 points ou plus, ou d'un score inférieur ou égal à 8, seuil évocateur d'un coma nécessitant une protection des voies aériennes." }
+      { "n": "1", "h": "Repérer", "t": "une pneumopathie fébrile d'apparition brutale, souvent associée à des signes extra-respiratoires (troubles digestifs, confusion), en particulier chez un patient à risque (tabagisme, immunodépression, âge élevé)." },
+      { "n": "2", "h": "Signaler", "t": "tout cas confirmé sans délai à l'ARS, la légionellose étant une maladie à déclaration obligatoire, pour permettre l'enquête environnementale et la recherche de la source de contamination." },
+      { "n": "3", "h": "Surveiller", "t": "l'évolution clinique sous antibiothérapie ciblée (macrolides ou fluoroquinolones) et la saturation en oxygène, le risque de détresse respiratoire aiguë étant élevé dans les premiers jours." }
     ],
-    "retenir": "Un score de Glasgow s'interprète toujours en tendance : c'est sa baisse dans le temps, plus que sa valeur absolue, qui doit alerter l'infirmier sur une aggravation neurologique. ",
-    "sources": "Sources : Teasdale & Jennett (1974) · Recommandations SFAR sur le traumatisme crânien."
+    "retenir": "La légionellose est une maladie à déclaration obligatoire : tout cluster de cas doit alerter sur une source de contamination commune (réseau d'eau, climatisation) à investiguer rapidement. ",
+    "sources": "Sources : Santé publique France · HCSP, recommandations légionellose."
   }
 }

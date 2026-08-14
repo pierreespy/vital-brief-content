@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Légionellose", "date": "2026-08-14" },
     { "term": "Score de Glasgow", "date": "2026-08-13" },
     { "term": "Chaîne du froid", "date": "2026-08-12" },
     { "term": "Escarre", "date": "2026-08-11" },
@@ -28,7 +29,6 @@
     { "term": "Extravasation", "date": "2026-07-19" },
     { "term": "Diagnostic infirmier", "date": "2026-07-18" },
     { "term": "Coup de chaleur", "date": "2026-07-17" },
-    { "term": "Delirium (état confusionnel aigu)", "date": "2026-07-16" },
-    { "term": "Détersion", "date": "2026-07-15" }
+    { "term": "Delirium (état confusionnel aigu)", "date": "2026-07-16" }
   ]
 }

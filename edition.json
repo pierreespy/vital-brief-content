@@ -1,69 +1,69 @@
 {
-  "dateLong": "Ven. 14 août",
+  "dateLong": "Sam. 15 août",
   "essentiel": [
     { "text": "L'" },
-    { "text": "arrêté du 26 juin", "strong": true },
-    { "text": " sur les actes infirmiers est pleinement applicable, une " },
-    { "text": "recrudescence de légionellose", "strong": true },
-    { "text": " est surveillée en Savoie, et la " },
-    { "text": "HAS", "strong": true },
-    { "text": " lance ses travaux sur les ratios minimums de soignants." }
+    { "text": "ANSM", "strong": true },
+    { "text": " alerte sur un risque de méningiome lié aux contraceptifs au désogestrel/étonogestrel, le " },
+    { "text": "nouveau référentiel de formation infirmière", "strong": true },
+    { "text": " entre en vigueur à la rentrée, et l'" },
+    { "text": "avenant 11", "strong": true },
+    { "text": " revalorise les consultations infirmières dès novembre." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Consultation infirmière et nouveaux actes : l'arrêté du 26 juin 2026 pleinement applicable",
-      "summary": "Publié au Journal officiel le 27 juin, le texte consacre la consultation infirmière en autonomie et étend la liste des produits de santé, dispositifs et examens que les IDE peuvent prescrire ou renouveler.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "title": "Diplôme d'État infirmier : le nouveau référentiel de formation (4 620 heures) entre en vigueur à la rentrée",
+      "summary": "Le décret n° 2026-130 du 20 février 2026 acte une réforme structurelle de la formation infirmière — délivrance du diplôme par les universités accréditées et nouveau référentiel pédagogique — applicable dès septembre 2026.",
+      "source": "Caducée",
+      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
     },
     {
       "category": "alertes",
-      "title": "Légionellose : recrudescence de cas en Savoie, investigation en cours",
-      "summary": "43 cas ont été déclarés entre le 1er juin et le 12 août 2026 dans le département, dont 36 chez des résidents ; l'ARS Auvergne-Rhône-Alpes recherche la source de contamination.",
-      "source": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/recrudescence-de-cas-de-legionellose-en-savoie"
+      "title": "Contraceptifs au désogestrel et à l'étonogestrel : l'ANSM confirme un risque de méningiome",
+      "summary": "Cérazette, Nexplanon, NuvaRing et génériques sont concernés ; contre-indication chez les femmes ayant un antécédent de méningiome et surveillance des signes cliniques (céphalées, troubles visuels, crises) recommandées par l'ANSM.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/actualites/contraception-et-risque-de-meningiome-nouvelles-recommandations"
     },
     {
       "category": "science",
-      "title": "Ratios minimums de soignants : la HAS engage ses travaux, priorité à l'obstétrique et à la néonatalogie",
-      "summary": "Saisie par le ministère, la Haute Autorité de santé publie sa note de cadrage sur les ratios minimums en néonatalogie, obstétrique, soins palliatifs et psychiatrie, avec une priorité donnée en 2026 aux deux premiers champs.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage"
+      "title": "Antibiorésistance : hausse des entérobactéries productrices de carbapénémases surveillées en France",
+      "summary": "La surveillance 2026 montre une progression des EPC, résistantes à l'antibiotique de dernier recours ; une partie de la hausse s'explique par un dépistage plus systématique, mais la vigilance reste de mise en établissement.",
+      "source": "Sciences et Démocratie (d'après Santé publique France)",
+      "url": "https://www.sciences-et-democratie.net/sante-et-vivant/vaccins-et-epidemies-33273-antibioresistance-surveillance-2026"
     },
     {
       "category": "profession",
-      "title": "Imagerie médicale : l'Ordre infirmier rappelle la frontière des compétences avec les manipulateurs de radiologie",
-      "summary": "Dans une publication du 23 juillet, l'Ordre national des infirmiers précise le rôle de chacun en imagerie médicale, médecine nucléaire et imagerie interventionnelle, pour éviter toute confusion avec la réforme en cours.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/pratiques-en-imagerie-medicale-delimitation-des-competences-entre-infirmiers-diplomes-d-etat-et"
+      "title": "Avenant 11 : les nouvelles consultations infirmières à 20 € entrent en vigueur en novembre",
+      "summary": "Entré en application le 6 mai 2026, l'avenant 11 crée deux consultations infirmières facturables 20 €, dont la CIA dédiée aux patients diabétiques de type 2 sous insuline, dans le cadre d'une enveloppe de revalorisation de 503 millions d'euros sur 2026-2029.",
+      "source": "Ameli.fr",
+      "url": "https://www.ameli.fr/infirmier/actualites/convention-des-infirmiers-liberaux-un-avenant-structurant-pour-accompagner-l-evolution-du-metier"
     },
     {
       "category": "technique",
-      "title": "Nouveau référentiel d'actes : ECG, bladder scanner et mini-spirométrie entrent dans la pratique infirmière",
-      "summary": "Le référentiel publié fin juin élargit la liste des dispositifs que l'infirmier peut désormais utiliser en autonomie — électrocardiogramme, bladder scanner, mini-spiromètre, index de pression systolique — pour un premier repérage clinique.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38027-actes-et-prescriptions-realises-par-les-infirmiers-un-nouveau-referentiel-pour-une-autonomie-elargie.html"
+      "title": "Pansements : nouvelle cotation NGAP et accès direct sans ordonnance annoncé pour janvier 2027",
+      "summary": "Depuis le 21 juin 2026, deux nouveaux codes distinguent pansement de plaie chronique et pansement chirurgical simple (AMI 2,02) ; l'accès direct sans ordonnance pour les plaies non chirurgicales est prévu à partir du 1er janvier 2027.",
+      "source": "Albus",
+      "url": "https://www.albus.fr/blog/actualites/ngap-infirmier-2026-ce-qui-change-depuis-le-21-juin/"
     },
     {
       "category": "formation",
-      "title": "Compétences vaccinales élargies : la formation de 10h30 reste la clé pour déclarer son activité de prescripteur",
-      "summary": "Pour exercer la prescription de vaccins, l'infirmier doit justifier d'une attestation de formation dédiée — décret et arrêté du 8 août 2023 — avant de déclarer son activité au tableau de l'Ordre.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/extension-des-competences-vaccinales-des-infirmiers-une-demande-portee-par-l-ordre-une-mesure"
+      "title": "DPC : la triennale 2023-2025 prorogée jusqu'au 31 décembre 2026, dernière ligne droite pour les IDEL",
+      "summary": "L'arrêté du 23 juin 2025 proroge d'un an les orientations prioritaires du DPC ; les infirmiers n'ayant pas encore validé leurs deux actions obligatoires ont jusqu'à fin décembre pour se mettre en conformité.",
+      "source": "Agence DPC",
+      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
     }
   ],
   "word": {
-    "field": "Infectiologie",
-    "term": "Légionellose",
-    "subtitle": "Une pneumopathie bactérienne à surveiller dès qu'un cluster de cas atypiques apparaît",
-    "definition": "Infection pulmonaire causée par la bactérie Legionella, transmise par inhalation d'aérosols d'eau contaminée (tours aéroréfrigérantes, réseaux d'eau chaude, douches), pouvant évoluer vers une pneumopathie sévère chez les personnes fragiles.",
+    "field": "Hygiène & infectiologie",
+    "term": "Bactérie multirésistante (BMR)",
+    "subtitle": "Une bactérie qui résiste à plusieurs familles d'antibiotiques, à isoler sans délai",
+    "definition": "Bactérie devenue insensible à au moins deux classes d'antibiotiques habituellement actives contre elle, réduisant les options thérapeutiques et imposant des précautions spécifiques pour éviter sa transmission croisée.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "une pneumopathie fébrile d'apparition brutale, souvent associée à des signes extra-respiratoires (troubles digestifs, confusion), en particulier chez un patient à risque (tabagisme, immunodépression, âge élevé)." },
-      { "n": "2", "h": "Signaler", "t": "tout cas confirmé sans délai à l'ARS, la légionellose étant une maladie à déclaration obligatoire, pour permettre l'enquête environnementale et la recherche de la source de contamination." },
-      { "n": "3", "h": "Surveiller", "t": "l'évolution clinique sous antibiothérapie ciblée (macrolides ou fluoroquinolones) et la saturation en oxygène, le risque de détresse respiratoire aiguë étant élevé dans les premiers jours." }
+      { "n": "1", "h": "Repérer", "t": "un portage connu (antécédent d'hospitalisation, séjour à l'étranger) ou un résultat de prélèvement positif à BMR/BHRe, et le signaler sans délai à l'équipe." },
+      { "n": "2", "h": "Isoler", "t": "le patient en chambre seule avec précautions complémentaires contact — surblouse, gants, friction hydro-alcoolique — et signaler la chambre par une signalétique dédiée." },
+      { "n": "3", "h": "Tracer", "t": "le statut BMR dans le dossier de soins et à chaque transfert, pour que les précautions soient maintenues tout au long du parcours du patient." }
     ],
-    "retenir": "La légionellose est une maladie à déclaration obligatoire : tout cluster de cas doit alerter sur une source de contamination commune (réseau d'eau, climatisation) à investiguer rapidement. ",
-    "sources": "Sources : Santé publique France · HCSP, recommandations légionellose."
+    "retenir": "Une BMR n'est pas plus virulente qu'une bactérie sensible, mais elle referme des portes thérapeutiques : l'isolement précoce et la traçabilité du statut sont la meilleure protection collective. ",
+    "sources": "Sources : Santé publique France · SF2H, précautions complémentaires contact."
   }
 }

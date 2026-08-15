@@ -1,28 +1,28 @@
 {
   "dateLong": "Sam. 15 août",
   "essentiel": [
-    { "text": "L'" },
+    { "text": "La " },
+    { "text": "franchise médicale", "strong": true },
+    { "text": " sur les actes infirmiers pourrait doubler, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur un risque de méningiome lié aux contraceptifs au désogestrel/étonogestrel, le " },
-    { "text": "nouveau référentiel de formation infirmière", "strong": true },
-    { "text": " entre en vigueur à la rentrée, et l'" },
-    { "text": "avenant 11", "strong": true },
-    { "text": " revalorise les consultations infirmières dès novembre." }
+    { "text": " alerte sur une explosion des intoxications liées à de faux produits « CBD » chez les adolescents, et " },
+    { "text": "5 500 places supplémentaires", "strong": true },
+    { "text": " ouvrent en IFSI à la rentrée." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Diplôme d'État infirmier : le nouveau référentiel de formation (4 620 heures) entre en vigueur à la rentrée",
-      "summary": "Le décret n° 2026-130 du 20 février 2026 acte une réforme structurelle de la formation infirmière — délivrance du diplôme par les universités accréditées et nouveau référentiel pédagogique — applicable dès septembre 2026.",
-      "source": "Caducée",
-      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
+      "title": "Franchises médicales : le plafond annuel doit doubler, jusqu'à 100 € par an sur les actes paramédicaux",
+      "summary": "Annoncée le 23 juillet par la ministre de la Santé Stéphanie Rist, la mesure porterait la franchise sur les actes infirmiers, kinés, orthophonistes et pédicures-podologues de 1 à 2 € et le plafond annuel de 50 à 100 €, dans l'attente du décret d'application.",
+      "source": "URPS Infirmiers Centre-Val de Loire",
+      "url": "https://urps-infirmiers-centre.fr/?p=13418"
     },
     {
       "category": "alertes",
-      "title": "Contraceptifs au désogestrel et à l'étonogestrel : l'ANSM confirme un risque de méningiome",
-      "summary": "Cérazette, Nexplanon, NuvaRing et génériques sont concernés ; contre-indication chez les femmes ayant un antécédent de méningiome et surveillance des signes cliniques (céphalées, troubles visuels, crises) recommandées par l'ANSM.",
+      "title": "Produits « CBD » frelatés : l'ANSM signale une explosion des intoxications chez les adolescents",
+      "summary": "Environ 500 signalements recensés depuis 2025, dont 71 % jugés graves et deux décès ; plus de 70 % concernent des 13-18 ans, intoxiqués par des cannabinoïdes de synthèse ou un taux de THC excessif dissimulés dans des produits vendus comme CBD.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/contraception-et-risque-de-meningiome-nouvelles-recommandations"
+      "url": "https://ansm.sante.fr/actualites/augmentation-des-intoxications-causees-par-des-produits-a-base-de-cbd-contenant-dautres-substances"
     },
     {
       "category": "science",
@@ -33,10 +33,10 @@
     },
     {
       "category": "profession",
-      "title": "Avenant 11 : les nouvelles consultations infirmières à 20 € entrent en vigueur en novembre",
-      "summary": "Entré en application le 6 mai 2026, l'avenant 11 crée deux consultations infirmières facturables 20 €, dont la CIA dédiée aux patients diabétiques de type 2 sous insuline, dans le cadre d'une enveloppe de revalorisation de 503 millions d'euros sur 2026-2029.",
-      "source": "Ameli.fr",
-      "url": "https://www.ameli.fr/infirmier/actualites/convention-des-infirmiers-liberaux-un-avenant-structurant-pour-accompagner-l-evolution-du-metier"
+      "title": "Installation en zone sous-dotée : l'aide aux infirmiers libéraux portée à 37 500 €",
+      "summary": "Le contrat d'aide à l'installation des infirmiers (CAII) atteint 37 500 € en 2026 pour les professionnels qui s'engagent à exercer au moins cinq ans dans une zone sous-dotée, un levier pour rééquilibrer l'offre de soins sur le territoire.",
+      "source": "La Ruche des IDEL",
+      "url": "https://laruche.cbainfo.fr/devenir-idel/zones-sur-dotees-ou-sous-dotees/"
     },
     {
       "category": "technique",
@@ -47,10 +47,10 @@
     },
     {
       "category": "formation",
-      "title": "DPC : la triennale 2023-2025 prorogée jusqu'au 31 décembre 2026, dernière ligne droite pour les IDEL",
-      "summary": "L'arrêté du 23 juin 2025 proroge d'un an les orientations prioritaires du DPC ; les infirmiers n'ayant pas encore validé leurs deux actions obligatoires ont jusqu'à fin décembre pour se mettre en conformité.",
-      "source": "Agence DPC",
-      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
+      "title": "Rentrée 2026 : 5 500 places supplémentaires en IFSI pour former plus d'infirmiers",
+      "summary": "Confirmée par le ministère de la Santé, l'ouverture de 5 500 places porte les capacités d'accueil en IFSI à environ 40 000 étudiants en première année, contre 38 000 en 2024, pour répondre aux besoins croissants en soins infirmiers.",
+      "source": "L'Etudiant",
+      "url": "https://www.letudiant.fr/etudes/medecine-sante/ifsi-5-500-places-supplementaires-en-diplome-infirmier-pour-la-rentree-2026.html"
     }
   ],
   "word": {

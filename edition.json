@@ -1,69 +1,69 @@
 {
-  "dateLong": "Sam. 15 août",
+  "dateLong": "Dim. 16 août",
   "essentiel": [
-    { "text": "La " },
-    { "text": "franchise médicale", "strong": true },
-    { "text": " sur les actes infirmiers pourrait doubler, l'" },
+    { "text": "Le décret sur l'" },
+    { "text": "infirmier référent", "strong": true },
+    { "text": " est publié, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur une explosion des intoxications liées à de faux produits « CBD » chez les adolescents, et " },
-    { "text": "5 500 places supplémentaires", "strong": true },
-    { "text": " ouvrent en IFSI à la rentrée." }
+    { "text": " rappelle un lot de sondes d'intubation Zarys, et l'" },
+    { "text": "Ordre infirmier", "strong": true },
+    { "text": " fixe ses priorités pour ses 20 ans." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Franchises médicales : le plafond annuel doit doubler, jusqu'à 100 € par an sur les actes paramédicaux",
-      "summary": "Annoncée le 23 juillet par la ministre de la Santé Stéphanie Rist, la mesure porterait la franchise sur les actes infirmiers, kinés, orthophonistes et pédicures-podologues de 1 à 2 € et le plafond annuel de 50 à 100 €, dans l'attente du décret d'application.",
-      "source": "URPS Infirmiers Centre-Val de Loire",
-      "url": "https://urps-infirmiers-centre.fr/?p=13418"
+      "title": "Infirmier référent : le décret officialisant ses missions est publié au Journal officiel",
+      "summary": "Le décret n° 2026-396 du 22 mai 2026 précise les missions de l'infirmier référent auprès des patients en ALD ; la coopération avec le médecin traitant peut désormais ouvrir droit à une rémunération spécifique.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
     },
     {
       "category": "alertes",
-      "title": "Produits « CBD » frelatés : l'ANSM signale une explosion des intoxications chez les adolescents",
-      "summary": "Environ 500 signalements recensés depuis 2025, dont 71 % jugés graves et deux décès ; plus de 70 % concernent des 13-18 ans, intoxiqués par des cannabinoïdes de synthèse ou un taux de THC excessif dissimulés dans des produits vendus comme CBD.",
+      "title": "Sondes d'intubation endotrachéale Zarys International Group : rappel de lot",
+      "summary": "L'ANSM a publié le 11 août 2026 une information de sécurité sur un retrait de lot de sondes d'intubation endotrachéale (référence R2623092), destinée aux pharmacies à usage intérieur et aux établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/augmentation-des-intoxications-causees-par-des-produits-a-base-de-cbd-contenant-dautres-substances"
+      "url": "https://ansm.sante.fr/informations-de-securite/sonde-dintubation-endotracheale-zarys-international-group"
     },
     {
       "category": "science",
-      "title": "Antibiorésistance : hausse des entérobactéries productrices de carbapénémases surveillées en France",
-      "summary": "La surveillance 2026 montre une progression des EPC, résistantes à l'antibiotique de dernier recours ; une partie de la hausse s'explique par un dépistage plus systématique, mais la vigilance reste de mise en établissement.",
-      "source": "Sciences et Démocratie (d'après Santé publique France)",
-      "url": "https://www.sciences-et-democratie.net/sante-et-vivant/vaccins-et-epidemies-33273-antibioresistance-surveillance-2026"
+      "title": "Infections du site opératoire : la chirurgie digestive reste sous-estimée dans la surveillance nationale",
+      "summary": "Les données de surveillance 2024 publiées par Santé publique France confirment les caractéristiques cliniques et microbiologiques des ISO, mais leur taux est probablement sous-évalué en chirurgie digestive faute de détection systématique.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/sites/default/files/cadic_files/documents/spf00006626.pdf"
     },
     {
       "category": "profession",
-      "title": "Installation en zone sous-dotée : l'aide aux infirmiers libéraux portée à 37 500 €",
-      "summary": "Le contrat d'aide à l'installation des infirmiers (CAII) atteint 37 500 € en 2026 pour les professionnels qui s'engagent à exercer au moins cinq ans dans une zone sous-dotée, un levier pour rééquilibrer l'offre de soins sur le territoire.",
-      "source": "La Ruche des IDEL",
-      "url": "https://laruche.cbainfo.fr/devenir-idel/zones-sur-dotees-ou-sous-dotees/"
+      "title": "L'Ordre infirmier fête ses 20 ans : les priorités 2026 d'Alain Desbouchages",
+      "summary": "Élu à la tête de l'Ordre national des infirmiers le 19 novembre 2025, Alain Desbouchages fait de la traduction concrète sur le terrain de la consultation infirmière, de l'accès direct et de l'infirmier référent l'enjeu central de l'année.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier/profession-infirmiere-les-grands-enjeux-de-lordre-pour-2026"
     },
     {
       "category": "technique",
-      "title": "Pansements : nouvelle cotation NGAP et accès direct sans ordonnance annoncé pour janvier 2027",
-      "summary": "Depuis le 21 juin 2026, deux nouveaux codes distinguent pansement de plaie chronique et pansement chirurgical simple (AMI 2,02) ; l'accès direct sans ordonnance pour les plaies non chirurgicales est prévu à partir du 1er janvier 2027.",
-      "source": "Albus",
-      "url": "https://www.albus.fr/blog/actualites/ngap-infirmier-2026-ce-qui-change-depuis-le-21-juin/"
+      "title": "Nouveaux actes infirmiers : télésurveillance rythmologique, ablation de drains et neurostimulation",
+      "summary": "L'arrêté du 26 juin 2026 élargit le rôle sur prescription : contrôle en télésurveillance des dispositifs implantables rythmologiques, ablation de drains pleuraux et médiastinaux, ponctions thérapeutiques et adaptation des réglages de stimulation cérébrale profonde.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "formation",
-      "title": "Rentrée 2026 : 5 500 places supplémentaires en IFSI pour former plus d'infirmiers",
-      "summary": "Confirmée par le ministère de la Santé, l'ouverture de 5 500 places porte les capacités d'accueil en IFSI à environ 40 000 étudiants en première année, contre 38 000 en 2024, pour répondre aux besoins croissants en soins infirmiers.",
-      "source": "L'Etudiant",
-      "url": "https://www.letudiant.fr/etudes/medecine-sante/ifsi-5-500-places-supplementaires-en-diplome-infirmier-pour-la-rentree-2026.html"
+      "title": "DPC 2026 : les compteurs de formation continue repartent à zéro",
+      "summary": "Les orientations nationales du DPC 2023-2025 sont prorogées jusqu'au 31 décembre 2026 ; les compteurs de formation continue des infirmiers libéraux repartent à zéro, avec une prise en charge pédagogique maintenue à 100 %.",
+      "source": "Pôle Formation Santé",
+      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
     }
   ],
   "word": {
-    "field": "Hygiène & infectiologie",
-    "term": "Bactérie multirésistante (BMR)",
-    "subtitle": "Une bactérie qui résiste à plusieurs familles d'antibiotiques, à isoler sans délai",
-    "definition": "Bactérie devenue insensible à au moins deux classes d'antibiotiques habituellement actives contre elle, réduisant les options thérapeutiques et imposant des précautions spécifiques pour éviter sa transmission croisée.",
+    "field": "Urgences / allergologie",
+    "term": "Choc anaphylactique",
+    "subtitle": "Une réaction allergique généralisée qui engage le pronostic vital en quelques minutes",
+    "definition": "Réaction d'hypersensibilité immédiate sévère, à médiation IgE, provoquant une vasodilatation et une hyperperméabilité capillaires responsables d'un collapsus cardiovasculaire et d'une détresse respiratoire pouvant survenir en quelques minutes après l'exposition à l'allergène.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "un portage connu (antécédent d'hospitalisation, séjour à l'étranger) ou un résultat de prélèvement positif à BMR/BHRe, et le signaler sans délai à l'équipe." },
-      { "n": "2", "h": "Isoler", "t": "le patient en chambre seule avec précautions complémentaires contact — surblouse, gants, friction hydro-alcoolique — et signaler la chambre par une signalétique dédiée." },
-      { "n": "3", "h": "Tracer", "t": "le statut BMR dans le dossier de soins et à chaque transfert, pour que les précautions soient maintenues tout au long du parcours du patient." }
+      { "n": "1", "h": "Reconnaître", "t": "les signes cutanéo-muqueux (urticaire, œdème de Quincke), respiratoires (dyspnée, sibilants) et hémodynamiques (hypotension, tachycardie) après exposition à un allergène connu." },
+      { "n": "2", "h": "Alerter · injecter", "t": "l'adrénaline en intramusculaire (face antéro-latérale de la cuisse) sans délai, alerter le médecin ou le SAMU, puis allonger le patient jambes surélevées." },
+      { "n": "3", "h": "Surveiller", "t": "les constantes en continu (FC, PA, SpO2), préparer une seconde injection d'adrénaline si besoin, et surveiller le risque de réaction biphasique dans les heures suivantes." }
     ],
-    "retenir": "Une BMR n'est pas plus virulente qu'une bactérie sensible, mais elle referme des portes thérapeutiques : l'isolement précoce et la traçabilité du statut sont la meilleure protection collective. ",
-    "sources": "Sources : Santé publique France · SF2H, précautions complémentaires contact."
+    "retenir": "L'adrénaline intramusculaire est le traitement de première intention du choc anaphylactique : ne jamais différer son injection en attendant un avis médical. ",
+    "sources": "Sources : SFMU · Société française d'allergologie."
   }
 }

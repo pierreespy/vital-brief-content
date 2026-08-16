@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Choc anaphylactique", "date": "2026-08-16" },
     { "term": "Bactérie multirésistante (BMR)", "date": "2026-08-15" },
     { "term": "Légionellose", "date": "2026-08-14" },
     { "term": "Score de Glasgow", "date": "2026-08-13" },
@@ -28,7 +29,6 @@
     { "term": "Iatrogénie médicamenteuse", "date": "2026-07-21" },
     { "term": "Électrocardiogramme (ECG)", "date": "2026-07-20" },
     { "term": "Extravasation", "date": "2026-07-19" },
-    { "term": "Diagnostic infirmier", "date": "2026-07-18" },
-    { "term": "Coup de chaleur", "date": "2026-07-17" }
+    { "term": "Diagnostic infirmier", "date": "2026-07-18" }
   ]
 }

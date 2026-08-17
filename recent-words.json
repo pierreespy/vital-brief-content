@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Titration", "date": "2026-08-17" },
     { "term": "Choc anaphylactique", "date": "2026-08-16" },
     { "term": "Bactérie multirésistante (BMR)", "date": "2026-08-15" },
     { "term": "Légionellose", "date": "2026-08-14" },
@@ -28,7 +29,6 @@
     { "term": "Échelle de Braden", "date": "2026-07-22" },
     { "term": "Iatrogénie médicamenteuse", "date": "2026-07-21" },
     { "term": "Électrocardiogramme (ECG)", "date": "2026-07-20" },
-    { "term": "Extravasation", "date": "2026-07-19" },
-    { "term": "Diagnostic infirmier", "date": "2026-07-18" }
+    { "term": "Extravasation", "date": "2026-07-19" }
   ]
 }

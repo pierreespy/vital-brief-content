@@ -1,69 +1,71 @@
 {
-  "dateLong": "Mar. 18 août",
+  "dateLong": "Mer. 19 août",
   "essentiel": [
-    { "text": "Le décret socle de la réforme infirmière (activités et compétences) est officiellement " },
-    { "text": "en vigueur depuis le 4 août", "strong": true },
-    { "text": ". Vigilance " },
-    { "text": "orange canicule", "strong": true },
-    { "text": " maintenue dans de nombreux départements, et la " },
-    { "text": "FNI", "strong": true },
-    { "text": " prévient qu'elle ne signera « aucun avenant au rabais »." }
+    { "text": "Un nouvel arrêté encadre la formation des " },
+    { "text": "IPA", "strong": true },
+    { "text": " à la prescription d'antibiotiques par TROD. L'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " alerte sur un défaut de largage de la capsule endoscopique Bravo. Les " },
+    { "text": "élections ordinales", "strong": true },
+    { "text": " infirmières ouvrent leurs candidatures jusqu'au " },
+    { "text": "30 septembre", "strong": true },
+    { "text": "." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Le décret « activités et compétences » de la profession infirmière est entré en vigueur",
-      "summary": "Le décret n° 2025-1306 du 24 décembre 2025, texte socle de la réforme du métier infirmier, est applicable depuis le 4 août 2026 : il redéfinit le rôle propre, le rôle sur prescription et le champ de compétences des IDE.",
+      "title": "IPA : l'arrêté du 7 août 2026 fixe la formation à la prescription d'antibiotiques par TROD",
+      "summary": "Le texte encadre la formation spécifique des infirmiers en pratique avancée habilités à prescrire un antibiotique après un test rapide d'orientation diagnostique positif — angine à streptocoque du groupe A ou cystite aiguë simple — avec un module de 3h de théorie et 1h de pratique, validé par un QCM à 8/10 minimum.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053165854/"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054658932"
     },
     {
       "category": "alertes",
-      "title": "Canicule : vigilance orange maintenue, un nouvel épisode caniculaire touche une large partie du pays",
-      "summary": "Après un pic à 80 départements en vigilance orange le 13 août, Santé publique France rappelle aux soignants les signes de déshydratation à surveiller chez les patients à risque et les médicaments qui aggravent l'intolérance à la chaleur.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/climat/fortes-chaleurs-canicule/bulletin-national/canicule-et-sante-en-france-bulletin-du-12-aout-2026"
+      "title": "ANSM : risque de non-largage de la capsule endoscopique Bravo (Medtronic)",
+      "summary": "Une hausse des signalements de capsules ne s'accrochant pas ou ne se détachant pas de l'œsophage a conduit l'ANSM à publier, le 17 août, une information de sécurité sur le système de capsule pH/CF Bravo, en parallèle du rappel de la prothèse vasculaire Cardioroot Woven.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/capsule-endoscopique-capsule-bravo-sans-calibration-given-imaging-medtronic"
     },
     {
       "category": "science",
-      "title": "Plaies chroniques : un outil validé par la HAS pour structurer le suivi en ville",
-      "summary": "Élaboré avec la Société française et francophone des plaies et cicatrisations, l'outil pratique de l'Assurance Maladie impose désormais une évaluation hebdomadaire tracée des escarres, ulcères veineux et plaies du pied diabétique, même sans évolution visible.",
-      "source": "Assurance Maladie / HAS",
-      "url": "https://www.ameli.fr/infirmier/exercice-liberal/memos/suivi-ville-plaies-chroniques"
+      "title": "Baromètre OncoIDE 2026 : la hausse des effectifs infirmiers en oncologie ne suit pas les besoins",
+      "summary": "Arrêtée au 11 août, cette synthèse de données publiques chiffre à +37 % la progression des effectifs infirmiers face à des besoins projetés en hausse de 50 % d'ici 2050, sur fond de 433 136 nouveaux cancers annuels et d'absence de données nationales précises sur l'exercice en oncologie.",
+      "source": "OncoIDE",
+      "url": "https://www.oncoide.fr/barometre-oncoide-2026"
     },
     {
       "category": "profession",
-      "title": "Négociations conventionnelles : la FNI reste à la table mais hausse le ton",
-      "summary": "Après le retrait du Sniil, la FNI annonce qu'elle poursuit les discussions avec la Cnam mais juge « provocantes » les revalorisations proposées sur l'AMI et l'AMX, et prévient qu'elle ne signera aucun avenant au rabais.",
-      "source": "FNI",
-      "url": "https://fni.fr/negos-conventionnelles-la-fni-nacceptera-pas-une-revalorisation-au-rabais/"
+      "title": "Élections ordinales : les candidatures aux conseils départementaux sont ouvertes",
+      "summary": "L'Ordre national des infirmiers ouvre la campagne des élections ordinales de l'automne : les candidatures aux conseils départementaux et interdépartementaux doivent être déposées avant le 30 septembre 2026, 16h.",
+      "source": "Ordre infirmier",
+      "url": "https://www.ordre-infirmiers.fr/elections-ordinales-ouverture-des-candidatures-pour-les-conseils-departementaux-et"
     },
     {
       "category": "technique",
-      "title": "Prescription infirmière : la liste des pansements techniques désormais accessible sans médecin",
-      "summary": "Hydrocolloïdes, hydrocellulaires, alginates, hydrogels, hydrofibres, pansements au charbon, à l'acide hyaluronique ou à l'argent : l'arrêté du 26 juin 2026 élargit aussi la prescription aux dispositifs de perfusion à domicile et sondes de nutrition entérale.",
-      "source": "Dossier de Soins",
-      "url": "https://dossierdesoins.fr/prescription-infirmiere-ce-que-change-larrete-du-26-juin-2026/"
+      "title": "Insuffisance cardiaque : CardiaMetrics dévoile son capteur implantable de télésurveillance",
+      "summary": "Née à Grenoble, la start-up développe un dispositif médical implantable sous la peau qui mesure quotidiennement des paramètres hémodynamiques et électrophysiologiques et les transmet aux équipes soignantes sans aucune action du patient ; une étude clinique est prévue entre 2026 et 2028.",
+      "source": "La Gazette du Laboratoire",
+      "url": "https://www.gazettelabo.fr/diagnostic/500CardiaMetrics.html"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : l'ANDPC revoit en profondeur ses règles pour les infirmiers libéraux",
-      "summary": "Indemnisation, formats de formation et accompagnement pédagogique : l'Agence nationale du DPC a modifié ses conditions d'accès aux actions financées, un point de vigilance pour les IDEL qui programment leurs formations de la rentrée.",
-      "source": "Agence du DPC",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "IFSI : la réforme de la formation infirmière reportée à la rentrée 2026",
+      "summary": "Annoncée pour coller au nouveau référentiel de compétences, la réforme du cursus infirmier n'entrera finalement en vigueur qu'à la rentrée de septembre 2026, laissant les instituts de formation composer avec un calendrier resserré.",
+      "source": "L'Etudiant",
+      "url": "https://www.letudiant.fr/etudes/medecine-sante/ifsi-la-reforme-de-la-formation-infirmier-reportee-a-la-rentree-2026.html"
     }
   ],
   "word": {
-    "field": "Urgences",
-    "term": "Coup de chaleur",
-    "subtitle": "Hyperthermie majeure avec défaillance neurologique : une urgence vitale",
-    "definition": "Élévation de la température corporelle centrale au-delà de 40 °C associée à des troubles neurologiques (confusion, convulsions, coma), consécutive à une défaillance des mécanismes de thermorégulation lors d'une exposition à une forte chaleur.",
+    "field": "Gestes & soins",
+    "term": "Aspiration endotrachéale",
+    "subtitle": "Désobstruer les voies aériennes sans aggraver l'hypoxie",
+    "definition": "Geste technique consistant à évacuer les sécrétions bronchiques par une sonde introduite dans la trachée ou une canule de trachéotomie, chez un patient incapable de les expectorer seul.",
     "steps": [
-      { "n": "1", "h": "Reconnaître", "t": "température ≥ 40 °C, peau chaude, troubles de la conscience, confusion ou convulsions chez une personne exposée à la chaleur." },
-      { "n": "2", "h": "Refroidir sans délai", "t": "déshabiller, aspersion d'eau fraîche et ventilation, glace aux plis (aine, aisselles, cou), alerte immédiate du 15." },
-      { "n": "3", "h": "Surveiller · tracer", "t": "température, conscience et diurèse ; jamais d'antipyrétiques, inefficaces et hépatotoxiques dans ce contexte." }
+      { "n": "1", "h": "Préparer", "t": "vérifier le système d'aspiration, choisir une sonde calibrée, préoxygéner le patient avant le geste." },
+      { "n": "2", "h": "Aspirer", "t": "introduire la sonde sans dépasser 10-15 secondes par passage, aspiration déclenchée au retrait, SpO2 surveillée en continu." },
+      { "n": "3", "h": "Réévaluer", "t": "auscultation, coloration, fréquence cardiaque ; interrompre immédiatement en cas de désaturation ou de bradycardie." }
     ],
-    "retenir": "Le coup de chaleur est une urgence vitale : refroidir avant même l'arrivée des secours change le pronostic, chaque minute sans baisse de température aggrave le risque de défaillance multiviscérale. ",
-    "sources": "Sources : Santé publique France · SFMU."
+    "retenir": "L'aspiration endotrachéale améliore la ventilation mais reste un geste à risque : hypoxie, bradycardie vagale et traumatisme muqueux imposent de la limiter au strict nécessaire et de toujours préoxygéner avant chaque passage. ",
+    "sources": "Sources : SFAR · HAS."
   }
 }

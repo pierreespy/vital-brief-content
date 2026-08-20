@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Syndrome confusionnel aigu (delirium)", "date": "2026-08-20" },
     { "term": "Aspiration endotrachéale", "date": "2026-08-19" },
     { "term": "Coup de chaleur", "date": "2026-08-18" },
     { "term": "Titration", "date": "2026-08-17" },
@@ -28,8 +29,6 @@
     { "term": "Transmissions ciblées", "date": "2026-07-25" },
     { "term": "Rhabdomyolyse", "date": "2026-07-24" },
     { "term": "Hyponatrémie", "date": "2026-07-23" },
-    { "term": "Échelle de Braden", "date": "2026-07-22" },
-    { "term": "Iatrogénie médicamenteuse", "date": "2026-07-21" },
-    { "term": "Électrocardiogramme (ECG)", "date": "2026-07-20" }
+    { "term": "Échelle de Braden", "date": "2026-07-22" }
   ]
 }

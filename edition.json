@@ -1,69 +1,71 @@
 {
-  "dateLong": "Jeu. 20 août",
+  "dateLong": "Ven. 21 août",
   "essentiel": [
-    { "text": "Le bilan provisoire de la canicule atteint " },
-    { "text": "7 300 morts en excès", "strong": true },
-    { "text": ", la menace d'une " },
-    { "text": "grève", "strong": true },
-    { "text": " plane sur les infirmiers libéraux faute d'accord avec la Cnam, et la medtech grenobloise " },
-    { "text": "UroMems", "strong": true },
-    { "text": " lève 60 millions de dollars pour son implant contre l'incontinence." }
+    { "text": "L'" },
+    { "text": "arrêté du 26 juin 2026", "strong": true },
+    { "text": " élargit le droit de prescription des infirmiers, l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " alerte contre des thérapies cellulaires illégales vendues en ligne, et la " },
+    { "text": "DREES", "strong": true },
+    { "text": " chiffre à " },
+    { "text": "821 000 infirmiers", "strong": true },
+    { "text": " le besoin d'ici 2050." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Fonction publique hospitalière : l'arrêté du 11 août 2026 fixe les taux de promotion des infirmiers",
-      "summary": "Publié au Journal officiel du 18 août, le texte fixe les taux de promotion 2026 applicables aux corps des infirmiers civils de soins généraux et spécialisés, aux infirmiers militaires et aux aides-soignants civils du ministère de la Défense.",
+      "title": "Prescription infirmière : l'arrêté du 26 juin 2026 fixe la liste des produits de santé et examens autorisés",
+      "summary": "Publié au Journal officiel, le texte ouvre aux infirmiers diplômés d'État un droit de prescription et de renouvellement autonome dans plusieurs domaines de la pratique courante, en application de la loi du 27 juin 2025 sur la profession infirmière.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/08/18/0191"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
     },
     {
       "category": "alertes",
-      "title": "Canicule 2026 : le bilan provisoire atteint 7 300 morts en excès",
-      "summary": "Santé publique France recense déjà 5 764 décès en excès sur la vague de juin, 1 243 en juillet et 300 en mai, avec une hausse de près de 40 % des décès à domicile ; le bilan définitif, attendu à l'automne, pourrait être revu à la hausse.",
-      "source": "Santé publique France",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/canicule-en-france-deja-7-300-morts-en-exces-recensees-cette-annee-selon-un-bilan-provisoire-cd64362f22a67873700dd94ace45fb7f"
+      "title": "Thérapies cellulaires : l'ANSM alerte contre deux cliniques turques sans autorisation",
+      "summary": "L'Agence du médicament dénonce la promotion illégale sur internet de traitements par cellules souches (Liv Hospital, You StemCell) présentés comme efficaces contre Parkinson, Alzheimer ou la SLA sans aucun fondement scientifique, et a fait suspendre ces publicités.",
+      "source": "ANSM",
+      "url": "https://www.franceinfo.fr/sante/l-agence-nationale-du-medicament-alerte-contre-la-promotion-illegale-de-therapies-cellulaires-sans-aucun-fondement-scientifique-sur-internet_8141885.html"
     },
     {
       "category": "science",
-      "title": "Chutes des personnes âgées : +18 % de décès et +20,5 % d'hospitalisations en cinq ans",
-      "summary": "Santé publique France pointe une dégradation nette entre 2019 et 2024 et rappelle le rôle clé des infirmiers dans le repérage des personnes à risque et l'application du référentiel de bonnes pratiques de prévention des chutes à domicile.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/traumatismes/chute/documents/prevention-des-chutes-chez-les-personnes-agees-a-domicile-referentiel-de-bonnes-pratiques"
+      "title": "La France devra recruter 821 000 infirmiers d'ici 2050, selon les projections de la DREES",
+      "summary": "Alors que près de 60 000 postes sont déjà vacants, la DREES anticipe une hausse de 37 % des effectifs infirmiers nécessaires d'ici 2050 pour répondre au vieillissement de la population et à la hausse des besoins de soins.",
+      "source": "DREES",
+      "url": "https://www.75secondes.fr/emploi/hopital-en-crise-la-france-va-devoir-recruter-821-000-infirmiers-dici-2050"
     },
     {
       "category": "profession",
-      "title": "Négociations conventionnelles : la menace d'un mouvement de grève plane sur les infirmiers libéraux",
-      "summary": "Faute d'accord sur l'avenant 11 avec la Cnam, les discussions patinent depuis le retrait du Sniil et le durcissement de la FNI ; un retrait des discussions et une menace de grève sont désormais évoqués pour peser dans les négociations.",
-      "source": "Egora",
-      "url": "https://www.egora.fr/actus-pro/vie-conventionnelle/menace-de-greve-retrait-des-discussions-les-negociations"
+      "title": "Pénurie infirmière : des CDD payés jusqu'à 3 000 euros par mois, primes de 7 000 euros à la clé",
+      "summary": "Pour combler des postes vacants, certains établissements proposent des contrats courts très rémunérateurs, une pratique dénoncée par le SNPI comme une forme d'« ubérisation » de l'hôpital public qui fragilise les équipes titulaires.",
+      "source": "SNPI",
+      "url": "https://syndicat-infirmier.com/Penurie-infirmiere-et-uberisation-de-l-hopital-des-CDD-a-3000-euros-plus-7000.html"
     },
     {
       "category": "technique",
-      "title": "Incontinence urinaire : la medtech grenobloise UroMems lève 60 millions de dollars",
-      "summary": "Menée par le fonds américain Ajax Health, cette levée record doit financer l'étude clinique SOPHIA2 de son sphincter urinaire artificiel connecté UroActive, menée dans 21 centres en France et aux Etats-Unis en vue d'une demande d'autorisation FDA et européenne.",
-      "source": "Le Journal des Entreprises",
-      "url": "https://www.lejournaldesentreprises.com/article/uromems-leve-60-millions-de-dollars-pour-developper-un-implant-contre-lincontinence-urinaire-2142928"
+      "title": "Rééducation numérique : la medtech lilloise Axomove lève 4 millions d'euros en série A",
+      "summary": "Ce tour, co-mené par le Fonds Prévention Numérique de Bpifrance et Go Capital, doit financer le déploiement de son dispositif combinant programmes personnalisés, télésurveillance et télérééducation avec accompagnement humain.",
+      "source": "Buzz-eSanté",
+      "url": "https://buzz-esante.fr/levees-de-fonds-la-healthtech-francaise-confirme-son-rebond/"
     },
     {
       "category": "formation",
-      "title": "DPC : les orientations prioritaires 2023-2026 prolongées jusqu'au 31 décembre",
-      "summary": "Les 256 orientations pluriannuelles prioritaires définies en 2022, dont une dizaine dédiées spécifiquement aux infirmiers (plaies et cicatrisation, insuffisance cardiaque, gestion de l'agressivité), restent la base des formations validantes jusqu'à la fin de l'année.",
-      "source": "ANDPC",
-      "url": "https://formites.fr/dpc-orientations-prioritaires-prolongees-jusquen-2026"
+      "title": "Rentrée 2026 : la formation infirmière passe à 4 620 heures avec 5 500 places supplémentaires",
+      "summary": "Le nouveau cursus en IFSI, désormais délivré au grade licence, allonge la durée de stage à 66 semaines ; l'État investit 215 millions d'euros pour ouvrir près de 5 500 places de formation dès cette rentrée.",
+      "source": "123 Docteur",
+      "url": "https://www.123-docteur.fr/devenir-infirmier-en-apprentissage-ce-que-change-la-rentree-2026/"
     }
   ],
   "word": {
-    "field": "Clinique / gériatrie",
-    "term": "Syndrome confusionnel aigu (delirium)",
-    "subtitle": "Le signal d'alarme à ne pas banaliser chez la personne âgée",
-    "definition": "Trouble aigu et fluctuant de l'attention et de la conscience, d'apparition brutale, le plus souvent réversible, qui traduit une décompensation sous-jacente (infection, déshydratation, douleur, iatrogénie) plutôt qu'une maladie en soi.",
+    "field": "Réglementaire / rôle infirmier",
+    "term": "Diagnostic infirmier",
+    "subtitle": "Le raisonnement clinique désormais consacré par la loi infirmière de 2025",
+    "definition": "Jugement clinique porté par l'infirmier sur les réactions humaines d'une personne à un problème de santé réel ou potentiel, qui fonde le choix des interventions relevant de son rôle propre.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "début brutal et fluctuation dans la journée, inattention marquée, désorganisation de la pensée ou altération de la vigilance (critères CAM)." },
-      { "n": "2", "h": "Rechercher la cause", "t": "déshydratation, infection, rétention urinaire ou fécale, douleur non soulagée, nouveau médicament ou sevrage." },
-      { "n": "3", "h": "Sécuriser", "t": "environnement calme et repères stables, réhydratation, retrait des facteurs aggravants, surveillance rapprochée et alerte médicale si signes de gravité." }
+      { "n": "1", "h": "Recueillir", "t": "rassembler les données cliniques, biologiques et le contexte de vie du patient par l'anamnèse, l'observation et les transmissions." },
+      { "n": "2", "h": "Analyser", "t": "identifier les réactions humaines au problème de santé et formuler l'énoncé diagnostique (problème, étiologie, signes)." },
+      { "n": "3", "h": "Tracer", "t": "consigner le diagnostic dans le dossier de soins et l'articuler avec le diagnostic médical pour ajuster le plan de soins." }
     ],
-    "retenir": "Le delirium est le plus souvent réversible s'il est repéré tôt, mais chez la personne âgée isolée — en particulier en période de forte chaleur — il précède fréquemment une décompensation grave : toute confusion nouvelle impose une recherche systématique de cause et une surveillance rapprochée. ",
-    "sources": "Sources : HAS · SFGG."
+    "retenir": "Le diagnostic infirmier ne se substitue pas au diagnostic médical : il porte sur les réactions du patient à sa situation de santé et fonde les actions du rôle propre. Sa formalisation renforce la traçabilité et la reconnaissance de l'expertise clinique infirmière. ",
+    "sources": "Sources : Loi n° 2025-581 du 27 juin 2025 · ANFIIDE."
   }
 }

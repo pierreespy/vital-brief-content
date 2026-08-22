@@ -1,71 +1,69 @@
 {
-  "dateLong": "Ven. 21 août",
+  "dateLong": "Sam. 22 août",
   "essentiel": [
     { "text": "L'" },
-    { "text": "arrêté du 26 juin 2026", "strong": true },
-    { "text": " élargit le droit de prescription des infirmiers, l'" },
+    { "text": "avenant 11", "strong": true },
+    { "text": " à la convention des infirmiers libéraux ouvre l'accès direct aux plaies simples, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte contre des thérapies cellulaires illégales vendues en ligne, et la " },
-    { "text": "DREES", "strong": true },
-    { "text": " chiffre à " },
-    { "text": "821 000 infirmiers", "strong": true },
-    { "text": " le besoin d'ici 2050." }
+    { "text": " alerte sur des réactifs Vitros pouvant fausser un dosage de progestérone, et un " },
+    { "text": "arrêté du 11 août", "strong": true },
+    { "text": " fixe les taux de promotion dans les corps infirmiers civils." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Prescription infirmière : l'arrêté du 26 juin 2026 fixe la liste des produits de santé et examens autorisés",
-      "summary": "Publié au Journal officiel, le texte ouvre aux infirmiers diplômés d'État un droit de prescription et de renouvellement autonome dans plusieurs domaines de la pratique courante, en application de la loi du 27 juin 2025 sur la profession infirmière.",
+      "title": "Taux de promotion 2026 dans les corps infirmiers civils : l'arrêté du 11 août publié au Journal officiel",
+      "summary": "Paru au JORF du 18 août, le texte fixe les taux de promotion applicables aux infirmiers civils de soins généraux et spécialisés, aux infirmiers de la défense et aux personnels civils de rééducation et médico-techniques du ministère de la défense.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/08/18/0191"
     },
     {
       "category": "alertes",
-      "title": "Thérapies cellulaires : l'ANSM alerte contre deux cliniques turques sans autorisation",
-      "summary": "L'Agence du médicament dénonce la promotion illégale sur internet de traitements par cellules souches (Liv Hospital, You StemCell) présentés comme efficaces contre Parkinson, Alzheimer ou la SLA sans aucun fondement scientifique, et a fait suspendre ces publicités.",
+      "title": "Réactifs Vitros Progestérone 2 : l'ANSM diffuse une information de sécurité sur un risque de résultats erronés",
+      "summary": "L'agence relaie une lettre complémentaire de Quidelortho concernant le réactif et le calibrateur Vitros Immunodiagnostic Progestérone 2, dans le prolongement d'une action de sécurité engagée en février 2026 (référence R2624107).",
       "source": "ANSM",
-      "url": "https://www.franceinfo.fr/sante/l-agence-nationale-du-medicament-alerte-contre-la-promotion-illegale-de-therapies-cellulaires-sans-aucun-fondement-scientifique-sur-internet_8141885.html"
+      "url": "https://ansm.sante.fr/informations-de-securite/biochimie-reactifs-vitros-immunodiagnostic-reactif-progesterone-2-vitros-immunodiagnostic-calibrateur-progesterone-2-quidelortho"
     },
     {
       "category": "science",
-      "title": "La France devra recruter 821 000 infirmiers d'ici 2050, selon les projections de la DREES",
-      "summary": "Alors que près de 60 000 postes sont déjà vacants, la DREES anticipe une hausse de 37 % des effectifs infirmiers nécessaires d'ici 2050 pour répondre au vieillissement de la population et à la hausse des besoins de soins.",
-      "source": "DREES",
-      "url": "https://www.75secondes.fr/emploi/hopital-en-crise-la-france-va-devoir-recruter-821-000-infirmiers-dici-2050"
+      "title": "Antibiorésistance : 125 000 infections et 5 500 décès par an en France, rappelle Santé publique France",
+      "summary": "L'agence sanitaire poursuit ses campagnes de sensibilisation fondées sur les sciences comportementales, alors que la lutte contre l'antibiorésistance repose largement sur l'hygiène des mains et le bon usage des antibiotiques au quotidien des soignants.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-associees-aux-soins-et-resistance-aux-antibiotiques/resistance-aux-antibiotiques"
     },
     {
       "category": "profession",
-      "title": "Pénurie infirmière : des CDD payés jusqu'à 3 000 euros par mois, primes de 7 000 euros à la clé",
-      "summary": "Pour combler des postes vacants, certains établissements proposent des contrats courts très rémunérateurs, une pratique dénoncée par le SNPI comme une forme d'« ubérisation » de l'hôpital public qui fragilise les équipes titulaires.",
-      "source": "SNPI",
-      "url": "https://syndicat-infirmier.com/Penurie-infirmiere-et-uberisation-de-l-hopital-des-CDD-a-3000-euros-plus-7000.html"
+      "title": "Infirmiers libéraux : l'avenant 11 à la convention nationale, 500 millions d'euros pour transformer la profession",
+      "summary": "Signé le 31 mars et actualisé au 5 août 2026, l'accord avec l'Assurance Maladie ouvre l'accès direct aux plaies simples sans prescription et crée de nouvelles consultations infirmières, notamment pour l'instauration d'une insulinothérapie chez les diabétiques de type 2.",
+      "source": "Assurance Maladie",
+      "url": "https://www.assurance-maladie.ameli.fr/presse/2026-03-31-cp-avenant-11-idel"
     },
     {
       "category": "technique",
-      "title": "Rééducation numérique : la medtech lilloise Axomove lève 4 millions d'euros en série A",
-      "summary": "Ce tour, co-mené par le Fonds Prévention Numérique de Bpifrance et Go Capital, doit financer le déploiement de son dispositif combinant programmes personnalisés, télésurveillance et télérééducation avec accompagnement humain.",
-      "source": "Buzz-eSanté",
-      "url": "https://buzz-esante.fr/levees-de-fonds-la-healthtech-francaise-confirme-son-rebond/"
+      "title": "Swan, le robot d'imagerie cutanée par IA de la medtech SquareMind, se déploie dans les hôpitaux français",
+      "summary": "Après une levée de 15,3 millions d'euros menée par Bpifrance (Deep Tech 2030) et Sonder Capital, la start-up française installe son robot capable de cartographier l'ensemble de la peau en quelques minutes pour repérer les lésions suspectes.",
+      "source": "FrenchWeb",
+      "url": "https://www.frenchweb.fr/squaremind-leve-153-millions-deuros-pour-deployer-swan-sa-plateforme-dimagerie-dermatologique-robotisee/461470"
     },
     {
       "category": "formation",
-      "title": "Rentrée 2026 : la formation infirmière passe à 4 620 heures avec 5 500 places supplémentaires",
-      "summary": "Le nouveau cursus en IFSI, désormais délivré au grade licence, allonge la durée de stage à 66 semaines ; l'État investit 215 millions d'euros pour ouvrir près de 5 500 places de formation dès cette rentrée.",
-      "source": "123 Docteur",
-      "url": "https://www.123-docteur.fr/devenir-infirmier-en-apprentissage-ce-que-change-la-rentree-2026/"
+      "title": "Devenir infirmier par la formation professionnelle continue : les modalités d'entrée en IFSI précisées pour 2026",
+      "summary": "Le SNPI détaille les épreuves de sélection et les conditions d'admission ouvertes aux candidats en reconversion souhaitant intégrer un institut de formation en soins infirmiers hors voie Parcoursup.",
+      "source": "SNPI",
+      "url": "https://www.syndicat-infirmier.com/Acceder-a-la-formation-infirmiere-en-2026-des-modalites-d-entree-en-IFSI-en-FPC.html"
     }
   ],
   "word": {
-    "field": "Réglementaire / rôle infirmier",
-    "term": "Diagnostic infirmier",
-    "subtitle": "Le raisonnement clinique désormais consacré par la loi infirmière de 2025",
-    "definition": "Jugement clinique porté par l'infirmier sur les réactions humaines d'une personne à un problème de santé réel ou potentiel, qui fonde le choix des interventions relevant de son rôle propre.",
+    "field": "Urgences / vigilance",
+    "term": "Extravasation",
+    "subtitle": "Un incident de perfusion à repérer et traiter sans délai",
+    "definition": "Passage accidentel d'un soluté ou d'une chimiothérapie hors de la veine vers les tissus sous-cutanés environnants, pouvant provoquer une nécrose selon le produit en cause.",
     "steps": [
-      { "n": "1", "h": "Recueillir", "t": "rassembler les données cliniques, biologiques et le contexte de vie du patient par l'anamnèse, l'observation et les transmissions." },
-      { "n": "2", "h": "Analyser", "t": "identifier les réactions humaines au problème de santé et formuler l'énoncé diagnostique (problème, étiologie, signes)." },
-      { "n": "3", "h": "Tracer", "t": "consigner le diagnostic dans le dossier de soins et l'articuler avec le diagnostic médical pour ajuster le plan de soins." }
+      { "n": "1", "h": "Reconnaître", "t": "douleur, œdème, rougeur ou blanchiment autour du point de ponction, ralentissement du débit de perfusion." },
+      { "n": "2", "h": "Agir", "t": "stopper immédiatement la perfusion, tenter d'aspirer le produit résiduel avant de retirer le cathéter, appliquer le protocole spécifique au produit en cause (chaud ou froid selon la molécule)." },
+      { "n": "3", "h": "Tracer", "t": "consigner l'incident et le volume estimé extravasé, prévenir le médecin, surveiller l'évolution cutanée dans les heures suivantes." }
     ],
-    "retenir": "Le diagnostic infirmier ne se substitue pas au diagnostic médical : il porte sur les réactions du patient à sa situation de santé et fonde les actions du rôle propre. Sa formalisation renforce la traçabilité et la reconnaissance de l'expertise clinique infirmière. ",
-    "sources": "Sources : Loi n° 2025-581 du 27 juin 2025 · ANFIIDE."
+    "retenir": "L'extravasation est une urgence locale : la rapidité d'action limite le risque de nécrose cutanée, en particulier avec les produits vésicants (chimiothérapies, solutés hyperosmolaires). Sa traçabilité engage la responsabilité infirmière. ",
+    "sources": "Sources : SFPO · ANSM (pharmacovigilance)."
   }
 }

@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Extravasation", "date": "2026-08-22" },
     { "term": "Diagnostic infirmier", "date": "2026-08-21" },
     { "term": "Syndrome confusionnel aigu (delirium)", "date": "2026-08-20" },
     { "term": "Aspiration endotrachéale", "date": "2026-08-19" },
@@ -28,7 +29,6 @@
     { "term": "Œdème aigu du poumon (OAP)", "date": "2026-07-27" },
     { "term": "Pharmacovigilance", "date": "2026-07-26" },
     { "term": "Transmissions ciblées", "date": "2026-07-25" },
-    { "term": "Rhabdomyolyse", "date": "2026-07-24" },
-    { "term": "Hyponatrémie", "date": "2026-07-23" }
+    { "term": "Rhabdomyolyse", "date": "2026-07-24" }
   ]
 }

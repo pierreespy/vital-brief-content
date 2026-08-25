@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Accident d'exposition au sang (AES)", "date": "2026-08-25" },
     { "term": "Directives anticipées", "date": "2026-08-24" },
     { "term": "Extravasation", "date": "2026-08-22" },
     { "term": "Diagnostic infirmier", "date": "2026-08-21" },
@@ -28,7 +29,6 @@
     { "term": "Voie intra-osseuse", "date": "2026-07-29" },
     { "term": "Sondage vésical", "date": "2026-07-28" },
     { "term": "Œdème aigu du poumon (OAP)", "date": "2026-07-27" },
-    { "term": "Pharmacovigilance", "date": "2026-07-26" },
-    { "term": "Transmissions ciblées", "date": "2026-07-25" }
+    { "term": "Pharmacovigilance", "date": "2026-07-26" }
   ]
 }

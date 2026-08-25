@@ -1,69 +1,69 @@
 {
-  "dateLong": "Lun. 24 août",
+  "dateLong": "Mar. 25 août",
   "essentiel": [
-    { "text": "La " },
-    { "text": "loi du 18 août 2026", "strong": true },
-    { "text": " sur l'aide à mourir est promulguée, une alerte sanitaire vise des " },
-    { "text": "préservatifs non conformes", "strong": true },
-    { "text": ", et l'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " rappelle la frontière des compétences en imagerie médicale." }
+    { "text": "L'" },
+    { "text": "Assurance Maladie", "strong": true },
+    { "text": " plafonne le télésoin infirmier à 20 % de l'activité, l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " autorise une préparation magistrale face à la rupture de Bicafres, et la " },
+    { "text": "réforme infirmière", "strong": true },
+    { "text": " laisse en suspens la rémunération de la consultation autonome en libéral." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Aide à mourir : la loi du 18 août 2026 est promulguée après validation du Conseil constitutionnel",
-      "summary": "Adopté définitivement par l'Assemblée nationale le 15 juillet, validé sous réserves par le Conseil constitutionnel le 14 août, le texte est publié au Journal officiel et ouvre un droit encadré à l'aide à mourir pour les patients majeurs répondant à des critères médicaux stricts.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054706877"
+      "title": "Télésoin infirmier : l'avenant 11 plafonne l'activité à distance à 20 % et impose un contact préalable en présentiel",
+      "summary": "Codifiées par l'avenant 11 à la convention nationale, les règles de télésoin imposent qu'au moins un acte de chaque série ait été réalisé en présentiel dans les 12 mois précédents, avec consentement du patient et un outil vidéo référencé par l'Assurance Maladie.",
+      "source": "Ameli.fr",
+      "url": "https://www.ameli.fr/infirmier/exercice-liberal/realisation-actes-telesante"
     },
     {
       "category": "alertes",
-      "title": "Préservatifs non conformes : plus de 40 000 unités vendues en France, dépistages IST recommandés",
-      "summary": "La DGCCRF a identifié une trentaine de références sans marquage CE ou non conformes malgré celui-ci (risques d'éclatement, de perforation), vendues en pharmacie et en ligne ; les autorités sanitaires recommandent un dépistage IST et un test de grossesse aux personnes concernées.",
-      "source": "Franceinfo",
-      "url": "https://www.franceinfo.fr/sante/des-dizaines-de-milliers-de-preservatifs-non-conformes-vendus-en-france-ces-derniers-mois-les-autorites-recommandent-des-depistages-et-tests-de-grossesse_8156171.html"
+      "title": "Rupture de Bicafres : l'ANSM autorise la substitution par une préparation magistrale sans nouvelle ordonnance",
+      "summary": "En rupture depuis juin 2026 et non disponible avant avril 2027, ce traitement de l'acidose métabolique chez l'insuffisant rénal chronique peut être remplacé à titre exceptionnel par des gélules de bicarbonate de sodium à 500 ou 1 000 mg, sous réserve d'un contrôle biologique et d'une information du médecin.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/bicafres-1000-mg-comprime-gastro-resistant-sodium-bicarbonate-de"
     },
     {
       "category": "science",
-      "title": "Baromètre OncoIDE 2026 : la France mesure mal le niveau de compétence des infirmiers en chimiothérapie",
-      "summary": "Actualisé début août avec neuf indicateurs sourcés (433 136 nouveaux cancers, 863 établissements autorisés, effectifs infirmiers en hausse de 37 % pour des besoins en hausse de 50 % d'ici 2050), le baromètre pointe l'absence de mesure nationale directe de la compétence des infirmiers administrant les traitements.",
-      "source": "OncoIDE",
-      "url": "https://www.oncoide.fr/barometre-oncoide-2026"
+      "title": "Démographie infirmière : la DREES confirme la hausse des effectifs mais bute sur des données arrêtées à 2023",
+      "summary": "Selon l'état des lieux publié le 2 juillet, la France comptait 508 800 infirmières salariées (+1,6 % en un an) et 98 900 libérales fin 2023 ; faute de données RPPS suffisamment fiables, la DREES doit recourir à la base tous salariés pour suivre la profession.",
+      "source": "DREES",
+      "url": "https://drees.solidarites-sante.gouv.fr/communique-de-presse-jeux-de-donnees/jeux-de-donnees/260702-demographie-des-professionnels-de-sante-au-1er-janvier-2026"
     },
     {
       "category": "profession",
-      "title": "Imagerie médicale : l'Ordre national des infirmiers rappelle la frontière des compétences avec les manipulateurs radio",
-      "summary": "Face à des organisations et des offres d'emploi qui brouillent les rôles depuis les décrets de la réforme infirmière, l'Ordre précise que le positionnement du patient, le réglage des appareils et le déclenchement d'un examen aux rayonnements ionisants relèvent des seuls manipulateurs d'électroradiologie médicale.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/pratiques-en-imagerie-medicale-delimitation-des-competences-entre-infirmiers-diplomes-d-etat-et"
+      "title": "Réforme infirmière : la rémunération de la consultation autonome en libéral reste à négocier",
+      "summary": "Un mois après l'entrée en vigueur des arrêtés du 26 juin élargissant consultation, prescription et actes infirmiers, Caducée.net pointe les zones grises persistantes : tarification en ville, traçabilité des prescriptions et articulation avec médecins, pharmaciens et laboratoires.",
+      "source": "Caducee.net",
+      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
     },
     {
       "category": "technique",
-      "title": "Santé mentale : la medtech Sonomind lève 20 millions d'euros pour sa thérapie par ultrasons focalisés",
-      "summary": "Issue de vingt-cinq ans de recherche à l'Inserm, l'ESPCI Paris-PSL et le CNRS, la start-up développe un dispositif non invasif de stimulation cérébrale par ultrasons de faible intensité contre la dépression résistante, avec un marquage CE visé pour 2029.",
-      "source": "Bpifrance",
-      "url": "https://presse.bpifrance.fr/sonomind-annonce-une-levee-de-20-millions-deuros-pour-traiter-la-depression-resistante-par-ultrasons/?lang=fra"
+      "title": "Dispositifs médicaux numériques : le forfait de prise en charge anticipée plafonné à 780 euros par patient et par an",
+      "summary": "Le dispositif PECAN de la Haute Autorité de santé permet de rembourser, pendant un an et avant la fin des études cliniques, les objets connectés de télésurveillance ou de thérapie numérique jugés innovants : 435 euros pour les trois premiers mois, puis 38,3 euros par mois.",
+      "source": "Haute Autorité de Santé",
+      "url": "https://www.has-sante.fr/jcms/p_3376633/fr/dispositifs-medicaux-numeriques-la-prise-en-charge-anticipee"
     },
     {
       "category": "formation",
-      "title": "Diplôme d'État infirmier : un nouveau référentiel de 4 620 heures en trois ans entre en vigueur dès septembre",
-      "summary": "Porté par le décret et l'arrêté du 20 février 2026, le nouveau référentiel de formation, désormais délivré par des universités accréditées, renforce la place de la prévention, de la santé publique et de la coordination des soins pour la rentrée des IFSI.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
+      "title": "Rentrée IFSI 2026 : la première promotion du nouveau référentiel de 4 620 heures arrive dès le 31 août",
+      "summary": "Les étudiants de première année entament lundi leur cursus sous le référentiel issu de l'arrêté du 20 février 2026, tandis que les promotions déjà engagées poursuivent l'ancien programme jusqu'en 2028, le temps d'une transition à deux vitesses dans les IFSI.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/etudiants/admission-et-cursus-en-ifsi/le-nouveau-referentiel-de-formation-infirmiere-annonce-pour-septembre-2026"
     }
   ],
   "word": {
-    "field": "Fin de vie / réglementaire",
-    "term": "Directives anticipées",
-    "subtitle": "Le document qui fait connaître les volontés du patient quand il ne peut plus s'exprimer",
-    "definition": "Écrit par lequel toute personne majeure exprime à l'avance ses souhaits concernant sa fin de vie, pour le cas où elle ne serait plus en mesure de les exprimer elle-même.",
+    "field": "Prévention des risques professionnels",
+    "term": "Accident d'exposition au sang (AES)",
+    "subtitle": "Le contact accidentel avec du sang ou un liquide biologique qui déclenche une procédure d'urgence immédiate",
+    "definition": "Tout contact percutané (piqûre, coupure) ou muqueux/cutané sur peau lésée avec du sang ou un liquide biologique potentiellement contaminant, survenant lors d'un soin.",
     "steps": [
-      { "n": "1", "h": "Informer", "t": "proposer au patient d'en rédiger si la situation s'y prête, l'orienter vers son médecin traitant ou son espace personnel Mon espace santé." },
-      { "n": "2", "h": "Vérifier", "t": "à l'admission ou en cas de dégradation de l'état, rechercher l'existence de directives anticipées et l'identité de la personne de confiance désignée." },
-      { "n": "3", "h": "Tracer", "t": "consigner leur existence dans le dossier patient, les transmettre à l'équipe, veiller à leur respect sauf urgence vitale ou caractère manifestement inapproprié." }
+      { "n": "1", "h": "Nettoyer", "t": "laver immédiatement la plaie à l'eau et au savon puis rincer, ou rincer abondamment à l'eau ou au sérum physiologique en cas de projection oculaire ou muqueuse, sans faire saigner ni frotter." },
+      { "n": "2", "h": "Antisepsie", "t": "appliquer un antiseptique chloré (Dakin ou équivalent) pendant au moins 5 minutes sur une plaie cutanée." },
+      { "n": "3", "h": "Déclarer", "t": "contacter en urgence le médecin référent AES ou les urgences dans l'heure pour évaluer le statut sérologique de la personne source, puis déclarer l'accident du travail." }
     ],
-    "retenir": "Les directives anticipées s'imposent au médecin, sauf urgence vitale le temps d'évaluer la situation ou caractère manifestement inapproprié ; elles priment sur l'avis de la personne de confiance et restent révisables à tout moment. ",
-    "sources": "Sources : HAS · Code de la santé publique (art. L1111-11)."
+    "retenir": "La prise en charge doit être engagée dans l'heure qui suit l'exposition pour permettre, si besoin, la mise en route d'un traitement post-exposition au VIH ; l'AES doit systématiquement être déclaré comme accident du travail. ",
+    "sources": "Sources : Santé publique France · GERES."
   }
 }

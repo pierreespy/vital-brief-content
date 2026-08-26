@@ -1,9 +1,9 @@
 {
   "dateLong": "Mer. 26 août",
   "essentiel": [
-    { "text": "La " },
-    { "text": "loi relative au droit à l'aide à mourir", "strong": true },
-    { "text": " est publiée au Journal officiel avec un rôle d'exception pour l'infirmier, l'" },
+    { "text": "L'" },
+    { "text": "Ordre des médecins", "strong": true },
+    { "text": " attaque devant le Conseil d'État le décret sur la primo-prescription des IPA, l'" },
     { "text": "ANSM", "strong": true },
     { "text": " rappelle un lot de valves hémostatiques ANRYV, et les hôpitaux pourront recruter des " },
     { "text": "étudiants infirmiers non diplômés", "strong": true },
@@ -12,10 +12,10 @@
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Aide à mourir : la loi est publiée au Journal officiel, avec un rôle d'exception pour l'infirmier",
-      "summary": "Promulguée le 18 août et parue au JO le 19 (loi n° 2026-794), le texte autorise l'infirmier à administrer la substance létale à titre exceptionnel si le patient ne peut le faire seul, sous réserve d'une clause de conscience.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054706877"
+      "title": "Primo-prescription des IPA : l'Ordre des médecins attaque le décret devant le Conseil d'État",
+      "summary": "Saisi début juin par le Conseil national de l'Ordre des médecins contre le décret du 25 avril 2025, le Conseil d'État doit statuer sur le droit des infirmiers en pratique avancée à prescrire directement ; l'Ordre infirmier réaffirme son soutien plein et entier au texte.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/primo-prescription-des-infirmiers-en-pratique-avancee-le-conseil-national-de-l-ordre-des-infirmiers"
     },
     {
       "category": "alertes",
@@ -40,30 +40,30 @@
     },
     {
       "category": "technique",
-      "title": "ECG 12 dérivations, mini-spirométrie, bladder-scan : trois nouveaux gestes dans le rôle propre infirmier",
-      "summary": "L'arrêté du 26 juin 2026 élargit le rôle propre à la réalisation et à la lecture de l'ECG standard, de la mini-spirométrie et du bladder-scan, utilisables en établissement comme à domicile pour orienter la prise en charge avant tout avis médical.",
+      "title": "Dépistage des IST par TROD : un nouveau test que l'infirmier peut réaliser et lire seul",
+      "summary": "L'arrêté du 26 juin 2026 inscrit au rôle propre la réalisation et la lecture de tests rapides d'orientation diagnostique pour le VIH, les hépatites, la syphilis, la chlamydia et le gonocoque, sans prescription médicale préalable.",
       "source": "Légifrance",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "formation",
-      "title": "DPC 2026 : les orientations prioritaires 2023-2025 prorogées faute de nouveau texte",
-      "summary": "En l'absence d'arrêté fixant les orientations 2026-2028, l'Agence du DPC prolonge les orientations 2023-2025 et maintient valides jusqu'au 31 décembre 2026 toutes les actions déjà publiées au catalogue, sans interruption pour les infirmiers en cours de cycle triennal.",
-      "source": "Agence du DPC",
-      "url": "https://www.agencedpc.fr/Prorogation-des-orientations-prioritaires-de-DPC"
+      "title": "Devenir infirmier par l'apprentissage : ce que change la réforme 2026",
+      "summary": "Le décret du 20 février 2026 ouvre officiellement le diplôme d'État à la voie de l'apprentissage : contrat avec un employeur, 60 semaines de stage sur trois ans et rémunération, sous réserve d'avoir moins de 30 ans et d'intégrer un IFSI habilité par un CFA.",
+      "source": "Le Portail de la Santé",
+      "url": "https://www.portaildelasante.fr/devenir-infirmier-par-lapprentissage-ce-que-change-la-reforme-de-2026/"
     }
   ],
   "word": {
-    "field": "Plaies et cicatrisation",
-    "term": "Détersion mécanique",
-    "subtitle": "Le geste qui retire les tissus nécrosés pour relancer la cicatrisation",
-    "definition": "Retrait instrumental, sous asepsie, des tissus nécrosés ou fibrineux d'une plaie chronique afin de mettre à nu un tissu de granulation sain et de favoriser la cicatrisation.",
+    "field": "Gestes & soins palliatifs",
+    "term": "Hypodermoclyse",
+    "subtitle": "La perfusion sous la peau qui évite la pose d'une voie veineuse",
+    "definition": "Administration de solutés de réhydratation ou de certains traitements par voie sous-cutanée à l'aide d'une aiguille fine, alternative à la perfusion intraveineuse chez les patients âgés ou en soins palliatifs à l'abord veineux difficile.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "vérifier la vascularisation du membre et l'absence de contre-indication (ischémie, trouble de la coagulation, anticoagulants) avant tout geste." },
-      { "n": "2", "h": "Déterger", "t": "retirer à la curette ou aux ciseaux stériles les tissus nécrosés ou fibrineux, jusqu'au saignement punctiforme du tissu sain, sous couvert d'une antalgie adaptée." },
-      { "n": "3", "h": "Protéger", "t": "recouvrir d'un pansement adapté à l'exsudat et tracer le geste, sa tolérance et l'aspect de la plaie dans le dossier de soins." }
+      { "n": "1", "h": "Choisir", "t": "sélectionner un site richement vascularisé et peu mobile (face antérieure des cuisses, abdomen, région sous-claviculaire), en l'absence d'œdème ou de trouble local de la coagulation." },
+      { "n": "2", "h": "Poser", "t": "insérer l'aiguille ou le cathéter court à 45°, fixer, puis débuter la perfusion à débit lent (environ 1 à 1,5 L/24 h par site) sous surveillance de la tolérance cutanée." },
+      { "n": "3", "h": "Surveiller", "t": "vérifier régulièrement l'absence d'œdème, de rougeur ou de douleur au point de ponction et changer de site toutes les 24 à 72 heures selon la tolérance." }
     ],
-    "retenir": "Depuis l'arrêté du 26 juin 2026, la détersion mécanique des plaies chroniques, dont l'escarre, relève du rôle propre infirmier et peut être réalisée sans prescription médicale. ",
-    "sources": "Sources : HAS · Arrêté du 26 juin 2026."
+    "retenir": "L'hypodermoclyse est une alternative simple et peu invasive à la voie veineuse pour l'hydratation des patients âgés ou en fin de vie, mais elle ne permet ni l'administration de tous les traitements ni un débit rapide en urgence. ",
+    "sources": "Sources : SFAP · HAS."
   }
 }

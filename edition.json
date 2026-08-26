@@ -1,69 +1,69 @@
 {
-  "dateLong": "Mar. 25 août",
+  "dateLong": "Mer. 26 août",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "Assurance Maladie", "strong": true },
-    { "text": " plafonne le télésoin infirmier à 20 % de l'activité, l'" },
+    { "text": "La " },
+    { "text": "loi relative au droit à l'aide à mourir", "strong": true },
+    { "text": " est publiée au Journal officiel avec un rôle d'exception pour l'infirmier, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " autorise une préparation magistrale face à la rupture de Bicafres, et la " },
-    { "text": "réforme infirmière", "strong": true },
-    { "text": " laisse en suspens la rémunération de la consultation autonome en libéral." }
+    { "text": " rappelle un lot de valves hémostatiques ANRYV, et les hôpitaux pourront recruter des " },
+    { "text": "étudiants infirmiers non diplômés", "strong": true },
+    { "text": " dès cet été face à la crise des effectifs." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Télésoin infirmier : l'avenant 11 plafonne l'activité à distance à 20 % et impose un contact préalable en présentiel",
-      "summary": "Codifiées par l'avenant 11 à la convention nationale, les règles de télésoin imposent qu'au moins un acte de chaque série ait été réalisé en présentiel dans les 12 mois précédents, avec consentement du patient et un outil vidéo référencé par l'Assurance Maladie.",
-      "source": "Ameli.fr",
-      "url": "https://www.ameli.fr/infirmier/exercice-liberal/realisation-actes-telesante"
+      "title": "Aide à mourir : la loi est publiée au Journal officiel, avec un rôle d'exception pour l'infirmier",
+      "summary": "Promulguée le 18 août et parue au JO le 19 (loi n° 2026-794), le texte autorise l'infirmier à administrer la substance létale à titre exceptionnel si le patient ne peut le faire seul, sous réserve d'une clause de conscience.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054706877"
     },
     {
       "category": "alertes",
-      "title": "Rupture de Bicafres : l'ANSM autorise la substitution par une préparation magistrale sans nouvelle ordonnance",
-      "summary": "En rupture depuis juin 2026 et non disponible avant avril 2027, ce traitement de l'acidose métabolique chez l'insuffisant rénal chronique peut être remplacé à titre exceptionnel par des gélules de bicarbonate de sodium à 500 ou 1 000 mg, sous réserve d'un contrôle biologique et d'une information du médecin.",
+      "title": "ANSM : rappel de lot de la valve hémostatique anti-retour ANRYV",
+      "summary": "Balt Extrusion SAS procède au retrait du lot concerné de ce dispositif utilisé en neuroradiologie interventionnelle, action de sécurité référencée R2622646 par l'ANSM.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/bicafres-1000-mg-comprime-gastro-resistant-sodium-bicarbonate-de"
+      "url": "https://ansm.sante.fr/informations-de-securite/valve-hemostatique-anti-retour-anryv-balt-extrusion-sas"
     },
     {
       "category": "science",
-      "title": "Démographie infirmière : la DREES confirme la hausse des effectifs mais bute sur des données arrêtées à 2023",
-      "summary": "Selon l'état des lieux publié le 2 juillet, la France comptait 508 800 infirmières salariées (+1,6 % en un an) et 98 900 libérales fin 2023 ; faute de données RPPS suffisamment fiables, la DREES doit recourir à la base tous salariés pour suivre la profession.",
-      "source": "DREES",
-      "url": "https://drees.solidarites-sante.gouv.fr/communique-de-presse-jeux-de-donnees/jeux-de-donnees/260702-demographie-des-professionnels-de-sante-au-1er-janvier-2026"
+      "title": "Canicule de juin : les décès à domicile ont bondi de 40 % chez les personnes âgées",
+      "summary": "Santé publique France recense environ 1 000 décès en excès depuis le 24 juin, dont 85 % chez les 65 ans et plus, posant la question du repérage précoce des personnes fragiles avant l'hospitalisation.",
+      "source": "Caducée.net",
+      "url": "https://www.caducee.net/actualite-medicale/16936/canicule-les-deces-a-domicile-exposent-la-fragilite-du-reperage.html"
     },
     {
       "category": "profession",
-      "title": "Réforme infirmière : la rémunération de la consultation autonome en libéral reste à négocier",
-      "summary": "Un mois après l'entrée en vigueur des arrêtés du 26 juin élargissant consultation, prescription et actes infirmiers, Caducée.net pointe les zones grises persistantes : tarification en ville, traçabilité des prescriptions et articulation avec médecins, pharmaciens et laboratoires.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
+      "title": "Crise des effectifs : les étudiants infirmiers pourront exercer dès cet été avant leur diplôme",
+      "summary": "Face aux tensions hospitalières estivales, les élèves ayant achevé leur formation en juin ou juillet sont autorisés à être recrutés avant la remise officielle de leur diplôme en septembre, malgré les réserves de la Fnesi sur leur encadrement.",
+      "source": "Le Quotidien du Médecin",
+      "url": "https://www.lequotidiendumedecin.fr/hopital/politique-hospitaliere/crise-lhopital-les-etudiants-infirmiers-et-aides-soignants-pourront-etre-recrutes-des-cet-ete-avant"
     },
     {
       "category": "technique",
-      "title": "Dispositifs médicaux numériques : le forfait de prise en charge anticipée plafonné à 780 euros par patient et par an",
-      "summary": "Le dispositif PECAN de la Haute Autorité de santé permet de rembourser, pendant un an et avant la fin des études cliniques, les objets connectés de télésurveillance ou de thérapie numérique jugés innovants : 435 euros pour les trois premiers mois, puis 38,3 euros par mois.",
-      "source": "Haute Autorité de Santé",
-      "url": "https://www.has-sante.fr/jcms/p_3376633/fr/dispositifs-medicaux-numeriques-la-prise-en-charge-anticipee"
+      "title": "ECG 12 dérivations, mini-spirométrie, bladder-scan : trois nouveaux gestes dans le rôle propre infirmier",
+      "summary": "L'arrêté du 26 juin 2026 élargit le rôle propre à la réalisation et à la lecture de l'ECG standard, de la mini-spirométrie et du bladder-scan, utilisables en établissement comme à domicile pour orienter la prise en charge avant tout avis médical.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "formation",
-      "title": "Rentrée IFSI 2026 : la première promotion du nouveau référentiel de 4 620 heures arrive dès le 31 août",
-      "summary": "Les étudiants de première année entament lundi leur cursus sous le référentiel issu de l'arrêté du 20 février 2026, tandis que les promotions déjà engagées poursuivent l'ancien programme jusqu'en 2028, le temps d'une transition à deux vitesses dans les IFSI.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/etudiants/admission-et-cursus-en-ifsi/le-nouveau-referentiel-de-formation-infirmiere-annonce-pour-septembre-2026"
+      "title": "DPC 2026 : les orientations prioritaires 2023-2025 prorogées faute de nouveau texte",
+      "summary": "En l'absence d'arrêté fixant les orientations 2026-2028, l'Agence du DPC prolonge les orientations 2023-2025 et maintient valides jusqu'au 31 décembre 2026 toutes les actions déjà publiées au catalogue, sans interruption pour les infirmiers en cours de cycle triennal.",
+      "source": "Agence du DPC",
+      "url": "https://www.agencedpc.fr/Prorogation-des-orientations-prioritaires-de-DPC"
     }
   ],
   "word": {
-    "field": "Prévention des risques professionnels",
-    "term": "Accident d'exposition au sang (AES)",
-    "subtitle": "Le contact accidentel avec du sang ou un liquide biologique qui déclenche une procédure d'urgence immédiate",
-    "definition": "Tout contact percutané (piqûre, coupure) ou muqueux/cutané sur peau lésée avec du sang ou un liquide biologique potentiellement contaminant, survenant lors d'un soin.",
+    "field": "Plaies et cicatrisation",
+    "term": "Détersion mécanique",
+    "subtitle": "Le geste qui retire les tissus nécrosés pour relancer la cicatrisation",
+    "definition": "Retrait instrumental, sous asepsie, des tissus nécrosés ou fibrineux d'une plaie chronique afin de mettre à nu un tissu de granulation sain et de favoriser la cicatrisation.",
     "steps": [
-      { "n": "1", "h": "Nettoyer", "t": "laver immédiatement la plaie à l'eau et au savon puis rincer, ou rincer abondamment à l'eau ou au sérum physiologique en cas de projection oculaire ou muqueuse, sans faire saigner ni frotter." },
-      { "n": "2", "h": "Antisepsie", "t": "appliquer un antiseptique chloré (Dakin ou équivalent) pendant au moins 5 minutes sur une plaie cutanée." },
-      { "n": "3", "h": "Déclarer", "t": "contacter en urgence le médecin référent AES ou les urgences dans l'heure pour évaluer le statut sérologique de la personne source, puis déclarer l'accident du travail." }
+      { "n": "1", "h": "Évaluer", "t": "vérifier la vascularisation du membre et l'absence de contre-indication (ischémie, trouble de la coagulation, anticoagulants) avant tout geste." },
+      { "n": "2", "h": "Déterger", "t": "retirer à la curette ou aux ciseaux stériles les tissus nécrosés ou fibrineux, jusqu'au saignement punctiforme du tissu sain, sous couvert d'une antalgie adaptée." },
+      { "n": "3", "h": "Protéger", "t": "recouvrir d'un pansement adapté à l'exsudat et tracer le geste, sa tolérance et l'aspect de la plaie dans le dossier de soins." }
     ],
-    "retenir": "La prise en charge doit être engagée dans l'heure qui suit l'exposition pour permettre, si besoin, la mise en route d'un traitement post-exposition au VIH ; l'AES doit systématiquement être déclaré comme accident du travail. ",
-    "sources": "Sources : Santé publique France · GERES."
+    "retenir": "Depuis l'arrêté du 26 juin 2026, la détersion mécanique des plaies chroniques, dont l'escarre, relève du rôle propre infirmier et peut être réalisée sans prescription médicale. ",
+    "sources": "Sources : HAS · Arrêté du 26 juin 2026."
   }
 }

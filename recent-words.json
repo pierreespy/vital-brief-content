@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Détersion mécanique", "date": "2026-08-26" },
     { "term": "Accident d'exposition au sang (AES)", "date": "2026-08-25" },
     { "term": "Directives anticipées", "date": "2026-08-24" },
     { "term": "Extravasation", "date": "2026-08-22" },
@@ -28,7 +29,6 @@
     { "term": "Neutropénie fébrile", "date": "2026-07-30" },
     { "term": "Voie intra-osseuse", "date": "2026-07-29" },
     { "term": "Sondage vésical", "date": "2026-07-28" },
-    { "term": "Œdème aigu du poumon (OAP)", "date": "2026-07-27" },
-    { "term": "Pharmacovigilance", "date": "2026-07-26" }
+    { "term": "Œdème aigu du poumon (OAP)", "date": "2026-07-27" }
   ]
 }

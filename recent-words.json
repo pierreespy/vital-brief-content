@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Rhabdomyolyse", "date": "2026-08-27" },
     { "term": "Hypodermoclyse", "date": "2026-08-26" },
     { "term": "Accident d'exposition au sang (AES)", "date": "2026-08-25" },
     { "term": "Directives anticipées", "date": "2026-08-24" },
@@ -28,7 +29,6 @@
     { "term": "Antalgie multimodale", "date": "2026-07-31" },
     { "term": "Neutropénie fébrile", "date": "2026-07-30" },
     { "term": "Voie intra-osseuse", "date": "2026-07-29" },
-    { "term": "Sondage vésical", "date": "2026-07-28" },
-    { "term": "Œdème aigu du poumon (OAP)", "date": "2026-07-27" }
+    { "term": "Sondage vésical", "date": "2026-07-28" }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "dateLong": "Jeu. 27 août",
+  "dateLong": "Ven. 28 août",
   "essentiel": [
-    { "text": "Un décret renforce la " },
-    { "text": "soutenabilité du système de santé", "strong": true },
-    { "text": " en modifiant la prise en charge des transports sanitaires, l'" },
+    { "text": "Un " },
+    { "text": "décret n° 2026-810", "strong": true },
+    { "text": " complète la réforme de la soutenabilité du système de santé pour les dispositifs médicaux, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur le système de radiologie interventionnelle Philips Azurion, et l'institut " },
-    { "text": "SPS", "strong": true },
-    { "text": " consacre son 12ᵉ colloque national à la santé des soignants face aux crises." }
+    { "text": " alerte sur le logiciel de prescription Orbis Medication, et l'" },
+    { "text": "Ordre infirmier", "strong": true },
+    { "text": " projette jusqu'à 815 000 infirmiers en exercice d'ici 2040." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Transports sanitaires : un décret renforce la soutenabilité du système de santé",
-      "summary": "Publié au Journal officiel le 22 août, le décret n° 2026-812 du 21 août 2026 harmonise la prise en charge des transports sanitaires pour les assurés sans affection de longue durée et fait passer leur remboursement de 55 % à 50 %, sans reste à charge supplémentaire pour les patients en ALD.",
+      "title": "Dispositifs médicaux : un décret complète la réforme de la soutenabilité du système de santé",
+      "summary": "Le décret n° 2026-810 du 21 août 2026, pris en miroir du décret sur les transports sanitaires paru le même jour, modifie les conditions de prise en charge de certains dispositifs médicaux.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054733611"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054733591"
     },
     {
       "category": "alertes",
-      "title": "ANSM : information de sécurité sur le système de radiologie interventionnelle Philips Azurion",
-      "summary": "L'ANSM relaie une information destinée aux utilisateurs concernant le système Azurion 3.1 de Philips Medical Systems Nederland, mesure de sécurité référencée R2623528 pour ce dispositif utilisé en radiologie interventionnelle.",
+      "title": "ANSM : alerte de sécurité sur le logiciel d'aide à la prescription Orbis Medication 3.x",
+      "summary": "L'ANSM relaie une information de sécurité (réf. R2624517) concernant le LAP Orbis Medication 3.x de DH Healthcare GmbH, utilisé par les établissements de santé pour la prescription médicamenteuse.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/appareil-de-radiologie-interventionnelle-rx-philips-azurion-system-3-1-philips-medical-systems-nederland-bv"
+      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-aide-a-la-prescription-orbis-medication-3-x-dh-healthcare-gmbh-4"
     },
     {
       "category": "science",
-      "title": "Oncologie : aucune mesure nationale du niveau de compétence des infirmiers qui administrent les traitements",
-      "summary": "Le Baromètre OncoIDE 2026, arrêté au 11 août, souligne que si la France mesure bien l'activité de soins en cancérologie, elle ne dispose d'aucun indicateur direct sur les compétences des infirmiers qui administrent chimiothérapies et thérapies ciblées.",
-      "source": "OncoIDE",
-      "url": "https://www.oncoide.fr/barometre-oncoide-2026"
+      "title": "Réforme infirmière : une étude MACSF pointe la réserve persistante des médecins",
+      "summary": "Selon une étude MACSF relayée par Le Quotidien du Médecin, 47 % des médecins interrogés restent défavorables à l'élargissement des compétences infirmières issu de la réforme de la profession.",
+      "source": "Le Quotidien du Médecin",
+      "url": "https://www.lequotidiendumedecin.fr/liberal-soins-de-ville/exercice/evolution-de-la-profession-infirmiere-les-medecins-toujours-reserves-sur-la-reforme-avec-47-davis"
     },
     {
       "category": "profession",
-      "title": "Santé des soignants : l'institut SPS réunit son 12e colloque national ce jeudi",
-      "summary": "Placé sous le haut patronage du président de la République, ce rendez-vous annuel se tient le 27 août à Paris et en visioconférence sur le thème « la santé des soignants à l'épreuve des crises », avec retours d'expérience et leviers d'action concrets.",
-      "source": "SPS Institut",
-      "url": "https://www.sps-institut.fr/actualites/12eme-colloque-national-sps-la-sante-des-soignants-a-lepreuve-des-crises"
+      "title": "Démographie infirmière : l'Ordre projette jusqu'à 815 000 infirmiers en 2040",
+      "summary": "Pour ses 20 ans, l'Ordre national des infirmiers a présenté des projections démographiques jusqu'en 2040 : entre 693 000 et 815 000 infirmiers en exercice, pour des besoins de soins en hausse d'au moins 54 %.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier/demographie-infirmiere-les-effectifs-exploseront-dici-2040-mais-les-besoins-aussi"
     },
     {
       "category": "technique",
-      "title": "Carte Vitale dématérialisée : l'application désormais accessible dans toute la France",
-      "summary": "Après un déploiement progressif dans huit départements pilotes, l'application carte Vitale se généralise à l'ensemble du territoire, simplifiant la facturation et la vérification des droits pour les infirmiers libéraux lors des tournées.",
-      "source": "Carcept Prev",
-      "url": "https://www.carcept-prev.fr/actualites/la-carte-vitale-dematerialisee-desormais-accessible-dans-toute-la-france"
+      "title": "Intelligence artificielle : les infirmiers encore en quête du bon usage",
+      "summary": "ActuSoins fait le point sur les usages émergents de l'IA en soins infirmiers — chatbots, assistants de tâches, aide à la rédaction — et le décalage persistant entre les outils disponibles et les besoins de terrain.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/ia-intelligence-artificielle-les-infirmiers-en-quete-du-bon-usage.html"
     },
     {
       "category": "formation",
-      "title": "Nouveau référentiel infirmier : la réforme des IFSI entre en application à la rentrée",
-      "summary": "Publié par arrêté du 20 février 2026, le nouveau référentiel remplace celui de 2009 avec cinq domaines, treize compétences et 66 semaines de stage contre 60 aujourd'hui ; les stages en psychiatrie et en santé de l'enfant deviennent obligatoires.",
-      "source": "Fiches IDE",
-      "url": "https://www.fiches-ide.fr/reforme-ifsi-2026/"
+      "title": "IFSI : la formation infirmière remaniée à la rentrée 2026, après quinze ans d'attente",
+      "summary": "Le nouveau programme, porté par deux textes du 20 février 2026, passe à 4 620 heures sur trois ans et 66 semaines de stage, avec délivrance du diplôme désormais assurée par les universités accréditées.",
+      "source": "France Info",
+      "url": "https://www.franceinfo.fr/sante/la-formation-d-infirmiere-renovee-pour-la-rentree-2026-apres-15-ans-d-attente_7829441.html"
     }
   ],
   "word": {
-    "field": "Urgences & vigilance",
-    "term": "Rhabdomyolyse",
-    "subtitle": "La destruction massive des cellules musculaires qui peut détruire les reins",
-    "definition": "Destruction aiguë des fibres musculaires striées libérant myoglobine, potassium et créatine kinase dans la circulation, pouvant provoquer une insuffisance rénale aiguë ; causes fréquentes : traumatisme (crush syndrome), immobilisation prolongée, effort intense, coup de chaleur ou toxique.",
+    "field": "Pharmaco & sécurité du soin",
+    "term": "Iatrogénie médicamenteuse",
+    "subtitle": "Quand le traitement censé soigner devient lui-même la cause du dommage",
+    "definition": "Effet indésirable, dommage ou complication provoqué par un acte de soin, un médicament ou un dispositif médical, qu'il soit lié ou non à une erreur ; la part évitable engage la vigilance de toute l'équipe soignante à chaque étape du circuit du médicament.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "évoquer le diagnostic devant des myalgies diffuses, une faiblesse musculaire et des urines foncées (« bouillon sale ») chez un patient à risque (traumatisme, canicule, immobilisation, alcool, statines)." },
-      { "n": "2", "h": "Prélever", "t": "doser en urgence la créatine kinase (CK) et le ionogramme sanguin ; une CK supérieure à 5 fois la normale confirme le diagnostic et oriente sur le risque rénal." },
-      { "n": "3", "h": "Surveiller", "t": "assurer une hydratation abondante précoce, surveiller la diurèse et la kaliémie, et alerter en cas d'oligurie ou d'hyperkaliémie évocatrice d'une insuffisance rénale aiguë." }
+      { "n": "1", "h": "Repérer", "t": "être attentif à tout signe inhabituel après un soin ou une prescription (confusion, chute, saignement, éruption) et évoquer une cause iatrogène, en particulier chez la personne âgée polymédiquée." },
+      { "n": "2", "h": "Sécuriser", "t": "vérifier systématiquement la prescription (dose, voie, interactions) avant administration et ne jamais contourner une alerte du logiciel d'aide à la prescription sans validation médicale." },
+      { "n": "3", "h": "Déclarer", "t": "signaler tout effet indésirable ou dysfonctionnement de dispositif via la déclaration de vigilance (pharmacovigilance, matériovigilance) pour alimenter la surveillance nationale." }
     ],
-    "retenir": "La rhabdomyolyse est une urgence potentiellement grave par son retentissement rénal et doit être évoquée devant des urines foncées après un traumatisme, un effort intense ou un coup de chaleur ; l'hydratation précoce et la surveillance de la kaliémie sont essentielles. ",
-    "sources": "Sources : SFMU · HAS."
+    "retenir": "La iatrogénie n'est pas une fatalité : double vérification, vigilance face aux alertes des logiciels de prescription et signalement systématique des événements indésirables permettent d'en réduire la part évitable. ",
+    "sources": "Sources : ANSM · HAS."
   }
 }

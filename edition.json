@@ -1,69 +1,69 @@
 {
-  "dateLong": "Ven. 28 août",
+  "dateLong": "Sam. 29 août",
   "essentiel": [
     { "text": "Un " },
-    { "text": "décret n° 2026-810", "strong": true },
-    { "text": " complète la réforme de la soutenabilité du système de santé pour les dispositifs médicaux, l'" },
+    { "text": "arrêté du 27 août 2026", "strong": true },
+    { "text": " encadre la prise en charge de spécialités pharmaceutiques rétrocédées, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur le logiciel de prescription Orbis Medication, et l'" },
-    { "text": "Ordre infirmier", "strong": true },
-    { "text": " projette jusqu'à 815 000 infirmiers en exercice d'ici 2040." }
+    { "text": " alerte sur le dispositif hémostatique Hemospray, et le " },
+    { "text": "colloque national SPS", "strong": true },
+    { "text": " interroge la santé des soignants face aux crises." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Dispositifs médicaux : un décret complète la réforme de la soutenabilité du système de santé",
-      "summary": "Le décret n° 2026-810 du 21 août 2026, pris en miroir du décret sur les transports sanitaires paru le même jour, modifie les conditions de prise en charge de certains dispositifs médicaux.",
+      "title": "Rétrocession hospitalière : un arrêté encadre la prise en charge de plusieurs spécialités pharmaceutiques",
+      "summary": "L'arrêté du 27 août 2026, publié au Journal officiel du 28 août, fixe les conditions de prise en charge de spécialités pharmaceutiques disposant d'une AMM et inscrites sur la liste de rétrocession de l'article L. 5126-6 du code de la santé publique.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054733591"
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/08/28/0200"
     },
     {
       "category": "alertes",
-      "title": "ANSM : alerte de sécurité sur le logiciel d'aide à la prescription Orbis Medication 3.x",
-      "summary": "L'ANSM relaie une information de sécurité (réf. R2624517) concernant le LAP Orbis Medication 3.x de DH Healthcare GmbH, utilisé par les établissements de santé pour la prescription médicamenteuse.",
+      "title": "ANSM : information de sécurité sur le dispositif hémostatique endoscopique Hemospray",
+      "summary": "L'ANSM relaie une information de sécurité de Wilson-Cook Medical concernant l'Hemospray Endoscopic Hemostat, destinée aux pharmacies hospitalières et services d'endoscopie utilisant ce dispositif d'hémostase des hémorragies digestives.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-aide-a-la-prescription-orbis-medication-3-x-dh-healthcare-gmbh-4"
+      "url": "https://ansm.sante.fr/informations-de-securite/dispositif-hemostatique-hemospray-endoscopic-hemostat-wilson-cook-medical-inc"
     },
     {
       "category": "science",
-      "title": "Réforme infirmière : une étude MACSF pointe la réserve persistante des médecins",
-      "summary": "Selon une étude MACSF relayée par Le Quotidien du Médecin, 47 % des médecins interrogés restent défavorables à l'élargissement des compétences infirmières issu de la réforme de la profession.",
-      "source": "Le Quotidien du Médecin",
-      "url": "https://www.lequotidiendumedecin.fr/liberal-soins-de-ville/exercice/evolution-de-la-profession-infirmiere-les-medecins-toujours-reserves-sur-la-reforme-avec-47-davis"
+      "title": "Prix de la recherche en sciences infirmières 2026 : les lauréats dévoilés",
+      "summary": "Infirmier en santé mentale et doctorant en santé publique, Benoît Chalancon reçoit le prix Jeune chercheur pour ses travaux sur les interventions brèves en prévention du suicide.",
+      "source": "Infirmiers.com",
+      "url": "https://infirmiers.com/ipa-specialites/recherche-et-bibliographie/prix-de-la-recherche-en-sciences-infirmieres-voici-les-laureats-2026"
     },
     {
       "category": "profession",
-      "title": "Démographie infirmière : l'Ordre projette jusqu'à 815 000 infirmiers en 2040",
-      "summary": "Pour ses 20 ans, l'Ordre national des infirmiers a présenté des projections démographiques jusqu'en 2040 : entre 693 000 et 815 000 infirmiers en exercice, pour des besoins de soins en hausse d'au moins 54 %.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier/demographie-infirmiere-les-effectifs-exploseront-dici-2040-mais-les-besoins-aussi"
+      "title": "12e Colloque national SPS : la santé des soignants à l'épreuve des crises",
+      "summary": "Placé sous le haut patronage du Président de la République, ce rendez-vous du 27 août a réuni chercheurs, institutionnels et professionnels de terrain autour des leviers pour un exercice plus protecteur et résilient.",
+      "source": "SPS Institut",
+      "url": "https://www.sps-institut.fr/actualites/12eme-colloque-national-sps-la-sante-des-soignants-a-lepreuve-des-crises"
     },
     {
       "category": "technique",
-      "title": "Intelligence artificielle : les infirmiers encore en quête du bon usage",
-      "summary": "ActuSoins fait le point sur les usages émergents de l'IA en soins infirmiers — chatbots, assistants de tâches, aide à la rédaction — et le décalage persistant entre les outils disponibles et les besoins de terrain.",
-      "source": "ActuSoins",
-      "url": "https://www.actusoins.com/ia-intelligence-artificielle-les-infirmiers-en-quete-du-bon-usage.html"
+      "title": "Exosquelettes en établissement de soins : soulager les soignants, réautonomiser les patients",
+      "summary": "Objectif fixé par instruction gouvernementale : deux exosquelettes par département, utilisés à la fois en rééducation neurologique et pour protéger le dos des soignants lors des manutentions.",
+      "source": "CNRS Le Journal",
+      "url": "https://lejournal.cnrs.fr/articles/des-exosquelettes-pour-soulager-les-soignants"
     },
     {
       "category": "formation",
-      "title": "IFSI : la formation infirmière remaniée à la rentrée 2026, après quinze ans d'attente",
-      "summary": "Le nouveau programme, porté par deux textes du 20 février 2026, passe à 4 620 heures sur trois ans et 66 semaines de stage, avec délivrance du diplôme désormais assurée par les universités accréditées.",
-      "source": "France Info",
-      "url": "https://www.franceinfo.fr/sante/la-formation-d-infirmiere-renovee-pour-la-rentree-2026-apres-15-ans-d-attente_7829441.html"
+      "title": "Un diplôme universitaire dédié à la recherche paramédicale, ouvert pour 2026-2027",
+      "summary": "Unicancer propose un DU Recherche paramédicale destiné aux infirmiers et paramédicaux d'Île-de-France souhaitant développer un projet de recherche sur leurs pratiques de soin.",
+      "source": "Unicancer",
+      "url": "https://www.unicancer.fr/fr/trainings/du-recherche-paramedicale/"
     }
   ],
   "word": {
-    "field": "Pharmaco & sécurité du soin",
-    "term": "Iatrogénie médicamenteuse",
-    "subtitle": "Quand le traitement censé soigner devient lui-même la cause du dommage",
-    "definition": "Effet indésirable, dommage ou complication provoqué par un acte de soin, un médicament ou un dispositif médical, qu'il soit lié ou non à une erreur ; la part évitable engage la vigilance de toute l'équipe soignante à chaque étape du circuit du médicament.",
+    "field": "Gériatrie & clinique",
+    "term": "Syndrome de glissement",
+    "subtitle": "Quand une personne âgée renonce brutalement à vivre après un choc somatique",
+    "definition": "Décompensation psychomotrice globale et rapide survenant chez une personne âgée dans les semaines suivant un événement aigu (chute, hospitalisation, deuil), associant refus alimentaire, perte d'autonomie et retrait relationnel, sans cause organique qui l'explique à elle seule.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "être attentif à tout signe inhabituel après un soin ou une prescription (confusion, chute, saignement, éruption) et évoquer une cause iatrogène, en particulier chez la personne âgée polymédiquée." },
-      { "n": "2", "h": "Sécuriser", "t": "vérifier systématiquement la prescription (dose, voie, interactions) avant administration et ne jamais contourner une alerte du logiciel d'aide à la prescription sans validation médicale." },
-      { "n": "3", "h": "Déclarer", "t": "signaler tout effet indésirable ou dysfonctionnement de dispositif via la déclaration de vigilance (pharmacovigilance, matériovigilance) pour alimenter la surveillance nationale." }
+      { "n": "1", "h": "Repérer", "t": "être attentif, dans les semaines suivant un choc ou une hospitalisation, à un refus de s'alimenter, une perte d'autonomie brutale ou un mutisme inhabituel chez une personne âgée jusque-là stable." },
+      { "n": "2", "h": "Éliminer", "t": "rechercher systématiquement une cause organique sous-jacente (infection, déshydratation, iatrogénie) avant de retenir le diagnostic, qui reste un diagnostic d'élimination." },
+      { "n": "3", "h": "Réagir", "t": "maintenir le lien relationnel, remobiliser précocement et solliciter un avis gériatrique sans attendre l'aggravation : la précocité de la prise en charge conditionne le pronostic." }
     ],
-    "retenir": "La iatrogénie n'est pas une fatalité : double vérification, vigilance face aux alertes des logiciels de prescription et signalement systématique des événements indésirables permettent d'en réduire la part évitable. ",
-    "sources": "Sources : ANSM · HAS."
+    "retenir": "Le syndrome de glissement traduit une rupture de l'élan vital chez la personne âgée fragile ; il engage le pronostic vital et impose une prise en charge pluridisciplinaire rapide, au-delà du seul traitement de la cause déclenchante. ",
+    "sources": "Sources : HAS · SFGG."
   }
 }

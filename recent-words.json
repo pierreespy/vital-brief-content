@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Œdème aigu du poumon (OAP)", "date": "2026-08-31" },
     { "term": "Syndrome de glissement", "date": "2026-08-29" },
     { "term": "Iatrogénie médicamenteuse", "date": "2026-08-28" },
     { "term": "Rhabdomyolyse", "date": "2026-08-27" },
@@ -28,7 +29,6 @@
     { "term": "Capnographie", "date": "2026-08-03" },
     { "term": "Purpura fulminans", "date": "2026-08-02" },
     { "term": "Consultation infirmière", "date": "2026-08-01" },
-    { "term": "Antalgie multimodale", "date": "2026-07-31" },
-    { "term": "Neutropénie fébrile", "date": "2026-07-30" }
+    { "term": "Antalgie multimodale", "date": "2026-07-31" }
   ]
 }

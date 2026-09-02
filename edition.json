@@ -1,69 +1,69 @@
 {
-  "dateLong": "Mar. 1er sept.",
+  "dateLong": "Mer. 2 sept.",
   "essentiel": [
-    { "text": "La " },
-    { "text": "HAS", "strong": true },
-    { "text": " ouvre la vaccination infantile aux infirmiers, le " },
-    { "text": "diplôme d'État infirmier", "strong": true },
-    { "text": " devient universitaire dès la rentrée, et l'" },
+    { "text": "Le nouvel " },
+    { "text": "arrêté du 26 juin", "strong": true },
+    { "text": " élargit les actes infirmiers, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle un réactif de laboratoire." }
+    { "text": " alerte sur un risque de confusion de dosage du Siklos, et les " },
+    { "text": "Journées nationales des IPA", "strong": true },
+    { "text": " se tiendront les 8 et 9 octobre à Paris." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Le diplôme d'État infirmier devient universitaire pour les étudiants qui font leur rentrée ce 1er septembre",
-      "summary": "Pris en application du décret n° 2026-130 du 20 février 2026, le DE infirmier est désormais délivré par les universités accréditées et signé par leur président, et non plus par le préfet, pour toute la promotion entrant en première année.",
+      "title": "Un nouvel arrêté élargit la liste des actes et soins réalisables par les infirmiers",
+      "summary": "Publié au Journal officiel le 27 juin 2026, ce texte ajoute de nouveaux gestes en rôle propre et sur prescription — ECG, pose de dispositifs, examens complémentaires — et concrétise la loi infirmière du 27 juin 2025.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053568871"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "ANSM : rappel du réactif de mycologie Yeastone Broth (Thermo Fisher Scientific)",
-      "summary": "Publiée le 31 août 2026, cette information de sécurité concerne le bouillon Yeastone Broth 11 mL utilisé avec les plaques Sensititre YeastOne dans les laboratoires de biologie médicale, avec une lettre adressée aux établissements concernés.",
+      "title": "ANSM : risque de confusion entre Siklos 100 mg et Siklos 1000 mg",
+      "summary": "Plusieurs erreurs de délivrance ayant entraîné des effets indésirables graves ont été signalées ; l'agence rappelle les repères de différenciation (couleur, lettre H ou T gravée) et appelle à la vigilance.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/mycologie-reactif-yeastone-broth-11ml-remel"
+      "url": "https://ansm.sante.fr/actualites/risque-de-confusion-entre-siklos-100-mg-et-siklos-1000-mg"
     },
     {
       "category": "science",
-      "title": "La HAS donne un avis favorable à l'extension des compétences vaccinales infirmières chez l'enfant",
-      "summary": "Saisie par la DGOS, la Haute Autorité de santé recommande d'autoriser infirmiers, pharmaciens et sages-femmes à prescrire et administrer l'ensemble des vaccins du calendrier vaccinal aux enfants de 2 à 15 ans, une demande de longue date de l'Ordre infirmier.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/extension-des-competences-vaccinales-des-infirmiers-chez-les-enfants-avis-favorable-de-la-has-a"
+      "title": "Évolution de la profession infirmière : ce que révèle l'étude MACSF",
+      "summary": "Menée auprès de 890 professionnels de santé, l'enquête montre que 54 % portent un regard positif sur le décret de compétences, avec de fortes attentes en matière de formation et de sécurisation juridique.",
+      "source": "MACSF",
+      "url": "https://www.macsf.fr/groupe/toutes-nos-actualites/evolution-de-la-profession-infirmiere-ce-que-revele-l-etude-macsf"
     },
     {
       "category": "profession",
-      "title": "Négociations conventionnelles IDEL : une séance dédiée au BSI programmée le 26 septembre",
-      "summary": "Le Sniil annonce défendre lors de cette séance une meilleure valorisation des bilans de soins infirmiers les plus lourds et la création d'un BSI+ pour les patients les plus dépendants.",
-      "source": "Sniil",
-      "url": "https://www.sniil.fr/negociations-conventionnelles-sniil-engagement/"
+      "title": "Déclaration de politique générale : l'Ordre salue l'annonce d'une future loi infirmières-infirmiers",
+      "summary": "Le Premier ministre a annoncé un texte allant plus loin dans la reconnaissance de l'expertise infirmière et l'élargissement du rôle dans le parcours de soins ; l'Ordre national appelle à une mise en œuvre rapide.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/declaration-de-politique-generale-l-ordre-national-des-infirmiers-salue-l-annonce-par-le-premier"
     },
     {
       "category": "technique",
-      "title": "Des patchs connectés pour surveiller les patients à distance, entre le lit et le poste infirmier",
-      "summary": "Ces dispositifs façon pansement mesurent en continu fréquence cardiaque, fréquence respiratoire et température, et déclenchent une alerte sur l'ordinateur ou le smartphone de l'infirmière en cas de valeur anormale.",
-      "source": "Actusoins",
-      "url": "https://www.actusoins.com/patient-connecte-linfirmiere.html"
+      "title": "Measure : transformer son smartphone en outil de mesure des plaies",
+      "summary": "Cette application permet de photographier une plaie et d'en obtenir automatiquement les mensurations (longueur, largeur, surface), pour un suivi de cicatrisation plus rapide et standardisé au chevet.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/measure-transformez-votre-smartphone-en-outil-de-mesure-des-plaies.html"
     },
     {
       "category": "formation",
-      "title": "DPC : les inscriptions au congrès Infogyn 2026 de Pau (30 septembre-2 octobre) sont ouvertes",
-      "summary": "Plusieurs programmes de développement professionnel continu, en sessions exclusivement présentielles, sont proposés aux professionnels de santé, avec une prise en charge par l'ANDPC selon les droits de chacun.",
-      "source": "Infogyn / ANDPC",
-      "url": "https://www.infogyn.com/le-congres/infos-dpc/"
+      "title": "Journées nationales des infirmiers en pratique avancée : rendez-vous les 8 et 9 octobre à Paris",
+      "summary": "La prochaine édition des JNIPA se tiendra à la Maison internationale de la Cité internationale universitaire, avec au programme pratique avancée, leadership et parcours de santé.",
+      "source": "JNIPA",
+      "url": "https://jnipa.fr/"
     }
   ],
   "word": {
-    "field": "Réglementaire & rôle",
-    "term": "Transmissions ciblées",
-    "subtitle": "Écrire l'essentiel du raisonnement infirmier, pas tout ce qui a été fait",
-    "definition": "Méthode de transmission écrite structurée autour d'une cible — un problème, un risque ou une ressource du patient —, croisée avec les données, actions et résultats, pour assurer la continuité et la traçabilité des soins.",
+    "field": "Gestes & soins",
+    "term": "Oxygénothérapie",
+    "subtitle": "Corriger une hypoxémie sans exposer le patient aux risques de l'excès d'oxygène",
+    "definition": "Administration médicale d'oxygène à visée thérapeutique pour maintenir une saturation cible, quel que soit le dispositif utilisé (lunettes, masque simple, masque à haute concentration).",
     "steps": [
-      { "n": "1", "h": "Identifier", "t": "repérer la cible : un problème, un risque ou une ressource significative pour la prise en charge." },
-      { "n": "2", "h": "Rédiger", "t": "formaliser en DAR : Données observées, Actions réalisées, Résultats obtenus." },
-      { "n": "3", "h": "Transmettre", "t": "communiquer oralement en relève et s'assurer de la traçabilité dans le dossier de soins." }
+      { "n": "1", "h": "Vérifier la prescription", "t": "débit, dispositif et saturation cible (94-98 %, ou 88-92 % en cas d'hypercapnie chronique)." },
+      { "n": "2", "h": "Installer et surveiller", "t": "dispositif adapté au débit, SpO2 en continu, fréquence respiratoire, coloration cutanée." },
+      { "n": "3", "h": "Prévenir les risques", "t": "assèchement des muqueuses (humidification), risque incendie, hypercapnie chez le patient BPCO." }
     ],
-    "retenir": "Les transmissions ciblées documentent le raisonnement clinique de l'infirmier, pas un inventaire de tâches : elles engagent sa responsabilité et assurent la continuité des soins. ",
-    "sources": "Sources : HAS · ANFIIDE."
+    "retenir": "L'oxygénothérapie corrige l'hypoxémie mais n'est pas anodine : chez l'insuffisant respiratoire chronique, un excès d'oxygène peut aggraver l'hypercapnie. La surveillance infirmière prime sur le seul débit prescrit. ",
+    "sources": "Sources : SPLF · HAS."
   }
 }

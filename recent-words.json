@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Oxygénothérapie", "date": "2026-09-02" },
     { "term": "Transmissions ciblées", "date": "2026-09-01" },
     { "term": "Œdème aigu du poumon (OAP)", "date": "2026-08-31" },
     { "term": "Syndrome de glissement", "date": "2026-08-29" },
@@ -28,7 +29,6 @@
     { "term": "Éducation thérapeutique du patient (ETP)", "date": "2026-08-05" },
     { "term": "Infirmier en pratique avancée (IPA)", "date": "2026-08-04" },
     { "term": "Capnographie", "date": "2026-08-03" },
-    { "term": "Purpura fulminans", "date": "2026-08-02" },
-    { "term": "Consultation infirmière", "date": "2026-08-01" }
+    { "term": "Purpura fulminans", "date": "2026-08-02" }
   ]
 }

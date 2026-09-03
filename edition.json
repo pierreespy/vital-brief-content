@@ -1,69 +1,69 @@
 {
-  "dateLong": "Mer. 2 sept.",
+  "dateLong": "Jeu. 3 sept.",
   "essentiel": [
-    { "text": "Le nouvel " },
-    { "text": "arrêté du 26 juin", "strong": true },
-    { "text": " élargit les actes infirmiers, l'" },
+    { "text": "La " },
+    { "text": "réforme du diplôme d'infirmier", "strong": true },
+    { "text": " entre en vigueur pour les étudiants de la rentrée, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur un risque de confusion de dosage du Siklos, et les " },
-    { "text": "Journées nationales des IPA", "strong": true },
-    { "text": " se tiendront les 8 et 9 octobre à Paris." }
+    { "text": " rappelle des lots de Doliprane 2,4 % pour enfants, et l'avenant 11 ouvre l'accès direct aux " },
+    { "text": "infirmiers en pratique avancée", "strong": true },
+    { "text": "." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Un nouvel arrêté élargit la liste des actes et soins réalisables par les infirmiers",
-      "summary": "Publié au Journal officiel le 27 juin 2026, ce texte ajoute de nouveaux gestes en rôle propre et sur prescription — ECG, pose de dispositifs, examens complémentaires — et concrétise la loi infirmière du 27 juin 2025.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "title": "Ratios minimum de soignants : la HAS rend son avis pour l'obstétrique",
+      "summary": "Saisie dans le cadre de la loi du 29 janvier 2025 sur les ratios soignants-patients, la Haute Autorité de santé a publié en juin ses préconisations d'indicateurs pour dimensionner les effectifs en maternité, avant les autres spécialités.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2026-06/dir1/avis_has_sur_les_ratios_minimum_soignants_en_obstetrique.pdf"
     },
     {
       "category": "alertes",
-      "title": "ANSM : risque de confusion entre Siklos 100 mg et Siklos 1000 mg",
-      "summary": "Plusieurs erreurs de délivrance ayant entraîné des effets indésirables graves ont été signalées ; l'agence rappelle les repères de différenciation (couleur, lettre H ou T gravée) et appelle à la vigilance.",
+      "title": "ANSM : rappel de lots de Doliprane 2,4 % en raison d'un défaut de pipette",
+      "summary": "27 lots de la suspension buvable pédiatrique, distribués entre novembre 2025 et février 2026, sont rappelés car les graduations de la pipette doseuse peuvent s'effacer après rinçage, avec un risque d'erreur de dose.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/risque-de-confusion-entre-siklos-100-mg-et-siklos-1000-mg"
+      "url": "https://ansm.sante.fr/actualites/doliprane-2-4-paracetamol-suspension-buvable-rappel-de-certains-lots-en-raison-de-leffacement-des-graduations-des-pipettes"
     },
     {
       "category": "science",
-      "title": "Évolution de la profession infirmière : ce que révèle l'étude MACSF",
-      "summary": "Menée auprès de 890 professionnels de santé, l'enquête montre que 54 % portent un regard positif sur le décret de compétences, avec de fortes attentes en matière de formation et de sécurisation juridique.",
-      "source": "MACSF",
-      "url": "https://www.macsf.fr/groupe/toutes-nos-actualites/evolution-de-la-profession-infirmiere-ce-que-revele-l-etude-macsf"
+      "title": "Épuisement professionnel : la France en tête des soignants en burn-out",
+      "summary": "67 % des médecins et infirmiers français déclarent ressentir un épuisement professionnel, le taux le plus élevé du panel européen étudié, avec la charge de travail comme principal facteur identifié.",
+      "source": "DSIH",
+      "url": "https://dsih.fr/articles/4212/burn-out-dans-la-sante-98-des-soignants-reconnaissent-avoir-deja-ressenti-les-symptomes-de-lepuisement-professionnel"
     },
     {
       "category": "profession",
-      "title": "Déclaration de politique générale : l'Ordre salue l'annonce d'une future loi infirmières-infirmiers",
-      "summary": "Le Premier ministre a annoncé un texte allant plus loin dans la reconnaissance de l'expertise infirmière et l'élargissement du rôle dans le parcours de soins ; l'Ordre national appelle à une mise en œuvre rapide.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/declaration-de-politique-generale-l-ordre-national-des-infirmiers-salue-l-annonce-par-le-premier"
+      "title": "Pratique avancée : l'accès direct aux IPA se prépare pour la fin 2026",
+      "summary": "L'avenant 11 signé le 31 mars 2026 entre l'Assurance Maladie et les syndicats infirmiers permettra aux patients de consulter un IPA sans passage préalable par le médecin ; la profession compte déjà près de 4 000 diplômés.",
+      "source": "Santé Mentale",
+      "url": "https://www.santementale.fr/2026/01/pratique-avancee-en-france-lunipa-dresse-un-etat-des-lieux/"
     },
     {
       "category": "technique",
-      "title": "Measure : transformer son smartphone en outil de mesure des plaies",
-      "summary": "Cette application permet de photographier une plaie et d'en obtenir automatiquement les mensurations (longueur, largeur, surface), pour un suivi de cicatrisation plus rapide et standardisé au chevet.",
-      "source": "ActuSoins",
-      "url": "https://www.actusoins.com/measure-transformez-votre-smartphone-en-outil-de-mesure-des-plaies.html"
+      "title": "Domoplaies : la télé-expertise sur les plaies chroniques vise une généralisation nationale",
+      "summary": "Porté par Cicat-Occitanie depuis 2020, ce dispositif de télé-expertise a déjà permis plus de 21 000 téléconsultations et 16 000 plaies évaluées, avec un déploiement national annoncé pour 2026.",
+      "source": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/experimentations-innovantes-en-sante-domoplaies-le-premier-projet-regional-autorise-par-lars-en"
     },
     {
       "category": "formation",
-      "title": "Journées nationales des infirmiers en pratique avancée : rendez-vous les 8 et 9 octobre à Paris",
-      "summary": "La prochaine édition des JNIPA se tiendra à la Maison internationale de la Cité internationale universitaire, avec au programme pratique avancée, leadership et parcours de santé.",
-      "source": "JNIPA",
-      "url": "https://jnipa.fr/"
+      "title": "Nouveau référentiel infirmier : la réforme du DE entre en vigueur à cette rentrée",
+      "summary": "Le décret et l'arrêté du 20 février 2026 s'appliquent aux étudiants qui débutent leur formation depuis le 1er septembre, avec un référentiel resserré en 5 domaines et 13 compétences et deux stages désormais obligatoires, en psychiatrie et en pédiatrie.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053568871"
     }
   ],
   "word": {
     "field": "Gestes & soins",
-    "term": "Oxygénothérapie",
-    "subtitle": "Corriger une hypoxémie sans exposer le patient aux risques de l'excès d'oxygène",
-    "definition": "Administration médicale d'oxygène à visée thérapeutique pour maintenir une saturation cible, quel que soit le dispositif utilisé (lunettes, masque simple, masque à haute concentration).",
+    "term": "Détersion",
+    "subtitle": "Retirer les tissus nécrotiques d'une plaie pour laisser place au bourgeonnement",
+    "definition": "Étape du soin de plaie consistant à éliminer les tissus dévitalisés (nécrose, fibrine) du lit de la plaie, par voie mécanique, autolytique ou avec des pansements détersifs, afin de favoriser la cicatrisation.",
     "steps": [
-      { "n": "1", "h": "Vérifier la prescription", "t": "débit, dispositif et saturation cible (94-98 %, ou 88-92 % en cas d'hypercapnie chronique)." },
-      { "n": "2", "h": "Installer et surveiller", "t": "dispositif adapté au débit, SpO2 en continu, fréquence respiratoire, coloration cutanée." },
-      { "n": "3", "h": "Prévenir les risques", "t": "assèchement des muqueuses (humidification), risque incendie, hypercapnie chez le patient BPCO." }
+      { "n": "1", "h": "Évaluer la plaie", "t": "type de tissu (nécrotique, fibrineux, bourgeonnant), exsudat, douleur et risque infectieux avant de choisir la technique." },
+      { "n": "2", "h": "Choisir la méthode adaptée", "t": "détersion mécanique (curette, compresses), autolytique (pansements hydrogel ou hydrocolloïde) selon le contexte et le terrain." },
+      { "n": "3", "h": "Réévaluer régulièrement", "t": "surveiller la douleur, les signes d'infection et l'évolution du lit de plaie à chaque changement de pansement." }
     ],
-    "retenir": "L'oxygénothérapie corrige l'hypoxémie mais n'est pas anodine : chez l'insuffisant respiratoire chronique, un excès d'oxygène peut aggraver l'hypercapnie. La surveillance infirmière prime sur le seul débit prescrit. ",
-    "sources": "Sources : SPLF · HAS."
+    "retenir": "La détersion prépare la plaie à cicatriser en retirant ce qui la freine, mais elle doit rester adaptée à la douleur du patient et à l'état vasculaire du membre : trop agressive, elle peut aggraver une plaie ischémique. ",
+    "sources": "Sources : HAS · SFFPC."
   }
 }

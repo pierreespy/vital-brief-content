@@ -1,69 +1,69 @@
 {
-  "dateLong": "Jeu. 3 sept.",
+  "dateLong": "Ven. 4 sept.",
   "essentiel": [
-    { "text": "La " },
-    { "text": "réforme du diplôme d'infirmier", "strong": true },
-    { "text": " entre en vigueur pour les étudiants de la rentrée, l'" },
+    { "text": "L'" },
+    { "text": "arrêté du 26 juin 2026", "strong": true },
+    { "text": " élargit les prescriptions infirmières, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle des lots de Doliprane 2,4 % pour enfants, et l'avenant 11 ouvre l'accès direct aux " },
-    { "text": "infirmiers en pratique avancée", "strong": true },
-    { "text": "." }
+    { "text": " rappelle des concentrés de dialyse Smartbag, et l'" },
+    { "text": "Ordre infirmier", "strong": true },
+    { "text": " lance une campagne contre les violences sexistes et sexuelles." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Ratios minimum de soignants : la HAS rend son avis pour l'obstétrique",
-      "summary": "Saisie dans le cadre de la loi du 29 janvier 2025 sur les ratios soignants-patients, la Haute Autorité de santé a publié en juin ses préconisations d'indicateurs pour dimensionner les effectifs en maternité, avant les autres spécialités.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2026-06/dir1/avis_has_sur_les_ratios_minimum_soignants_en_obstetrique.pdf"
+      "title": "Nouveau droit de prescription infirmier : l'arrêté du 26 juin 2026 publié",
+      "summary": "Le texte élargit la liste des produits de santé et examens que les infirmiers peuvent prescrire ou renouveler : vaccins, pansements et matériel de plaies, contraception orale jusqu'à 6 mois, capteurs de glycémie interstitielle et lève-personnes.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321926"
     },
     {
       "category": "alertes",
-      "title": "ANSM : rappel de lots de Doliprane 2,4 % en raison d'un défaut de pipette",
-      "summary": "27 lots de la suspension buvable pédiatrique, distribués entre novembre 2025 et février 2026, sont rappelés car les graduations de la pipette doseuse peuvent s'effacer après rinçage, avec un risque d'erreur de dose.",
+      "title": "ANSM : rappel de concentrés liquides pour dialyse Smartbag (Fresenius)",
+      "summary": "L'ANSM a été informée d'un retrait de lots des concentrés liquides acides pour dialysat Smartbag de Fresenius Medical Care ; les établissements concernés ont reçu le courrier d'alerte du fabricant.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/doliprane-2-4-paracetamol-suspension-buvable-rappel-de-certains-lots-en-raison-de-leffacement-des-graduations-des-pipettes"
+      "url": "https://ansm.sante.fr/informations-de-securite/concentres-liquides-pour-dialysate-smartbag-liquid-acid-concentrates-fresenius-medical-care-ag"
     },
     {
       "category": "science",
-      "title": "Épuisement professionnel : la France en tête des soignants en burn-out",
-      "summary": "67 % des médecins et infirmiers français déclarent ressentir un épuisement professionnel, le taux le plus élevé du panel européen étudié, avec la charge de travail comme principal facteur identifié.",
+      "title": "Dossier patient informatisé : une étude nationale sur son usage par les infirmiers",
+      "summary": "Paul Quindroit (Université de Lille) et Emmanuelle Cartron (Université Paris Cité) enquêtent sur la façon dont les infirmiers documentent les problèmes de santé non médicaux dans le DPI, pour en tirer des recommandations de paramétrage.",
       "source": "DSIH",
-      "url": "https://dsih.fr/articles/4212/burn-out-dans-la-sante-98-des-soignants-reconnaissent-avoir-deja-ressenti-les-symptomes-de-lepuisement-professionnel"
+      "url": "https://dsih.fr/articles/5832/lancement-dune-etude-nationale-sur-lusage-du-dossier-patient-informatise-par-les-infirmiers"
     },
     {
       "category": "profession",
-      "title": "Pratique avancée : l'accès direct aux IPA se prépare pour la fin 2026",
-      "summary": "L'avenant 11 signé le 31 mars 2026 entre l'Assurance Maladie et les syndicats infirmiers permettra aux patients de consulter un IPA sans passage préalable par le médecin ; la profession compte déjà près de 4 000 diplômés.",
-      "source": "Santé Mentale",
-      "url": "https://www.santementale.fr/2026/01/pratique-avancee-en-france-lunipa-dresse-un-etat-des-lieux/"
+      "title": "Violences sexistes et sexuelles : l'Ordre infirmier lance une campagne nationale",
+      "summary": "Une infirmière sur deux dit avoir déjà subi des violences sexistes ou sexuelles dans l'exercice, et trois sur dix des avances de patients : l'Ordre national des infirmiers lance une campagne pour briser le silence.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/campagne-nationale-de-lutte-contre-les-violences-sexistes-et-sexuelles-faites-aux-infirmiers"
     },
     {
       "category": "technique",
-      "title": "Domoplaies : la télé-expertise sur les plaies chroniques vise une généralisation nationale",
-      "summary": "Porté par Cicat-Occitanie depuis 2020, ce dispositif de télé-expertise a déjà permis plus de 21 000 téléconsultations et 16 000 plaies évaluées, avec un déploiement national annoncé pour 2026.",
-      "source": "ARS Occitanie",
-      "url": "https://www.occitanie.ars.sante.fr/experimentations-innovantes-en-sante-domoplaies-le-premier-projet-regional-autorise-par-lars-en"
+      "title": "Intelligence artificielle : les infirmiers en quête du bon usage",
+      "summary": "Chatbots, assistants de tâches, aide à la décision : l'IA s'installe dans la pratique infirmière, mais ActuSoins pointe un décalage entre les outils disponibles et les besoins réels du terrain, qui appelle formation et cadrage.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/ia-intelligence-artificielle-les-infirmiers-en-quete-du-bon-usage.html"
     },
     {
       "category": "formation",
-      "title": "Nouveau référentiel infirmier : la réforme du DE entre en vigueur à cette rentrée",
-      "summary": "Le décret et l'arrêté du 20 février 2026 s'appliquent aux étudiants qui débutent leur formation depuis le 1er septembre, avec un référentiel resserré en 5 domaines et 13 compétences et deux stages désormais obligatoires, en psychiatrie et en pédiatrie.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053568871"
+      "title": "Un nouveau DU pour sécuriser la reprise d'exercice infirmier en Hauts-de-France",
+      "summary": "Porté par l'université de Lille sous la responsabilité du Pr Sébastien Dharancy, ce diplôme universitaire d'actualisation des compétences, salué par le CROI Hauts-de-France, vise les infirmiers en reprise d'activité.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/un-diplome-universitaire-au-service-de-la-securisation-et-du-developpement-de-l-exercice-infirmier"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Détersion",
-    "subtitle": "Retirer les tissus nécrotiques d'une plaie pour laisser place au bourgeonnement",
-    "definition": "Étape du soin de plaie consistant à éliminer les tissus dévitalisés (nécrose, fibrine) du lit de la plaie, par voie mécanique, autolytique ou avec des pansements détersifs, afin de favoriser la cicatrisation.",
+    "field": "Urgences & vigilance",
+    "term": "Syndrome de loge",
+    "subtitle": "Une compression sous plâtre qui menace le membre si elle n'est pas repérée à temps",
+    "definition": "Compression progressive des muscles, nerfs et vaisseaux dans une loge aponévrotique inextensible, entraînant une ischémie tissulaire si elle n'est pas traitée en urgence par fasciotomie.",
     "steps": [
-      { "n": "1", "h": "Évaluer la plaie", "t": "type de tissu (nécrotique, fibrineux, bourgeonnant), exsudat, douleur et risque infectieux avant de choisir la technique." },
-      { "n": "2", "h": "Choisir la méthode adaptée", "t": "détersion mécanique (curette, compresses), autolytique (pansements hydrogel ou hydrocolloïde) selon le contexte et le terrain." },
-      { "n": "3", "h": "Réévaluer régulièrement", "t": "surveiller la douleur, les signes d'infection et l'évolution du lit de plaie à chaque changement de pansement." }
+      { "n": "1", "h": "Reconnaître", "t": "douleur disproportionnée et croissante malgré l'antalgie, paresthésies, pâleur ; les pouls périphériques peuvent rester perçus au début, signe trompeur." },
+      { "n": "2", "h": "Alerter sans attendre", "t": "prévenir le médecin immédiatement, desserrer ou fendre le plâtre ou le bandage compressif dès la prescription obtenue." },
+      { "n": "3", "h": "Réévaluer", "t": "surveiller douleur, coloration, chaleur et mobilité du membre à intervalles rapprochés jusqu'à résolution complète." }
     ],
-    "retenir": "La détersion prépare la plaie à cicatriser en retirant ce qui la freine, mais elle doit rester adaptée à la douleur du patient et à l'état vasculaire du membre : trop agressive, elle peut aggraver une plaie ischémique. ",
-    "sources": "Sources : HAS · SFFPC."
+    "retenir": "Le syndrome de loge est une urgence chirurgicale : une douleur intense et croissante sous plâtre ou pansement compressif doit toujours faire évoquer le diagnostic, même si les pouls sont perçus. ",
+    "sources": "Sources : SFAR · Collège de chirurgie orthopédique."
   }
 }

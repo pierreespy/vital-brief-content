@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Hyperkaliémie", "date": "2026-09-05" },
     { "term": "Syndrome de loge", "date": "2026-09-04" },
     { "term": "Détersion", "date": "2026-09-03" },
     { "term": "Oxygénothérapie", "date": "2026-09-02" },
@@ -28,7 +29,6 @@
     { "term": "Rôle sur prescription", "date": "2026-08-08" },
     { "term": "Hypoglycémie", "date": "2026-08-07" },
     { "term": "Voie veineuse centrale (VVC)", "date": "2026-08-06" },
-    { "term": "Éducation thérapeutique du patient (ETP)", "date": "2026-08-05" },
-    { "term": "Infirmier en pratique avancée (IPA)", "date": "2026-08-04" }
+    { "term": "Éducation thérapeutique du patient (ETP)", "date": "2026-08-05" }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "dateLong": "Dim. 6 sept.",
+  "dateLong": "Lun. 7 sept.",
   "essentiel": [
-    { "text": "Le diplôme d'infirmier est désormais délivré par les " },
-    { "text": "universités accréditées", "strong": true },
-    { "text": ", le " },
-    { "text": "Ministère de la Santé", "strong": true },
-    { "text": " maintient la vigilance après un cas de hantavirus Andes chez un voyageur, et le " },
-    { "text": "baromètre des carrières infirmières 2026", "strong": true },
-    { "text": " révèle une satisfaction professionnelle en net recul." }
+    { "text": "L'" },
+    { "text": "arrêté du 26 juin 2026", "strong": true },
+    { "text": " élargit les actes infirmiers, l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " alerte sur les tubulures du système de perfusion BD neXus, et la " },
+    { "text": "HAS", "strong": true },
+    { "text": " publie un guide pour structurer le rôle des patients partenaires." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Diplôme d'infirmier : la délivrance transférée aux universités accréditées dès la rentrée 2026",
-      "summary": "Le décret n° 2026-130 du 20 février 2026 confie désormais la délivrance du diplôme d'État d'infirmier aux universités accréditées et non plus aux préfets de région, pour les étudiants entrant en première année à compter du 1er septembre 2026.",
+      "title": "Arrêté du 26 juin 2026 : la liste des actes et soins infirmiers réécrite 22 ans après le dernier texte",
+      "summary": "Pris en application de la loi infirmière du 27 juin 2025, ce texte publié au JORF n° 0149 du 27 juin 2026 élargit le rôle propre infirmier (ECG, bladder-scan, mini-spirométrie, consultation infirmière formalisée, vaccination dès 11 ans) et abroge l'ancienne architecture réglementaire.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053568871"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "Hantavirus Andes : un cas confirmé chez un voyageur franco-argentin ayant transité par la France",
-      "summary": "Le ministère de la Santé a annoncé le 6 août 2026 la confirmation par le CNR Pasteur d'un cas d'hantavirus de souche Andes, à transmission interhumaine possible, chez un touriste ayant séjourné en Normandie et en Île-de-France en juillet ; l'évolution clinique est restée bénigne et aucune circulation virale étendue n'est constatée.",
-      "source": "Ministère de la Santé",
-      "url": "https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france"
+      "title": "ANSM : action corrective sur les tubulures du système de perfusion BD neXus (Medcaptain)",
+      "summary": "L'ANSM a publié le 10 août 2026 une information de sécurité (référence R2621376) concernant les tubulures associées au système de perfusion BD neXus de Medcaptain Life Science Co., à la suite d'une action corrective de sécurité mise en œuvre par le fabricant.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/tubulures-associees-au-systeme-de-perfusion-bd-nexus-medcaptain-life-science-co"
     },
     {
       "category": "science",
-      "title": "Baromètre des carrières infirmières 2026 : la satisfaction professionnelle continue de reculer",
-      "summary": "Réalisé par Charlotte K et l'IFOP auprès de 1 662 infirmiers et infirmières, ce baromètre montre que seuls 31 % des répondants se disent satisfaits de leur situation professionnelle (contre 36 % en 2023) et que 63 % envisagent une reconversion hors du métier.",
-      "source": "Relations-Publiques.Pro",
-      "url": "https://www.relations-publiques.pro/384482/barometre-des-carrieres-infirmieres-2026-trois-ans-apres-lenvie-devoluer-gagne-du-terrain-laccompagnement-reste-a-la-traine.html"
+      "title": "La HAS publie un guide pour structurer le rôle des patients partenaires",
+      "summary": "Publié le 30 juin 2026, ce guide d'une cinquantaine de pages propose un référentiel commun pour développer le partenariat en santé dans quatre domaines (parcours de soins, organisation des établissements, formation des professionnels, recherche), avec quatre fiches d'exemples inspirants.",
+      "source": "Haute Autorité de Santé (HAS)",
+      "url": "https://www.has-sante.fr/jcms/p_4121671/fr/partenariat-en-sante-structurer-et-developper-le-role-des-patients-partenaires"
     },
     {
       "category": "profession",
-      "title": "« Plumes de Soignants » : premier salon du livre des professionnels de santé le 26 septembre à Metz",
-      "summary": "La Maison des Soignants Grand Est accueillera le 26 septembre 2026 la première édition de « Plumes de Soignants », réunissant une vingtaine d'auteurs soignants (infirmiers, médecins, sages-femmes, pharmaciens) venus partager leurs ouvrages et leur parcours.",
-      "source": "La Veille Acteurs de Santé",
-      "url": "https://toute-la.veille-acteurs-sante.fr/245073/1ere-edition-de-plumes-de-soignants-metz/"
+      "title": "12ᵉ colloque national de l'association SPS : « la santé des soignants à l'épreuve des crises »",
+      "summary": "Organisé le 27 août 2026 au ministère de la Santé sous le haut patronage de la présidence de la République, ce colloque de l'association Soins aux Professionnels de Santé a présenté les leviers d'action pour un environnement de travail plus protecteur face aux crises traversées par les soignants.",
+      "source": "Association SPS",
+      "url": "https://www.sps-institut.fr/actualites/12eme-colloque-national-sps-la-sante-des-soignants-a-lepreuve-des-crises"
     },
     {
       "category": "technique",
-      "title": "Appli carte Vitale : de nouveaux usages pour les infirmiers libéraux d'ici fin 2026",
-      "summary": "Généralisée à tous les assurés, l'application carte Vitale permet déjà aux infirmiers libéraux de sécuriser la facturation via l'identité nationale de santé, et intégrera d'ici fin 2026 l'identifiant de la complémentaire santé ainsi qu'un niveau de sécurité renforcé (eIDAS substantiel).",
-      "source": "Ameli.fr",
-      "url": "https://www.ameli.fr/infirmier/exercice-liberal/facturation-remuneration/appli-carte-vitale-des-patients"
+      "title": "Bloc opératoire : le concept du « patient debout » gagne du terrain",
+      "summary": "ActuSoins détaille cette organisation où le patient valide se rend à pied au bloc, accompagné d'un brancardier, plutôt que d'être prémédiqué et transporté allongé, une innovation présentée comme un facteur de réduction des coûts et d'amélioration du vécu opératoire.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/blocs-operatoires-innovations-et-reduction-des-couts.html"
     },
     {
       "category": "formation",
-      "title": "Rentrée IFSI 2026 : la première promotion entre dans le nouveau référentiel de formation infirmière",
-      "summary": "Le référentiel issu de l'arrêté du 20 février 2026 remplace celui de 2009 pour les étudiants entrant en formation dès septembre 2026, avec davantage de stage en dernière année (5 semaines obligatoires en psychiatrie et 5 en pédiatrie) et une place renforcée pour la recherche et le numérique en santé.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/etudiants/admission-et-cursus-en-ifsi/le-nouveau-referentiel-de-formation-infirmiere-annonce-pour-septembre-2026"
+      "title": "34ᵉs Journées nationales des cadres de santé : « Cadres de Santé 2.0, naviguer dans la complexité »",
+      "summary": "L'ANCIM organise les 23 et 24 novembre 2026 à la Cité des Congrès de Nantes cette édition consacrée à l'alliance entre intelligence humaine, collective et artificielle dans le pilotage des équipes de soins ; les inscriptions sont ouvertes.",
+      "source": "ANCIM",
+      "url": "https://www.ancim.fr/journee-nationale-des-cadres-de-sante-ancim-2026.html"
     }
   ],
   "word": {
-    "field": "Hygiène & prévention du risque infectieux",
-    "term": "Précautions complémentaires",
-    "subtitle": "Les mesures qui s'ajoutent aux précautions standard face à un agent transmissible",
-    "definition": "Ensemble de mesures spécifiques (contact, gouttelettes, air) mises en place en complément des précautions standard lorsqu'un patient est infecté ou colonisé par un agent pathogène transmissible, afin d'éviter sa diffusion aux autres patients et aux soignants.",
+    "field": "Urgences",
+    "term": "Choc septique",
+    "subtitle": "La forme la plus grave du sepsis, avec défaillance circulatoire",
+    "definition": "Sepsis associé à des anomalies circulatoires et métaboliques sévères, nécessitant le recours à des vasopresseurs pour maintenir une pression artérielle moyenne suffisante malgré un remplissage vasculaire adapté, et responsable d'une surmortalité importante.",
     "steps": [
-      { "n": "1", "h": "Identifier", "t": "reconnaître le mode de transmission suspecté (contact, gouttelettes, air) à partir du diagnostic ou de la prescription médicale, et signaler l'isolement dès l'admission." },
-      { "n": "2", "h": "Appliquer", "t": "porter les équipements de protection adaptés (gants, surblouse, masque chirurgical ou FFP2, lunettes), dédier le matériel au patient, chambre seule si nécessaire." },
-      { "n": "3", "h": "Tracer et réévaluer", "t": "informer l'équipe et les visiteurs, tracer la mesure dans le dossier de soins, et la lever dès que le critère clinique ou microbiologique le permet." }
+      { "n": "1", "h": "Reconnaître", "t": "hypotension persistante malgré remplissage, lactates > 2 mmol/L, marbrures, extrémités froides, altération de la conscience." },
+      { "n": "2", "h": "Agir", "t": "alerter le médecin, poser deux voies veineuses de bon calibre, débuter l'antibiothérapie probabiliste dans l'heure, préparer les amines vasopressives sur prescription." },
+      { "n": "3", "h": "Surveiller", "t": "scope continu, diurèse horaire, lactates de contrôle, traçabilité stricte des paramètres et des thérapeutiques administrées." }
     ],
-    "retenir": "Les précautions complémentaires ne remplacent jamais les précautions standard : elles s'y ajoutent, pour chaque patient et à chaque soin, tant que le risque de transmission persiste. ",
-    "sources": "Sources : SF2H · Ministère de la Santé."
+    "retenir": "Le choc septique est une urgence vitale : chaque heure de retard dans l'antibiothérapie augmente la mortalité. La surveillance infirmière rapprochée conditionne le pronostic. ",
+    "sources": "Sources : Surviving Sepsis Campaign 2021 · SRLF."
   }
 }

@@ -1,69 +1,69 @@
 {
-  "dateLong": "Lun. 7 sept.",
+  "dateLong": "Mar. 8 sept.",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "arrêté du 26 juin 2026", "strong": true },
-    { "text": " élargit les actes infirmiers, l'" },
+    { "text": "Un décret du 1ᵉʳ août 2026 renforce les pouvoirs de l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur les tubulures du système de perfusion BD neXus, et la " },
-    { "text": "HAS", "strong": true },
-    { "text": " publie un guide pour structurer le rôle des patients partenaires." }
+    { "text": " face aux pénuries de dispositifs médicaux, une information de sécurité vise l'endoprothèse aortique " },
+    { "text": "Gore Excluder", "strong": true },
+    { "text": ", et la suppression de l'" },
+    { "text": "Agence nationale du DPC", "strong": true },
+    { "text": " inquiète les infirmiers libéraux." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Arrêté du 26 juin 2026 : la liste des actes et soins infirmiers réécrite 22 ans après le dernier texte",
-      "summary": "Pris en application de la loi infirmière du 27 juin 2025, ce texte publié au JORF n° 0149 du 27 juin 2026 élargit le rôle propre infirmier (ECG, bladder-scan, mini-spirométrie, consultation infirmière formalisée, vaccination dès 11 ans) et abroge l'ancienne architecture réglementaire.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "title": "Décret n° 2026-730 : l'ANSM se dote de nouveaux pouvoirs face aux pénuries de dispositifs médicaux",
+      "summary": "Publié au JORF du 4 août 2026 et entré en vigueur le 5 août, ce texte impose aux fabricants d'informer l'ANSM en amont de toute interruption de fourniture et lui donne le pouvoir de réguler, restreindre ou suspendre la distribution d'un dispositif médical en cas de risque pour les patients.",
+      "source": "Légifrance / JORF",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/08/04/0180"
     },
     {
       "category": "alertes",
-      "title": "ANSM : action corrective sur les tubulures du système de perfusion BD neXus (Medcaptain)",
-      "summary": "L'ANSM a publié le 10 août 2026 une information de sécurité (référence R2621376) concernant les tubulures associées au système de perfusion BD neXus de Medcaptain Life Science Co., à la suite d'une action corrective de sécurité mise en œuvre par le fabricant.",
+      "title": "ANSM : information de sécurité sur l'endoprothèse aortique thoraco-abdominale Gore Excluder",
+      "summary": "L'ANSM a relayé le 5 août 2026 une information aux utilisateurs (référence R2622638) de W. L. Gore & Associates concernant l'endoprothèse aortique thoraco-abdominale Gore Excluder TAMBE, destinée aux établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/tubulures-associees-au-systeme-de-perfusion-bd-nexus-medcaptain-life-science-co"
+      "url": "https://ansm.sante.fr/informations-de-securite/endoprothese-aortique-thoraco-abdominale-gore-excluder-tambe-w-l-gore-associates"
     },
     {
       "category": "science",
-      "title": "La HAS publie un guide pour structurer le rôle des patients partenaires",
-      "summary": "Publié le 30 juin 2026, ce guide d'une cinquantaine de pages propose un référentiel commun pour développer le partenariat en santé dans quatre domaines (parcours de soins, organisation des établissements, formation des professionnels, recherche), avec quatre fiches d'exemples inspirants.",
-      "source": "Haute Autorité de Santé (HAS)",
-      "url": "https://www.has-sante.fr/jcms/p_4121671/fr/partenariat-en-sante-structurer-et-developper-le-role-des-patients-partenaires"
+      "title": "Santé publique France publie son rapport annuel 2025, dix ans d'engagement pour la santé de tous",
+      "summary": "Publié le 2 septembre 2026 pour les dix ans de l'agence, ce rapport revient sur une décennie d'actions autour de la vaccination, la crise Covid-19, les inégalités de santé, le changement climatique, la santé mentale et l'approche « Une seule santé ».",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/les-actualites/sante-publique-france-publie-son-rapport-annuel-2025-10-ans-dengagement-pour-la-sante-de-tous"
     },
     {
       "category": "profession",
-      "title": "12ᵉ colloque national de l'association SPS : « la santé des soignants à l'épreuve des crises »",
-      "summary": "Organisé le 27 août 2026 au ministère de la Santé sous le haut patronage de la présidence de la République, ce colloque de l'association Soins aux Professionnels de Santé a présenté les leviers d'action pour un environnement de travail plus protecteur face aux crises traversées par les soignants.",
-      "source": "Association SPS",
-      "url": "https://www.sps-institut.fr/actualites/12eme-colloque-national-sps-la-sante-des-soignants-a-lepreuve-des-crises"
+      "title": "Bloc opératoire : le Collectif Inter-Blocs maintient la pression sur la formation des IDE",
+      "summary": "Le collectif, qui défend les infirmiers de bloc opératoire (IBODE) et les IDE de bloc, dénonce le recours à des étudiants en médecine pour des fonctions d'aide-opératoire et réclame une formation dédiée pour les IDE qui exercent au bloc.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/le-collectif-inter-blocs-maintient-la-pression-pour-la-formation-des-ide-qui-travaillent-au-bloc-operatoire.html"
     },
     {
       "category": "technique",
-      "title": "Bloc opératoire : le concept du « patient debout » gagne du terrain",
-      "summary": "ActuSoins détaille cette organisation où le patient valide se rend à pied au bloc, accompagné d'un brancardier, plutôt que d'être prémédiqué et transporté allongé, une innovation présentée comme un facteur de réduction des coûts et d'amélioration du vécu opératoire.",
+      "title": "Salon infirmier : bonnes pratiques de pose et de surveillance des cathéters veineux centraux et périphériques",
+      "summary": "À l'occasion du Salon infirmier 2026, ActuSoins détaille les repères techniques et points de vigilance pour sécuriser la pose, la manipulation et la surveillance des cathéters veineux centraux et périphériques.",
       "source": "ActuSoins",
-      "url": "https://www.actusoins.com/blocs-operatoires-innovations-et-reduction-des-couts.html"
+      "url": "https://www.actusoins.com/salon-infirmier-catheter-veineux-centraux-et-peripheriques-pour-une-meilleure-pratique.html"
     },
     {
       "category": "formation",
-      "title": "34ᵉs Journées nationales des cadres de santé : « Cadres de Santé 2.0, naviguer dans la complexité »",
-      "summary": "L'ANCIM organise les 23 et 24 novembre 2026 à la Cité des Congrès de Nantes cette édition consacrée à l'alliance entre intelligence humaine, collective et artificielle dans le pilotage des équipes de soins ; les inscriptions sont ouvertes.",
-      "source": "ANCIM",
-      "url": "https://www.ancim.fr/journee-nationale-des-cadres-de-sante-ancim-2026.html"
+      "title": "Suppression de l'Agence nationale du DPC : les infirmiers libéraux s'inquiètent pour leur formation continue",
+      "summary": "Alors que l'ANDPC doit cesser ses activités en septembre 2026, remplacée à terme par un nouveau cadre lié à la certification périodique, les syndicats d'IDEL réclament la préservation des crédits de formation continue.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/exercice-liberal/le-metier-didel/suppression-de-lagence-nationale-du-dpc-les-infirmiers-liberaux-sinquietent-pour-leur-formation"
     }
   ],
   "word": {
     "field": "Urgences",
-    "term": "Choc septique",
-    "subtitle": "La forme la plus grave du sepsis, avec défaillance circulatoire",
-    "definition": "Sepsis associé à des anomalies circulatoires et métaboliques sévères, nécessitant le recours à des vasopresseurs pour maintenir une pression artérielle moyenne suffisante malgré un remplissage vasculaire adapté, et responsable d'une surmortalité importante.",
+    "term": "Ventilation non invasive (VNI)",
+    "subtitle": "Une assistance respiratoire sans intubation, via un masque étanche",
+    "definition": "Technique de ventilation mécanique délivrée par un masque facial ou nasal relié à un respirateur, sans intubation trachéale, indiquée notamment dans la décompensation de BPCO, l'œdème aigu du poumon et certaines insuffisances respiratoires aiguës.",
     "steps": [
-      { "n": "1", "h": "Reconnaître", "t": "hypotension persistante malgré remplissage, lactates > 2 mmol/L, marbrures, extrémités froides, altération de la conscience." },
-      { "n": "2", "h": "Agir", "t": "alerter le médecin, poser deux voies veineuses de bon calibre, débuter l'antibiothérapie probabiliste dans l'heure, préparer les amines vasopressives sur prescription." },
-      { "n": "3", "h": "Surveiller", "t": "scope continu, diurèse horaire, lactates de contrôle, traçabilité stricte des paramètres et des thérapeutiques administrées." }
+      { "n": "1", "h": "Préparer", "t": "choisir une taille de masque adaptée, vérifier l'étanchéité, installer le patient en position demi-assise et expliquer le soin pour favoriser son adhésion." },
+      { "n": "2", "h": "Surveiller", "t": "fréquence respiratoire, SpO2, fuites au niveau du masque, tolérance cutanée du point d'appui, état de conscience et confort du patient." },
+      { "n": "3", "h": "Alerter", "t": "aggravation de la détresse respiratoire, désadaptation au respirateur, lésion cutanée ou signes d'épuisement respiratoire." }
     ],
-    "retenir": "Le choc septique est une urgence vitale : chaque heure de retard dans l'antibiothérapie augmente la mortalité. La surveillance infirmière rapprochée conditionne le pronostic. ",
-    "sources": "Sources : Surviving Sepsis Campaign 2021 · SRLF."
+    "retenir": "La VNI évite une intubation chez de nombreux patients en détresse respiratoire aiguë, mais son succès dépend d'une surveillance infirmière rapprochée et d'un repérage précoce des signes d'échec. ",
+    "sources": "Sources : SRLF · SPLF."
   }
 }

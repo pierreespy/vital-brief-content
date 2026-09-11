@@ -1,69 +1,71 @@
 {
-  "dateLong": "Mer. 9 sept.",
+  "dateLong": "Ven. 11 sept.",
   "essentiel": [
-    { "text": "Le " },
-    { "text": "nouveau référentiel infirmier", "strong": true },
-    { "text": " entre en vigueur à la rentrée, l'" },
+    { "text": "L'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle des canules de trachéotomie Shiley, et la mobilisation du 8 septembre dénonce " },
-    { "text": "60 000 postes vacants", "strong": true },
-    { "text": " dans les hôpitaux." }
+    { "text": " alerte 1,6 million de femmes sous désogestrel sur un risque de " },
+    { "text": "méningiome", "strong": true },
+    { "text": ", les arrêtés du 26 juin sur les " },
+    { "text": "actes et prescriptions infirmiers", "strong": true },
+    { "text": " entrent en application, et la campagne contre le " },
+    { "text": "VRS", "strong": true },
+    { "text": " démarre le 14 septembre." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Diplôme d'État infirmier : le nouveau cadre universitaire entre en application à la rentrée 2026",
-      "summary": "Le décret n° 2026-130 du 20 février 2026 transfère aux universités accréditées la délivrance du diplôme d'État infirmier ; l'Ordre national des infirmiers salue une étape structurante applicable aux étudiants entrant en formation depuis le 1ᵉʳ septembre.",
+      "title": "Actes et prescription infirmiers : les arrêtés du 26 juin 2026 entrent en application",
+      "summary": "Publiés au Journal officiel le 27 juin, deux arrêtés fixent la liste des actes et soins réalisables par les IDE et celle des produits de santé qu'ils peuvent prescrire ou renouveler, dans cinq domaines dont plaies et santé sexuelle.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053568871"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "ANSM : rappel de canules de trachéotomie Shiley Hi-Lo Evac (Medtronic/Covidien)",
-      "summary": "Publiée le 8 septembre 2026 sous la référence R2626020, cette action de sécurité concerne les canules de trachéotomie à ballonnet Shiley Hi-Lo Evac de Covidien LLC, diffusée aux pharmacies hospitalières et prestataires de santé à domicile.",
+      "title": "Désogestrel : l'ANSM alerte 1,6 million de femmes sur un risque de méningiome",
+      "summary": "Un courrier individuel informe les utilisatrices d'un risque faible mais documenté, avec les signes neurologiques à surveiller ; la contraception ne doit pas être arrêtée sans avis médical.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/canule-de-tracheotomie-shiley-hi-lo-evac-tracheostomy-tube-cuffed-covidien-llc"
+      "url": "https://ansm.sante.fr/informations-de-securite/contraceptifs-a-base-de-desogestrel-et-detonogestrel-risque-de-meningiome-et-mesures-pour-minimiser-le-risque"
     },
     {
       "category": "science",
-      "title": "Semaine de la sécurité des patients 2026 : « Soins sûrs à vie » pour les maladies chroniques",
-      "summary": "Du 14 au 18 septembre, cette édition portée par le ministère de la Santé reprend le mot d'ordre de l'OMS et met l'accent sur la sécurité des parcours de soins des patients atteints de pathologies chroniques (cancers, maladies cardiovasculaires, diabète).",
-      "source": "Ministère de la Santé",
-      "url": "https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/securite-des-soins-et-des-patients/SSP-428373"
+      "title": "Bronchiolite : la campagne d'immunisation des nourrissons contre le VRS démarre le 14 septembre",
+      "summary": "La saison 2026-2027 introduit un troisième anticorps monoclonal, Enflonsia, aux côtés de Beyfortus et Synagis, pour protéger les nouveau-nés jusqu'à fin février 2027.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/vaccination/avis/date-de-debut-de-la-prochaine-campagne-dimmunisation-des-nouveau-nes-contre-la-bronchiolite-a-vrs"
     },
     {
       "category": "profession",
-      "title": "Fonction publique hospitalière : mobilisation symbolique du 8 septembre contre les postes vacants",
-      "summary": "FO-SPS a appelé à une journée d'alerte le 8 septembre, dénonçant plus de 60 000 postes infirmiers vacants et des engagements matériels non tenus, notamment sur la climatisation des services après un été caniculaire.",
-      "source": "Force Ouvrière",
-      "url": "https://www.force-ouvriere.fr/hopital-apres-un-ete-caniculaire-une-rentree-explosive"
+      "title": "Libéraux de santé : une nouvelle intersyndicale réunit onze organisations dont la FNI",
+      "summary": "Annoncée le 8 septembre, « Les Libéraux de Santé » rassemble onze syndicats représentant dix professions, dont les infirmiers, pour défendre l'indépendance et la liberté d'exercice.",
+      "source": "FNI",
+      "url": "https://fni.fr/une-nouvelle-intersyndicale-pour-defendre-les-interets-des-liberaux-de-sante/"
     },
     {
       "category": "technique",
-      "title": "Tensiomètres et glucomètres connectés : les IDEL de plus en plus équipées",
-      "summary": "45 % des infirmiers libéraux utilisent désormais un tensiomètre connecté et 32 % un glucomètre connecté, des outils qui facilitent le suivi à domicile et la télésurveillance des patients chroniques.",
-      "source": "La Ruche (CBA Info)",
-      "url": "https://laruche.cbainfo.fr/actualites/objets-connectes-en-sante/"
+      "title": "Médicaments : la e-notice par QR code élargit sa phase pilote en septembre",
+      "summary": "L'ANSM relance sa campagne d'information sur la notice numérique, accessible par QR code sur environ 170 spécialités en officine et 420 à l'hôpital, en complément de la notice papier.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/actualites/lansm-lance-une-campagne-dinformation-pour-faire-connaitre-la-e-notice-des-medicaments"
     },
     {
       "category": "formation",
-      "title": "Rentrée 2026 : le nouveau référentiel de formation infirmière entre en vigueur dans les IFSI",
-      "summary": "4 620 heures sur trois ans, cinq domaines de compétences et stages allongés en psychiatrie et santé de l'enfant : les étudiants qui intègrent un IFSI cette rentrée suivent le nouveau référentiel remplaçant celui de 2009.",
-      "source": "Caducée.net",
-      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
+      "title": "DPC : les orientations prioritaires 2023-2025 restent en vigueur jusqu'à fin 2026",
+      "summary": "La prorogation permet aux organismes de formation de continuer à proposer leurs actions agréées sans révision, douleur, plaies chroniques et vaccination restant parmi les thèmes phares pour les infirmiers.",
+      "source": "Agence nationale du DPC",
+      "url": "https://www.agencedpc.fr/Prorogation-des-orientations-prioritaires-de-DPC"
     }
   ],
   "word": {
-    "field": "Rôle infirmier",
-    "term": "Consultation infirmière",
-    "subtitle": "Un acte autonome d'évaluation et de conseil, désormais reconnu par la loi",
-    "definition": "Acte relevant du rôle propre infirmier, au cours duquel l'infirmier évalue l'état de santé d'une personne, pose un jugement clinique et délivre des conseils ou l'oriente vers un médecin, sans prescription médicale préalable ; la loi n° 2025-581 du 27 juin 2025 l'exclut explicitement de l'exercice illégal de la médecine.",
+    "field": "Pharmacologie",
+    "term": "Pharmacovigilance",
+    "subtitle": "Surveiller et signaler les effets indésirables des médicaments",
+    "definition": "Système de surveillance des effets indésirables susceptibles d'être dus à un médicament après sa mise sur le marché, auquel tout professionnel de santé — l'infirmier compris — peut et doit contribuer par un signalement aux autorités sanitaires.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "recueillir les données cliniques, antécédents et attentes de la personne pour poser un jugement clinique infirmier." },
-      { "n": "2", "h": "Conseiller et orienter", "t": "délivrer des conseils personnalisés, proposer des actions de prévention et orienter vers un médecin si nécessaire." },
-      { "n": "3", "h": "Tracer", "t": "consigner la consultation dans le dossier de soins et assurer la continuité avec les autres professionnels." }
+      { "n": "1", "h": "Repérer", "t": "tout effet indésirable inhabituel, grave ou inattendu observé chez un patient sous traitement." },
+      { "n": "2", "h": "Déclarer", "t": "signaler l'effet sur le portail des signalements sanitaires ou auprès du centre régional de pharmacovigilance (CRPV)." },
+      { "n": "3", "h": "Tracer et informer", "t": "consigner l'événement dans le dossier de soins et en informer le prescripteur pour adapter la prise en charge." }
     ],
-    "retenir": "La consultation infirmière renforce la reconnaissance du rôle propre et l'autonomie infirmière, à condition d'une traçabilité rigoureuse pour sécuriser le parcours du patient. ",
-    "sources": "Sources : Loi n° 2025-581 · Ordre national des infirmiers."
+    "retenir": "Le signalement infirmier d'un effet indésirable, même en cas de doute, contribue directement à la sécurité du médicament pour tous les patients. ",
+    "sources": "Sources : ANSM · Code de la santé publique (art. R.5121-161)."
   }
 }

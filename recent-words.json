@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Pharmacovigilance", "date": "2026-09-11" },
     { "term": "Consultation infirmière", "date": "2026-09-09" },
     { "term": "Ventilation non invasive (VNI)", "date": "2026-09-08" },
     { "term": "Choc septique", "date": "2026-09-07" },
@@ -28,7 +29,6 @@
     { "term": "Score de Glasgow", "date": "2026-08-13" },
     { "term": "Chaîne du froid", "date": "2026-08-12" },
     { "term": "Escarre", "date": "2026-08-11" },
-    { "term": "Bilan de soins infirmiers (BSI)", "date": "2026-08-10" },
-    { "term": "Infection du site opératoire (ISO)", "date": "2026-08-09" }
+    { "term": "Bilan de soins infirmiers (BSI)", "date": "2026-08-10" }
   ]
 }

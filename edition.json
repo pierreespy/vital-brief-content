@@ -1,71 +1,71 @@
 {
-  "dateLong": "Ven. 11 sept.",
+  "dateLong": "Sam. 12 sept.",
   "essentiel": [
     { "text": "L'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte 1,6 million de femmes sous désogestrel sur un risque de " },
-    { "text": "méningiome", "strong": true },
-    { "text": ", les arrêtés du 26 juin sur les " },
-    { "text": "actes et prescriptions infirmiers", "strong": true },
-    { "text": " entrent en application, et la campagne contre le " },
-    { "text": "VRS", "strong": true },
-    { "text": " démarre le 14 septembre." }
+    { "text": " rappelle l'obligation de dépistage du déficit en " },
+    { "text": "DPD", "strong": true },
+    { "text": " avant toute chimiothérapie au 5-FU ou à la capécitabine, l'" },
+    { "text": "avenant 11", "strong": true },
+    { "text": " revalorise la lettre-clé AMI/AMX à 3,35 € pour les infirmiers libéraux, et la " },
+    { "text": "DREES", "strong": true },
+    { "text": " dresse le profil des 3 081 hôpitaux de proximité français." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Actes et prescription infirmiers : les arrêtés du 26 juin 2026 entrent en application",
-      "summary": "Publiés au Journal officiel le 27 juin, deux arrêtés fixent la liste des actes et soins réalisables par les IDE et celle des produits de santé qu'ils peuvent prescrire ou renouveler, dans cinq domaines dont plaies et santé sexuelle.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "title": "Avenant 11 à la convention infirmière : la revalorisation des actes prend effet avant le 7 novembre",
+      "summary": "Signé le 31 mars et publié au Journal officiel le 6 mai 2026, l'avenant porte la lettre-clé AMI/AMX à 3,35 € et crée deux nouvelles consultations infirmières, dont le suivi de l'instauration d'une insulinothérapie chez le diabétique de type 2.",
+      "source": "Caducee.net",
+      "url": "https://www.caducee.net/actualite-medicale/16885/facturation-idel-l-avenant-11-revalorise-les-actes-et-change-les-cotations-infirmieres.html"
     },
     {
       "category": "alertes",
-      "title": "Désogestrel : l'ANSM alerte 1,6 million de femmes sur un risque de méningiome",
-      "summary": "Un courrier individuel informe les utilisatrices d'un risque faible mais documenté, avec les signes neurologiques à surveiller ; la contraception ne doit pas être arrêtée sans avis médical.",
+      "title": "Chimiothérapies à base de fluoropyrimidines : l'ANSM rappelle l'obligation de dépistage du déficit en DPD",
+      "summary": "Publiée le 9 septembre 2026 après un cas grave évitable lié à un déficit partiel en DPD non pris en compte, l'alerte rappelle que le dosage de l'uracilémie reste obligatoire avant toute chimiothérapie à base de 5-FU ou de capécitabine.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/contraceptifs-a-base-de-desogestrel-et-detonogestrel-risque-de-meningiome-et-mesures-pour-minimiser-le-risque"
+      "url": "https://ansm.sante.fr/actualites/chimiotherapies-a-base-de-fluoropyrimidines-capecitabine-et-5-fu-surveiller-les-effets-indesirables-et-adapter-les-doses"
     },
     {
       "category": "science",
-      "title": "Bronchiolite : la campagne d'immunisation des nourrissons contre le VRS démarre le 14 septembre",
-      "summary": "La saison 2026-2027 introduit un troisième anticorps monoclonal, Enflonsia, aux côtés de Beyfortus et Synagis, pour protéger les nouveau-nés jusqu'à fin février 2027.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/vaccination/avis/date-de-debut-de-la-prochaine-campagne-dimmunisation-des-nouveau-nes-contre-la-bronchiolite-a-vrs"
+      "title": "Hôpitaux de proximité : la DREES dresse le profil de 3 081 établissements tournés vers les patients âgés",
+      "summary": "Selon l'étude publiée début septembre 2026, ces structures accueillent des patients d'un âge médian de 75 ans (contre 55 ans ailleurs) et sont adossées à un Ehpad dans la quasi-totalité des cas.",
+      "source": "DREES",
+      "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/260902-hopitaux-de-proximite-hpr"
     },
     {
       "category": "profession",
-      "title": "Libéraux de santé : une nouvelle intersyndicale réunit onze organisations dont la FNI",
-      "summary": "Annoncée le 8 septembre, « Les Libéraux de Santé » rassemble onze syndicats représentant dix professions, dont les infirmiers, pour défendre l'indépendance et la liberté d'exercice.",
+      "title": "Facturation électronique, avenant 11 : la FNI rappelle aux infirmiers libéraux les échéances de la rentrée",
+      "summary": "Depuis le 1er septembre, chaque cabinet doit être en mesure de recevoir des factures électroniques, tandis que la revalorisation de la lettre-clé AMI/AMX à 3,35 € doit être intégrée aux logiciels de facturation avant le 7 novembre.",
       "source": "FNI",
-      "url": "https://fni.fr/une-nouvelle-intersyndicale-pour-defendre-les-interets-des-liberaux-de-sante/"
+      "url": "https://fni.fr/cest-la-rentree-les-echeances-a-ne-pas-manquer/"
     },
     {
       "category": "technique",
-      "title": "Médicaments : la e-notice par QR code élargit sa phase pilote en septembre",
-      "summary": "L'ANSM relance sa campagne d'information sur la notice numérique, accessible par QR code sur environ 170 spécialités en officine et 420 à l'hôpital, en complément de la notice papier.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/lansm-lance-une-campagne-dinformation-pour-faire-connaitre-la-e-notice-des-medicaments"
+      "title": "Ehpad : l'Hôpital Nord Franche-Comté ouvre la télé-expertise en gériatrie aux infirmiers coordonnateurs et IPA",
+      "summary": "Sur la plateforme régionale Telmi, qui a réalisé environ 40 000 actes de télé-expertise en 2025 (+45 % sur un an), les infirmiers d'Ehpad peuvent désormais obtenir à distance un avis gériatrique sur les troubles du comportement, la iatrogénie ou la dénutrition.",
+      "source": "ARS Bourgogne-Franche-Comté",
+      "url": "https://www.toutmontbeliard.com/2026/08/31/lhopital-nord-franche-comte-propose-desormais-la-tele-expertise-en-geriatrie/"
     },
     {
       "category": "formation",
-      "title": "DPC : les orientations prioritaires 2023-2025 restent en vigueur jusqu'à fin 2026",
-      "summary": "La prorogation permet aux organismes de formation de continuer à proposer leurs actions agréées sans révision, douleur, plaies chroniques et vaccination restant parmi les thèmes phares pour les infirmiers.",
-      "source": "Agence nationale du DPC",
-      "url": "https://www.agencedpc.fr/Prorogation-des-orientations-prioritaires-de-DPC"
+      "title": "19es RIF des infirmiers en PCI : rendez-vous à Arcachon les 1er et 2 octobre 2026",
+      "summary": "Organisées par la SF2H sur le thème « Prévention du risque infectieux : prouver, éprouver », ces rencontres francophones réunissent au Palais des congrès d'Arcachon les infirmiers spécialisés en hygiène et prévention du risque infectieux.",
+      "source": "SF2H",
+      "url": "https://www.sf2h.net/evenements/19eme-rif-des-infirmiers-en-pci-arcachon-1-et-2-octobre-2026.html"
     }
   ],
   "word": {
-    "field": "Pharmacologie",
-    "term": "Pharmacovigilance",
-    "subtitle": "Surveiller et signaler les effets indésirables des médicaments",
-    "definition": "Système de surveillance des effets indésirables susceptibles d'être dus à un médicament après sa mise sur le marché, auquel tout professionnel de santé — l'infirmier compris — peut et doit contribuer par un signalement aux autorités sanitaires.",
+    "field": "Urgences",
+    "term": "Syndrome coronarien aigu (SCA)",
+    "subtitle": "Une douleur thoracique qui impose d'agir dans l'heure",
+    "definition": "Ensemble des manifestations cliniques liées à une ischémie myocardique aiguë, de l'angor instable à l'infarctus du myocarde, dont le pronostic dépend directement de la rapidité de la prise en charge.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "tout effet indésirable inhabituel, grave ou inattendu observé chez un patient sous traitement." },
-      { "n": "2", "h": "Déclarer", "t": "signaler l'effet sur le portail des signalements sanitaires ou auprès du centre régional de pharmacovigilance (CRPV)." },
-      { "n": "3", "h": "Tracer et informer", "t": "consigner l'événement dans le dossier de soins et en informer le prescripteur pour adapter la prise en charge." }
+      { "n": "1", "h": "Reconnaître", "t": "douleur thoracique constrictive irradiant au bras ou à la mâchoire, dyspnée, sueurs ; ECG 12 dérivations en moins de 10 minutes." },
+      { "n": "2", "h": "Alerter · sécuriser", "t": "SAMU-Centre 15, aspirine si prescrite, oxygène seulement si SpO2 < 90 %, voie veineuse et monitorage continu." },
+      { "n": "3", "h": "Réévaluer", "t": "troponine, douleur (EN), ECG répété, traçabilité horodatée de chaque étape pour la filière de revascularisation." }
     ],
-    "retenir": "Le signalement infirmier d'un effet indésirable, même en cas de doute, contribue directement à la sécurité du médicament pour tous les patients. ",
-    "sources": "Sources : ANSM · Code de la santé publique (art. R.5121-161)."
+    "retenir": "Le délai entre les premiers symptômes et la revascularisation reste le facteur pronostique majeur ; le repérage infirmier précoce et l'alerte immédiate y contribuent directement. ",
+    "sources": "Sources : HAS · Société française de cardiologie."
   }
 }

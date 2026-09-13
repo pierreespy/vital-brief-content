@@ -1,71 +1,71 @@
 {
-  "dateLong": "Sam. 12 sept.",
+  "dateLong": "Dim. 13 sept.",
   "essentiel": [
-    { "text": "L'" },
+    { "text": "Le décret sur l'" },
+    { "text": "infirmier référent", "strong": true },
+    { "text": " précise les missions du nouveau statut, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle l'obligation de dépistage du déficit en " },
-    { "text": "DPD", "strong": true },
-    { "text": " avant toute chimiothérapie au 5-FU ou à la capécitabine, l'" },
-    { "text": "avenant 11", "strong": true },
-    { "text": " revalorise la lettre-clé AMI/AMX à 3,35 € pour les infirmiers libéraux, et la " },
-    { "text": "DREES", "strong": true },
-    { "text": " dresse le profil des 3 081 hôpitaux de proximité français." }
+    { "text": " rappelle les dispositifs de communication " },
+    { "text": "TD Navio", "strong": true },
+    { "text": " pour un risque de déplacement de la batterie, et la " },
+    { "text": "HAS", "strong": true },
+    { "text": " recommande la vaccination antigrippale obligatoire des soignants." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Avenant 11 à la convention infirmière : la revalorisation des actes prend effet avant le 7 novembre",
-      "summary": "Signé le 31 mars et publié au Journal officiel le 6 mai 2026, l'avenant porte la lettre-clé AMI/AMX à 3,35 € et crée deux nouvelles consultations infirmières, dont le suivi de l'instauration d'une insulinothérapie chez le diabétique de type 2.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16885/facturation-idel-l-avenant-11-revalorise-les-actes-et-change-les-cotations-infirmieres.html"
+      "title": "Infirmier référent : le décret du 22 mai 2026 précise les missions du nouveau statut",
+      "summary": "Publié au Journal officiel en application de la loi Valletoux, le texte confie à l'infirmier référent une triple mission de prévention, de suivi et de recours pour les patients en ALD de plus de 16 ans, en coordination avec le médecin traitant.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
     },
     {
       "category": "alertes",
-      "title": "Chimiothérapies à base de fluoropyrimidines : l'ANSM rappelle l'obligation de dépistage du déficit en DPD",
-      "summary": "Publiée le 9 septembre 2026 après un cas grave évitable lié à un déficit partiel en DPD non pris en compte, l'alerte rappelle que le dosage de l'uracilémie reste obligatoire avant toute chimiothérapie à base de 5-FU ou de capécitabine.",
+      "title": "Dispositifs de communication assistée TD Navio : l'ANSM alerte sur un risque de déplacement de la batterie",
+      "summary": "Publiée le 10 septembre 2026, l'information de sécurité concerne les TD Navio Midi et Maxi de Tobii Technology AB, dont la structure de fixation de la batterie peut être endommagée après des chocs répétés.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/chimiotherapies-a-base-de-fluoropyrimidines-capecitabine-et-5-fu-surveiller-les-effets-indesirables-et-adapter-les-doses"
+      "url": "https://ansm.sante.fr/informations-de-securite/dispositifs-de-communication-assistee-td-navio-maxi-et-td-navio-midi-tobii-technology-ab"
     },
     {
       "category": "science",
-      "title": "Hôpitaux de proximité : la DREES dresse le profil de 3 081 établissements tournés vers les patients âgés",
-      "summary": "Selon l'étude publiée début septembre 2026, ces structures accueillent des patients d'un âge médian de 75 ans (contre 55 ans ailleurs) et sont adossées à un Ehpad dans la quasi-totalité des cas.",
-      "source": "DREES",
-      "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/260902-hopitaux-de-proximite-hpr"
+      "title": "Rentrée scolaire : les urgences des Hauts-de-France enregistrent une hausse de 58 % des crises d'asthme chez les moins de 15 ans",
+      "summary": "Selon le bulletin de surveillance sanitaire régional du 8 septembre 2026, les passages aux urgences pour asthme chez les enfants ont bondi de 464 cas en une semaine avec la reprise de la circulation virale et pollinique.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/sites/default/files/2026-09/bullreg_hdf_20260908.pdf"
     },
     {
       "category": "profession",
-      "title": "Facturation électronique, avenant 11 : la FNI rappelle aux infirmiers libéraux les échéances de la rentrée",
-      "summary": "Depuis le 1er septembre, chaque cabinet doit être en mesure de recevoir des factures électroniques, tandis que la revalorisation de la lettre-clé AMI/AMX à 3,35 € doit être intégrée aux logiciels de facturation avant le 7 novembre.",
-      "source": "FNI",
-      "url": "https://fni.fr/cest-la-rentree-les-echeances-a-ne-pas-manquer/"
+      "title": "Grippe saisonnière : la HAS recommande la vaccination obligatoire des soignants avant la campagne 2026-2027",
+      "summary": "L'avis, qui cible en priorité les Ehpad et les unités de soins de longue durée, doit encore être arbitré par le ministère avant l'ouverture de la campagne vaccinale prévue mi-octobre.",
+      "source": "Pharmactu",
+      "url": "https://pharmactu.fr/articles/vaccination-obligatoire-grippe-soignants-has-2026"
     },
     {
       "category": "technique",
-      "title": "Ehpad : l'Hôpital Nord Franche-Comté ouvre la télé-expertise en gériatrie aux infirmiers coordonnateurs et IPA",
-      "summary": "Sur la plateforme régionale Telmi, qui a réalisé environ 40 000 actes de télé-expertise en 2025 (+45 % sur un an), les infirmiers d'Ehpad peuvent désormais obtenir à distance un avis gériatrique sur les troubles du comportement, la iatrogénie ou la dénutrition.",
-      "source": "ARS Bourgogne-Franche-Comté",
-      "url": "https://www.toutmontbeliard.com/2026/08/31/lhopital-nord-franche-comte-propose-desormais-la-tele-expertise-en-geriatrie/"
+      "title": "TMS : l'hôpital Foch équipe ses soignants de gériatrie aiguë d'exosquelettes",
+      "summary": "Expérimenté depuis mai 2026 pour les transferts et la toilette des patients, le dispositif réduit les contraintes lombaires des infirmiers et aides-soignants tout en préservant leur liberté de mouvement.",
+      "source": "Espace Infirmier",
+      "url": "https://www.espaceinfirmier.fr/actualites/210618-a-l-hapital-foch-des-exosquelettes-pour-les-soignants.html"
     },
     {
       "category": "formation",
-      "title": "19es RIF des infirmiers en PCI : rendez-vous à Arcachon les 1er et 2 octobre 2026",
-      "summary": "Organisées par la SF2H sur le thème « Prévention du risque infectieux : prouver, éprouver », ces rencontres francophones réunissent au Palais des congrès d'Arcachon les infirmiers spécialisés en hygiène et prévention du risque infectieux.",
-      "source": "SF2H",
-      "url": "https://www.sf2h.net/evenements/19eme-rif-des-infirmiers-en-pci-arcachon-1-et-2-octobre-2026.html"
+      "title": "Journée mondiale des premiers secours : la Croix-Rouge lance son premier Village de la Préparation Citoyenne",
+      "summary": "Pour la 26e édition, organisée le 12 septembre 2026 à Paris et Strasbourg, les bénévoles ont initié gratuitement le public aux gestes qui sauvent aux côtés des sapeurs-pompiers et des forces de police.",
+      "source": "Croix-Rouge française",
+      "url": "https://www.croix-rouge.fr/dossiers/journee-mondiale-des-premiers-secours"
     }
   ],
   "word": {
-    "field": "Urgences",
-    "term": "Syndrome coronarien aigu (SCA)",
-    "subtitle": "Une douleur thoracique qui impose d'agir dans l'heure",
-    "definition": "Ensemble des manifestations cliniques liées à une ischémie myocardique aiguë, de l'angor instable à l'infarctus du myocarde, dont le pronostic dépend directement de la rapidité de la prise en charge.",
+    "field": "Pneumologie · Gestes & soins",
+    "term": "Aérosolthérapie",
+    "subtitle": "Faire arriver le médicament directement où il agit : dans les bronches",
+    "definition": "Administration d'un médicament sous forme de particules en suspension dans un gaz, inhalées via un masque ou un embout buccal, pour une action bronchique rapide et ciblée.",
     "steps": [
-      { "n": "1", "h": "Reconnaître", "t": "douleur thoracique constrictive irradiant au bras ou à la mâchoire, dyspnée, sueurs ; ECG 12 dérivations en moins de 10 minutes." },
-      { "n": "2", "h": "Alerter · sécuriser", "t": "SAMU-Centre 15, aspirine si prescrite, oxygène seulement si SpO2 < 90 %, voie veineuse et monitorage continu." },
-      { "n": "3", "h": "Réévaluer", "t": "troponine, douleur (EN), ECG répété, traçabilité horodatée de chaque étape pour la filière de revascularisation." }
+      { "n": "1", "h": "Préparer", "t": "position semi-assise, dilution du bronchodilatateur prescrit dans le nébuliseur, débit d'air ou d'oxygène réglé à 6-8 L/min." },
+      { "n": "2", "h": "Surveiller", "t": "fréquence respiratoire, SpO2 et tolérance cardiovasculaire (tachycardie sous bêta-2 mimétiques) pendant la séance de 10 à 15 minutes." },
+      { "n": "3", "h": "Tracer", "t": "efficacité clinique (sibilants, dyspnée), effets indésirables et transmission ciblée dans le dossier de soins." }
     ],
-    "retenir": "Le délai entre les premiers symptômes et la revascularisation reste le facteur pronostique majeur ; le repérage infirmier précoce et l'alerte immédiate y contribuent directement. ",
-    "sources": "Sources : HAS · Société française de cardiologie."
+    "retenir": "Chez l'enfant comme chez l'adulte, l'aérosolthérapie n'est efficace que si le masque est bien ajusté et l'inspiration correctement synchronisée : l'accompagnement infirmier conditionne le résultat. ",
+    "sources": "Sources : HAS · SPLF."
   }
 }

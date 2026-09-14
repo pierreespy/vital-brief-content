@@ -1,71 +1,71 @@
 {
-  "dateLong": "Dim. 13 sept.",
+  "dateLong": "Lun. 14 sept.",
   "essentiel": [
-    { "text": "Le décret sur l'" },
-    { "text": "infirmier référent", "strong": true },
-    { "text": " précise les missions du nouveau statut, l'" },
+    { "text": "La " },
+    { "text": "certification périodique", "strong": true },
+    { "text": " des infirmiers entre en phase de contrôle, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle les dispositifs de communication " },
-    { "text": "TD Navio", "strong": true },
-    { "text": " pour un risque de déplacement de la batterie, et la " },
-    { "text": "HAS", "strong": true },
-    { "text": " recommande la vaccination antigrippale obligatoire des soignants." }
+    { "text": " alerte sur les lecteurs de glycémie " },
+    { "text": "True Metrix Go", "strong": true },
+    { "text": ", et les syndicats appellent à une nouvelle mobilisation de la fonction publique le " },
+    { "text": "29 septembre", "strong": true },
+    { "text": "." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Infirmier référent : le décret du 22 mai 2026 précise les missions du nouveau statut",
-      "summary": "Publié au Journal officiel en application de la loi Valletoux, le texte confie à l'infirmier référent une triple mission de prévention, de suivi et de recours pour les patients en ALD de plus de 16 ans, en coordination avec le médecin traitant.",
+      "title": "Certification périodique des professions de santé à ordre : l'arrêté du 26 février 2026 fixe 52 référentiels, dont celui des infirmiers",
+      "summary": "Le texte décline quatre axes — renforcement des compétences, amélioration des pratiques, relation au patient et santé personnelle — sur un cycle de six ans, avec un contrôle assuré par l'Ordre infirmier dans les six mois suivant l'échéance.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125412"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053587033"
     },
     {
       "category": "alertes",
-      "title": "Dispositifs de communication assistée TD Navio : l'ANSM alerte sur un risque de déplacement de la batterie",
-      "summary": "Publiée le 10 septembre 2026, l'information de sécurité concerne les TD Navio Midi et Maxi de Tobii Technology AB, dont la structure de fixation de la batterie peut être endommagée après des chocs répétés.",
+      "title": "Lecteurs de glycémie True Metrix Go : l'ANSM relaie la correction d'étiquetage de Trividia Health sur le code d'erreur E-5",
+      "summary": "Publiée le 11 septembre 2026, l'information de sécurité rappelle qu'un code E-5 persistant peut signaler une hyperglycémie sévère supérieure à 600 mg/dL et impose une prise en charge médicale immédiate en cas de fatigue, polyurie, soif ou troubles visuels.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/dispositifs-de-communication-assistee-td-navio-maxi-et-td-navio-midi-tobii-technology-ab"
+      "url": "https://ansm.sante.fr/informations-de-securite/biochimie-lecteur-de-glycemie-true-metrix-go-trividia-health"
     },
     {
       "category": "science",
-      "title": "Rentrée scolaire : les urgences des Hauts-de-France enregistrent une hausse de 58 % des crises d'asthme chez les moins de 15 ans",
-      "summary": "Selon le bulletin de surveillance sanitaire régional du 8 septembre 2026, les passages aux urgences pour asthme chez les enfants ont bondi de 464 cas en une semaine avec la reprise de la circulation virale et pollinique.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/sites/default/files/2026-09/bullreg_hdf_20260908.pdf"
+      "title": "Plaies chroniques : le pansement bioélectronique en graphène de la start-up grenobloise Grapheal détecte l'infection avant son apparition clinique",
+      "summary": "Issu du projet ANR PADISC mené avec le CNRS, le dispositif embarque des capteurs de pH et de température qui alertent à distance l'équipe soignante, pour des plaies chroniques dont la prise en charge coûte un milliard d'euros par an au système de santé.",
+      "source": "DeviceMed",
+      "url": "https://www.devicemed.fr/dossiers/composants-oem/electriques_electroniques/patch-a-base-de-graphene-pour-la-telesurveillance-des-plaies/22925"
     },
     {
       "category": "profession",
-      "title": "Grippe saisonnière : la HAS recommande la vaccination obligatoire des soignants avant la campagne 2026-2027",
-      "summary": "L'avis, qui cible en priorité les Ehpad et les unités de soins de longue durée, doit encore être arbitré par le ministère avant l'ouverture de la campagne vaccinale prévue mi-octobre.",
-      "source": "Pharmactu",
-      "url": "https://pharmactu.fr/articles/vaccination-obligatoire-grippe-soignants-has-2026"
+      "title": "Fonction publique : une nouvelle journée de mobilisation intersyndicale annoncée le 29 septembre 2026",
+      "summary": "Après le rassemblement silencieux du 8 septembre dans les hôpitaux, qui dénonçait plus de 60 000 postes infirmiers vacants, les organisations syndicales appellent à une mobilisation générale pour les salaires et les conditions de travail.",
+      "source": "CFDT Santé-Sociaux",
+      "url": "https://sante-sociaux.cfdt.fr/sinformer/protection-sociale/fonction-publique-hospitaliere-8-septembre-le-silence-pour-alerter-la-mobilisation-pour-agir"
     },
     {
       "category": "technique",
-      "title": "TMS : l'hôpital Foch équipe ses soignants de gériatrie aiguë d'exosquelettes",
-      "summary": "Expérimenté depuis mai 2026 pour les transferts et la toilette des patients, le dispositif réduit les contraintes lombaires des infirmiers et aides-soignants tout en préservant leur liberté de mouvement.",
-      "source": "Espace Infirmier",
-      "url": "https://www.espaceinfirmier.fr/actualites/210618-a-l-hapital-foch-des-exosquelettes-pour-les-soignants.html"
+      "title": "Rééducation à la marche : un exosquelette déployé sur le plateau de médecine physique de l'hôpital Flaubert, au Havre",
+      "summary": "Le service de médecine physique et de réadaptation du Groupe Hospitalier du Havre, qui compte 22 lits et 20 places d'hôpital de jour, utilise désormais cette aide robotisée pour accompagner les patients qui réapprennent à marcher.",
+      "source": "La Clé Publique",
+      "url": "https://laclepublique.fr/seine-maritime/articles/2026/2026-09-06-exosquelette-hopital-flaubert/"
     },
     {
       "category": "formation",
-      "title": "Journée mondiale des premiers secours : la Croix-Rouge lance son premier Village de la Préparation Citoyenne",
-      "summary": "Pour la 26e édition, organisée le 12 septembre 2026 à Paris et Strasbourg, les bénévoles ont initié gratuitement le public aux gestes qui sauvent aux côtés des sapeurs-pompiers et des forces de police.",
-      "source": "Croix-Rouge française",
-      "url": "https://www.croix-rouge.fr/dossiers/journee-mondiale-des-premiers-secours"
+      "title": "DPC : les orientations prioritaires 2023-2025 prorogées jusqu'en 2027, fiches actualisées au 18 juin 2026",
+      "summary": "Les 256 orientations couvrant notamment plaies et cicatrisation, insuffisance cardiaque, soins palliatifs et vaccination restent finançables en priorité ; les inscriptions 2026 et 2027 sont désormais comptabilisées dans le nouveau cycle 2026-2028.",
+      "source": "Agence DPC",
+      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
     }
   ],
   "word": {
-    "field": "Pneumologie · Gestes & soins",
-    "term": "Aérosolthérapie",
-    "subtitle": "Faire arriver le médicament directement où il agit : dans les bronches",
-    "definition": "Administration d'un médicament sous forme de particules en suspension dans un gaz, inhalées via un masque ou un embout buccal, pour une action bronchique rapide et ciblée.",
+    "field": "Diabétologie · Urgences",
+    "term": "Acidocétose diabétique",
+    "subtitle": "Quand l'hyperglycémie sévère bascule en urgence vitale",
+    "definition": "Complication aiguë du diabète associant hyperglycémie majeure, production de corps cétoniques et acidose métabolique, pouvant engager le pronostic vital en l'absence de prise en charge rapide.",
     "steps": [
-      { "n": "1", "h": "Préparer", "t": "position semi-assise, dilution du bronchodilatateur prescrit dans le nébuliseur, débit d'air ou d'oxygène réglé à 6-8 L/min." },
-      { "n": "2", "h": "Surveiller", "t": "fréquence respiratoire, SpO2 et tolérance cardiovasculaire (tachycardie sous bêta-2 mimétiques) pendant la séance de 10 à 15 minutes." },
-      { "n": "3", "h": "Tracer", "t": "efficacité clinique (sibilants, dyspnée), effets indésirables et transmission ciblée dans le dossier de soins." }
+      { "n": "1", "h": "Repérer", "t": "polyurie, polydipsie, douleurs abdominales, dyspnée de Kussmaul et haleine cétonique, glycémie capillaire souvent supérieure à 2,5 g/L." },
+      { "n": "2", "h": "Surveiller", "t": "glycémie et cétonémie capillaires, constantes vitales, kaliémie avant toute insulinothérapie (risque d'hypokaliémie sévère)." },
+      { "n": "3", "h": "Tracer", "t": "réhydratation IV et insulinothérapie à la seringue électrique sur prescription, correction progressive de la kaliémie, transmissions ciblées horaires." }
     ],
-    "retenir": "Chez l'enfant comme chez l'adulte, l'aérosolthérapie n'est efficace que si le masque est bien ajusté et l'inspiration correctement synchronisée : l'accompagnement infirmier conditionne le résultat. ",
-    "sources": "Sources : HAS · SPLF."
+    "retenir": "Ne jamais interrompre l'insulinothérapie sur la seule baisse de la glycémie : c'est la correction de l'acidose et de la cétonémie qui doit guider l'arrêt. ",
+    "sources": "Sources : HAS · SFEndocrino."
   }
 }

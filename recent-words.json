@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Éducation thérapeutique du patient (ETP)", "date": "2026-09-15" },
     { "term": "Acidocétose diabétique", "date": "2026-09-14" },
     { "term": "Aérosolthérapie", "date": "2026-09-13" },
     { "term": "Syndrome coronarien aigu (SCA)", "date": "2026-09-12" },
@@ -28,7 +29,6 @@
     { "term": "Titration", "date": "2026-08-17" },
     { "term": "Choc anaphylactique", "date": "2026-08-16" },
     { "term": "Bactérie multirésistante (BMR)", "date": "2026-08-15" },
-    { "term": "Légionellose", "date": "2026-08-14" },
-    { "term": "Score de Glasgow", "date": "2026-08-13" }
+    { "term": "Légionellose", "date": "2026-08-14" }
   ]
 }

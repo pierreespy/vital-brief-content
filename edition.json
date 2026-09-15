@@ -1,71 +1,75 @@
 {
-  "dateLong": "Lun. 14 sept.",
+  "dateLong": "Mar. 15 sept.",
   "essentiel": [
     { "text": "La " },
-    { "text": "certification périodique", "strong": true },
-    { "text": " des infirmiers entre en phase de contrôle, l'" },
+    { "text": "CNIL", "strong": true },
+    { "text": " sanctionne l'Hôpital privé de la Loire à " },
+    { "text": "500 000 €", "strong": true },
+    { "text": " pour une fuite de données de santé, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur les lecteurs de glycémie " },
-    { "text": "True Metrix Go", "strong": true },
-    { "text": ", et les syndicats appellent à une nouvelle mobilisation de la fonction publique le " },
-    { "text": "29 septembre", "strong": true },
+    { "text": " alerte sur les moniteurs cardio-respiratoires " },
+    { "text": "Philips IntelliVue", "strong": true },
+    { "text": ", et l'" },
+    { "text": "Ordre national des infirmiers", "strong": true },
+    { "text": " s'inquiète de l'avenir du dispositif " },
+    { "text": "Asalée", "strong": true },
     { "text": "." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Certification périodique des professions de santé à ordre : l'arrêté du 26 février 2026 fixe 52 référentiels, dont celui des infirmiers",
-      "summary": "Le texte décline quatre axes — renforcement des compétences, amélioration des pratiques, relation au patient et santé personnelle — sur un cycle de six ans, avec un contrôle assuré par l'Ordre infirmier dans les six mois suivant l'échéance.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053587033"
+      "title": "Fuite de données de santé : la CNIL inflige 500 000 € d'amende à l'Hôpital privé de la Loire après l'exfiltration de 524 867 dossiers patients",
+      "summary": "La formation restreinte de la CNIL pointe une authentification externe défaillante et l'absence de détection des accès anormaux, et impose des mesures correctives sous trois à quinze mois.",
+      "source": "CNIL",
+      "url": "https://www.cnil.fr/fr/sanction-hopital-prive-loire"
     },
     {
       "category": "alertes",
-      "title": "Lecteurs de glycémie True Metrix Go : l'ANSM relaie la correction d'étiquetage de Trividia Health sur le code d'erreur E-5",
-      "summary": "Publiée le 11 septembre 2026, l'information de sécurité rappelle qu'un code E-5 persistant peut signaler une hyperglycémie sévère supérieure à 600 mg/dL et impose une prise en charge médicale immédiate en cas de fatigue, polyurie, soif ou troubles visuels.",
+      "title": "Moniteurs cardio-respiratoires Philips IntelliVue MX750/MX850 et AD75/AD85 : l'ANSM relaie une information de sécurité de Philips Medizin Systems Böblingen",
+      "summary": "Publiée le 14 septembre 2026 et adressée aux établissements de santé, l'alerte détaille les précautions à observer par les équipes soignantes utilisant ces dispositifs de surveillance.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/biochimie-lecteur-de-glycemie-true-metrix-go-trividia-health"
+      "url": "https://ansm.sante.fr/informations-de-securite/moniteur-de-surveillance-cardio-respiratoire-intellivue-mx750-mx850-et-ad75-ad85-philips-medizin-systems-boblingen-gmbh"
     },
     {
       "category": "science",
-      "title": "Plaies chroniques : le pansement bioélectronique en graphène de la start-up grenobloise Grapheal détecte l'infection avant son apparition clinique",
-      "summary": "Issu du projet ANR PADISC mené avec le CNRS, le dispositif embarque des capteurs de pH et de température qui alertent à distance l'équipe soignante, pour des plaies chroniques dont la prise en charge coûte un milliard d'euros par an au système de santé.",
-      "source": "DeviceMed",
-      "url": "https://www.devicemed.fr/dossiers/composants-oem/electriques_electroniques/patch-a-base-de-graphene-pour-la-telesurveillance-des-plaies/22925"
+      "title": "Prix de la Recherche en Sciences Infirmières 2026 : Michelle Delpy récompensée pour ses travaux sur l'impact de la logistique hospitalière sur la satisfaction professionnelle infirmière",
+      "summary": "Doctorante en sciences infirmières à la Chaire de l'université Sorbonne Paris Nord, la cadre de santé a reçu le prix « Meilleure publication scientifique », décerné avec la MNH et Infirmiers.com.",
+      "source": "Infirmiers.com",
+      "url": "https://infirmiers.com/ipa-specialites/recherche-et-bibliographie/prix-de-la-recherche-en-sciences-infirmieres-voici-les-laureats-2026"
     },
     {
       "category": "profession",
-      "title": "Fonction publique : une nouvelle journée de mobilisation intersyndicale annoncée le 29 septembre 2026",
-      "summary": "Après le rassemblement silencieux du 8 septembre dans les hôpitaux, qui dénonçait plus de 60 000 postes infirmiers vacants, les organisations syndicales appellent à une mobilisation générale pour les salaires et les conditions de travail.",
-      "source": "CFDT Santé-Sociaux",
-      "url": "https://sante-sociaux.cfdt.fr/sinformer/protection-sociale/fonction-publique-hospitaliere-8-septembre-le-silence-pour-alerter-la-mobilisation-pour-agir"
+      "title": "Dispositif Asalée : l'Ordre national des infirmiers exprime ses « vives inquiétudes » après le rapport de l'IGAS et le redressement judiciaire de l'association",
+      "summary": "Communiqué du 11 septembre 2026 : l'Ordre alerte sur l'avenir de près de 2 000 infirmiers et IPA mobilisés dans ce dispositif de suivi des maladies chroniques, placé sous administration judiciaire depuis le 27 mars 2026.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/dispositif-asalee-l-ordre-exprime-ses-vives-inquietudes-apres-le-rapport-de-l-igas"
     },
     {
       "category": "technique",
-      "title": "Rééducation à la marche : un exosquelette déployé sur le plateau de médecine physique de l'hôpital Flaubert, au Havre",
-      "summary": "Le service de médecine physique et de réadaptation du Groupe Hospitalier du Havre, qui compte 22 lits et 20 places d'hôpital de jour, utilise désormais cette aide robotisée pour accompagner les patients qui réapprennent à marcher.",
-      "source": "La Clé Publique",
-      "url": "https://laclepublique.fr/seine-maritime/articles/2026/2026-09-06-exosquelette-hopital-flaubert/"
+      "title": "Alliance Santé IA : le CHU de Montpellier généralise son assistant d'intelligence artificielle à l'ensemble de ses services à partir de septembre 2026",
+      "summary": "Financé à hauteur de 14,9 millions d'euros dans le cadre de France 2030, le dispositif, déjà testé par 200 médecins, infirmiers et personnels administratifs, passe à un déploiement progressif dans tous les services du CHU.",
+      "source": "CHU de Montpellier",
+      "url": "https://www.chu-montpellier.fr/fr/alliance-sante-ia"
     },
     {
       "category": "formation",
-      "title": "DPC : les orientations prioritaires 2023-2025 prorogées jusqu'en 2027, fiches actualisées au 18 juin 2026",
-      "summary": "Les 256 orientations couvrant notamment plaies et cicatrisation, insuffisance cardiaque, soins palliatifs et vaccination restent finançables en priorité ; les inscriptions 2026 et 2027 sont désormais comptabilisées dans le nouveau cycle 2026-2028.",
-      "source": "Agence DPC",
-      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
+      "title": "Universitarisation des IFSI : le CEFIEC publie les résultats de son enquête nationale, « une ambition partagée, une mise en œuvre qui reste à sécuriser »",
+      "summary": "Menée auprès de 132 instituts de formation (44 % de réponses), l'enquête relève que 66,7 % des IFSI ont déjà engagé une co-construction avec leur université de rattachement, mais souligne de fortes disparités territoriales à la veille de la rentrée 2026.",
+      "source": "CEFIEC",
+      "url": "https://toute-la.veille-acteurs-sante.fr/238781/le-cefiec-publie-les-resultats-nationaux-de-son-enquete-sur-luniversitarisation-des-formations-infirmieres-universitarisation-2026-une-ambition-partagee-une-mise-en-oeuvre-qui-reste-a-securiser/"
     }
   ],
   "word": {
-    "field": "Diabétologie · Urgences",
-    "term": "Acidocétose diabétique",
-    "subtitle": "Quand l'hyperglycémie sévère bascule en urgence vitale",
-    "definition": "Complication aiguë du diabète associant hyperglycémie majeure, production de corps cétoniques et acidose métabolique, pouvant engager le pronostic vital en l'absence de prise en charge rapide.",
+    "field": "Maladies chroniques · Rôle propre",
+    "term": "Éducation thérapeutique du patient (ETP)",
+    "subtitle": "Aider le patient chronique à devenir acteur de sa santé",
+    "definition": "Démarche structurée et pluriprofessionnelle visant à aider le patient et son entourage à comprendre sa maladie chronique et ses traitements, et à acquérir les compétences nécessaires pour gérer leur vie avec la pathologie.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "polyurie, polydipsie, douleurs abdominales, dyspnée de Kussmaul et haleine cétonique, glycémie capillaire souvent supérieure à 2,5 g/L." },
-      { "n": "2", "h": "Surveiller", "t": "glycémie et cétonémie capillaires, constantes vitales, kaliémie avant toute insulinothérapie (risque d'hypokaliémie sévère)." },
-      { "n": "3", "h": "Tracer", "t": "réhydratation IV et insulinothérapie à la seringue électrique sur prescription, correction progressive de la kaliémie, transmissions ciblées horaires." }
+      { "n": "1", "h": "Évaluer", "t": "le diagnostic éducatif : connaissances, freins, ressources et attentes du patient avant toute séance." },
+      { "n": "2", "h": "Accompagner", "t": "des séances individuelles ou collectives centrées sur des compétences ciblées (auto-surveillance glycémique, gestion d'un traitement anticoagulant, technique d'injection...)." },
+      { "n": "3", "h": "Tracer et évaluer", "t": "les acquis dans le dossier patient, et réajuster le programme en concertation avec l'équipe pluriprofessionnelle." }
     ],
-    "retenir": "Ne jamais interrompre l'insulinothérapie sur la seule baisse de la glycémie : c'est la correction de l'acidose et de la cétonémie qui doit guider l'arrêt. ",
-    "sources": "Sources : HAS · SFEndocrino."
+    "retenir": "L'ETP n'est pas une information descendante : elle part des besoins exprimés par le patient et vise son autonomie, pas l'observance à tout prix. ",
+    "sources": "Sources : HAS · Ordre national des infirmiers."
   }
 }

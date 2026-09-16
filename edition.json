@@ -1,75 +1,75 @@
 {
-  "dateLong": "Mar. 15 sept.",
+  "dateLong": "Mer. 16 sept.",
   "essentiel": [
     { "text": "La " },
-    { "text": "CNIL", "strong": true },
-    { "text": " sanctionne l'Hôpital privé de la Loire à " },
-    { "text": "500 000 €", "strong": true },
-    { "text": " pour une fuite de données de santé, l'" },
+    { "text": "HAS", "strong": true },
+    { "text": " publie son nouveau référentiel de certification resserré à " },
+    { "text": "12 objectifs", "strong": true },
+    { "text": ", l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur les moniteurs cardio-respiratoires " },
-    { "text": "Philips IntelliVue", "strong": true },
-    { "text": ", et l'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " s'inquiète de l'avenir du dispositif " },
-    { "text": "Asalée", "strong": true },
-    { "text": "." }
+    { "text": " rappelle le réactif d'hémostase " },
+    { "text": "HemosIL AcuStar HIT-IgG(PF4-H)", "strong": true },
+    { "text": ", et " },
+    { "text": "Santé publique France", "strong": true },
+    { "text": " alerte sur une hausse de " },
+    { "text": "20,5 %", "strong": true },
+    { "text": " des hospitalisations pour chute chez les plus de 65 ans." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Fuite de données de santé : la CNIL inflige 500 000 € d'amende à l'Hôpital privé de la Loire après l'exfiltration de 524 867 dossiers patients",
-      "summary": "La formation restreinte de la CNIL pointe une authentification externe défaillante et l'absence de détection des accès anormaux, et impose des mesures correctives sous trois à quinze mois.",
-      "source": "CNIL",
-      "url": "https://www.cnil.fr/fr/sanction-hopital-prive-loire"
+      "title": "Certification des établissements de santé : la HAS publie le nouveau référentiel « qualité des soins » version 2027",
+      "summary": "Recentré sur 12 objectifs et 3 chapitres (établissement, équipes de soins, patient), le référentiel compte 22 critères impératifs et instaure un contact obligatoire du patient dans les 24 à 72 heures suivant une sortie d'ambulatoire.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_3563407/fr/mettre-en-oeuvre-le-6e-cycle-de-certification"
     },
     {
       "category": "alertes",
-      "title": "Moniteurs cardio-respiratoires Philips IntelliVue MX750/MX850 et AD75/AD85 : l'ANSM relaie une information de sécurité de Philips Medizin Systems Böblingen",
-      "summary": "Publiée le 14 septembre 2026 et adressée aux établissements de santé, l'alerte détaille les précautions à observer par les équipes soignantes utilisant ces dispositifs de surveillance.",
+      "title": "Réactif d'hémostase HemosIL AcuStar HIT-IgG(PF4-H) : l'ANSM relaie un rappel de lots de Werfen",
+      "summary": "Utilisé pour détecter les anticorps associés à la thrombopénie induite par l'héparine, ce réactif fait l'objet d'un retrait signalé le 14 septembre 2026 ; les laboratoires concernés ont reçu un courrier de l'exploitant.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/moniteur-de-surveillance-cardio-respiratoire-intellivue-mx750-mx850-et-ad75-ad85-philips-medizin-systems-boblingen-gmbh"
+      "url": "https://ansm.sante.fr/informations-de-securite/hemostase-reactif-hemosil-acustar-hit-igg-pf4-h-instrumentation-laboratory"
     },
     {
       "category": "science",
-      "title": "Prix de la Recherche en Sciences Infirmières 2026 : Michelle Delpy récompensée pour ses travaux sur l'impact de la logistique hospitalière sur la satisfaction professionnelle infirmière",
-      "summary": "Doctorante en sciences infirmières à la Chaire de l'université Sorbonne Paris Nord, la cadre de santé a reçu le prix « Meilleure publication scientifique », décerné avec la MNH et Infirmiers.com.",
-      "source": "Infirmiers.com",
-      "url": "https://infirmiers.com/ipa-specialites/recherche-et-bibliographie/prix-de-la-recherche-en-sciences-infirmieres-voici-les-laureats-2026"
+      "title": "Chutes des personnes âgées : Santé publique France recense 174 824 hospitalisations en 2024, en hausse de 20,5 % depuis 2019",
+      "summary": "Chez les plus de 65 ans, 20 148 décès ont aussi été enregistrés (+18 %) ; l'objectif de réduction de 20 % fixé par le Plan antichute des personnes âgées (PAPA) s'éloigne.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/traumatismes/chute/article/la-surveillance-epidemiologique-des-chutes-chez-les-personnes-agees"
     },
     {
       "category": "profession",
-      "title": "Dispositif Asalée : l'Ordre national des infirmiers exprime ses « vives inquiétudes » après le rapport de l'IGAS et le redressement judiciaire de l'association",
-      "summary": "Communiqué du 11 septembre 2026 : l'Ordre alerte sur l'avenir de près de 2 000 infirmiers et IPA mobilisés dans ce dispositif de suivi des maladies chroniques, placé sous administration judiciaire depuis le 27 mars 2026.",
+      "title": "Élections ordinales : l'Ordre national des infirmiers ouvre l'appel à candidatures pour le renouvellement partiel d'octobre 2026",
+      "summary": "Les candidatures aux conseils (inter)départementaux doivent être déposées avant le 30 septembre 16h, pour un scrutin ouvert à partir du 15 octobre 14h.",
       "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/dispositif-asalee-l-ordre-exprime-ses-vives-inquietudes-apres-le-rapport-de-l-igas"
+      "url": "https://www.ordre-infirmiers.fr/appel-a-candidatures-elections-des-conseils-interdepartementaux-de-l-ordre-des-infirmiers-cidoi"
     },
     {
       "category": "technique",
-      "title": "Alliance Santé IA : le CHU de Montpellier généralise son assistant d'intelligence artificielle à l'ensemble de ses services à partir de septembre 2026",
-      "summary": "Financé à hauteur de 14,9 millions d'euros dans le cadre de France 2030, le dispositif, déjà testé par 200 médecins, infirmiers et personnels administratifs, passe à un déploiement progressif dans tous les services du CHU.",
-      "source": "CHU de Montpellier",
-      "url": "https://www.chu-montpellier.fr/fr/alliance-sante-ia"
+      "title": "Déserts médicaux : France 2030 lance un appel à projets pour des solutions de téléconsultation innovantes, dossiers attendus avant le 17 septembre",
+      "summary": "Cabines de téléconsultation et matériel biométrique connecté (stéthoscope, otoscope, ECG) sont visés pour équiper les zones où 87 % du territoire manque de professionnels de santé.",
+      "source": "Banque des territoires",
+      "url": "https://www.banquedesterritoires.fr/acces-aux-soins-un-ami-pour-experimenter-des-solutions-innovantes"
     },
     {
       "category": "formation",
-      "title": "Universitarisation des IFSI : le CEFIEC publie les résultats de son enquête nationale, « une ambition partagée, une mise en œuvre qui reste à sécuriser »",
-      "summary": "Menée auprès de 132 instituts de formation (44 % de réponses), l'enquête relève que 66,7 % des IFSI ont déjà engagé une co-construction avec leur université de rattachement, mais souligne de fortes disparités territoriales à la veille de la rentrée 2026.",
-      "source": "CEFIEC",
-      "url": "https://toute-la.veille-acteurs-sante.fr/238781/le-cefiec-publie-les-resultats-nationaux-de-son-enquete-sur-luniversitarisation-des-formations-infirmieres-universitarisation-2026-une-ambition-partagee-une-mise-en-oeuvre-qui-reste-a-securiser/"
+      "title": "DPC : les orientations prioritaires 2026 des infirmiers ciblent plaies, insuffisance cardiaque, soins palliatifs et vaccination",
+      "summary": "L'obligation reste de deux actions sur trois ans, prises en charge par l'ANDPC jusqu'à 47 € de l'heure pour les formations présentielles.",
+      "source": "Agence du DPC",
+      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
     }
   ],
   "word": {
-    "field": "Maladies chroniques · Rôle propre",
-    "term": "Éducation thérapeutique du patient (ETP)",
-    "subtitle": "Aider le patient chronique à devenir acteur de sa santé",
-    "definition": "Démarche structurée et pluriprofessionnelle visant à aider le patient et son entourage à comprendre sa maladie chronique et ses traitements, et à acquérir les compétences nécessaires pour gérer leur vie avec la pathologie.",
+    "field": "Gestes & soins",
+    "term": "Nutrition entérale",
+    "subtitle": "Apporter les nutriments par voie digestive artificielle",
+    "definition": "Administration d'un mélange nutritif directement dans le tube digestif (sonde nasogastrique, gastrostomie) chez un patient dont l'appareil digestif fonctionne mais qui ne peut s'alimenter suffisamment par voie orale.",
     "steps": [
-      { "n": "1", "h": "Évaluer", "t": "le diagnostic éducatif : connaissances, freins, ressources et attentes du patient avant toute séance." },
-      { "n": "2", "h": "Accompagner", "t": "des séances individuelles ou collectives centrées sur des compétences ciblées (auto-surveillance glycémique, gestion d'un traitement anticoagulant, technique d'injection...)." },
-      { "n": "3", "h": "Tracer et évaluer", "t": "les acquis dans le dossier patient, et réajuster le programme en concertation avec l'équipe pluriprofessionnelle." }
+      { "n": "1", "h": "Vérifier", "t": "la position de la sonde (repère cutané, aspect du résidu) avant chaque branchement ou administration." },
+      { "n": "2", "h": "Administrer", "t": "au débit prescrit, à la pompe, tête de lit surélevée à 30-45° pendant et une heure après la séance." },
+      { "n": "3", "h": "Surveiller", "t": "la tolérance digestive (nausées, diarrhée, résidu gastrique), la glycémie et l'état cutané au point d'insertion." }
     ],
-    "retenir": "L'ETP n'est pas une information descendante : elle part des besoins exprimés par le patient et vise son autonomie, pas l'observance à tout prix. ",
-    "sources": "Sources : HAS · Ordre national des infirmiers."
+    "retenir": "La nutrition entérale reste la voie de choix dès que le tube digestif fonctionne : elle préserve la trophicité intestinale et limite les complications infectieuses par rapport à la voie parentérale. ",
+    "sources": "Sources : HAS · SFNCM 2024."
   }
 }

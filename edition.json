@@ -1,75 +1,75 @@
 {
-  "dateLong": "Mer. 16 sept.",
+  "dateLong": "Ven. 18 sept.",
   "essentiel": [
-    { "text": "La " },
-    { "text": "HAS", "strong": true },
-    { "text": " publie son nouveau référentiel de certification resserré à " },
-    { "text": "12 objectifs", "strong": true },
+    { "text": "L'" },
+    { "text": "Ordre national des infirmiers", "strong": true },
+    { "text": " ouvre les candidatures aux élections ordinales jusqu'au " },
+    { "text": "30 septembre", "strong": true },
     { "text": ", l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle le réactif d'hémostase " },
-    { "text": "HemosIL AcuStar HIT-IgG(PF4-H)", "strong": true },
-    { "text": ", et " },
-    { "text": "Santé publique France", "strong": true },
-    { "text": " alerte sur une hausse de " },
-    { "text": "20,5 %", "strong": true },
-    { "text": " des hospitalisations pour chute chez les plus de 65 ans." }
+    { "text": " alerte sur la batterie des appareils de massage cardiaque " },
+    { "text": "Corpuls", "strong": true },
+    { "text": ", l'intersyndicale hospitalière mobilise ce " },
+    { "text": "18 septembre", "strong": true },
+    { "text": " contre les mesures budgétaires, et les inscriptions aux " },
+    { "text": "JNIPA", "strong": true },
+    { "text": " (8-9 octobre) sont ouvertes." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Certification des établissements de santé : la HAS publie le nouveau référentiel « qualité des soins » version 2027",
-      "summary": "Recentré sur 12 objectifs et 3 chapitres (établissement, équipes de soins, patient), le référentiel compte 22 critères impératifs et instaure un contact obligatoire du patient dans les 24 à 72 heures suivant une sortie d'ambulatoire.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_3563407/fr/mettre-en-oeuvre-le-6e-cycle-de-certification"
-    },
-    {
-      "category": "alertes",
-      "title": "Réactif d'hémostase HemosIL AcuStar HIT-IgG(PF4-H) : l'ANSM relaie un rappel de lots de Werfen",
-      "summary": "Utilisé pour détecter les anticorps associés à la thrombopénie induite par l'héparine, ce réactif fait l'objet d'un retrait signalé le 14 septembre 2026 ; les laboratoires concernés ont reçu un courrier de l'exploitant.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/hemostase-reactif-hemosil-acustar-hit-igg-pf4-h-instrumentation-laboratory"
-    },
-    {
-      "category": "science",
-      "title": "Chutes des personnes âgées : Santé publique France recense 174 824 hospitalisations en 2024, en hausse de 20,5 % depuis 2019",
-      "summary": "Chez les plus de 65 ans, 20 148 décès ont aussi été enregistrés (+18 %) ; l'objectif de réduction de 20 % fixé par le Plan antichute des personnes âgées (PAPA) s'éloigne.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/traumatismes/chute/article/la-surveillance-epidemiologique-des-chutes-chez-les-personnes-agees"
-    },
-    {
-      "category": "profession",
-      "title": "Élections ordinales : l'Ordre national des infirmiers ouvre l'appel à candidatures pour le renouvellement partiel d'octobre 2026",
-      "summary": "Les candidatures aux conseils (inter)départementaux doivent être déposées avant le 30 septembre 16h, pour un scrutin ouvert à partir du 15 octobre 14h.",
+      "title": "Élections ordinales : l'Ordre national des infirmiers ouvre les candidatures aux conseils (inter)départementaux",
+      "summary": "Le renouvellement partiel d'octobre 2026 est lancé : les candidatures doivent être déposées avant le 30 septembre 16h, en vue d'un vote électronique du 15 au 30 octobre.",
       "source": "Ordre national des infirmiers",
       "url": "https://www.ordre-infirmiers.fr/appel-a-candidatures-elections-des-conseils-interdepartementaux-de-l-ordre-des-infirmiers-cidoi"
     },
     {
+      "category": "alertes",
+      "title": "Massage cardiaque automatisé Corpuls CPR : l'ANSM alerte sur la batterie Li-Ion des dispositifs",
+      "summary": "Publiée le 17 septembre 2026, cette information de sécurité concerne la batterie rechargeable 28,8V des appareils Corpuls CPR utilisés en réanimation et dans les services d'urgence.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/appareil-automatise-de-massage-cardiaque-batterie-corpuls-cpr-lipo-corpuls-cpr-gs-elektromedizinische-gerate-g-stemple-gmbh"
+    },
+    {
+      "category": "science",
+      "title": "Chikungunya autochtone en Île-de-France : Santé publique France confirme un foyer à Nogent-sur-Marne",
+      "summary": "Le bulletin régional du 4 septembre recense plus de 90 cas importés de dengue et une transmission locale de chikungunya en Val-de-Marne, avec une opération de démoustication engagée début septembre.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/regions-et-territoires/ile-de-france/bulletin-regional/surveillance-sanitaire-en-ile-de-france-bulletin-du-4-septembre-2026"
+    },
+    {
+      "category": "profession",
+      "title": "Grève du 18 septembre : l'intersyndicale hospitalière mobilisée contre les mesures budgétaires",
+      "summary": "FO-SPS appelle l'ensemble des personnels des hôpitaux, Ehpad et services médico-sociaux à rejoindre cette journée d'action interprofessionnelle, dans un contexte de réquisitions possibles pour la continuité des soins.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/economie/greve/perturbations-par-secteur-manifestations-prevues-dispositif-securitaire-ce-qu-il-faut-savoir-avant-la-journee-de-greve-du-18-septembre_7497121.html"
+    },
+    {
       "category": "technique",
-      "title": "Déserts médicaux : France 2030 lance un appel à projets pour des solutions de téléconsultation innovantes, dossiers attendus avant le 17 septembre",
-      "summary": "Cabines de téléconsultation et matériel biométrique connecté (stéthoscope, otoscope, ECG) sont visés pour équiper les zones où 87 % du territoire manque de professionnels de santé.",
-      "source": "Banque des territoires",
-      "url": "https://www.banquedesterritoires.fr/acces-aux-soins-un-ami-pour-experimenter-des-solutions-innovantes"
+      "title": "Dispositifs de drainage urinaire : l'avis de tarification des sondes vésicales intermittentes publié au JORF",
+      "summary": "Paru au Journal officiel du 17 septembre 2026, ce texte fixe les tarifs de remboursement des sondes de drainage vésical intermittent pré-lubrifiées ou hydrophiles sans latex inscrites sur la liste LPP.",
+      "source": "Légifrance / JORF",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/09/17/0217"
     },
     {
       "category": "formation",
-      "title": "DPC : les orientations prioritaires 2026 des infirmiers ciblent plaies, insuffisance cardiaque, soins palliatifs et vaccination",
-      "summary": "L'obligation reste de deux actions sur trois ans, prises en charge par l'ANDPC jusqu'à 47 € de l'heure pour les formations présentielles.",
-      "source": "Agence du DPC",
-      "url": "https://www.agencedpc.fr/orientations-nationales-prioritaires-de-dpc-2023-2025"
+      "title": "Pratique avancée : les 10es JNIPA ouvrent leurs inscriptions pour les 8 et 9 octobre à Paris",
+      "summary": "Organisées à la Maison internationale de la Cité internationale universitaire, ces journées nationales marquent dix ans d'existence du statut d'IPA ; les tarifs préférentiels d'inscription sont prolongés.",
+      "source": "ANFIPA / JNIPA",
+      "url": "https://jnipa.fr/"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Nutrition entérale",
-    "subtitle": "Apporter les nutriments par voie digestive artificielle",
-    "definition": "Administration d'un mélange nutritif directement dans le tube digestif (sonde nasogastrique, gastrostomie) chez un patient dont l'appareil digestif fonctionne mais qui ne peut s'alimenter suffisamment par voie orale.",
+    "field": "Urgences / vigilance",
+    "term": "Score de Glasgow",
+    "subtitle": "Une échelle qui chiffre l'état de conscience du patient, de 3 à 15",
+    "definition": "Échelle clinique standardisée qui évalue la conscience en cotant trois réponses — oculaire (Y), verbale (V) et motrice (M) — dont la somme, de 3 (coma profond) à 15 (patient parfaitement conscient), guide la surveillance neurologique et l'urgence de la prise en charge.",
     "steps": [
-      { "n": "1", "h": "Vérifier", "t": "la position de la sonde (repère cutané, aspect du résidu) avant chaque branchement ou administration." },
-      { "n": "2", "h": "Administrer", "t": "au débit prescrit, à la pompe, tête de lit surélevée à 30-45° pendant et une heure après la séance." },
-      { "n": "3", "h": "Surveiller", "t": "la tolérance digestive (nausées, diarrhée, résidu gastrique), la glycémie et l'état cutané au point d'insertion." }
+      { "n": "1", "h": "Observer", "t": "coter successivement l'ouverture des yeux, la réponse verbale et la réponse motrice, chacune au meilleur score obtenu." },
+      { "n": "2", "h": "Tracer", "t": "noter les trois sous-scores (Y/V/M) et leur somme sur la feuille de surveillance, à l'heure de chaque évaluation." },
+      { "n": "3", "h": "Alerter", "t": "prévenir le médecin devant toute baisse de 2 points ou un score ≤ 8, qui signe un coma et impose la protection des voies aériennes." }
     ],
-    "retenir": "La nutrition entérale reste la voie de choix dès que le tube digestif fonctionne : elle préserve la trophicité intestinale et limite les complications infectieuses par rapport à la voie parentérale. ",
-    "sources": "Sources : HAS · SFNCM 2024."
+    "retenir": "Le score de Glasgow se note en trois composantes (Y+V+M), jamais en un seul chiffre isolé : c'est sa variation dans le temps qui alerte, plus que sa valeur ponctuelle. ",
+    "sources": "Sources : Haute Autorité de Santé · Collège de médecine d'urgence."
   }
 }

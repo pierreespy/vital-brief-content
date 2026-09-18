@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Score de Glasgow", "date": "2026-09-18" },
     { "term": "Infirmier en pratique avancée (IPA)", "date": "2026-09-17" },
     { "term": "Nutrition entérale", "date": "2026-09-16" },
     { "term": "Éducation thérapeutique du patient (ETP)", "date": "2026-09-15" },
@@ -28,7 +29,6 @@
     { "term": "Syndrome confusionnel aigu (delirium)", "date": "2026-08-20" },
     { "term": "Aspiration endotrachéale", "date": "2026-08-19" },
     { "term": "Coup de chaleur", "date": "2026-08-18" },
-    { "term": "Titration", "date": "2026-08-17" },
-    { "term": "Choc anaphylactique", "date": "2026-08-16" }
+    { "term": "Titration", "date": "2026-08-17" }
   ]
 }

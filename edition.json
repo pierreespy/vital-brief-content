@@ -1,75 +1,73 @@
 {
-  "dateLong": "Sam. 19 sept.",
+  "dateLong": "Lun. 21 sept.",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "ARS Auvergne-Rhône-Alpes", "strong": true },
-    { "text": " publie son nouveau zonage infirmier, l'" },
+    { "text": "La " },
+    { "text": "HAS", "strong": true },
+    { "text": " autorise le stockage de vaccins grippe et Covid par les infirmiers libéraux, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur un retrait de lot des pompes à perfusion " },
-    { "text": "CADD", "strong": true },
-    { "text": ", Santé publique France recense " },
-    { "text": "56 cas autochtones de virus West Nile", "strong": true },
-    { "text": ", et la profession, mobilisée le " },
-    { "text": "15 septembre", "strong": true },
-    { "text": " contre plus de " },
-    { "text": "60 000 postes vacants", "strong": true },
-    { "text": ", se donne rendez-vous aux Journées des infirmiers de Paris fin octobre." }
+    { "text": " confirme la sécurité du " },
+    { "text": "nirsévimab", "strong": true },
+    { "text": " tout en alertant sur des erreurs médicamenteuses persistantes, Santé publique France recense une hausse de " },
+    { "text": "58 %", "strong": true },
+    { "text": " des urgences pour asthme chez l'enfant à la rentrée, l'Ordre national des infirmiers ouvre les candidatures aux élections départementales jusqu'au " },
+    { "text": "30 septembre", "strong": true },
+    { "text": ", et la Cour des comptes pointe le retard du carnet de vaccination électronique." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Infirmiers libéraux : l'ARS Auvergne-Rhône-Alpes publie son nouveau zonage au 1er septembre",
-      "summary": "Le zonage distingue désormais les secteurs « sous-dotés » et « très sous-dotés » ouvrant droit à des aides à l'installation pouvant atteindre 27 500 € sur cinq ans, avec une extension inédite aux zones frontalières avec la Suisse.",
-      "source": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/acces-aux-soins-en-auvergne-rhone-alpes-publication-des-nouveaux-zonages-orthophonistes-et"
+      "title": "Vaccination : la HAS donne son feu vert au stockage des vaccins grippe et Covid par les infirmiers libéraux",
+      "summary": "Le décret autorisant infirmiers, médecins et sages-femmes libéraux ainsi que les centres de santé à s'approvisionner et à détenir des vaccins contre la grippe et la Covid-19 a été publié au Journal officiel le 10 septembre, une première étape avant une extension à d'autres vaccins.",
+      "source": "concours pluripro",
+      "url": "https://www.concourspluripro.fr/exercice-pluriprofessionnel/metiers/grippe-et-covid-feu-vert-de-la-has-pour-le-stockage-de-vaccins"
     },
     {
       "category": "alertes",
-      "title": "Pompes à perfusion CADD : l'ANSM signale un retrait de lot des cassette-réservoirs à raccord NRFit",
-      "summary": "Publiée le 16 septembre 2026, cette information de sécurité concerne un retrait de lot mis en œuvre par ICU Medical Inc., à destination des pharmacies hospitalières et des prestataires d'hospitalisation à domicile.",
+      "title": "Prévention de la bronchiolite : l'ANSM confirme la sécurité du nirsévimab mais alerte sur des erreurs médicamenteuses persistantes",
+      "summary": "Le bilan de pharmacovigilance de la campagne 2025-2026 ne révèle aucun nouveau risque pour l'anticorps Beyfortus, mais plus de la moitié des signalements concernent des erreurs d'administration : mauvais produit, mauvaise dose ou double administration.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/pompe-a-perfusion-ambulatoire-accessoire-cassette-reservoirs-cadd-avec-raccord-nrfit-icu-medical-inc"
+      "url": "https://ansm.sante.fr/actualites/prevention-des-bronchiolites-a-vrs-un-profil-de-securite-rassurant-des-erreurs-medicamenteuses-qui-persistent"
     },
     {
       "category": "science",
-      "title": "Virus West Nile : 56 cas autochtones recensés en France hexagonale",
-      "summary": "Le bulletin de surveillance renforcée du 9 septembre 2026 de Santé publique France dénombre aussi 11 foyers de chikungunya autochtone, soit 57 cas, en Occitanie, Nouvelle-Aquitaine et Val-de-Marne.",
+      "title": "Rentrée scolaire : les urgences pédiatriques en forte hausse, +58 % de crises d'asthme chez les moins de 15 ans",
+      "summary": "Le bulletin du réseau Oscour de Santé publique France pour la semaine du 31 août au 6 septembre relève une hausse de 8 % des passages aux urgences chez les 2-14 ans, portée par les crises d'asthme (+58 %) et les pathologies ORL chez les moins de 2 ans (+24 %).",
       "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/maladies-a-transmission-vectorielle/chikungunya/bulletin-national/chikungunya-dengue-zika-et-west-nile-en-france-hexagonale-bulletin-de-la-surveillance-renforcee-du-9"
+      "url": "https://www.santepubliquefrance.fr/surveillance-syndromique-sursaudr/bulletin-du-reseau-oscour-du-8-septembre-2026"
     },
     {
       "category": "profession",
-      "title": "Pénurie infirmière : plus de 60 000 postes vacants, la profession mobilisée le 15 septembre",
-      "summary": "FO-SPS a rejoint la journée de mobilisation intersectorielle du 15 septembre pour réclamer des créations de postes hospitaliers, chiffrant à plus de 60 000 le nombre de postes infirmiers vacants.",
-      "source": "franceinfo",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/etudiants-policiers-salaries-du-secteur-de-la-sante-greve-et-journee-de-mobilisation-a-quoi-s-attendre-ce-mardi-3416861.html"
+      "title": "Élections ordinales : l'Ordre national des infirmiers ouvre l'appel à candidatures jusqu'au 30 septembre",
+      "summary": "Le renouvellement partiel des conseils (inter)départementaux de l'Ordre des infirmiers se prépare : dossiers de candidature à transmettre avant le 30 septembre 16h, vote électronique du 15 au 30 octobre.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/appel-a-candidatures-elections-des-conseils-interdepartementaux-de-l-ordre-des-infirmiers-cidoi"
     },
     {
       "category": "technique",
-      "title": "Médicaments : la campagne d'information sur la e-notice (QR code) relancée en septembre",
-      "summary": "L'ANSM déploie le second temps de sa campagne pour faire connaître la notice numérique accessible par QR code, expérimentée sur environ 170 médicaments en ville et 420 en établissement de santé.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/lansm-lance-une-campagne-dinformation-pour-faire-connaitre-la-e-notice-des-medicaments"
+      "title": "Carnet de vaccination électronique : la Cour des comptes pointe un déploiement encore trop timide",
+      "summary": "Seuls 35 % des assurés ont activé Mon espace santé et 11 % d'entre eux y ont des données vaccinales renseignées ; la Cour des comptes recommande aux professionnels vaccinateurs d'y saisir systématiquement les injections d'ici 2028.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38271-la-cour-des-comptes-pointe-un-retard-preoccupant-dans-le-deploiement-du-carnet-de-vaccination-electronique.html"
     },
     {
       "category": "formation",
-      "title": "Les Journées des infirmiers de retour à Paris les 28 et 29 octobre",
-      "summary": "Inscription gratuite pour cette édition centrée sur les métiers et spécialités infirmières, le numérique au service du soin et la sécurité des pratiques, à la Faculté de médecine - site Villemin.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/rendez-vous-aux-journees-des-infirmiers-de-paris-les-28-et-29-octobre"
+      "title": "IPA : les Journées Nationales (JNIPA) ouvrent leurs inscriptions pour les 8 et 9 octobre à Paris",
+      "summary": "La prochaine édition des Journées Nationales des Infirmiers en Pratique Avancée se tiendra à la Maison Internationale (CIUP) ; les inscriptions sont d'ores et déjà ouvertes.",
+      "source": "JNIPA",
+      "url": "https://jnipa.fr/"
     }
   ],
   "word": {
-    "field": "Clinique / neurologie",
-    "term": "Syndrome méningé",
-    "subtitle": "La triade clinique qui doit faire suspecter une atteinte des méninges",
-    "definition": "Association de céphalées intenses, de raideur de nuque et de photophobie, souvent accompagnée de vomissements, qui traduit une irritation des méninges et impose une recherche urgente de sa cause, infectieuse notamment (méningite, encéphalite, arbovirose neuroinvasive comme le virus West Nile).",
+    "field": "Pharmacologie / thérapeutique",
+    "term": "Titration",
+    "subtitle": "Ajuster une dose par paliers, jusqu'à l'effet recherché, en toute sécurité",
+    "definition": "Méthode d'adaptation progressive de la posologie d'un médicament (antalgique opioïde, insuline, antihypertenseur...) par paliers successifs, en fonction de la réponse clinique du patient et de la surveillance des effets indésirables, jusqu'à l'obtention de l'effet thérapeutique souhaité sans dépasser la dose utile.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "rechercher la raideur de nuque, la photophobie et l'altération de l'état général associées aux céphalées." },
-      { "n": "2", "h": "Alerter", "t": "prévenir immédiatement le médecin devant tout syndrome méningé fébrile, en particulier au retour d'une zone d'exposition aux moustiques." },
-      { "n": "3", "h": "Isoler et tracer", "t": "appliquer les précautions gouttelettes dans l'attente du diagnostic étiologique et noter l'heure d'apparition des signes sur la feuille de surveillance." }
+      { "n": "1", "h": "Évaluer", "t": "mesurer l'état clinique initial (score de douleur, glycémie capillaire, pression artérielle...) et fixer avec le prescripteur l'objectif à atteindre." },
+      { "n": "2", "h": "Administrer par paliers", "t": "débuter par la dose minimale efficace puis l'augmenter progressivement selon le protocole ou la prescription, en respectant les délais d'action du produit." },
+      { "n": "3", "h": "Surveiller", "t": "réévaluer régulièrement l'efficacité et la tolérance (vigilance, fréquence respiratoire, glycémie...) pour ajuster, poursuivre ou arrêter la titration." }
     ],
-    "retenir": "Le syndrome méningé est une urgence diagnostique : sa cause peut être bactérienne, virale ou vectorielle, mais c'est la rapidité de la prise en charge qui conditionne le pronostic. ",
-    "sources": "Sources : Santé publique France · Collège des universitaires de maladies infectieuses."
+    "retenir": "La titration individualise le traitement à chaque patient : elle est incontournable pour les antalgiques opioïdes et l'insuline, où le risque de sous-dosage comme de surdosage engage la sécurité du patient. ",
+    "sources": "Sources : Société Française d'Étude et de Traitement de la Douleur (SFETD) · HAS."
   }
 }

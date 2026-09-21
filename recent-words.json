@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Titration", "date": "2026-09-21" },
     { "term": "Syndrome méningé", "date": "2026-09-19" },
     { "term": "Score de Glasgow", "date": "2026-09-18" },
     { "term": "Infirmier en pratique avancée (IPA)", "date": "2026-09-17" },
@@ -28,7 +29,6 @@
     { "term": "Extravasation", "date": "2026-08-22" },
     { "term": "Diagnostic infirmier", "date": "2026-08-21" },
     { "term": "Syndrome confusionnel aigu (delirium)", "date": "2026-08-20" },
-    { "term": "Aspiration endotrachéale", "date": "2026-08-19" },
-    { "term": "Coup de chaleur", "date": "2026-08-18" }
+    { "term": "Aspiration endotrachéale", "date": "2026-08-19" }
   ]
 }

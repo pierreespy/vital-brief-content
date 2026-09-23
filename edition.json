@@ -1,75 +1,75 @@
 {
-  "dateLong": "Mar. 22 sept.",
+  "dateLong": "Mer. 23 sept.",
   "essentiel": [
-    { "text": "Le " },
-    { "text": "Ségur numérique", "strong": true },
-    { "text": " s'ouvre au financement des logiciels de cabinet des infirmiers libéraux, l'" },
+    { "text": "L'" },
     { "text": "ANSM", "strong": true },
-    { "text": " alerte sur un défaut des alarmes de l'application " },
-    { "text": "Dexcom G7", "strong": true },
-    { "text": ", la " },
-    { "text": "HAS", "strong": true },
-    { "text": " priorise les ratios soignants en obstétrique et néonatologie, le secteur sanitaire reste le " },
-    { "text": "premier recruteur", "strong": true },
-    { "text": " de France en 2026, et le cycle " },
-    { "text": "DPC", "strong": true },
-    { "text": " 2024-2026 touche à sa fin." }
+    { "text": " rappelle des lots de " },
+    { "text": "Flebogamma DIF", "strong": true },
+    { "text": " pour risque de réactions allergiques, l'" },
+    { "text": "IRDES", "strong": true },
+    { "text": " publie une étude sur les risques psychosociaux des infirmières entre hôpital et libéral, l'" },
+    { "text": "Ordre national des infirmiers", "strong": true },
+    { "text": " ouvre les candidatures au renouvellement partiel des conseils interdépartementaux, l'" },
+    { "text": "Agence du Numérique en Santé", "strong": true },
+    { "text": " certifie 16 dispositifs de télésurveillance cardiaque, et le nouveau " },
+    { "text": "référentiel infirmier", "strong": true },
+    { "text": " de 4 620 heures entre en vigueur pour la rentrée." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Ségur du numérique en santé : le financement des logiciels de cabinet ouvert aux infirmiers et paramédicaux libéraux",
-      "summary": "L'arrêté du 15 juillet 2026, publié au Journal officiel, crée un programme de financement à 100 % pour la mise à niveau des logiciels de gestion de cabinet (DMP, INS, MSSanté, ordonnance numérique) des infirmiers et autres paramédicaux exerçant en ville.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054448125"
+      "title": "Médicaments réservés à l'usage hospitalier : l'ANSM modifie la liste de l'article L. 5126-6 du code de la santé publique",
+      "summary": "La décision du 20 septembre 2026 ajoute une spécialité de la classe antibiotiques/antifongiques à la liste des médicaments dont la prescription initiale et le renouvellement sont réservés, avec une incidence directe sur les circuits de dispensation en pharmacie à usage intérieur.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/actualites/decision-du-20-09-2026-portant-modification-de-la-liste-mentionnee-au-1deg-de-larticle-l-5126-6-du-code-de-la-sante-publique"
     },
     {
       "category": "alertes",
-      "title": "Glycémie en continu : l'ANSM alerte sur un dysfonctionnement des alarmes de l'application Dexcom G7",
-      "summary": "Certaines versions de l'application mobile associée au capteur Dexcom G7 peuvent ne pas déclencher les alarmes d'hypoglycémie ou d'hyperglycémie ; l'ANSM demande la mise à jour immédiate vers la version 2.12 ou supérieure.",
+      "title": "Immunoglobulines : l'ANSM rappelle plusieurs lots de Flebogamma DIF (Grifols) après une hausse des réactions allergiques",
+      "summary": "Trois lots de Flebogamma DIF 50 mg/ml et 100 mg/ml sont rappelés en raison d'une augmentation des cas de réactions allergiques ou d'hypersensibilité, sévères ou non, rapportés chez des patients perfusés ; les établissements et patients concernés sont contactés directement.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/appareils-de-mesure-du-glucose-en-continu-lecteur-application-dexcom-g7-ios-dexcom-g7-android-dexcom-g7-watch-ios-dexcom-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/flebogamma-dif-50-mg-ml-solution-pour-perfusion-400-ml-et-flebogamma-dif-100-mg-ml-solution-pour-perfusion-100-ml-et-200-ml-laboratoire-grifols-france"
     },
     {
       "category": "science",
-      "title": "Ratios soignants : la HAS priorise l'obstétrique et la néonatologie, premier avis attendu en novembre 2026",
-      "summary": "Chargée de définir les ratios minimums de soignants par patient prévus par la loi du 29 janvier 2025, la Haute Autorité de Santé consacre sa feuille de route 2026 à l'obstétrique et à la néonatologie, avant la psychiatrie et les soins palliatifs en 2027.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage"
+      "title": "IRDES : les trajectoires entre hôpital et libéral révèlent l'ampleur des risques psychosociaux chez les infirmières",
+      "summary": "Le rapport 602 de l'Institut de recherche et documentation en économie de la santé analyse comment les parcours professionnels des infirmières, entre exercice hospitalier et libéral, sont façonnés par l'exposition aux risques psychosociaux et leurs conséquences sur la santé au travail.",
+      "source": "IRDES",
+      "url": "https://www.irdes.fr/recherche/2026/rapport-602-entre-hopital-et-liberal-trajectoires-professionnelles-et-sante-face-aux-facteurs-de-risques-psychosociaux-des-infirmieres.html"
     },
     {
       "category": "profession",
-      "title": "Emploi : le sanitaire et le médico-social restent le premier secteur recruteur de France en 2026",
-      "summary": "Selon l'enquête Besoins en main-d'œuvre de France Travail, 62 100 postes d'aides-soignants et 36 700 postes d'infirmiers et sages-femmes sont à pourvoir cette année, avec des difficultés de recrutement pour six embauches sur dix.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/emploi/conseils-et-actualites-emploi/le-secteur-sanitaire-et-medico-social-premier-recruteur-en-2026"
+      "title": "Ordre infirmier : appel à candidatures pour le renouvellement partiel des conseils interdépartementaux (CIDOI)",
+      "summary": "Les infirmiers souhaitant se présenter au scrutin du 30 octobre 2026, organisé par collège d'exercice (libéral, privé, public), doivent déposer leur déclaration de candidature avant le mercredi 30 septembre à 16 h.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/appel-a-candidatures-elections-des-conseils-interdepartementaux-de-l-ordre-des-infirmiers-cidoi"
     },
     {
       "category": "technique",
-      "title": "Intelligence artificielle en soins infirmiers : entre aide à la décision et manque criant de formation",
-      "summary": "Rédaction de transmissions, coordination des parcours, aide à l'analyse de données cliniques : l'IA s'invite dans la pratique infirmière, mais 92 % des professionnels n'ont reçu aucune formation spécifique pour un usage critique de ces outils.",
-      "source": "ActuSoins",
-      "url": "https://www.actusoins.com/intelligence-artificielle-dans-les-soins-infirmiers-menace-ou-opportunite.html"
+      "title": "Télésurveillance de l'insuffisance cardiaque : 16 dispositifs médicaux numériques désormais certifiés par l'ANS",
+      "summary": "Les solutions certifiées doivent intégrer des alertes algorithmiques obligatoires et sécuriser le circuit des données de santé ; les infirmiers impliqués dans le suivi doivent être formés au dispositif et justifier d'un an d'expérience dans la pathologie concernée.",
+      "source": "Agence du Numérique en Santé",
+      "url": "https://esante.gouv.fr/produits-services/certification-des-dispositifs-medicaux-numeriques-de-telesurveillance"
     },
     {
       "category": "formation",
-      "title": "DPC : le cycle triennal 2024-2026 s'achève au 31 décembre, deux actions restent obligatoires",
-      "summary": "Les infirmiers doivent avoir validé deux actions de développement professionnel continu avant la fin de l'année pour être en conformité avec leur obligation triennale ; les compteurs de formation seront remis à zéro pour le nouveau cycle 2026.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "Rentrée en IFSI : le nouveau référentiel de formation infirmière (4 620 heures) entre en application",
+      "summary": "Issu du décret du 20 février 2026, le référentiel applicable aux étudiants entrés en formation depuis septembre 2026 porte le volume horaire à 4 620 heures sur trois ans, avec 66 semaines de stage et une organisation en 13 compétences réparties sur 5 domaines.",
+      "source": "Caducée.net",
+      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
     }
   ],
   "word": {
-    "field": "Pharmacologie / thérapeutique",
-    "term": "Index thérapeutique étroit",
-    "subtitle": "Une marge de sécurité réduite entre dose efficace et dose toxique",
-    "definition": "Caractéristique d'un médicament pour lequel l'écart entre la concentration plasmatique efficace et la concentration toxique est faible, imposant une surveillance clinique et biologique rapprochée (digoxine, lithium, antivitamines K, aminosides, certains antiépileptiques...).",
+    "field": "Urgences / réanimation",
+    "term": "Syndrome de détresse respiratoire aiguë (SDRA)",
+    "subtitle": "Une insuffisance respiratoire aiguë sévère, d'origine non cardiaque",
+    "definition": "Atteinte inflammatoire diffuse des poumons entraînant un œdème pulmonaire lésionnel, une hypoxémie sévère réfractaire et une baisse de la compliance pulmonaire, sans origine cardiaque (critères de Berlin), le plus souvent secondaire à un sepsis, une pneumopathie ou une inhalation.",
     "steps": [
-      { "n": "1", "h": "Identifier", "t": "repérer les médicaments à index thérapeutique étroit prescrits au patient et consulter les seuils de surveillance (dosages plasmatiques, INR...)." },
-      { "n": "2", "h": "Administrer avec rigueur", "t": "respecter strictement la dose, l'horaire et la voie d'administration ; vérifier les interactions avant toute co-prescription." },
-      { "n": "3", "h": "Surveiller", "t": "guetter les signes de surdosage propres à la molécule et programmer les dosages sanguins ou biologiques prévus par le protocole." }
+      { "n": "1", "h": "Repérer", "t": "surveiller la SpO2, la fréquence respiratoire et les signes de lutte (tirage, polypnée) chez tout patient à risque (sepsis, pneumopathie, inhalation, pancréatite)." },
+      { "n": "2", "h": "Positionner", "t": "favoriser le décubitus ventral sur prescription en cas d'hypoxémie sévère et participer à l'optimisation de la ventilation mécanique protectrice (petits volumes courants)." },
+      { "n": "3", "h": "Surveiller", "t": "tracer les paramètres hémodynamiques et gazométriques, prévenir les complications de décubitus et de la ventilation prolongée (escarres, infections)." }
     ],
-    "retenir": "Pour ces médicaments, une petite variation de dose ou d'observance peut faire basculer d'un effet thérapeutique à un effet toxique : la vigilance infirmière et la traçabilité des surveillances sont essentielles. ",
-    "sources": "Sources : ANSM · Vidal."
+    "retenir": "Le SDRA engage le pronostic vital : la reconnaissance précoce de l'hypoxémie réfractaire et une ventilation protectrice rigoureuse conditionnent la survie du patient. ",
+    "sources": "Sources : SRLF · Critères de Berlin."
   }
 }

@@ -1,73 +1,71 @@
 {
-  "dateLong": "Jeu. 24 sept.",
+  "dateLong": "Ven. 25 sept.",
   "essentiel": [
-    { "text": "La " },
-    { "text": "HAS", "strong": true },
-    { "text": " resserre ses recommandations sur les antibiotiques en soins dentaires, l'" },
+    { "text": "La liste des biosimilaires substituables s'élargit au dénosumab, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle un désinfectant pour laveurs d'endoscopes du fabricant Medivators, l'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " affiche un score de 93/100 à son index de l'égalité professionnelle, " },
-    { "text": "Mon espace santé", "strong": true },
-    { "text": " amorce un virage vers la prévention personnalisée, et la suppression programmée de l'" },
-    { "text": "Agence nationale du DPC", "strong": true },
-    { "text": " inquiète les infirmiers libéraux pour leur formation continue." }
+    { "text": " rappelle des lots d'écouvillons pour endoscope du fabricant LTA Médical, " },
+    { "text": "Santé publique France", "strong": true },
+    { "text": " recense 90 cas de chikungunya autochtone dont le foyer de Val-de-Marne, les infirmiers libéraux du " },
+    { "text": "SNIIL", "strong": true },
+    { "text": " haussent le ton sur le prix des carburants, et les cadres de santé de l'" },
+    { "text": "ANCIM", "strong": true },
+    { "text": " ouvrent les inscriptions aux Journées nationales de Nantes." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Micro-organismes et toxines : un arrêté du 11 septembre 2026 modifie la liste soumise à autorisation",
-      "summary": "Publié au Journal officiel du 20 septembre 2026, le texte actualise la liste des micro-organismes et toxines dont la détention, l'importation et l'utilisation restent soumises à autorisation, avec un impact direct sur les laboratoires et structures de soins concernés.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/09/20/0220"
+      "title": "Substitution en pharmacie : la liste des biosimilaires s'élargit au dénosumab",
+      "summary": "Un arrêté du 17 septembre 2026 porte de 11 à 13 le nombre de groupes biologiques similaires substituables par le pharmacien, avec l'ajout des biosimilaires du dénosumab (Prolia, Xgeva), sous réserve de conditions de substitution et d'information du patient.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38342-substitution-de-biomedicaments-en-pharmacie-la-liste-passe-de-11-a-13-groupes.html"
     },
     {
       "category": "alertes",
-      "title": "Laveurs-désinfecteurs d'endoscopes : l'ANSM rappelle le désinfectant Rapicide PA Partie A (Medivators)",
-      "summary": "Certains flacons peuvent se bomber sous l'effet d'un dégagement gazeux et libérer vapeurs ou liquide à l'ouverture ; Stéris, pour le compte de Medivators, procède au rappel des lots concernés utilisés dans le retraitement des endoscopes.",
+      "title": "Endoscopie : l'ANSM rappelle des écouvillons LTA Médical distribués par Getinge",
+      "summary": "Un retrait de lots d'écouvillons pour endoscope du fabricant LTA Médical a été notifié le 24 septembre 2026 (référence ANSM R2627417) ; les pharmacies à usage intérieur et établissements de santé concernés sont invités à contacter directement l'exploitant.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/desinfectant-pour-laveur-desinfecteur-a-endoscopes-rapicide-pa-partie-a-medivators-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/ecouvillon-pour-endoscope-lta-medical"
     },
     {
       "category": "science",
-      "title": "Antibiotiques en pratique bucco-dentaire : la HAS resserre ses recommandations de bon usage",
-      "summary": "La Haute Autorité de santé actualise ses recommandations de 2011, plaçant l'amoxicilline en première intention, écartant l'antibiothérapie locale systématique et imposant une réévaluation à 48-72 heures.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_3525810/fr/prescription-des-antibiotiques-en-pratique-bucco-dentaire"
+      "title": "Chikungunya autochtone : la circulation se stabilise en Île-de-France, 90 cas recensés en France hexagonale",
+      "summary": "Le bulletin de surveillance renforcée de Santé publique France du 23 septembre 2026 dénombre 13 foyers de transmission autochtone dont celui de Nogent-sur-Marne (Val-de-Marne), sans nouveau foyer identifié cette semaine.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-a-transmission-vectorielle/chikungunya/bulletin-national/chikungunya-dengue-zika-et-24"
     },
     {
       "category": "profession",
-      "title": "Égalité professionnelle : l'Ordre national des infirmiers publie son index 2026 à 93/100",
-      "summary": "Le Conseil national de l'Ordre progresse nettement par rapport à 2025 (79/100), porté notamment par un score parfait sur les augmentations au retour de congé maternité.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/index-2026"
+      "title": "Prix des carburants : les infirmiers libéraux multiplient les demandes avant les annonces de Bercy",
+      "summary": "Le SNIIL a annoncé le 21 septembre 2026 que « les infirmiers et infirmières libéraux ne peuvent plus attendre » face à la hausse du prix des carburants, qui pèse sur les tournées à domicile, et réclame des mesures de compensation avant les arbitrages du ministère des Finances.",
+      "source": "Caducée",
+      "url": "https://www.caducee.net/actualite-medicale/16976/prix-des-carburants-les-infirmiers-liberaux-multiplient-les-demandes-avant-les-annonces-de-bercy.html"
     },
     {
       "category": "technique",
-      "title": "Mon espace santé amorce un virage vers la prévention personnalisée",
-      "summary": "Le ministère de la Santé annonce un déploiement progressif vers les professionnels de premier recours, l'imagerie et les établissements, avec un parcours dédié aux patients diabétiques et des notifications ciblées de vaccination et de dépistage.",
-      "source": "Ministère de la Santé",
-      "url": "https://www.travail-solidarite.gouv.fr/actualites-presse/presse/communiques-de-presse/article/desormais-largement-alimente-par-les-usagers-et-les-professionnels-de-sante-mon"
+      "title": "Nouveaux actes infirmiers : mini-spiromètre, télésurveillance d'implants et stimulation cérébrale profonde",
+      "summary": "L'arrêté du 26 juin 2026 élargit le champ technique des infirmiers diplômés d'État à de nouveaux gestes : réalisation et lecture fonctionnelle d'un examen au mini-spiromètre, surveillance à distance de dispositifs implantables et réglage de la stimulation cérébrale profonde.",
+      "source": "SNPI",
+      "url": "https://syndicat-infirmier.com/Arrete-actes-et-soins-infirmiers-26-juin-2026.html"
     },
     {
       "category": "formation",
-      "title": "Suppression de l'Agence nationale du DPC : les infirmiers libéraux s'inquiètent pour leur formation continue",
-      "summary": "Alors que l'ANDPC doit cesser ses activités, le financement du DPC reste garanti jusqu'en 2027, mais l'indemnisation des formations en e-learning disparaît, à la veille d'une refonte du dispositif.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/exercice-liberal/le-metier-didel/suppression-de-lagence-nationale-du-dpc-les-infirmiers-liberaux-sinquietent-pour-leur-formation"
+      "title": "Cadres de santé : les Journées nationales (JNCS) ouvrent leurs inscriptions, rendez-vous à Nantes les 23 et 24 novembre",
+      "summary": "L'ANCIM organise la 34e édition des Journées nationales des cadres de santé sur le thème « Cadres de santé 2.0 : naviguer dans la complexité », consacré à l'alliance entre humain, collectif et intelligence artificielle dans le pilotage des organisations de soins.",
+      "source": "ANCIM",
+      "url": "https://www.ancim.fr/journee-nationale-des-cadres-de-sante-ancim-2026.html"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Hémocultures",
-    "subtitle": "Un prélèvement sanguin clé pour identifier une infection avant l'antibiothérapie",
-    "definition": "Prélèvement de sang veineux ensemencé dans des flacons aérobie et anaérobie pour rechercher un agent infectieux circulant (bactériémie, fongémie), à réaliser idéalement avant toute antibiothérapie, au moment d'un pic fébrile ou de frissons.",
+    "field": "Réglementaire & rôle",
+    "term": "Protocole de coopération",
+    "subtitle": "Un cadre légal qui permet à l'infirmier de réaliser, par délégation, certains actes habituellement réservés au médecin",
+    "definition": "Dispositif prévu par le code de la santé publique (issu de l'article 51 de la loi HPST du 21 juillet 2009) qui autorise des professionnels de santé à opérer entre eux des transferts d'activités ou d'actes de soins, en dérogeant aux conditions légales d'exercice, après validation par l'Agence régionale de santé ou la Haute Autorité de santé.",
     "steps": [
-      { "n": "1", "h": "Anticiper", "t": "prélever avant l'introduction ou le changement d'antibiotique, si possible au moment du pic fébrile ou des frissons." },
-      { "n": "2", "h": "Prélever", "t": "respecter une asepsie rigoureuse, prélever au moins deux paires de flacons aérobie/anaérobie, à des sites différents en cas de suspicion d'infection sur cathéter." },
-      { "n": "3", "h": "Tracer", "t": "noter l'heure, le site de prélèvement et la température, puis acheminer rapidement les flacons au laboratoire." }
+      { "n": "1", "h": "Vérifier", "t": "s'assurer que l'infirmier est nommément inclus dans un protocole de coopération autorisé et formé aux actes qu'il décrit, avant toute réalisation." },
+      { "n": "2", "h": "Appliquer", "t": "réaliser l'acte délégué dans le strict respect du protocole (indications, technique, limites), sans l'étendre à des situations non prévues." },
+      { "n": "3", "h": "Tracer", "t": "consigner l'acte dans le dossier patient et signaler tout écart ou événement indésirable au médecin délégant et au coordonnateur du protocole." }
     ],
-    "retenir": "Une hémoculture bien réalisée avant l'antibiothérapie conditionne l'identification du germe et l'adaptation du traitement : la rigueur de l'asepsie et du timing est essentielle. ",
-    "sources": "Sources : SF2H · SPILF."
+    "retenir": "Un protocole de coopération élargit le champ d'action infirmier de façon encadrée, formée et réversible : il engage la responsabilité de l'infirmier au même titre que tout acte de son rôle propre ou prescrit. ",
+    "sources": "Sources : HAS · Code de la santé publique (art. L4011-1 à L4011-3)."
   }
 }

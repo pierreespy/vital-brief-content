@@ -1,71 +1,71 @@
 {
-  "dateLong": "Ven. 25 sept.",
+  "dateLong": "Sam. 26 sept.",
   "essentiel": [
-    { "text": "La liste des biosimilaires substituables s'élargit au dénosumab, l'" },
+    { "text": "La " },
+    { "text": "HAS", "strong": true },
+    { "text": " donne un avis favorable au décret ouvrant aux infirmiers libéraux l'approvisionnement en vaccins grippe et Covid-19, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle des lots d'écouvillons pour endoscope du fabricant LTA Médical, " },
+    { "text": " rappelle des lots de prothèses vasculaires Intergard du fabricant Getinge, " },
     { "text": "Santé publique France", "strong": true },
-    { "text": " recense 90 cas de chikungunya autochtone dont le foyer de Val-de-Marne, les infirmiers libéraux du " },
-    { "text": "SNIIL", "strong": true },
-    { "text": " haussent le ton sur le prix des carburants, et les cadres de santé de l'" },
-    { "text": "ANCIM", "strong": true },
-    { "text": " ouvrent les inscriptions aux Journées nationales de Nantes." }
+    { "text": " recense 20 cas de virus West Nile en Île-de-France dont deux décès, une intersyndicale appelle à la grève le 29 septembre contre les 60 000 postes infirmiers vacants, et un arrêté encadre la formation des " },
+    { "text": "infirmiers en pratique avancée", "strong": true },
+    { "text": " à la prescription d'antibiotiques après test rapide." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Substitution en pharmacie : la liste des biosimilaires s'élargit au dénosumab",
-      "summary": "Un arrêté du 17 septembre 2026 porte de 11 à 13 le nombre de groupes biologiques similaires substituables par le pharmacien, avec l'ajout des biosimilaires du dénosumab (Prolia, Xgeva), sous réserve de conditions de substitution et d'information du patient.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38342-substitution-de-biomedicaments-en-pharmacie-la-liste-passe-de-11-a-13-groupes.html"
+      "title": "Vaccination : la HAS donne un avis favorable pour que les infirmiers libéraux détiennent directement les vaccins grippe et Covid-19",
+      "summary": "Le 3 septembre 2026, la Haute Autorité de santé a rendu un avis favorable au projet de décret, issu de l'article 55 de la LFSS 2026, autorisant infirmiers libéraux, médecins généralistes, sages-femmes et centres de santé à s'approvisionner et à détenir les vaccins contre la grippe saisonnière et la Covid-19 pour les publics pris en charge à 100 %.",
+      "source": "Caducée",
+      "url": "https://www.caducee.net/actualite-medicale/16926/prescription-infirmiere-l-avis-de-la-has-relance-le-debat-sur-l-arrete-final.html"
     },
     {
       "category": "alertes",
-      "title": "Endoscopie : l'ANSM rappelle des écouvillons LTA Médical distribués par Getinge",
-      "summary": "Un retrait de lots d'écouvillons pour endoscope du fabricant LTA Médical a été notifié le 24 septembre 2026 (référence ANSM R2627417) ; les pharmacies à usage intérieur et établissements de santé concernés sont invités à contacter directement l'exploitant.",
+      "title": "Prothèses vasculaires : l'ANSM annonce le rappel des lots Intergard Synergy et Intergard Standard Knitted (Getinge)",
+      "summary": "Le 24 septembre 2026, l'ANSM a publié une information de sécurité (référence R2625881) relative au retrait de lots de prothèses vasculaires Intergard Synergy Knitted et Intergard Standard Knitted du fabricant Getinge, décidé par l'industriel et notifié aux établissements de santé concernés.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/ecouvillon-pour-endoscope-lta-medical"
+      "url": "https://ansm.sante.fr/informations-de-securite/protheses-vasculaires-intergard-synergy-knitted-et-intergard-standard-knitted-getinge"
     },
     {
       "category": "science",
-      "title": "Chikungunya autochtone : la circulation se stabilise en Île-de-France, 90 cas recensés en France hexagonale",
-      "summary": "Le bulletin de surveillance renforcée de Santé publique France du 23 septembre 2026 dénombre 13 foyers de transmission autochtone dont celui de Nogent-sur-Marne (Val-de-Marne), sans nouveau foyer identifié cette semaine.",
+      "title": "Virus West Nile : 20 cas confirmés en Île-de-France en 2026, dont deux décès",
+      "summary": "Le point épidémiologique de Santé publique France du 23 septembre 2026 recense 20 cas confirmés d'infection à virus West Nile en Île-de-France, transmis par des moustiques Culex, dont 11 formes neuro-invasives et deux décès chez des patients de 73 et 88 ans.",
       "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/maladies-a-transmission-vectorielle/chikungunya/bulletin-national/chikungunya-dengue-zika-et-24"
+      "url": "https://www.santepubliquefrance.fr/sites/default/files/2026-09/bullreg_idf_20260923.pdf"
     },
     {
       "category": "profession",
-      "title": "Prix des carburants : les infirmiers libéraux multiplient les demandes avant les annonces de Bercy",
-      "summary": "Le SNIIL a annoncé le 21 septembre 2026 que « les infirmiers et infirmières libéraux ne peuvent plus attendre » face à la hausse du prix des carburants, qui pèse sur les tournées à domicile, et réclame des mesures de compensation avant les arbitrages du ministère des Finances.",
-      "source": "Caducée",
-      "url": "https://www.caducee.net/actualite-medicale/16976/prix-des-carburants-les-infirmiers-liberaux-multiplient-les-demandes-avant-les-annonces-de-bercy.html"
+      "title": "Grève du 29 septembre : l'intersyndicale dénonce plus de 60 000 postes infirmiers vacants à l'hôpital",
+      "summary": "À l'appel d'une intersyndicale, soignants, pompiers et agents de la fonction publique doivent manifester le 29 septembre 2026 ; FO-SPS pointe une rentrée hospitalière « explosive », avec plus de 60 000 postes infirmiers vacants et des rassemblements silencieux prévus devant les établissements de santé.",
+      "source": "Force Ouvrière",
+      "url": "https://www.force-ouvriere.fr/hopital-apres-un-ete-caniculaire-une-rentree-explosive"
     },
     {
       "category": "technique",
-      "title": "Nouveaux actes infirmiers : mini-spiromètre, télésurveillance d'implants et stimulation cérébrale profonde",
-      "summary": "L'arrêté du 26 juin 2026 élargit le champ technique des infirmiers diplômés d'État à de nouveaux gestes : réalisation et lecture fonctionnelle d'un examen au mini-spiromètre, surveillance à distance de dispositifs implantables et réglage de la stimulation cérébrale profonde.",
-      "source": "SNPI",
-      "url": "https://syndicat-infirmier.com/Arrete-actes-et-soins-infirmiers-26-juin-2026.html"
+      "title": "Plaies : Urgo Medical lance UrgoK2 Lite, un système de compression multitype à pression modérée",
+      "summary": "Depuis le 1er septembre 2026, Urgo Medical complète sa gamme avec UrgoK2 Lite, un système de compression veineuse bi-bande délivrant environ 20 mmHg grâce à son indicateur de calibrage PresSure System, destiné aux patients présentant un risque artériel ou une intolérance à une compression plus forte.",
+      "source": "Actusoins",
+      "url": "https://www.actusoins.com/nouveaute-en-compression-urgo-medical-lance-urgok2-lite-le-systeme-multitype-a-pression-moderee-pour-repondre-a-de-nouvelles-situations-cliniques.html"
     },
     {
       "category": "formation",
-      "title": "Cadres de santé : les Journées nationales (JNCS) ouvrent leurs inscriptions, rendez-vous à Nantes les 23 et 24 novembre",
-      "summary": "L'ANCIM organise la 34e édition des Journées nationales des cadres de santé sur le thème « Cadres de santé 2.0 : naviguer dans la complexité », consacré à l'alliance entre humain, collectif et intelligence artificielle dans le pilotage des organisations de soins.",
-      "source": "ANCIM",
-      "url": "https://www.ancim.fr/journee-nationale-des-cadres-de-sante-ancim-2026.html"
+      "title": "Angine et cystite : un arrêté encadre la formation des IPA à la prescription d'antibiotiques après TROD",
+      "summary": "L'arrêté du 7 août 2026 fixe les modalités de formation spécifique — deux heures maximum, en tout ou partie en e-learning, validées par un QCM de 10 items à 8/10 minimum — permettant aux infirmiers en pratique avancée de prescrire des antibiotiques pour une angine à streptocoque du groupe A (patients de plus de 10 ans, score de McIsaac) ou une cystite aiguë simple (femmes de 16 à 65 ans) identifiées par test rapide d'orientation diagnostique.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054658932"
     }
   ],
   "word": {
-    "field": "Réglementaire & rôle",
-    "term": "Protocole de coopération",
-    "subtitle": "Un cadre légal qui permet à l'infirmier de réaliser, par délégation, certains actes habituellement réservés au médecin",
-    "definition": "Dispositif prévu par le code de la santé publique (issu de l'article 51 de la loi HPST du 21 juillet 2009) qui autorise des professionnels de santé à opérer entre eux des transferts d'activités ou d'actes de soins, en dérogeant aux conditions légales d'exercice, après validation par l'Agence régionale de santé ou la Haute Autorité de santé.",
+    "field": "Gestes & soins",
+    "term": "Échelle de Braden",
+    "subtitle": "Un outil validé pour évaluer le risque qu'un patient développe une escarre",
+    "definition": "Grille d'évaluation clinique cotant six sous-échelles (perception sensorielle, humidité, activité, mobilité, friction/cisaillement, alimentation) de 1 à 4 points chacune, dont le score total (de 6 à 23) permet de stratifier le risque d'escarre : plus le score est bas, plus le risque est élevé.",
     "steps": [
-      { "n": "1", "h": "Vérifier", "t": "s'assurer que l'infirmier est nommément inclus dans un protocole de coopération autorisé et formé aux actes qu'il décrit, avant toute réalisation." },
-      { "n": "2", "h": "Appliquer", "t": "réaliser l'acte délégué dans le strict respect du protocole (indications, technique, limites), sans l'étendre à des situations non prévues." },
-      { "n": "3", "h": "Tracer", "t": "consigner l'acte dans le dossier patient et signaler tout écart ou événement indésirable au médecin délégant et au coordonnateur du protocole." }
+      { "n": "1", "h": "Évaluer", "t": "coter les six sous-échelles à l'entrée du patient, puis à intervalles réguliers ou à chaque changement d'état clinique." },
+      { "n": "2", "h": "Stratifier", "t": "situer le score total sur l'échelle de risque pour déterminer le niveau de vigilance requis, un score bas signalant un risque élevé." },
+      { "n": "3", "h": "Agir et tracer", "t": "mettre en place les mesures de prévention adaptées (supports, mobilisation, nutrition, protection cutanée) et consigner le score dans le dossier de soins." }
     ],
-    "retenir": "Un protocole de coopération élargit le champ d'action infirmier de façon encadrée, formée et réversible : il engage la responsabilité de l'infirmier au même titre que tout acte de son rôle propre ou prescrit. ",
-    "sources": "Sources : HAS · Code de la santé publique (art. L4011-1 à L4011-3)."
+    "retenir": "L'échelle de Braden objective le risque d'escarre pour déclencher les mesures de prévention avant l'apparition de la lésion cutanée ; sa réévaluation régulière permet de suivre l'évolution de l'état du patient. ",
+    "sources": "Sources : HAS · Haute Autorité de Santé (évaluation du risque d'escarre)."
   }
 }

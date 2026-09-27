@@ -1,5 +1,6 @@
 {
   "recent": [
+    { "term": "Score NEWS2 (National Early Warning Score)", "date": "2026-09-27" },
     { "term": "Échelle de Braden", "date": "2026-09-26" },
     { "term": "Protocole de coopération", "date": "2026-09-25" },
     { "term": "Hémocultures", "date": "2026-09-24" },
@@ -28,7 +29,6 @@
     { "term": "Syndrome de glissement", "date": "2026-08-29" },
     { "term": "Iatrogénie médicamenteuse", "date": "2026-08-28" },
     { "term": "Rhabdomyolyse", "date": "2026-08-27" },
-    { "term": "Hypodermoclyse", "date": "2026-08-26" },
-    { "term": "Accident d'exposition au sang (AES)", "date": "2026-08-25" }
+    { "term": "Hypodermoclyse", "date": "2026-08-26" }
   ]
 }

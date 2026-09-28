@@ -1,71 +1,73 @@
 {
-  "dateLong": "Dim. 27 sept.",
+  "dateLong": "Lun. 28 sept.",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "Ordre national des infirmiers", "strong": true },
-    { "text": " franchit une étape du virage numérique de la profession et ouvre l'appel à candidatures pour les élections ordinales d'octobre, l'" },
+    { "text": "Le diplôme d'État d'infirmier est désormais délivré par les " },
+    { "text": "universités", "strong": true },
+    { "text": " accréditées depuis la rentrée 2026, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle des lots de Flebogamma DIF et alerte sur le compteur thyroïdien Captus 4000e, une enquête Ifop pour l'" },
-    { "text": "URPS Infirmiers libéraux PACA", "strong": true },
-    { "text": " révèle qu'un infirmier libéral sur deux envisage d'arrêter le métier, et le " },
-    { "text": "CHAM", "strong": true },
-    { "text": " réunit 500 décideurs de santé à Chamonix avant la présentation du PLFSS." }
+    { "text": " actualise l'information de sécurité sur les laveurs-désinfecteurs d'endoscopes Soluscope et alerte sur la centrifugeuse de laboratoire Rotofix 32 A, la revue " },
+    { "text": "ReAScI", "strong": true },
+    { "text": " publie un numéro spécial sur la pratique avancée infirmière, le personnel des urgences pédiatriques du " },
+    { "text": "CHU de Lille", "strong": true },
+    { "text": " se met en grève faute de moyens humains, et les " },
+    { "text": "Journées des Infirmiers", "strong": true },
+    { "text": " ouvrent les inscriptions pour l'étape de Lille en novembre." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Numérique en santé : l'Ordre national des infirmiers salue une étape supplémentaire franchie",
-      "summary": "Le 23 septembre 2026, l'Ordre national des infirmiers annonce la généralisation de Pro Santé Connect pour l'accès des IDE au Dossier Médical Partagé et aux services numériques via leur logiciel métier, dans le sillage de l'arrêté du 15 juillet 2026 créant le programme de financement « Ségur numérique en santé » pour les professionnels libéraux.",
+      "title": "Diplôme d'État d'infirmier : le nouveau référentiel universitaire s'applique depuis la rentrée 2026",
+      "summary": "Le décret n° 2026-130 et l'arrêté du 20 février 2026, publiés au Journal officiel, transfèrent depuis le 1er septembre 2026 la délivrance du diplôme d'État d'infirmier des préfets de région vers les universités accréditées, pour les étudiants entrant en première année d'IFSI dans le cadre de l'universitarisation de la formation.",
       "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/numerique-en-sante-une-etape-supplementaire-franchie"
+      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-salue-la-publication-au-journal-officiel-du-decret-ndeg-2026-130-du"
     },
     {
       "category": "alertes",
-      "title": "Immunoglobulines : l'ANSM annonce le rappel de lots de Flebogamma DIF (Grifols) après des réactions allergiques",
-      "summary": "Le 22 septembre 2026, l'ANSM a publié une information de sécurité annonçant le rappel par Grifols France des lots de Flebogamma DIF 50 mg/ml 400 ml (G04L043941) et 100 mg/ml 100 ml et 200 ml (G04K139941, G04K169391), suite à une recrudescence de réactions allergiques et d'hypersensibilité, sérieuses et non sérieuses, chez des patients perfusés.",
+      "title": "Endoscopie : l'ANSM actualise l'information de sécurité sur les laveurs-désinfecteurs Soluscope",
+      "summary": "Le 24 septembre 2026, l'ANSM a mis à jour l'information de sécurité (référence R2513667) relative aux laveurs-désinfecteurs à endoscope Soluscope séries 4, XS, 3 et ENT, rappelant aux établissements de santé le protocole de maintenance à respecter pour garantir la qualité de la désinfection des endoscopes.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/flebogamma-dif-50-mg-ml-solution-pour-perfusion-400-ml-et-flebogamma-dif-100-mg-ml-solution-pour-perfusion-100-ml-et-200-ml-laboratoire-grifols-france"
+      "url": "https://ansm.sante.fr/informations-de-securite/laveur-desinfecteur-a-endoscope-endoscopie-soluscope-serie-4-xs-3-et-ent-soluscope-sas"
     },
     {
       "category": "science",
-      "title": "Un infirmier libéral sur deux en PACA envisage d'arrêter le métier, selon une enquête Ifop",
-      "summary": "Publiée début septembre 2026, une enquête Ifop menée pour l'URPS Infirmiers libéraux PACA auprès de 1 222 professionnels révèle que 61 % envisagent de quitter la profession, 44 % présentent un risque psychosocial élevé et 91 % se disent pessimistes sur l'avenir du métier, avec un niveau de stress supérieur de 24 points à la moyenne nationale.",
-      "source": "France 3 Régions",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/un-patient-a-meme-jete-une-chaise-sur-ma-collegue-plus-d-un-infirmier-liberal-sur-deux-veut-arreter-le-metier-le-pessimisme-gagne-3410465.html"
+      "title": "Pratique avancée infirmière : un numéro spécial de la revue ReAScI éclaire la discipline",
+      "summary": "La revue Recherche et Avancées en Sciences Infirmières publie son numéro hors-série 2026 « Pour une pratique avancée éclairée à la lumière de la discipline infirmière », coordonné par Philippe Delmas, qui croise cadres conceptuels, résultats de recherche et expériences de terrain sur le rôle des infirmiers en pratique avancée en France et à l'international.",
+      "source": "Recherche et Avancées en Sciences Infirmières (ReAScI)",
+      "url": "https://www.unilim.fr/reasci/696&file=1/"
     },
     {
       "category": "profession",
-      "title": "Élections ordinales : l'Ordre infirmier ouvre l'appel à candidatures pour le renouvellement d'octobre 2026",
-      "summary": "L'Ordre national des infirmiers a ouvert l'appel à candidatures pour le renouvellement partiel des conseils (inter)départementaux (C(I)DOI) : dépôt des dossiers jusqu'au mercredi 30 septembre 2026 à 16h, pour un scrutin fixé au vendredi 30 octobre 2026 et un mandat de 6 ans.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/appel-a-candidatures-elections-des-conseils-interdepartementaux-de-l-ordre-des-infirmiers-cidoi"
+      "title": "Lille : le personnel des urgences pédiatriques en grève faute de moyens humains",
+      "summary": "Le 22 septembre 2026, les équipes des urgences pédiatriques du CHU de Lille se sont mises en grève pour dénoncer un manque d'effectifs jugé dangereux pour les enfants, réclamant le renforcement pérenne du service par six infirmières ou puéricultrices et six aides-soignants ou auxiliaires de puériculture supplémentaires.",
+      "source": "France 3 Régions",
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/on-recupere-regulierement-du-personnel-en-pleurs-les-urgences-pediatriques-en-greve-pour-plus-de-moyens-humains-3421052.html"
     },
     {
       "category": "technique",
-      "title": "Médecine nucléaire : information de sécurité de l'ANSM sur le compteur thyroïdien Captus 4000e",
-      "summary": "L'ANSM a diffusé une information de sécurité concernant le compteur thyroïdien Captus 4000e (Mirion Technologies/Capintec) pour les appareils dont le numéro de série est compris entre 940548 et 941398, à la suite d'une action corrective de sécurité du fabricant enregistrée sous la référence R2625402.",
+      "title": "Laboratoires : l'ANSM alerte sur la centrifugeuse Rotofix 32 A (Andreas Hettich)",
+      "summary": "L'ANSM a été informée le 23 septembre 2026 d'une action corrective de sécurité (référence R2623977) mise en œuvre par la société Andreas Hettich sur la centrifugeuse de paillasse Rotofix 32 A, destinée aux laboratoires de biologie médicale ayant reçu le courrier du fabricant.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/medecine-nucleaire-captus-4000e-dont-les-numeros-de-serie-sont-compris-entre-940548-et-941398-mirion-technologies-capintec"
+      "url": "https://ansm.sante.fr/informations-de-securite/centrifugeuse-rotofix-32-a-andreas-hettich"
     },
     {
       "category": "formation",
-      "title": "CHAM 2026 : 500 décideurs de santé réunis à Chamonix avant le PLFSS",
-      "summary": "Les 24 et 25 septembre 2026, plus de 500 décideurs et professionnels de santé se sont réunis à Chamonix pour la 18e édition du CHAM (Convention on Health Analysis and Management), sur le thème « La santé : fatiguée, empêchée, divisée… demain libérée ? », juste avant la présentation du PLFSS.",
-      "source": "Agence du Numérique en Santé",
-      "url": "https://esante.gouv.fr/agenda/cham-2026-convention-health-analysis-and-management"
+      "title": "Journées des Infirmiers : les inscriptions ouvrent pour l'étape de Lille",
+      "summary": "Les Journées des Infirmiers (JDI) tiendront leur édition de Lille les 25 et 26 novembre 2026, avec conférences, ateliers pratiques et stands consacrés aux spécialités infirmières, aux nouvelles technologies de soin et au bien-être des soignants.",
+      "source": "Journées des Infirmiers",
+      "url": "https://journeesdesinfirmiers.fr/jdi-lille-2025/"
     }
   ],
   "word": {
-    "field": "Urgences & vigilance",
-    "term": "Score NEWS2 (National Early Warning Score)",
-    "subtitle": "Un score de vigilance pour détecter précocement l'aggravation d'un patient",
-    "definition": "Outil standardisé qui note six paramètres vitaux (fréquence respiratoire, saturation en oxygène, oxygénothérapie, température, pression artérielle systolique, fréquence cardiaque) et l'état de conscience, dont le score total oriente la fréquence de surveillance et le seuil d'alerte médicale.",
+    "field": "Clinique & vigilance",
+    "term": "Syndrome confusionnel aigu",
+    "subtitle": "Une altération brutale de l'attention et de la conscience, à ne pas confondre avec la démence",
+    "definition": "Trouble neuropsychiatrique aigu et fluctuant, marqué par une altération de l'attention et de la conscience, le plus souvent déclenché par une cause organique (infection, douleur, rétention, iatrogénie médicamenteuse) chez une personne fragile ou âgée.",
     "steps": [
-      { "n": "1", "h": "Mesurer", "t": "relever les six paramètres vitaux et l'état de conscience à intervalles définis selon le protocole du service." },
-      { "n": "2", "h": "Coter", "t": "additionner les points attribués à chaque paramètre pour obtenir le score total et situer le niveau de risque (faible, moyen, élevé)." },
-      { "n": "3", "h": "Alerter et tracer", "t": "déclencher la surveillance renforcée ou l'appel médical selon le seuil atteint, et consigner le score dans le dossier de soins." }
+      { "n": "1", "h": "Repérer", "t": "évaluer l'attention et le caractère fluctuant des symptômes (outil CAM) devant tout changement brutal de comportement." },
+      { "n": "2", "h": "Rechercher la cause", "t": "éliminer en priorité une cause organique aiguë : douleur, globe vésical, fécalome, infection, sevrage, effet indésirable médicamenteux." },
+      { "n": "3", "h": "Sécuriser et tracer", "t": "réorienter le patient, limiter la contention, adapter l'environnement (repères, sommeil, présence des proches) et consigner l'évolution dans le dossier de soins." }
     ],
-    "retenir": "Le score NEWS2 objective une dégradation clinique avant qu'elle ne devienne critique, en standardisant le langage de l'alerte entre les équipes de soins. ",
-    "sources": "Sources : Royal College of Physicians (NEWS2) · HAS (repérage des patients à risque de dégradation clinique)."
+    "retenir": "Le syndrome confusionnel aigu est un signal d'alerte, pas une fatalité du grand âge : son repérage précoce par l'infirmière et le traitement de sa cause en améliorent le pronostic. ",
+    "sources": "Sources : HAS (confusion aiguë de la personne âgée) · SFGG (Société Française de Gériatrie et Gérontologie)."
   }
 }

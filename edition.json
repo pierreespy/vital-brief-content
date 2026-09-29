@@ -1,73 +1,73 @@
 {
-  "dateLong": "Lun. 28 sept.",
+  "dateLong": "Mar. 29 sept.",
   "essentiel": [
-    { "text": "Le diplôme d'État d'infirmier est désormais délivré par les " },
-    { "text": "universités", "strong": true },
-    { "text": " accréditées depuis la rentrée 2026, l'" },
+    { "text": "Huit syndicats de la " },
+    { "text": "fonction publique", "strong": true },
+    { "text": " appellent à la grève ce 29 septembre contre le gel du point d'indice, la lettre-clé AMI des " },
+    { "text": "infirmiers libéraux", "strong": true },
+    { "text": " passera à 3,35 € dès novembre (avenant n° 11), l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " actualise l'information de sécurité sur les laveurs-désinfecteurs d'endoscopes Soluscope et alerte sur la centrifugeuse de laboratoire Rotofix 32 A, la revue " },
-    { "text": "ReAScI", "strong": true },
-    { "text": " publie un numéro spécial sur la pratique avancée infirmière, le personnel des urgences pédiatriques du " },
-    { "text": "CHU de Lille", "strong": true },
-    { "text": " se met en grève faute de moyens humains, et les " },
-    { "text": "Journées des Infirmiers", "strong": true },
-    { "text": " ouvrent les inscriptions pour l'étape de Lille en novembre." }
+    { "text": " publie une information de sécurité sur l'occluder Amplatzer Amulet d'Abbott et sur les sondes InterStim SureScan de Medtronic, la " },
+    { "text": "HAS", "strong": true },
+    { "text": " met à disposition son référentiel de compétences en facteurs humains, et les orientations " },
+    { "text": "DPC", "strong": true },
+    { "text": " restent valables jusqu'au 31 décembre 2026." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Diplôme d'État d'infirmier : le nouveau référentiel universitaire s'applique depuis la rentrée 2026",
-      "summary": "Le décret n° 2026-130 et l'arrêté du 20 février 2026, publiés au Journal officiel, transfèrent depuis le 1er septembre 2026 la délivrance du diplôme d'État d'infirmier des préfets de région vers les universités accréditées, pour les étudiants entrant en première année d'IFSI dans le cadre de l'universitarisation de la formation.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-salue-la-publication-au-journal-officiel-du-decret-ndeg-2026-130-du"
+      "title": "Avenant n° 11 : la lettre-clé AMI passe de 3,15 € à 3,35 € dès novembre 2026",
+      "summary": "Signé le 31 mars 2026 et approuvé par arrêté du 5 mai 2026, l'avenant n° 11 à la convention des infirmiers libéraux revalorise la lettre-clé AMI de 9,5 % en deux temps (+20 centimes en novembre 2026, +10 centimes en 2027), dans une enveloppe de 503 millions d'euros sur 2026-2029.",
+      "source": "Assurance Maladie (ameli)",
+      "url": "https://www.ameli.fr/infirmier/actualites/convention-des-infirmiers-liberaux-un-avenant-structurant-pour-accompagner-l-evolution-du-metier"
     },
     {
       "category": "alertes",
-      "title": "Endoscopie : l'ANSM actualise l'information de sécurité sur les laveurs-désinfecteurs Soluscope",
-      "summary": "Le 24 septembre 2026, l'ANSM a mis à jour l'information de sécurité (référence R2513667) relative aux laveurs-désinfecteurs à endoscope Soluscope séries 4, XS, 3 et ENT, rappelant aux établissements de santé le protocole de maintenance à respecter pour garantir la qualité de la désinfection des endoscopes.",
+      "title": "DM d'occlusion intra-cardiaque Amplatzer Amulet (Abbott Medical) : information de sécurité de l'ANSM",
+      "summary": "Publiée le 28 septembre 2026, l'information de sécurité (référence R2627418) fait suite à une action corrective de sécurité mise en œuvre par Abbott Medical sur le dispositif de fermeture de l'auricule gauche Amplatzer Amulet Left Atrial Appendage Occluder.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/laveur-desinfecteur-a-endoscope-endoscopie-soluscope-serie-4-xs-3-et-ent-soluscope-sas"
+      "url": "https://ansm.sante.fr/informations-de-securite/dm-docclusion-intra-cardiaque-amplatzer-amulet-left-atrial-appendage-occluder-abbott-medical"
     },
     {
       "category": "science",
-      "title": "Pratique avancée infirmière : un numéro spécial de la revue ReAScI éclaire la discipline",
-      "summary": "La revue Recherche et Avancées en Sciences Infirmières publie son numéro hors-série 2026 « Pour une pratique avancée éclairée à la lumière de la discipline infirmière », coordonné par Philippe Delmas, qui croise cadres conceptuels, résultats de recherche et expériences de terrain sur le rôle des infirmiers en pratique avancée en France et à l'international.",
-      "source": "Recherche et Avancées en Sciences Infirmières (ReAScI)",
-      "url": "https://www.unilim.fr/reasci/696&file=1/"
+      "title": "HAS : un référentiel de compétences en facteurs humains pour la qualité et la sécurité des soins",
+      "summary": "Publié en avril 2026, ce guide de la Haute Autorité de santé définit les compétences non techniques (communication, travail en équipe, gestion du stress) à enseigner en formation initiale et continue, notamment aux infirmiers et aux infirmiers en pratique avancée.",
+      "source": "Haute Autorité de santé",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2026-04/dir1/referentiel_de_competences_en_facteurs_humains_au_service_de_la_qualite_et_la_securite_des_soins_competences_non_techniques.pdf"
     },
     {
       "category": "profession",
-      "title": "Lille : le personnel des urgences pédiatriques en grève faute de moyens humains",
-      "summary": "Le 22 septembre 2026, les équipes des urgences pédiatriques du CHU de Lille se sont mises en grève pour dénoncer un manque d'effectifs jugé dangereux pour les enfants, réclamant le renforcement pérenne du service par six infirmières ou puéricultrices et six aides-soignants ou auxiliaires de puériculture supplémentaires.",
-      "source": "France 3 Régions",
-      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/on-recupere-regulierement-du-personnel-en-pleurs-les-urgences-pediatriques-en-greve-pour-plus-de-moyens-humains-3421052.html"
+      "title": "Grève du 29 septembre : huit syndicats de la fonction publique mobilisés contre le gel du point d'indice",
+      "summary": "Enseignants, infirmiers, pompiers et agents des impôts manifestent dans 150 à 170 cortèges en France, la CFDT santé-sociaux défilant pour les agents de la fonction publique hospitalière avant la présentation du budget 2027.",
+      "source": "CFDT Santé-Sociaux",
+      "url": "https://sante-sociaux.cfdt.fr/sinformer/lactu-de-la-federation/le-29-septembre-2026-defendons-la-fonction-publique"
     },
     {
       "category": "technique",
-      "title": "Laboratoires : l'ANSM alerte sur la centrifugeuse Rotofix 32 A (Andreas Hettich)",
-      "summary": "L'ANSM a été informée le 23 septembre 2026 d'une action corrective de sécurité (référence R2623977) mise en œuvre par la société Andreas Hettich sur la centrifugeuse de paillasse Rotofix 32 A, destinée aux laboratoires de biologie médicale ayant reçu le courrier du fabricant.",
+      "title": "Neurostimulation : information de sécurité sur les sondes InterStim SureScan MRI (Medtronic)",
+      "summary": "Publiée par l'ANSM le 25 septembre 2026, l'information concerne les sondes de neurostimulation et accessoires du neurostimulateur InterStim SureScan MRI de Medtronic, utilisés notamment dans l'incontinence et les troubles vésicaux.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/centrifugeuse-rotofix-32-a-andreas-hettich"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "Journées des Infirmiers : les inscriptions ouvrent pour l'étape de Lille",
-      "summary": "Les Journées des Infirmiers (JDI) tiendront leur édition de Lille les 25 et 26 novembre 2026, avec conférences, ateliers pratiques et stands consacrés aux spécialités infirmières, aux nouvelles technologies de soin et au bien-être des soignants.",
-      "source": "Journées des Infirmiers",
-      "url": "https://journeesdesinfirmiers.fr/jdi-lille-2025/"
+      "title": "DPC infirmier : les orientations nationales prorogées jusqu'au 31 décembre 2026",
+      "summary": "Le financement DPC reste garanti toute l'année 2026 : les infirmiers peuvent s'inscrire jusqu'au 31 décembre 2026, avec des compteurs remis à zéro et seules les formations mixtes ou en présentiel prises en charge (l'e-learning pur ne l'est plus).",
+      "source": "Pôle Formation Santé",
+      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
     }
   ],
   "word": {
-    "field": "Clinique & vigilance",
-    "term": "Syndrome confusionnel aigu",
-    "subtitle": "Une altération brutale de l'attention et de la conscience, à ne pas confondre avec la démence",
-    "definition": "Trouble neuropsychiatrique aigu et fluctuant, marqué par une altération de l'attention et de la conscience, le plus souvent déclenché par une cause organique (infection, douleur, rétention, iatrogénie médicamenteuse) chez une personne fragile ou âgée.",
+    "field": "Gestes & soins",
+    "term": "Pose de voie veineuse périphérique (VVP)",
+    "subtitle": "Poser un cathéter court dans une veine superficielle pour perfuser ou injecter en toute sécurité",
+    "definition": "Geste infirmier qui consiste à insérer un cathéter court dans une veine superficielle (le plus souvent de l'avant-bras ou du dos de la main) afin d'administrer des solutés et des médicaments par voie intraveineuse, sur prescription médicale ou selon protocole.",
     "steps": [
-      { "n": "1", "h": "Repérer", "t": "évaluer l'attention et le caractère fluctuant des symptômes (outil CAM) devant tout changement brutal de comportement." },
-      { "n": "2", "h": "Rechercher la cause", "t": "éliminer en priorité une cause organique aiguë : douleur, globe vésical, fécalome, infection, sevrage, effet indésirable médicamenteux." },
-      { "n": "3", "h": "Sécuriser et tracer", "t": "réorienter le patient, limiter la contention, adapter l'environnement (repères, sommeil, présence des proches) et consigner l'évolution dans le dossier de soins." }
+      { "n": "1", "h": "Préparer", "t": "vérifier la prescription et l'identité du patient, choisir le site et le calibre du cathéter, réaliser une hygiène des mains puis une antisepsie large de la peau en respectant le temps de séchage." },
+      { "n": "2", "h": "Poser", "t": "poser le garrot, ponctionner en respectant l'asepsie, contrôler le reflux sanguin, retirer le mandrin dans le conteneur à objets piquants puis purger et rincer la ligne." },
+      { "n": "3", "h": "Surveiller et tracer", "t": "fixer avec un pansement transparent, surveiller quotidiennement le point de ponction (douleur, rougeur, œdème), retirer dès qu'il n'est plus nécessaire et consigner la pose dans le dossier de soins." }
     ],
-    "retenir": "Le syndrome confusionnel aigu est un signal d'alerte, pas une fatalité du grand âge : son repérage précoce par l'infirmière et le traitement de sa cause en améliorent le pronostic. ",
-    "sources": "Sources : HAS (confusion aiguë de la personne âgée) · SFGG (Société Française de Gériatrie et Gérontologie)."
+    "retenir": "Une VVP est un site d'entrée pour les germes : l'asepsie à la pose, la surveillance quotidienne du site et le retrait dès que la voie n'est plus utile préviennent phlébite et infection. ",
+    "sources": "Sources : HAS (prévention des infections associées aux soins) · SF2H (Société française d'hygiène hospitalière)."
   }
 }

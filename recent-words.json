@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Glycémie capillaire",
+      "date": "2026-09-30"
+    },
+    {
       "term": "Pose de voie veineuse périphérique (VVP)",
       "date": "2026-09-29"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Syndrome de glissement",
       "date": "2026-08-29"
-    },
-    {
-      "term": "Iatrogénie médicamenteuse",
-      "date": "2026-08-28"
     }
   ]
 }

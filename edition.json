@@ -1,73 +1,71 @@
 {
-  "dateLong": "Mar. 29 sept.",
+  "dateLong": "Mer. 30 sept.",
   "essentiel": [
-    { "text": "Huit syndicats de la " },
-    { "text": "fonction publique", "strong": true },
-    { "text": " appellent à la grève ce 29 septembre contre le gel du point d'indice, la lettre-clé AMI des " },
-    { "text": "infirmiers libéraux", "strong": true },
-    { "text": " passera à 3,35 € dès novembre (avenant n° 11), l'" },
-    { "text": "ANSM", "strong": true },
-    { "text": " publie une information de sécurité sur l'occluder Amplatzer Amulet d'Abbott et sur les sondes InterStim SureScan de Medtronic, la " },
+    { "text": "Les arrêtés du 26 juin 2026 ouvrent aux " },
+    { "text": "infirmiers", "strong": true },
+    { "text": " la consultation autonome et la prescription élargie, la " },
     { "text": "HAS", "strong": true },
-    { "text": " met à disposition son référentiel de compétences en facteurs humains, et les orientations " },
-    { "text": "DPC", "strong": true },
-    { "text": " restent valables jusqu'au 31 décembre 2026." }
+    { "text": " publie ses recommandations sur l'organisation de l'urgence vitale intra-hospitalière, l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " diffuse des informations de sécurité sur les prolongateurs 3 voies et les chariots de douche Carevo, et le nouveau référentiel de formation en " },
+    { "text": "4 620 heures", "strong": true },
+    { "text": " s'applique depuis la rentrée." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Avenant n° 11 : la lettre-clé AMI passe de 3,15 € à 3,35 € dès novembre 2026",
-      "summary": "Signé le 31 mars 2026 et approuvé par arrêté du 5 mai 2026, l'avenant n° 11 à la convention des infirmiers libéraux revalorise la lettre-clé AMI de 9,5 % en deux temps (+20 centimes en novembre 2026, +10 centimes en 2027), dans une enveloppe de 503 millions d'euros sur 2026-2029.",
-      "source": "Assurance Maladie (ameli)",
-      "url": "https://www.ameli.fr/infirmier/actualites/convention-des-infirmiers-liberaux-un-avenant-structurant-pour-accompagner-l-evolution-du-metier"
+      "title": "Arrêté du 26 juin 2026 : la liste des actes et soins que peuvent réaliser les infirmiers",
+      "summary": "Pris en application de la réforme de l'exercice infirmier, cet arrêté rend opérationnelle la consultation infirmière autonome, avec notamment l'ECG sans prescription, la prise en charge des plaies et une vaccination élargie.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
     },
     {
       "category": "alertes",
-      "title": "DM d'occlusion intra-cardiaque Amplatzer Amulet (Abbott Medical) : information de sécurité de l'ANSM",
-      "summary": "Publiée le 28 septembre 2026, l'information de sécurité (référence R2627418) fait suite à une action corrective de sécurité mise en œuvre par Abbott Medical sur le dispositif de fermeture de l'auricule gauche Amplatzer Amulet Left Atrial Appendage Occluder.",
+      "title": "Prolongateurs 3 voies et prolongateurs linéaires : information de sécurité de l'ANSM",
+      "summary": "Publiée le 28 septembre 2026, cette information de sécurité concerne des prolongateurs de perfusion utilisés couramment en service de soins ; le même jour, l'ANSM a aussi communiqué sur les chariots de douche Carevo d'ArjoHuntleigh AB.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/dm-docclusion-intra-cardiaque-amplatzer-amulet-left-atrial-appendage-occluder-abbott-medical"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "HAS : un référentiel de compétences en facteurs humains pour la qualité et la sécurité des soins",
-      "summary": "Publié en avril 2026, ce guide de la Haute Autorité de santé définit les compétences non techniques (communication, travail en équipe, gestion du stress) à enseigner en formation initiale et continue, notamment aux infirmiers et aux infirmiers en pratique avancée.",
+      "title": "HAS : recommandations sur l'organisation de la prise en charge de l'urgence vitale intra-hospitalière",
+      "summary": "Publiées le 28 septembre 2026, ces recommandations de bonne pratique de la Haute Autorité de santé portent sur l'organisation de la réponse à une urgence vitale survenant à l'hôpital, un sujet au cœur du travail des équipes soignantes.",
       "source": "Haute Autorité de santé",
-      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2026-04/dir1/referentiel_de_competences_en_facteurs_humains_au_service_de_la_qualite_et_la_securite_des_soins_competences_non_techniques.pdf"
+      "url": "https://www.has-sante.fr/"
     },
     {
       "category": "profession",
-      "title": "Grève du 29 septembre : huit syndicats de la fonction publique mobilisés contre le gel du point d'indice",
-      "summary": "Enseignants, infirmiers, pompiers et agents des impôts manifestent dans 150 à 170 cortèges en France, la CFDT santé-sociaux défilant pour les agents de la fonction publique hospitalière avant la présentation du budget 2027.",
-      "source": "CFDT Santé-Sociaux",
-      "url": "https://sante-sociaux.cfdt.fr/sinformer/lactu-de-la-federation/le-29-septembre-2026-defendons-la-fonction-publique"
+      "title": "Élections départementales 2026 : l'Ordre national des infirmiers appelle les professionnels à s'engager",
+      "summary": "Ouvertes depuis le 28 août 2026, les candidatures aux élections départementales de l'Ordre s'accompagnent de témoignages de professionnels engagés, alors que l'Ordre relaie aussi sa campagne de vaccination 2026-2027.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/"
     },
     {
       "category": "technique",
-      "title": "Neurostimulation : information de sécurité sur les sondes InterStim SureScan MRI (Medtronic)",
-      "summary": "Publiée par l'ANSM le 25 septembre 2026, l'information concerne les sondes de neurostimulation et accessoires du neurostimulateur InterStim SureScan MRI de Medtronic, utilisés notamment dans l'incontinence et les troubles vésicaux.",
+      "title": "Impella : information de sécurité sur le contrôleur automatisé d'assistance ventriculaire (Abiomed)",
+      "summary": "Publiée le 24 septembre 2026 par l'ANSM, l'information concerne le contrôleur automatisé Impella utilisé pour l'assistance ventriculaire temporaire, dispositif de soins intensifs cardiologiques.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "DPC infirmier : les orientations nationales prorogées jusqu'au 31 décembre 2026",
-      "summary": "Le financement DPC reste garanti toute l'année 2026 : les infirmiers peuvent s'inscrire jusqu'au 31 décembre 2026, avec des compteurs remis à zéro et seules les formations mixtes ou en présentiel prises en charge (l'e-learning pur ne l'est plus).",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "Diplôme d'État infirmier : 4 620 heures en trois ans, un nouveau référentiel sous tension dès septembre 2026",
+      "summary": "Structuré en 5 domaines (A à E), 13 compétences et 180 ECTS, le nouveau référentiel de formation est appliqué depuis la rentrée 2026, avec des inquiétudes sur les moyens des instituts.",
+      "source": "Caducee.net",
+      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Pose de voie veineuse périphérique (VVP)",
-    "subtitle": "Poser un cathéter court dans une veine superficielle pour perfuser ou injecter en toute sécurité",
-    "definition": "Geste infirmier qui consiste à insérer un cathéter court dans une veine superficielle (le plus souvent de l'avant-bras ou du dos de la main) afin d'administrer des solutés et des médicaments par voie intraveineuse, sur prescription médicale ou selon protocole.",
+    "field": "Clinique",
+    "term": "Glycémie capillaire",
+    "subtitle": "Mesurer le sucre dans le sang à partir d'une goutte prélevée au bout du doigt",
+    "definition": "Mesure de la concentration de glucose dans le sang à l'aide d'un lecteur et d'une goutte de sang capillaire, réalisée au chevet pour dépister ou surveiller une hypoglycémie ou une hyperglycémie et adapter la prise en charge, sur prescription ou selon protocole.",
     "steps": [
-      { "n": "1", "h": "Préparer", "t": "vérifier la prescription et l'identité du patient, choisir le site et le calibre du cathéter, réaliser une hygiène des mains puis une antisepsie large de la peau en respectant le temps de séchage." },
-      { "n": "2", "h": "Poser", "t": "poser le garrot, ponctionner en respectant l'asepsie, contrôler le reflux sanguin, retirer le mandrin dans le conteneur à objets piquants puis purger et rincer la ligne." },
-      { "n": "3", "h": "Surveiller et tracer", "t": "fixer avec un pansement transparent, surveiller quotidiennement le point de ponction (douleur, rougeur, œdème), retirer dès qu'il n'est plus nécessaire et consigner la pose dans le dossier de soins." }
+      { "n": "1", "h": "Préparer", "t": "vérifier l'identité du patient et l'indication, réaliser une hygiène des mains, contrôler la péremption des bandelettes et le lecteur, puis choisir un site de piqûre sur le côté de la pulpe d'un doigt, main propre et sèche." },
+      { "n": "2", "h": "Mesurer", "t": "piquer avec un autopiqueur à usage unique, éliminer la première goutte si le protocole le demande, recueillir la goutte sur la bandelette, lire le résultat et jeter l'autopiqueur dans le conteneur à objets piquants." },
+      { "n": "3", "h": "Interpréter et tracer", "t": "comparer au seuil du patient (hypoglycémie généralement sous 0,70 g/L), appliquer le protocole de resucrage ou alerter le médecin si besoin, puis consigner la valeur, l'heure et les actions dans le dossier de soins." }
     ],
-    "retenir": "Une VVP est un site d'entrée pour les germes : l'asepsie à la pose, la surveillance quotidienne du site et le retrait dès que la voie n'est plus utile préviennent phlébite et infection. ",
-    "sources": "Sources : HAS (prévention des infections associées aux soins) · SF2H (Société française d'hygiène hospitalière)."
+    "retenir": "Une glycémie capillaire doit toujours être interprétée avec le contexte clinique : une valeur incohérente avec l'état du patient se contrôle (nouvelle mesure ou glycémie veineuse) avant d'agir. ",
+    "sources": "Sources : HAS (recommandations sur la prise en charge du diabète) · Société francophone du diabète (SFD)."
   }
 }

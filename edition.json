@@ -1,71 +1,112 @@
 {
-  "dateLong": "Mer. 30 sept.",
+  "dateLong": "Jeu. 1 oct.",
   "essentiel": [
-    { "text": "Les arrêtés du 26 juin 2026 ouvrent aux " },
-    { "text": "infirmiers", "strong": true },
-    { "text": " la consultation autonome et la prescription élargie, la " },
-    { "text": "HAS", "strong": true },
-    { "text": " publie ses recommandations sur l'organisation de l'urgence vitale intra-hospitalière, l'" },
-    { "text": "ANSM", "strong": true },
-    { "text": " diffuse des informations de sécurité sur les prolongateurs 3 voies et les chariots de douche Carevo, et le nouveau référentiel de formation en " },
-    { "text": "4 620 heures", "strong": true },
-    { "text": " s'applique depuis la rentrée." }
+    {
+      "text": "Les plafonds des "
+    },
+    {
+      "text": "franchises médicales",
+      "strong": true
+    },
+    {
+      "text": " passent de 50 à 70 € dès aujourd'hui, la campagne de vaccination "
+    },
+    {
+      "text": "grippe et COVID-19",
+      "strong": true
+    },
+    {
+      "text": " s'ouvre le 13 octobre avec les "
+    },
+    {
+      "text": "infirmiers",
+      "strong": true
+    },
+    {
+      "text": " parmi les prescripteurs-vaccinateurs, l'"
+    },
+    {
+      "text": "ANSM",
+      "strong": true
+    },
+    {
+      "text": " publie un rappel sur la sonde de défibrillation OmniaSecure, et le financement du "
+    },
+    {
+      "text": "DPC",
+      "strong": true
+    },
+    {
+      "text": " est garanti jusqu'au 31 décembre 2026."
+    }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Arrêté du 26 juin 2026 : la liste des actes et soins que peuvent réaliser les infirmiers",
-      "summary": "Pris en application de la réforme de l'exercice infirmier, cet arrêté rend opérationnelle la consultation infirmière autonome, avec notamment l'ECG sans prescription, la prise en charge des plaies et une vaccination élargie.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054321952"
+      "title": "Franchises médicales : les plafonds annuels passent de 50 à 70 € au 1er octobre 2026",
+      "summary": "Fixé par le décret du 11 septembre 2026, ce relèvement porte à 140 € le cumul annuel maximal avec les participations forfaitaires ; le montant de 1 € par acte infirmier reste inchangé.",
+      "source": "DILA (service-public)",
+      "url": "https://www.dila.gouv.fr/home/article/les-plafonds-annuels-des-franchises-medicales-et-participations-forfaitaires-augmentent-des-le-1er-octobre-2026"
     },
     {
       "category": "alertes",
-      "title": "Prolongateurs 3 voies et prolongateurs linéaires : information de sécurité de l'ANSM",
-      "summary": "Publiée le 28 septembre 2026, cette information de sécurité concerne des prolongateurs de perfusion utilisés couramment en service de soins ; le même jour, l'ANSM a aussi communiqué sur les chariots de douche Carevo d'ArjoHuntleigh AB.",
+      "title": "Sonde de défibrillation OmniaSecure MRI SureScan 3930M (Medtronic) : information de sécurité de l'ANSM",
+      "summary": "Publiée le 25 septembre 2026, elle signale des sondes non implantées susceptibles d'avoir subi une séquence de fabrication particulière, avec des difficultés de fixation rapportées à l'implantation jusqu'au 27 août 2026.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "HAS : recommandations sur l'organisation de la prise en charge de l'urgence vitale intra-hospitalière",
-      "summary": "Publiées le 28 septembre 2026, ces recommandations de bonne pratique de la Haute Autorité de santé portent sur l'organisation de la réponse à une urgence vitale survenant à l'hôpital, un sujet au cœur du travail des équipes soignantes.",
-      "source": "Haute Autorité de santé",
-      "url": "https://www.has-sante.fr/"
+      "title": "Vaccination grippe et COVID-19 : la campagne 2026-2027 démarre le 13 octobre",
+      "summary": "Les deux vaccins peuvent être administrés lors d'une même séance, un dans chaque bras ; les infirmiers peuvent prescrire et administrer dès 11 ans pour la grippe et dès 5 ans pour le COVID-19.",
+      "source": "Medscape",
+      "url": "https://francais.medscape.com/viewarticle/vaccinations-grippe-et-covid-19-possibles-compter-du-2026a1000zsg"
     },
     {
       "category": "profession",
-      "title": "Élections départementales 2026 : l'Ordre national des infirmiers appelle les professionnels à s'engager",
-      "summary": "Ouvertes depuis le 28 août 2026, les candidatures aux élections départementales de l'Ordre s'accompagnent de témoignages de professionnels engagés, alors que l'Ordre relaie aussi sa campagne de vaccination 2026-2027.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/"
+      "title": "Infirmiers et vaccination : derrière le buzz, ce qui a vraiment changé",
+      "summary": "Les infirmiers prescrivent et vaccinent depuis 2022-2023 ; l'article démêle ce qui relève de l'acquis et ce qui évolue réellement avec l'arrêté en vigueur au 1er octobre 2026.",
+      "source": "Pharmactu",
+      "url": "https://pharmactu.fr/articles/infirmiers-vaccination-buzz-ce-qui-change-vraiment-2026"
     },
     {
       "category": "technique",
-      "title": "Impella : information de sécurité sur le contrôleur automatisé d'assistance ventriculaire (Abiomed)",
-      "summary": "Publiée le 24 septembre 2026 par l'ANSM, l'information concerne le contrôleur automatisé Impella utilisé pour l'assistance ventriculaire temporaire, dispositif de soins intensifs cardiologiques.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "title": "E-notice des médicaments : le QR code sur les boîtes en phase pilote depuis septembre 2026",
+      "summary": "Un QR code imprimé sur les boîtes donne accès à la notice numérique, un test mené sous l'égide de l'ANSM qui pourrait changer la consultation des notices au quotidien.",
+      "source": "Mon Suivi Médical",
+      "url": "https://monsuivimedical.fr/blog/e-notice-medicaments-qr-code-ansm-2026"
     },
     {
       "category": "formation",
-      "title": "Diplôme d'État infirmier : 4 620 heures en trois ans, un nouveau référentiel sous tension dès septembre 2026",
-      "summary": "Structuré en 5 domaines (A à E), 13 compétences et 180 ECTS, le nouveau référentiel de formation est appliqué depuis la rentrée 2026, avec des inquiétudes sur les moyens des instituts.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16818/diplome-d-etat-infirmier-4-620-heures-en-trois-ans-un-nouveau-referentiel-sous-tension-des-septembre-2026.html"
+      "title": "Fin de l'ANDPC en 2027 : ce que les infirmiers doivent savoir",
+      "summary": "Le ministère a confirmé le financement du DPC pour toute l'année 2026 : inscriptions et formations restent possibles sur le site de l'Agence jusqu'au 31 décembre 2026.",
+      "source": "SOS IDEC",
+      "url": "https://sosidec.com/actualites/fin-andpc-2027-dpc-infirmiers-formation-continue"
     }
   ],
   "word": {
     "field": "Clinique",
-    "term": "Glycémie capillaire",
-    "subtitle": "Mesurer le sucre dans le sang à partir d'une goutte prélevée au bout du doigt",
-    "definition": "Mesure de la concentration de glucose dans le sang à l'aide d'un lecteur et d'une goutte de sang capillaire, réalisée au chevet pour dépister ou surveiller une hypoglycémie ou une hyperglycémie et adapter la prise en charge, sur prescription ou selon protocole.",
+    "term": "Évaluation de la douleur (EVA / EN)",
+    "subtitle": "Mesurer l'intensité de la douleur avec le patient pour la soulager au bon moment",
+    "definition": "Évaluation de l'intensité douloureuse déclarée par le patient à l'aide d'une échelle d'auto-évaluation (échelle visuelle analogique, échelle numérique de 0 à 10 ou échelle verbale simple), répétée dans le temps pour adapter l'antalgie et tracer son efficacité.",
     "steps": [
-      { "n": "1", "h": "Préparer", "t": "vérifier l'identité du patient et l'indication, réaliser une hygiène des mains, contrôler la péremption des bandelettes et le lecteur, puis choisir un site de piqûre sur le côté de la pulpe d'un doigt, main propre et sèche." },
-      { "n": "2", "h": "Mesurer", "t": "piquer avec un autopiqueur à usage unique, éliminer la première goutte si le protocole le demande, recueillir la goutte sur la bandelette, lire le résultat et jeter l'autopiqueur dans le conteneur à objets piquants." },
-      { "n": "3", "h": "Interpréter et tracer", "t": "comparer au seuil du patient (hypoglycémie généralement sous 0,70 g/L), appliquer le protocole de resucrage ou alerter le médecin si besoin, puis consigner la valeur, l'heure et les actions dans le dossier de soins." }
+      {
+        "n": "1",
+        "h": "Expliquer",
+        "t": "présenter l'échelle choisie au patient en termes simples, préciser que 0 correspond à l'absence de douleur et 10 à la douleur maximale imaginable, et utiliser une échelle d'hétéro-évaluation (Algoplus, ECPA) si le patient ne communique pas."
+      },
+      {
+        "n": "2",
+        "h": "Mesurer",
+        "t": "demander la valeur au repos puis lors du mouvement ou du soin, noter la localisation et le type de douleur, et utiliser toujours la même échelle pour un même patient."
+      },
+      {
+        "n": "3",
+        "h": "Agir et réévaluer",
+        "t": "appliquer le protocole antalgique ou alerter le médecin si la douleur dépasse le seuil défini, puis réévaluer après le délai d'action du traitement et tracer chaque valeur dans le dossier de soins."
+      }
     ],
-    "retenir": "Une glycémie capillaire doit toujours être interprétée avec le contexte clinique : une valeur incohérente avec l'état du patient se contrôle (nouvelle mesure ou glycémie veineuse) avant d'agir. ",
-    "sources": "Sources : HAS (recommandations sur la prise en charge du diabète) · Société francophone du diabète (SFD)."
+    "retenir": "La douleur est ce que dit le patient : on évalue, on traite, on réévalue avec la même échelle, et on trace chaque mesure. ",
+    "sources": "Sources : HAS (évaluation et prise en charge de la douleur) · Ministère de la Santé (plans douleur)."
   }
 }

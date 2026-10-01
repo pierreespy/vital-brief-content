@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Évaluation de la douleur (EVA / EN)",
+      "date": "2026-10-01"
+    },
+    {
       "term": "Glycémie capillaire",
       "date": "2026-09-30"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Œdème aigu du poumon (OAP)",
       "date": "2026-08-31"
-    },
-    {
-      "term": "Syndrome de glissement",
-      "date": "2026-08-29"
     }
   ]
 }

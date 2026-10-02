@@ -1,112 +1,105 @@
 {
-  "dateLong": "Jeu. 1 oct.",
+  "dateLong": "Ven. 2 oct.",
   "essentiel": [
     {
-      "text": "Les plafonds des "
+      "text": "Depuis le 1er octobre, les "
     },
     {
-      "text": "franchises médicales",
+      "text": "masseurs-kinésithérapeutes",
       "strong": true
     },
     {
-      "text": " passent de 50 à 70 € dès aujourd'hui, la campagne de vaccination "
-    },
-    {
-      "text": "grippe et COVID-19",
-      "strong": true
-    },
-    {
-      "text": " s'ouvre le 13 octobre avec les "
-    },
-    {
-      "text": "infirmiers",
-      "strong": true
-    },
-    {
-      "text": " parmi les prescripteurs-vaccinateurs, l'"
+      "text": " peuvent réaliser « Mon bilan prévention », la participation de 1 € par acte infirmier reste plafonnée à 4 € par jour, l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie un rappel sur la sonde de défibrillation OmniaSecure, et le financement du "
+      "text": " publie de nouvelles informations de sécurité (chambres de perfusion ICU Medical, défibrillateur Schiller Fred easy), la "
+    },
+    {
+      "text": "HAS",
+      "strong": true
+    },
+    {
+      "text": " a publié ses recommandations sur la gestion des voies aériennes de l'adulte au bloc, et le cycle "
     },
     {
       "text": "DPC",
       "strong": true
     },
     {
-      "text": " est garanti jusqu'au 31 décembre 2026."
+      "text": " 2023-2026 se termine en décembre."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Franchises médicales : les plafonds annuels passent de 50 à 70 € au 1er octobre 2026",
-      "summary": "Fixé par le décret du 11 septembre 2026, ce relèvement porte à 140 € le cumul annuel maximal avec les participations forfaitaires ; le montant de 1 € par acte infirmier reste inchangé.",
-      "source": "DILA (service-public)",
-      "url": "https://www.dila.gouv.fr/home/article/les-plafonds-annuels-des-franchises-medicales-et-participations-forfaitaires-augmentent-des-le-1er-octobre-2026"
+      "title": "Prise en charge au 1er octobre 2026 : le point sur les nouveautés",
+      "summary": "Depuis le 1er octobre 2026, les masseurs-kinésithérapeutes rejoignent médecins, sages-femmes, infirmiers et pharmaciens pour proposer « Mon bilan prévention » ; la participation de 1 € par acte paramédical reste plafonnée à 4 € par jour.",
+      "source": "Vidal",
+      "url": "https://vidal.fr/actualites/38383-prise-en-charge-pour-les-patients-au-1er-octobre-2026-le-point-sur-les-nouveautes.html"
     },
     {
       "category": "alertes",
-      "title": "Sonde de défibrillation OmniaSecure MRI SureScan 3930M (Medtronic) : information de sécurité de l'ANSM",
-      "summary": "Publiée le 25 septembre 2026, elle signale des sondes non implantées susceptibles d'avoir subi une séquence de fabrication particulière, avec des difficultés de fixation rapportées à l'implantation jusqu'au 27 août 2026.",
+      "title": "Chambres de perfusion de lignes IV (ICU Medical Inc) : information de sécurité de l'ANSM",
+      "summary": "Publiée le 1er octobre 2026 avec d'autres rappels (défibrillateur externe Fred easy de Schiller, moniteur Carescape Central Station V3.0.x de GE), elle concerne un équipement de perfusion utilisé au quotidien dans les services.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "Vaccination grippe et COVID-19 : la campagne 2026-2027 démarre le 13 octobre",
-      "summary": "Les deux vaccins peuvent être administrés lors d'une même séance, un dans chaque bras ; les infirmiers peuvent prescrire et administrer dès 11 ans pour la grippe et dès 5 ans pour le COVID-19.",
-      "source": "Medscape",
-      "url": "https://francais.medscape.com/viewarticle/vaccinations-grippe-et-covid-19-possibles-compter-du-2026a1000zsg"
+      "title": "Gestion des voies aériennes de l'adulte au bloc opératoire : recommandations de la HAS",
+      "summary": "Publiées le 23 septembre 2026, elles complètent la recommandation du 28 septembre sur l'organisation de la prise en charge de l'urgence vitale intra-hospitalière.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/"
     },
     {
       "category": "profession",
-      "title": "Infirmiers et vaccination : derrière le buzz, ce qui a vraiment changé",
-      "summary": "Les infirmiers prescrivent et vaccinent depuis 2022-2023 ; l'article démêle ce qui relève de l'acquis et ce qui évolue réellement avec l'arrêté en vigueur au 1er octobre 2026.",
-      "source": "Pharmactu",
-      "url": "https://pharmactu.fr/articles/infirmiers-vaccination-buzz-ce-qui-change-vraiment-2026"
+      "title": "Réforme infirmière 2026 : prescription, consultation et actes infirmiers entrent dans une nouvelle phase",
+      "summary": "Deux décrets signés le 26 juin 2026 et publiés le 27 juin permettent aux infirmiers de prescrire tous les vaccins du calendrier vaccinal dès 11 ans, hors vaccins vivants atténués chez les immunodéprimés.",
+      "source": "Caducée",
+      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
     },
     {
       "category": "technique",
-      "title": "E-notice des médicaments : le QR code sur les boîtes en phase pilote depuis septembre 2026",
-      "summary": "Un QR code imprimé sur les boîtes donne accès à la notice numérique, un test mené sous l'égide de l'ANSM qui pourrait changer la consultation des notices au quotidien.",
-      "source": "Mon Suivi Médical",
-      "url": "https://monsuivimedical.fr/blog/e-notice-medicaments-qr-code-ansm-2026"
+      "title": "Défibrillateur externe Fred easy (Schiller Medical) : batterie concernée par une information de sécurité",
+      "summary": "Parmi les produits listés par l'ANSM le 1er octobre 2026, la batterie du Fred easy invite à vérifier le matériel d'urgence de son service.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "Fin de l'ANDPC en 2027 : ce que les infirmiers doivent savoir",
-      "summary": "Le ministère a confirmé le financement du DPC pour toute l'année 2026 : inscriptions et formations restent possibles sur le site de l'Agence jusqu'au 31 décembre 2026.",
-      "source": "SOS IDEC",
-      "url": "https://sosidec.com/actualites/fin-andpc-2027-dpc-infirmiers-formation-continue"
+      "title": "DPC infirmier 2026 : ouverture, forfaits et nouveautés pour les IDEL",
+      "summary": "Le cycle 2023-2026 impose au moins deux actions DPC avant décembre 2026 ; l'indemnisation reste à 38 € de l'heure en présentiel et classe virtuelle, mais l'e-learning n'est plus indemnisé.",
+      "source": "Pôle Formation Santé",
+      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
     }
   ],
   "word": {
-    "field": "Clinique",
-    "term": "Évaluation de la douleur (EVA / EN)",
-    "subtitle": "Mesurer l'intensité de la douleur avec le patient pour la soulager au bon moment",
-    "definition": "Évaluation de l'intensité douloureuse déclarée par le patient à l'aide d'une échelle d'auto-évaluation (échelle visuelle analogique, échelle numérique de 0 à 10 ou échelle verbale simple), répétée dans le temps pour adapter l'antalgie et tracer son efficacité.",
+    "field": "Urgences",
+    "term": "Score qSOFA (quick SOFA)",
+    "subtitle": "Un repérage rapide, au lit du patient, d'une infection qui risque de s'aggraver",
+    "definition": "Score simple à trois critères (fréquence respiratoire ≥ 22/min, pression artérielle systolique ≤ 100 mmHg, altération de la conscience) qui aide à repérer, chez un patient suspect d'infection, un risque d'évolution défavorable ; un score ≥ 2 doit déclencher l'alerte.",
     "steps": [
       {
         "n": "1",
-        "h": "Expliquer",
-        "t": "présenter l'échelle choisie au patient en termes simples, préciser que 0 correspond à l'absence de douleur et 10 à la douleur maximale imaginable, et utiliser une échelle d'hétéro-évaluation (Algoplus, ECPA) si le patient ne communique pas."
+        "h": "Mesurer",
+        "t": "relever la fréquence respiratoire, la pression artérielle systolique et l'état de conscience (Glasgow ou vigilance) chez tout patient suspect d'infection."
       },
       {
         "n": "2",
-        "h": "Mesurer",
-        "t": "demander la valeur au repos puis lors du mouvement ou du soin, noter la localisation et le type de douleur, et utiliser toujours la même échelle pour un même patient."
+        "h": "Compter",
+        "t": "attribuer 1 point par critère présent ; avec 2 points ou plus, le risque de sepsis est élevé."
       },
       {
         "n": "3",
-        "h": "Agir et réévaluer",
-        "t": "appliquer le protocole antalgique ou alerter le médecin si la douleur dépasse le seuil défini, puis réévaluer après le délai d'action du traitement et tracer chaque valeur dans le dossier de soins."
+        "h": "Alerter et tracer",
+        "t": "prévenir sans délai le médecin, préparer le bilan et les soins prescrits (hémocultures, lactates, antibiotiques), surveiller de près les constantes et tracer l'heure et les valeurs dans le dossier."
       }
     ],
-    "retenir": "La douleur est ce que dit le patient : on évalue, on traite, on réévalue avec la même échelle, et on trace chaque mesure. ",
-    "sources": "Sources : HAS (évaluation et prise en charge de la douleur) · Ministère de la Santé (plans douleur)."
+    "retenir": "Le qSOFA est un outil d'alerte, pas un diagnostic : deux critères sur trois, on prévient sans attendre et on surveille de près. ",
+    "sources": "Sources : Société de réanimation de langue française (SRLF) · Surviving Sepsis Campaign · HAS."
   }
 }

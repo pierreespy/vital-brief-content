@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Score qSOFA (quick SOFA)",
+      "date": "2026-10-02"
+    },
+    {
       "term": "Évaluation de la douleur (EVA / EN)",
       "date": "2026-10-01"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Transmissions ciblées",
       "date": "2026-09-01"
-    },
-    {
-      "term": "Œdème aigu du poumon (OAP)",
-      "date": "2026-08-31"
     }
   ]
 }

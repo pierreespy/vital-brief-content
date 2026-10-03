@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Hypoglycémie",
+      "date": "2026-10-03"
+    },
+    {
       "term": "Score qSOFA (quick SOFA)",
       "date": "2026-10-02"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Oxygénothérapie",
       "date": "2026-09-02"
-    },
-    {
-      "term": "Transmissions ciblées",
-      "date": "2026-09-01"
     }
   ]
 }

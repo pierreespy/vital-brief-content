@@ -1,105 +1,98 @@
 {
-  "dateLong": "Ven. 2 oct.",
+  "dateLong": "Sam. 3 oct.",
   "essentiel": [
     {
-      "text": "Depuis le 1er octobre, les "
+      "text": "La campagne de vaccination "
     },
     {
-      "text": "masseurs-kinésithérapeutes",
+      "text": "grippe et Covid-19",
       "strong": true
     },
     {
-      "text": " peuvent réaliser « Mon bilan prévention », la participation de 1 € par acte infirmier reste plafonnée à 4 € par jour, l'"
+      "text": " 2026-2027 démarre le 13 octobre (les infirmiers peuvent prescrire dès 11 ans), l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie de nouvelles informations de sécurité (chambres de perfusion ICU Medical, défibrillateur Schiller Fred easy), la "
+      "text": " publie de nouvelles informations de sécurité (réactifs ID-DiaCell, barres Let's Get Up), la "
     },
     {
       "text": "HAS",
       "strong": true
     },
     {
-      "text": " a publié ses recommandations sur la gestion des voies aériennes de l'adulte au bloc, et le cycle "
-    },
-    {
-      "text": "DPC",
-      "strong": true
-    },
-    {
-      "text": " 2023-2026 se termine en décembre."
+      "text": " travaille sur des ratios minimum de soignants, et la prescription infirmière reste saluée avec réserves."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Prise en charge au 1er octobre 2026 : le point sur les nouveautés",
-      "summary": "Depuis le 1er octobre 2026, les masseurs-kinésithérapeutes rejoignent médecins, sages-femmes, infirmiers et pharmaciens pour proposer « Mon bilan prévention » ; la participation de 1 € par acte paramédical reste plafonnée à 4 € par jour.",
+      "title": "Grippe et Covid-19 : tous les détails de la campagne de vaccination 2026-2027",
+      "summary": "Lancée le 13 octobre 2026, elle propose cinq vaccins grippe dont Efluelda et Fluad réservés aux 65 ans et plus, avec prescription possible par les infirmiers et pharmaciens dès 11 ans.",
       "source": "Vidal",
-      "url": "https://vidal.fr/actualites/38383-prise-en-charge-pour-les-patients-au-1er-octobre-2026-le-point-sur-les-nouveautes.html"
+      "url": "https://www.vidal.fr/actualites/38333-grippe-et-covid-19-tous-les-details-de-la-campagne-de-vaccination-2026-2027.html"
     },
     {
       "category": "alertes",
-      "title": "Chambres de perfusion de lignes IV (ICU Medical Inc) : information de sécurité de l'ANSM",
-      "summary": "Publiée le 1er octobre 2026 avec d'autres rappels (défibrillateur externe Fred easy de Schiller, moniteur Carescape Central Station V3.0.x de GE), elle concerne un équipement de perfusion utilisé au quotidien dans les services.",
+      "title": "Réactifs d'immuno-hématologie ID-DiaCell I-II-III (DiaMed) : information de sécurité de l'ANSM",
+      "summary": "Publiée le 2 octobre 2026, elle concerne des réactifs utilisés en laboratoire pour les examens pré-transfusionnels, à signaler aux équipes en lien avec l'EFS.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "Gestion des voies aériennes de l'adulte au bloc opératoire : recommandations de la HAS",
-      "summary": "Publiées le 23 septembre 2026, elles complètent la recommandation du 28 septembre sur l'organisation de la prise en charge de l'urgence vitale intra-hospitalière.",
+      "title": "Avis HAS sur les ratios minimum soignants en néonatologie, obstétrique, soins palliatifs et psychiatrie",
+      "summary": "La note de cadrage de la HAS cible quatre secteurs, avec infirmiers et aides-soignants comme professionnels prioritaires.",
       "source": "HAS",
-      "url": "https://www.has-sante.fr/"
+      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage"
     },
     {
       "category": "profession",
-      "title": "Réforme infirmière 2026 : prescription, consultation et actes infirmiers entrent dans une nouvelle phase",
-      "summary": "Deux décrets signés le 26 juin 2026 et publiés le 27 juin permettent aux infirmiers de prescrire tous les vaccins du calendrier vaccinal dès 11 ans, hors vaccins vivants atténués chez les immunodéprimés.",
-      "source": "Caducée",
-      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
+      "title": "Prescription infirmière : avis favorable de la HAS mais des réserves qui persistent",
+      "summary": "La HAS a validé le projet sous réserve de clarifier la responsabilité de l'infirmier lors de la prescription ainsi que la fréquence et le renouvellement.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-avis-favorable-de-la-has-mais-des-reserves-qui-persistent"
     },
     {
       "category": "technique",
-      "title": "Défibrillateur externe Fred easy (Schiller Medical) : batterie concernée par une information de sécurité",
-      "summary": "Parmi les produits listés par l'ANSM le 1er octobre 2026, la batterie du Fred easy invite à vérifier le matériel d'urgence de son service.",
+      "title": "Barres d'aide au lever Let's Get Up (Trust Care AB) : information de sécurité de l'ANSM",
+      "summary": "Publiée le 2 octobre 2026, elle concerne une aide à la mobilité utilisée pour le lever des patients, à vérifier dans les services et à domicile.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "DPC infirmier 2026 : ouverture, forfaits et nouveautés pour les IDEL",
-      "summary": "Le cycle 2023-2026 impose au moins deux actions DPC avant décembre 2026 ; l'indemnisation reste à 38 € de l'heure en présentiel et classe virtuelle, mais l'e-learning n'est plus indemnisé.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/dpc-infirmier-2026-ouverture-nouveautes/"
+      "title": "Réforme infirmière 2026 : nouveaux actes et prescriptions",
+      "summary": "Vaccins dès 11 ans, TROD, dépistage des IST, électrocardiogramme et prise en charge de l'obésité : un tour d'horizon des compétences à acquérir.",
+      "source": "Réussis ton IFSI",
+      "url": "https://reussistonifsi.fr/reforme-infirmiere-actes-prescriptions-2026/"
     }
   ],
   "word": {
-    "field": "Urgences",
-    "term": "Score qSOFA (quick SOFA)",
-    "subtitle": "Un repérage rapide, au lit du patient, d'une infection qui risque de s'aggraver",
-    "definition": "Score simple à trois critères (fréquence respiratoire ≥ 22/min, pression artérielle systolique ≤ 100 mmHg, altération de la conscience) qui aide à repérer, chez un patient suspect d'infection, un risque d'évolution défavorable ; un score ≥ 2 doit déclencher l'alerte.",
+    "field": "Clinique",
+    "term": "Hypoglycémie",
+    "subtitle": "Un taux de sucre trop bas dans le sang, à corriger vite",
+    "definition": "Baisse de la glycémie en dessous de 0,70 g/L (3,9 mmol/L), le plus souvent chez un patient diabétique traité par insuline ou sulfamides ; elle provoque sueurs, tremblements, confusion et peut mener au malaise ou au coma.",
     "steps": [
       {
         "n": "1",
-        "h": "Mesurer",
-        "t": "relever la fréquence respiratoire, la pression artérielle systolique et l'état de conscience (Glasgow ou vigilance) chez tout patient suspect d'infection."
+        "h": "Contrôler",
+        "t": "vérifier la glycémie capillaire devant tout signe évocateur (sueurs, pâleur, tremblements, trouble du comportement) sans attendre."
       },
       {
         "n": "2",
-        "h": "Compter",
-        "t": "attribuer 1 point par critère présent ; avec 2 points ou plus, le risque de sepsis est élevé."
+        "h": "Resucrer",
+        "t": "patient conscient : 15 g de sucre per os (3 morceaux ou un verre de jus), puis recontrôler à 15 minutes ; patient inconscient : pas de per os, voie IV ou glucagon sur prescription."
       },
       {
         "n": "3",
         "h": "Alerter et tracer",
-        "t": "prévenir sans délai le médecin, préparer le bilan et les soins prescrits (hémocultures, lactates, antibiotiques), surveiller de près les constantes et tracer l'heure et les valeurs dans le dossier."
+        "t": "prévenir le médecin, rechercher la cause (dose, repas sauté, effort), surveiller jusqu'à stabilisation et tracer valeurs, heures et gestes."
       }
     ],
-    "retenir": "Le qSOFA est un outil d'alerte, pas un diagnostic : deux critères sur trois, on prévient sans attendre et on surveille de près. ",
-    "sources": "Sources : Société de réanimation de langue française (SRLF) · Surviving Sepsis Campaign · HAS."
+    "retenir": "Devant une glycémie basse, on resucre d'abord, on recontrôle ensuite, et on cherche la cause. ",
+    "sources": "Sources : Haute Autorité de Santé (HAS) · Société francophone du diabète (SFD) · Fédération française des diabétiques."
   }
 }

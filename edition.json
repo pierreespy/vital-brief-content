@@ -1,98 +1,98 @@
 {
-  "dateLong": "Sam. 3 oct.",
+  "dateLong": "Dim. 4 oct.",
   "essentiel": [
     {
-      "text": "La campagne de vaccination "
+      "text": "La "
     },
     {
-      "text": "grippe et Covid-19",
+      "text": "réforme infirmière",
       "strong": true
     },
     {
-      "text": " 2026-2027 démarre le 13 octobre (les infirmiers peuvent prescrire dès 11 ans), l'"
+      "text": " entre dans sa phase d'application (prescription de NFS, ionogramme, ECBU, glycémie), l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie de nouvelles informations de sécurité (réactifs ID-DiaCell, barres Let's Get Up), la "
+      "text": " signale les cathéters de valvuloplastie Osypka et la centrale Carescape de GE, la "
     },
     {
       "text": "HAS",
       "strong": true
     },
     {
-      "text": " travaille sur des ratios minimum de soignants, et la prescription infirmière reste saluée avec réserves."
+      "text": " se prononce sur le dépistage néonatal de cinq maladies rares, et des aides carburant sont annoncées pour les IDEL."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Grippe et Covid-19 : tous les détails de la campagne de vaccination 2026-2027",
-      "summary": "Lancée le 13 octobre 2026, elle propose cinq vaccins grippe dont Efluelda et Fluad réservés aux 65 ans et plus, avec prescription possible par les infirmiers et pharmaciens dès 11 ans.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38333-grippe-et-covid-19-tous-les-details-de-la-campagne-de-vaccination-2026-2027.html"
+      "title": "Réforme infirmière 2026 : prescription, consultation et actes infirmiers entrent dans une nouvelle phase",
+      "summary": "L'arrêté ouvre la prescription d'examens biologiques (NFS, plaquettes, ionogramme, ECBU, glycémie) en cas de pathologie connue ou de symptômes évocateurs.",
+      "source": "Caducée",
+      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
     },
     {
       "category": "alertes",
-      "title": "Réactifs d'immuno-hématologie ID-DiaCell I-II-III (DiaMed) : information de sécurité de l'ANSM",
-      "summary": "Publiée le 2 octobre 2026, elle concerne des réactifs utilisés en laboratoire pour les examens pré-transfusionnels, à signaler aux équipes en lien avec l'EFS.",
+      "title": "Cathéters de valvuloplastie VACS II/III Gen 2 (Osypka) : information de l'ANSM",
+      "summary": "Publiée le 2 octobre 2026, elle concerne des cathéters utilisés en cardiologie interventionnelle, à signaler aux équipes de salle de cathétérisme.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "Avis HAS sur les ratios minimum soignants en néonatologie, obstétrique, soins palliatifs et psychiatrie",
-      "summary": "La note de cadrage de la HAS cible quatre secteurs, avec infirmiers et aides-soignants comme professionnels prioritaires.",
+      "title": "Dépistage néonatal : la HAS se prononce sur cinq maladies lysosomales et péroxysomales",
+      "summary": "Publiée le 1er octobre 2026, la recommandation de santé publique évalue l'extension du dépistage proposé aux nouveau-nés.",
       "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage"
+      "url": "https://www.has-sante.fr/"
     },
     {
       "category": "profession",
-      "title": "Prescription infirmière : avis favorable de la HAS mais des réserves qui persistent",
-      "summary": "La HAS a validé le projet sous réserve de clarifier la responsabilité de l'infirmier lors de la prescription ainsi que la fréquence et le renouvellement.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-avis-favorable-de-la-has-mais-des-reserves-qui-persistent"
+      "title": "Carburants : trois aides annoncées pour les infirmiers libéraux",
+      "summary": "Le gouvernement détaille trois mesures de soutien aux IDEL face à la hausse des frais de déplacement.",
+      "source": "France-Guyane",
+      "url": "https://franceguyane.fr/actualite/sante/carburants-trois-aides-annoncees-pour-les-infirmiers-liberaux-1094965.php"
     },
     {
       "category": "technique",
-      "title": "Barres d'aide au lever Let's Get Up (Trust Care AB) : information de sécurité de l'ANSM",
-      "summary": "Publiée le 2 octobre 2026, elle concerne une aide à la mobilité utilisée pour le lever des patients, à vérifier dans les services et à domicile.",
+      "title": "Centrale de surveillance Carescape Central Station V3.0.x (GE) : information de l'ANSM",
+      "summary": "Publiée le 1er octobre 2026, elle concerne le système de télésurveillance des constantes des patients, à vérifier dans les services de soins continus.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "Réforme infirmière 2026 : nouveaux actes et prescriptions",
-      "summary": "Vaccins dès 11 ans, TROD, dépistage des IST, électrocardiogramme et prise en charge de l'obésité : un tour d'horizon des compétences à acquérir.",
-      "source": "Réussis ton IFSI",
-      "url": "https://reussistonifsi.fr/reforme-infirmiere-actes-prescriptions-2026/"
+      "title": "Journées d'étude de l'AFDS : « Directeur des soins, un art à part entière ? »",
+      "summary": "La 24e édition réunit les directeurs des soins à Paris du 7 au 9 octobre 2026.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/domaines/actualites"
     }
   ],
   "word": {
-    "field": "Clinique",
-    "term": "Hypoglycémie",
-    "subtitle": "Un taux de sucre trop bas dans le sang, à corriger vite",
-    "definition": "Baisse de la glycémie en dessous de 0,70 g/L (3,9 mmol/L), le plus souvent chez un patient diabétique traité par insuline ou sulfamides ; elle provoque sueurs, tremblements, confusion et peut mener au malaise ou au coma.",
+    "field": "Pharmaco",
+    "term": "INR (International Normalized Ratio)",
+    "subtitle": "Le chiffre qui mesure l'efficacité d'un traitement anticoagulant par AVK",
+    "definition": "Rapport standardisé du temps de coagulation du patient, qui permet de surveiller les antivitamines K (AVK) ; la cible est le plus souvent entre 2 et 3, et un INR trop haut expose au risque hémorragique.",
     "steps": [
       {
         "n": "1",
-        "h": "Contrôler",
-        "t": "vérifier la glycémie capillaire devant tout signe évocateur (sueurs, pâleur, tremblements, trouble du comportement) sans attendre."
+        "h": "Vérifier",
+        "t": "contrôler l'INR prescrit (prélèvement veineux ou micro-méthode) et le comparer à la cible du patient avant toute prise d'AVK."
       },
       {
         "n": "2",
-        "h": "Resucrer",
-        "t": "patient conscient : 15 g de sucre per os (3 morceaux ou un verre de jus), puis recontrôler à 15 minutes ; patient inconscient : pas de per os, voie IV ou glucagon sur prescription."
+        "h": "Alerter",
+        "t": "INR hors cible ou signe de saignement (hématome, épistaxis, urines rouges) : prévenir le médecin sans attendre, ne pas donner la dose sans avis."
       },
       {
         "n": "3",
-        "h": "Alerter et tracer",
-        "t": "prévenir le médecin, rechercher la cause (dose, repas sauté, effort), surveiller jusqu'à stabilisation et tracer valeurs, heures et gestes."
+        "h": "Tracer et éduquer",
+        "t": "noter valeur, date et dose adaptée dans le carnet AVK, et rappeler au patient l'alimentation, les interactions et la régularité des contrôles."
       }
     ],
-    "retenir": "Devant une glycémie basse, on resucre d'abord, on recontrôle ensuite, et on cherche la cause. ",
-    "sources": "Sources : Haute Autorité de Santé (HAS) · Société francophone du diabète (SFD) · Fédération française des diabétiques."
+    "retenir": "Un AVK ne se donne jamais sans connaître l'INR du jour, et tout saignement ou INR hors cible justifie un avis médical immédiat. ",
+    "sources": "Sources : Haute Autorité de Santé (HAS) · ANSM · Société française de cardiologie."
   }
 }

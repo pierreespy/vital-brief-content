@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "INR (International Normalized Ratio)",
+      "date": "2026-10-04"
+    },
+    {
       "term": "Hypoglycémie",
       "date": "2026-10-03"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Détersion",
       "date": "2026-09-03"
-    },
-    {
-      "term": "Oxygénothérapie",
-      "date": "2026-09-02"
     }
   ]
 }

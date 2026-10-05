@@ -1,98 +1,105 @@
 {
-  "dateLong": "Dim. 4 oct.",
+  "dateLong": "Lun. 5 oct.",
   "essentiel": [
     {
-      "text": "La "
-    },
-    {
-      "text": "réforme infirmière",
-      "strong": true
-    },
-    {
-      "text": " entre dans sa phase d'application (prescription de NFS, ionogramme, ECBU, glycémie), l'"
+      "text": "L'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " signale les cathéters de valvuloplastie Osypka et la centrale Carescape de GE, la "
+      "text": " publie des informations sur le rappel des dispositifs de ligature Polyloop (Olympus), le stent Shockwave Reducer et les chambres de perfusion ICU Medical, la "
     },
     {
       "text": "HAS",
       "strong": true
     },
     {
-      "text": " se prononce sur le dépistage néonatal de cinq maladies rares, et des aides carburant sont annoncées pour les IDEL."
+      "text": " a rendu un avis favorable « sous réserve » sur la prescription infirmière, et les "
+    },
+    {
+      "text": "IDEL",
+      "strong": true
+    },
+    {
+      "text": " doivent penser à leurs deux actions de "
+    },
+    {
+      "text": "DPC",
+      "strong": true
+    },
+    {
+      "text": " avant le 31 décembre 2026."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Réforme infirmière 2026 : prescription, consultation et actes infirmiers entrent dans une nouvelle phase",
-      "summary": "L'arrêté ouvre la prescription d'examens biologiques (NFS, plaquettes, ionogramme, ECBU, glycémie) en cas de pathologie connue ou de symptômes évocateurs.",
-      "source": "Caducée",
-      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
+      "title": "Prescription infirmière : avis favorable de la HAS mais des réserves qui persistent",
+      "summary": "L'avis de la HAS (juin 2026) valide l'élargissement des compétences infirmières, avec des réserves sur les conditions d'application.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-avis-favorable-de-la-has-mais-des-reserves-qui-persistent"
     },
     {
       "category": "alertes",
-      "title": "Cathéters de valvuloplastie VACS II/III Gen 2 (Osypka) : information de l'ANSM",
-      "summary": "Publiée le 2 octobre 2026, elle concerne des cathéters utilisés en cardiologie interventionnelle, à signaler aux équipes de salle de cathétérisme.",
+      "title": "Dispositifs de ligature à usage unique Polyloop (Olympus) : rappel de produit signalé par l'ANSM",
+      "summary": "Publiée le 1er octobre 2026, l'information concerne des dispositifs de ligature utilisés en endoscopie, à vérifier dans les stocks des blocs et unités d'endoscopie.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "Dépistage néonatal : la HAS se prononce sur cinq maladies lysosomales et péroxysomales",
-      "summary": "Publiée le 1er octobre 2026, la recommandation de santé publique évalue l'extension du dépistage proposé aux nouveau-nés.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/"
+      "title": "Prescription infirmière : ce que la HAS a évalué (prévention, plaies, tabac, douleur)",
+      "summary": "L'avis passe en revue les domaines où les infirmiers pourraient prescrire : prévention, plaies, santé sexuelle, sevrage tabagique et douleur.",
+      "source": "Santé Mentale",
+      "url": "https://www.santementale.fr/2026/06/prescription-infirmiere-la-has-favorable-sous-reserve/"
     },
     {
       "category": "profession",
-      "title": "Carburants : trois aides annoncées pour les infirmiers libéraux",
-      "summary": "Le gouvernement détaille trois mesures de soutien aux IDEL face à la hausse des frais de déplacement.",
-      "source": "France-Guyane",
-      "url": "https://franceguyane.fr/actualite/sante/carburants-trois-aides-annoncees-pour-les-infirmiers-liberaux-1094965.php"
+      "title": "Infirmiers et vaccination : derrière le buzz, ce qui a vraiment changé",
+      "summary": "Un décryptage des nouvelles marges de manœuvre vaccinales des infirmiers en 2026, au-delà des titres des réseaux sociaux.",
+      "source": "Pharmactu",
+      "url": "https://pharmactu.fr/articles/infirmiers-vaccination-buzz-ce-qui-change-vraiment-2026"
     },
     {
       "category": "technique",
-      "title": "Centrale de surveillance Carescape Central Station V3.0.x (GE) : information de l'ANSM",
-      "summary": "Publiée le 1er octobre 2026, elle concerne le système de télésurveillance des constantes des patients, à vérifier dans les services de soins continus.",
+      "title": "Stent Shockwave Reducer (Shockwave Medical) : information de sécurité de l'ANSM",
+      "summary": "Début octobre 2026, l'ANSM publie une information sur ce dispositif implantable de cardiologie, à connaître des équipes de cardiologie interventionnelle.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "Journées d'étude de l'AFDS : « Directeur des soins, un art à part entière ? »",
-      "summary": "La 24e édition réunit les directeurs des soins à Paris du 7 au 9 octobre 2026.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/domaines/actualites"
+      "title": "DPC infirmier libéral 2026 : deux actions à réaliser avant le 31 décembre",
+      "summary": "Le cycle 2026-2028 repart de zéro et le forfait horaire des formations en présentiel ou en classe virtuelle est de 38 €.",
+      "source": "Albus",
+      "url": "https://www.albus.fr/blog/gestion-de-cabinet/formation-dpc-infirmier/"
     }
   ],
   "word": {
-    "field": "Pharmaco",
-    "term": "INR (International Normalized Ratio)",
-    "subtitle": "Le chiffre qui mesure l'efficacité d'un traitement anticoagulant par AVK",
-    "definition": "Rapport standardisé du temps de coagulation du patient, qui permet de surveiller les antivitamines K (AVK) ; la cible est le plus souvent entre 2 et 3, et un INR trop haut expose au risque hémorragique.",
+    "field": "Gestes & soins",
+    "term": "Sondage vésical",
+    "subtitle": "Introduire une sonde dans la vessie, un geste à haut risque d'infection urinaire",
+    "definition": "Geste invasif qui consiste à placer une sonde dans la vessie par l'urètre pour drainer les urines ; il se fait en asepsie rigoureuse, sur prescription, et la sonde doit être retirée dès qu'elle n'est plus utile.",
     "steps": [
       {
         "n": "1",
-        "h": "Vérifier",
-        "t": "contrôler l'INR prescrit (prélèvement veineux ou micro-méthode) et le comparer à la cible du patient avant toute prise d'AVK."
+        "h": "Préparer",
+        "t": "vérifier la prescription, expliquer le geste, installer le patient, réaliser une toilette génitale puis une désinfection antiseptique du méat."
       },
       {
         "n": "2",
-        "h": "Alerter",
-        "t": "INR hors cible ou signe de saignement (hématome, épistaxis, urines rouges) : prévenir le médecin sans attendre, ne pas donner la dose sans avis."
+        "h": "Poser",
+        "t": "hygiène des mains, gants stériles, lubrification (gel stérile), introduction de la sonde jusqu'au retour d'urine, puis connexion à un système clos."
       },
       {
         "n": "3",
-        "h": "Tracer et éduquer",
-        "t": "noter valeur, date et dose adaptée dans le carnet AVK, et rappeler au patient l'alimentation, les interactions et la régularité des contrôles."
+        "h": "Surveiller et tracer",
+        "t": "noter date, type et calibre de la sonde, aspect et volume des urines, fixer la sonde, et réévaluer chaque jour la nécessité de la garder."
       }
     ],
-    "retenir": "Un AVK ne se donne jamais sans connaître l'INR du jour, et tout saignement ou INR hors cible justifie un avis médical immédiat. ",
-    "sources": "Sources : Haute Autorité de Santé (HAS) · ANSM · Société française de cardiologie."
+    "retenir": "Toute sonde urinaire est une porte d'entrée pour l'infection : asepsie à la pose, système clos, et retrait dès que possible. ",
+    "sources": "Sources : Haute Autorité de Santé (HAS) · Société française d'hygiène hospitalière (SF2H) · Association française d'urologie."
   }
 }

@@ -1,105 +1,112 @@
 {
-  "dateLong": "Lun. 5 oct.",
+  "dateLong": "Mar. 6 oct.",
   "essentiel": [
     {
-      "text": "L'"
-    },
-    {
-      "text": "ANSM",
-      "strong": true
-    },
-    {
-      "text": " publie des informations sur le rappel des dispositifs de ligature Polyloop (Olympus), le stent Shockwave Reducer et les chambres de perfusion ICU Medical, la "
-    },
-    {
-      "text": "HAS",
-      "strong": true
-    },
-    {
-      "text": " a rendu un avis favorable « sous réserve » sur la prescription infirmière, et les "
+      "text": "Les "
     },
     {
       "text": "IDEL",
       "strong": true
     },
     {
-      "text": " doivent penser à leurs deux actions de "
+      "text": " ont jusqu'au 31 décembre pour valider leur "
     },
     {
       "text": "DPC",
       "strong": true
     },
     {
-      "text": " avant le 31 décembre 2026."
+      "text": " alors que la "
+    },
+    {
+      "text": "certification périodique",
+      "strong": true
+    },
+    {
+      "text": " impose de surveiller les échéances, la "
+    },
+    {
+      "text": "HAS",
+      "strong": true
+    },
+    {
+      "text": " a rendu son avis sur l'arrêté de prescription infirmière, et l'"
+    },
+    {
+      "text": "ANSM",
+      "strong": true
+    },
+    {
+      "text": " publie des informations de sécurité sur les systèmes d'anesthésie Carestation 850 et les dispositifs d'aspiration Med Stop."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Prescription infirmière : avis favorable de la HAS mais des réserves qui persistent",
-      "summary": "L'avis de la HAS (juin 2026) valide l'élargissement des compétences infirmières, avec des réserves sur les conditions d'application.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-avis-favorable-de-la-has-mais-des-reserves-qui-persistent"
+      "title": "La profession d'infirmier évolue en 2026 : tout ce qui change pour les patients",
+      "summary": "Depuis le 1er janvier 2026, le décret de compétences ouvre l'évaluation clinique, la consultation infirmière et certains soins en rôle propre, sous réserve des arrêtés d'application.",
+      "source": "Previssima",
+      "url": "https://www.previssima.fr/actualite/la-profession-dinfirmier-evolue-en-2026-tout-ce-qui-change-pour-les-patients.html"
     },
     {
       "category": "alertes",
-      "title": "Dispositifs de ligature à usage unique Polyloop (Olympus) : rappel de produit signalé par l'ANSM",
-      "summary": "Publiée le 1er octobre 2026, l'information concerne des dispositifs de ligature utilisés en endoscopie, à vérifier dans les stocks des blocs et unités d'endoscopie.",
+      "title": "Systèmes d'anesthésie Carestation 850 et 850c (Datex-Ohmeda / GE HealthCare) : information de sécurité",
+      "summary": "Publiée début septembre 2026, l'information s'adresse aux établissements équipés de ces systèmes d'anesthésie : les blocs et SSPI sont concernés.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "url": "https://ansm.sante.fr/informations-de-securite/systeme-danesthesie-carestation-850-et-carestation-850c-datex-ohmeda-ge-healthcare"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : ce que la HAS a évalué (prévention, plaies, tabac, douleur)",
-      "summary": "L'avis passe en revue les domaines où les infirmiers pourraient prescrire : prévention, plaies, santé sexuelle, sevrage tabagique et douleur.",
-      "source": "Santé Mentale",
-      "url": "https://www.santementale.fr/2026/06/prescription-infirmiere-la-has-favorable-sous-reserve/"
+      "title": "Prescription infirmière : l'avis de la HAS relance le débat sur l'arrêté final",
+      "summary": "Saisie le 16 mars 2026 par la DGOS, la HAS a évalué la liste des produits de santé et examens prescriptibles par les infirmiers ; le texte final reste discuté.",
+      "source": "Caducée",
+      "url": "https://www.caducee.net/actualite-medicale/16926/prescription-infirmiere-l-avis-de-la-has-relance-le-debat-sur-l-arrete-final.html"
     },
     {
       "category": "profession",
-      "title": "Infirmiers et vaccination : derrière le buzz, ce qui a vraiment changé",
-      "summary": "Un décryptage des nouvelles marges de manœuvre vaccinales des infirmiers en 2026, au-delà des titres des réseaux sociaux.",
-      "source": "Pharmactu",
-      "url": "https://pharmactu.fr/articles/infirmiers-vaccination-buzz-ce-qui-change-vraiment-2026"
+      "title": "Nouvelle réforme URSSAF et CARPIMKO 2026 : quel impact pour les infirmières libérales ?",
+      "summary": "Un point sur les changements de cotisations et de gestion sociale qui touchent les infirmiers libéraux en 2026.",
+      "source": "La Ruche",
+      "url": "https://laruche.cbainfo.fr/actualites/reformes-politique-de-sante/"
     },
     {
       "category": "technique",
-      "title": "Stent Shockwave Reducer (Shockwave Medical) : information de sécurité de l'ANSM",
-      "summary": "Début octobre 2026, l'ANSM publie une information sur ce dispositif implantable de cardiologie, à connaître des équipes de cardiologie interventionnelle.",
+      "title": "Dispositifs d'aspiration Med Stop (Medline) : information de sécurité de l'ANSM",
+      "summary": "L'ANSM relaie une action de sécurité du fabricant concernant les dispositifs Med Stop des kits de bocaux d'aspiration Soft Liner, à vérifier dans les services.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "url": "https://ansm.sante.fr/informations-de-securite/dispositifs-daspiration-med-stop-medline"
     },
     {
       "category": "formation",
-      "title": "DPC infirmier libéral 2026 : deux actions à réaliser avant le 31 décembre",
-      "summary": "Le cycle 2026-2028 repart de zéro et le forfait horaire des formations en présentiel ou en classe virtuelle est de 38 €.",
-      "source": "Albus",
-      "url": "https://www.albus.fr/blog/gestion-de-cabinet/formation-dpc-infirmier/"
+      "title": "Certification périodique : attention aux échéances",
+      "summary": "La certification périodique remplace progressivement le DPC : un rappel des échéances à ne pas manquer pour les infirmiers.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Sondage vésical",
-    "subtitle": "Introduire une sonde dans la vessie, un geste à haut risque d'infection urinaire",
-    "definition": "Geste invasif qui consiste à placer une sonde dans la vessie par l'urètre pour drainer les urines ; il se fait en asepsie rigoureuse, sur prescription, et la sonde doit être retirée dès qu'elle n'est plus utile.",
+    "field": "Réglementaire / rôle",
+    "term": "Transmissions ciblées",
+    "subtitle": "Tracer le soin en Données, Actions, Résultats pour que toute l'équipe suive le patient",
+    "definition": "Méthode de transmissions écrites centrée sur un problème ou un événement du patient, structurée en trois temps : Données (D), Actions (A) et Résultats (R), qui assure la continuité et la traçabilité des soins dans le dossier de soins.",
     "steps": [
       {
         "n": "1",
-        "h": "Préparer",
-        "t": "vérifier la prescription, expliquer le geste, installer le patient, réaliser une toilette génitale puis une désinfection antiseptique du méat."
+        "h": "Cibler",
+        "t": "identifier le sujet de la transmission : un problème, un changement d'état, un événement ou un soin significatif, formulé en quelques mots."
       },
       {
         "n": "2",
-        "h": "Poser",
-        "t": "hygiène des mains, gants stériles, lubrification (gel stérile), introduction de la sonde jusqu'au retour d'urine, puis connexion à un système clos."
+        "h": "Rédiger D-A-R",
+        "t": "noter les Données (observations, paramètres, propos du patient), les Actions réalisées ou décidées, puis les Résultats obtenus ou attendus."
       },
       {
         "n": "3",
-        "h": "Surveiller et tracer",
-        "t": "noter date, type et calibre de la sonde, aspect et volume des urines, fixer la sonde, et réévaluer chaque jour la nécessité de la garder."
+        "h": "Dater, signer, relire",
+        "t": "horodater, signer, rester factuel et lisible, et reprendre la cible à la relève suivante tant que le problème n'est pas résolu."
       }
     ],
-    "retenir": "Toute sonde urinaire est une porte d'entrée pour l'infection : asepsie à la pose, système clos, et retrait dès que possible. ",
-    "sources": "Sources : Haute Autorité de Santé (HAS) · Société française d'hygiène hospitalière (SF2H) · Association française d'urologie."
+    "retenir": "Ce qui n'est pas tracé est réputé non fait : des transmissions précises, factuelles et signées protègent le patient comme le soignant. ",
+    "sources": "Sources : Haute Autorité de Santé (HAS) · Code de la santé publique (dossier de soins infirmier) · Ordre national des infirmiers."
   }
 }

@@ -1,112 +1,98 @@
 {
-  "dateLong": "Mar. 6 oct.",
+  "dateLong": "Mer. 7 oct.",
   "essentiel": [
     {
-      "text": "Les "
+      "text": "L'arrêté du "
     },
     {
-      "text": "IDEL",
+      "text": "26 juin 2026",
       "strong": true
     },
     {
-      "text": " ont jusqu'au 31 décembre pour valider leur "
-    },
-    {
-      "text": "DPC",
-      "strong": true
-    },
-    {
-      "text": " alors que la "
-    },
-    {
-      "text": "certification périodique",
-      "strong": true
-    },
-    {
-      "text": " impose de surveiller les échéances, la "
+      "text": " remplace les listes fermées d'actes infirmiers par des grandes missions, la "
     },
     {
       "text": "HAS",
       "strong": true
     },
     {
-      "text": " a rendu son avis sur l'arrêté de prescription infirmière, et l'"
+      "text": " recommande une obligation de vaccination antigrippale des soignants, et l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie des informations de sécurité sur les systèmes d'anesthésie Carestation 850 et les dispositifs d'aspiration Med Stop."
+      "text": " publie des informations de sécurité sur la centrale PIC iX Essentials (Philips) et le serveur Latitude Clarity (Boston Scientific)."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "La profession d'infirmier évolue en 2026 : tout ce qui change pour les patients",
-      "summary": "Depuis le 1er janvier 2026, le décret de compétences ouvre l'évaluation clinique, la consultation infirmière et certains soins en rôle propre, sous réserve des arrêtés d'application.",
-      "source": "Previssima",
-      "url": "https://www.previssima.fr/actualite/la-profession-dinfirmier-evolue-en-2026-tout-ce-qui-change-pour-les-patients.html"
+      "title": "Arrêté du 26 juin 2026 fixant la liste des actes et soins pouvant être réalisés par les infirmiers diplômés d'Etat",
+      "summary": "Publié au JORF le 27 juin 2026, le texte substitue aux listes fermées une définition par grandes missions complétée d'une liste d'actes et de soins.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054321956"
     },
     {
       "category": "alertes",
-      "title": "Systèmes d'anesthésie Carestation 850 et 850c (Datex-Ohmeda / GE HealthCare) : information de sécurité",
-      "summary": "Publiée début septembre 2026, l'information s'adresse aux établissements équipés de ces systèmes d'anesthésie : les blocs et SSPI sont concernés.",
+      "title": "Centrale de surveillance PIC iX / Essentials Patient Information Center iX (Philips) : information de sécurité",
+      "summary": "L'ANSM relaie une action de sécurité du fabricant Philips Medizin Systems Böblingen, à vérifier dans les services équipés de ces centrales de surveillance.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/systeme-danesthesie-carestation-850-et-carestation-850c-datex-ohmeda-ge-healthcare"
+      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-pic-ix-essentials-patient-information-center-ix-philips-medizin-systems-boblingen-gmbh"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : l'avis de la HAS relance le débat sur l'arrêté final",
-      "summary": "Saisie le 16 mars 2026 par la DGOS, la HAS a évalué la liste des produits de santé et examens prescriptibles par les infirmiers ; le texte final reste discuté.",
-      "source": "Caducée",
-      "url": "https://www.caducee.net/actualite-medicale/16926/prescription-infirmiere-l-avis-de-la-has-relance-le-debat-sur-l-arrete-final.html"
+      "title": "Vaccin contre la grippe obligatoire pour les IDEL : ce que prévoit la HAS en 2026",
+      "summary": "Le 20 juillet 2026, la HAS recommande une obligation annuelle déployée d'abord en EHPAD et USLD, puis progressivement dans les autres structures, cabinets libéraux compris.",
+      "source": "La Ruche",
+      "url": "https://laruche.cbainfo.fr/actualites/vaccin-grippe-obligatoire-idel/"
     },
     {
       "category": "profession",
-      "title": "Nouvelle réforme URSSAF et CARPIMKO 2026 : quel impact pour les infirmières libérales ?",
-      "summary": "Un point sur les changements de cotisations et de gestion sociale qui touchent les infirmiers libéraux en 2026.",
-      "source": "La Ruche",
-      "url": "https://laruche.cbainfo.fr/actualites/reformes-politique-de-sante/"
+      "title": "IDE : deux nouveaux textes précisent leurs prérogatives",
+      "summary": "Les deux arrêtés du 26 juin 2026 fixent la liste des actes et soins réalisables et celle des produits de santé et examens que les IDE peuvent prescrire ou renouveler.",
+      "source": "Ordre national des pharmaciens",
+      "url": "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/ide-deux-nouveaux-textes-precisent-leurs-prerogatives"
     },
     {
       "category": "technique",
-      "title": "Dispositifs d'aspiration Med Stop (Medline) : information de sécurité de l'ANSM",
-      "summary": "L'ANSM relaie une action de sécurité du fabricant concernant les dispositifs Med Stop des kits de bocaux d'aspiration Soft Liner, à vérifier dans les services.",
+      "title": "Holter ECG implantable : logiciel serveur Latitude Clarity pour la gamme LUX-Dx (Boston Scientific) : information de sécurité",
+      "summary": "L'ANSM publie une information de sécurité du fabricant Boston Scientific concernant le logiciel serveur associé aux moniteurs cardiaques implantables LUX-Dx.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/dispositifs-daspiration-med-stop-medline"
+      "url": "https://ansm.sante.fr/informations-de-securite/holter-ecg-implantable-logiciel-serveur-latitude-clarity-pour-la-gamme-de-dispositifs-de-mci-lux-dx-boston-scientific-corporation"
     },
     {
       "category": "formation",
-      "title": "Certification périodique : attention aux échéances",
-      "summary": "La certification périodique remplace progressivement le DPC : un rappel des échéances à ne pas manquer pour les infirmiers.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
+      "title": "Le top 10 des meilleures formations pour infirmières libérales en 2026",
+      "summary": "Sélection de formations continues pour IDEL : prescription vaccinale, BSI, soins palliatifs, plaies et cicatrisation, PRADO insuffisance cardiaque.",
+      "source": "La Ruche",
+      "url": "https://laruche.cbainfo.fr/gerer-cabinet-infirmier/formation-continue-idel/meilleures-formations/"
     }
   ],
   "word": {
-    "field": "Réglementaire / rôle",
-    "term": "Transmissions ciblées",
-    "subtitle": "Tracer le soin en Données, Actions, Résultats pour que toute l'équipe suive le patient",
-    "definition": "Méthode de transmissions écrites centrée sur un problème ou un événement du patient, structurée en trois temps : Données (D), Actions (A) et Résultats (R), qui assure la continuité et la traçabilité des soins dans le dossier de soins.",
+    "field": "Clinique / physiopatho",
+    "term": "Hypotension orthostatique",
+    "subtitle": "Une chute de tension au lever, source de malaises et de chutes",
+    "definition": "Baisse de la pression artérielle d'au moins 20 mmHg pour la systolique ou 10 mmHg pour la diastolique dans les 3 minutes suivant le passage à la position debout, pouvant provoquer vertiges, malaise ou chute.",
     "steps": [
       {
         "n": "1",
-        "h": "Cibler",
-        "t": "identifier le sujet de la transmission : un problème, un changement d'état, un événement ou un soin significatif, formulé en quelques mots."
+        "h": "Mesurer",
+        "t": "prendre la tension après 5 minutes en position allongée, puis debout à 1 et 3 minutes, et noter les symptômes éventuels."
       },
       {
         "n": "2",
-        "h": "Rédiger D-A-R",
-        "t": "noter les Données (observations, paramètres, propos du patient), les Actions réalisées ou décidées, puis les Résultats obtenus ou attendus."
+        "h": "Sécuriser",
+        "t": "faire lever le patient progressivement (assis au bord du lit d'abord), rester à ses côtés et le réallonger au moindre malaise."
       },
       {
         "n": "3",
-        "h": "Dater, signer, relire",
-        "t": "horodater, signer, rester factuel et lisible, et reprendre la cible à la relève suivante tant que le problème n'est pas résolu."
+        "h": "Transmettre",
+        "t": "tracer les valeurs et signaler au médecin, en repérant les causes fréquentes : déshydratation, médicaments hypotenseurs, alitement prolongé."
       }
     ],
-    "retenir": "Ce qui n'est pas tracé est réputé non fait : des transmissions précises, factuelles et signées protègent le patient comme le soignant. ",
-    "sources": "Sources : Haute Autorité de Santé (HAS) · Code de la santé publique (dossier de soins infirmier) · Ordre national des infirmiers."
+    "retenir": "Chez la personne âgée, une hypotension orthostatique est un facteur majeur de chute : la rechercher avant tout premier lever après un alitement ou un changement de traitement. ",
+    "sources": "Sources : Haute Autorité de Santé (HAS) · Sociétés savantes de cardiologie et de gériatrie."
   }
 }

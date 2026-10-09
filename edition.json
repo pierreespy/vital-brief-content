@@ -1,105 +1,98 @@
 {
-  "dateLong": "Jeu. 8 oct.",
+  "dateLong": "Ven. 9 oct.",
   "essentiel": [
     {
-      "text": "Le guide pratique de la "
+      "text": "L'"
     },
     {
-      "text": "FNI",
+      "text": "avenant 11",
       "strong": true
     },
     {
-      "text": " décrypte l'arrêté du "
+      "text": ", premières mesures "
     },
     {
-      "text": "26 juin 2026",
+      "text": "NGAP",
       "strong": true
     },
     {
-      "text": " sur les actes et soins infirmiers, la "
-    },
-    {
-      "text": "HAS",
-      "strong": true
-    },
-    {
-      "text": " voit son avis sur la prescription infirmière relancer le débat, et l'"
+      "text": " applicables depuis le 21 juin 2026, côtoie la réponse de l'Éducation nationale autorisant ses infirmières à cumuler avec une activité de soins, tandis que l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie des informations de sécurité sur la table d'examen TryTable et les systèmes laser VersaPulse."
+      "text": " publie une information de sécurité sur le moniteur-défibrillateur Schiller (logiciel Sema)."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Guide pratique FNI n°2 : arrêté du 26 juin 2026, liste des actes et soins",
-      "summary": "La Fédération nationale des infirmiers publie en septembre 2026 un guide pour comprendre le passage des listes fermées d'actes à une logique de grandes missions.",
-      "source": "FNI",
-      "url": "https://fni.fr/wp-content/uploads/2026/09/Guide20pratique20FNI20NC2B0220arreCC82teCC8120Liste20des20actes20et20soins.pdf"
+      "title": "Avenant 11 infirmier : les premières mesures NGAP applicables depuis le 21 juin 2026",
+      "summary": "Publiées au Journal officiel du 6 mai 2026, les premières mesures de l'avenant 11 sont en vigueur, d'autres suivront dès le 6 novembre 2026 puis entre 2027 et 2029.",
+      "source": "La Ruche",
+      "url": "https://laruche.cbainfo.fr/actualites/avenant-11-infirmier/"
     },
     {
       "category": "alertes",
-      "title": "Table d'examen TryTable (Medkonsult Medical Technology s.r.o.) : information de sécurité",
-      "summary": "L'ANSM relaie une action de sécurité du fabricant Medkonsult sur la table d'examen TryTable, à vérifier dans les structures équipées.",
+      "title": "Moniteur-défibrillateur, logiciel Sema (Schiller AG) : information de sécurité",
+      "summary": "L'ANSM relaie une action de sécurité du fabricant Schiller AG concernant le logiciel Sema de ses moniteurs-défibrillateurs.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/table-dexamen-trytable-medkonsult-medical-technology-s-r-o"
+      "url": "https://ansm.sante.fr/informations-de-securite/moniteur-defibrillateur-logiciel-sema-schiller-ag"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : l'avis de la HAS relance le débat sur l'arrêté final",
-      "summary": "Rendu en juin 2026, l'avis favorable sous réserve de la HAS sur la liste des produits de santé et examens prescriptibles par les IDE nourrit la discussion sur le périmètre retenu.",
+      "title": "Plaies et cicatrisation : Stéphanie Rist annonce l'accès direct infirmier",
+      "summary": "Caducee.net rapporte l'annonce d'un accès direct aux infirmiers pour la prise en charge des plaies et de la cicatrisation.",
       "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16926/prescription-infirmiere-l-avis-de-la-has-relance-le-debat-sur-l-arrete-final.html"
+      "url": "https://www.caducee.net/actualite-medicale/16779/plaies-et-cicatrisation-stephanie-rist-annonce-l-acces-direct-infirmier.html"
     },
     {
       "category": "profession",
-      "title": "La refonte de l'exercice infirmier",
-      "summary": "La FHF fait le point sur la loi du 27 juin 2025, le décret du 24 décembre 2025 et les arrêtés du 26 juin 2026 qui redéfinissent le métier d'infirmier.",
-      "source": "FHF",
-      "url": "https://www.fhf.fr/expertises/ressources-humaines/personnel-non-medical/la-refonte-de-lexercice-infirmier"
+      "title": "Les infirmières scolaires peuvent désormais cumuler plusieurs activités de soins",
+      "summary": "Par un courrier aux rectorats du 17 juillet 2026, la DGRH autorise les infirmières de l'Éducation nationale à exercer en libéral ou en établissement, hors obligations de service.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38135-les-infirmieres-scolaires-peuvent-desormais-cumuler-plusieurs-activites-de-soins.html"
     },
     {
       "category": "technique",
-      "title": "Maintenance des systèmes laser CO2 et à double longueur d'onde DW VersaPulse PowerSuite (Boston Scientific) : information de sécurité",
-      "summary": "L'ANSM publie une information de sécurité du fabricant Boston Scientific portant sur la maintenance des systèmes laser VersaPulse.",
+      "title": "Serveur de télémétrie ApexPro CARESCAPE V5.0 et V6.0 avec Carescape Central Station ou CIC Pro : information de sécurité",
+      "summary": "L'ANSM publie une information de sécurité de GE Medical Systems Information Technologies concernant le serveur de télémétrie ApexPro.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/maintenance-des-systemes-laser-co2-et-des-systemes-a-double-longueur-donde-dw-versapulse-powersuite-vpps-boston-scientific"
+      "url": "https://ansm.sante.fr/informations-de-securite/serveur-de-telemetrie-apexpro-carescape-v5-0-et-v6-0-avec-carescape-central-station-ou-cic-pro-clinical-information-center-ge-medical-systems-information-technologies-inc"
     },
     {
       "category": "formation",
-      "title": "Formation DPC infirmier : comment choisir et financer son programme",
-      "summary": "Guide à destination des IDEL sur les formations DPC éligibles et leur prise en charge.",
-      "source": "La Ruche",
-      "url": "https://laruche.cbainfo.fr/gerer-cabinet-infirmier/formation-continue-idel/formation-dpc-infirmier/"
+      "title": "Avenant 11 : Convergence Infirmière vous explique tout",
+      "summary": "Un webinaire pour comprendre les nouvelles cotations et les évolutions de la convention des IDEL.",
+      "source": "Webikeo",
+      "url": "https://webikeo.fr/webinar/avenant-11-convergence-infirmiere-vous-explique-tout-1"
     }
   ],
   "word": {
-    "field": "Réglementaire / rôle",
-    "term": "Rôle propre infirmier",
-    "subtitle": "Les soins que l'infirmière décide et réalise sous sa propre responsabilité",
-    "definition": "Ensemble des soins et activités que l'infirmier évalue, décide et réalise de sa propre initiative, sans prescription médicale, dans le cadre de sa compétence professionnelle.",
+    "field": "Urgences / vigilance",
+    "term": "Hyperkaliémie",
+    "subtitle": "Un excès de potassium dans le sang, dangereux pour le rythme cardiaque",
+    "definition": "Élévation de la kaliémie au-dessus de la norme (environ 5 mmol/L), pouvant provoquer des troubles du rythme cardiaque graves, notamment en cas d'insuffisance rénale.",
     "steps": [
       {
         "n": "1",
-        "h": "Évaluer",
-        "t": "recueillir les données cliniques et les besoins du patient (autonomie, douleur, peau, nutrition) pour poser un jugement clinique."
+        "h": "Repérer",
+        "t": "identifier les patients à risque (insuffisance rénale, traitements augmentant la kaliémie) et vérifier qu'un prélèvement n'est pas hémolysé avant de conclure."
       },
       {
         "n": "2",
-        "h": "Agir",
-        "t": "mettre en œuvre les soins relevant du rôle propre (hygiène, prévention des escarres, éducation, surveillance) et adapter selon l'évolution."
+        "h": "Surveiller",
+        "t": "alerter le médecin sans délai, réaliser un ECG si prescrit et surveiller le rythme cardiaque, la conscience et la diurèse."
       },
       {
         "n": "3",
-        "h": "Tracer",
-        "t": "transcrire l'évaluation, les soins réalisés et leur résultat dans le dossier de soins, et alerter le médecin si besoin."
+        "h": "Appliquer",
+        "t": "mettre en œuvre le traitement prescrit, contrôler la kaliémie selon la prescription et tracer les valeurs et les actions dans le dossier de soins."
       }
     ],
-    "retenir": "Le rôle propre engage la responsabilité de l'infirmière : il se fonde sur son évaluation clinique, et sa traçabilité protège le patient comme le soignant. ",
-    "sources": "Sources : Code de la santé publique · Ministère de la Santé · Légifrance."
+    "retenir": "Une hyperkaliémie peut être silencieuse puis provoquer un trouble du rythme : toute valeur élevée se signale vite au médecin, après avoir écarté un prélèvement hémolysé. ",
+    "sources": "Sources : HAS · Société francophone de néphrologie · Code de la santé publique."
   }
 }

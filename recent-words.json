@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Oxygénothérapie",
+      "date": "2026-10-10"
+    },
+    {
       "term": "Hyperkaliémie",
       "date": "2026-10-09"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Consultation infirmière",
       "date": "2026-09-09"
-    },
-    {
-      "term": "Ventilation non invasive (VNI)",
-      "date": "2026-09-08"
     }
   ]
 }

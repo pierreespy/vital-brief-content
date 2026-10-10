@@ -1,98 +1,105 @@
 {
-  "dateLong": "Ven. 9 oct.",
+  "dateLong": "Sam. 10 oct.",
   "essentiel": [
     {
       "text": "L'"
     },
     {
-      "text": "avenant 11",
+      "text": "Ordre national des infirmiers",
       "strong": true
     },
     {
-      "text": ", premières mesures "
-    },
-    {
-      "text": "NGAP",
-      "strong": true
-    },
-    {
-      "text": " applicables depuis le 21 juin 2026, côtoie la réponse de l'Éducation nationale autorisant ses infirmières à cumuler avec une activité de soins, tandis que l'"
+      "text": " signe une charte pour l'engagement dans la réserve opérationnelle, pendant que l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie une information de sécurité sur le moniteur-défibrillateur Schiller (logiciel Sema)."
+      "text": " publie une information de sécurité sur la centrale de surveillance "
+    },
+    {
+      "text": "Carescape CSCS V3.0.x",
+      "strong": true
+    },
+    {
+      "text": " et que la "
+    },
+    {
+      "text": "certification périodique",
+      "strong": true
+    },
+    {
+      "text": " reste calée sur 2029 ou 2032 selon l'année du diplôme."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Avenant 11 infirmier : les premières mesures NGAP applicables depuis le 21 juin 2026",
-      "summary": "Publiées au Journal officiel du 6 mai 2026, les premières mesures de l'avenant 11 sont en vigueur, d'autres suivront dès le 6 novembre 2026 puis entre 2027 et 2029.",
-      "source": "La Ruche",
-      "url": "https://laruche.cbainfo.fr/actualites/avenant-11-infirmier/"
+      "title": "La refonte de l'exercice infirmier : mise à jour du 30 juin 2026",
+      "summary": "La FHF fait le point sur la loi du 27 juin 2025, le décret du 24 décembre 2025 et les arrêtés de juin 2026 qui redéfinissent le rôle propre et les actes de la profession.",
+      "source": "FHF",
+      "url": "https://www.fhf.fr/expertises/ressources-humaines/personnel-non-medical/la-refonte-de-lexercice-infirmier"
     },
     {
       "category": "alertes",
-      "title": "Moniteur-défibrillateur, logiciel Sema (Schiller AG) : information de sécurité",
-      "summary": "L'ANSM relaie une action de sécurité du fabricant Schiller AG concernant le logiciel Sema de ses moniteurs-défibrillateurs.",
+      "title": "Centrale de surveillance Carescape Central Station (CSCS) V3.0.x : information de sécurité",
+      "summary": "L'ANSM relaie, le 1er octobre 2026, une action de sécurité de GE Medical Systems Information Technologies Inc. destinée aux établissements de santé (réf. R2625769).",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/moniteur-defibrillateur-logiciel-sema-schiller-ag"
+      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-carescape-central-station-cscs-v3-0-x-ge-medical-systems-information-technologies-inc"
     },
     {
       "category": "science",
-      "title": "Plaies et cicatrisation : Stéphanie Rist annonce l'accès direct infirmier",
-      "summary": "Caducee.net rapporte l'annonce d'un accès direct aux infirmiers pour la prise en charge des plaies et de la cicatrisation.",
-      "source": "Caducee.net",
-      "url": "https://www.caducee.net/actualite-medicale/16779/plaies-et-cicatrisation-stephanie-rist-annonce-l-acces-direct-infirmier.html"
+      "title": "Prix de la recherche en sciences infirmières : voici les lauréats 2026",
+      "summary": "Trois lauréats distingués, dont des travaux sur le suicide et l'étude PRESENCE consacrée au soutien social.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/ipa-specialites/recherche-et-bibliographie/prix-de-la-recherche-en-sciences-infirmieres-voici-les-laureats-2026"
     },
     {
       "category": "profession",
-      "title": "Les infirmières scolaires peuvent désormais cumuler plusieurs activités de soins",
-      "summary": "Par un courrier aux rectorats du 17 juillet 2026, la DGRH autorise les infirmières de l'Éducation nationale à exercer en libéral ou en établissement, hors obligations de service.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38135-les-infirmieres-scolaires-peuvent-desormais-cumuler-plusieurs-activites-de-soins.html"
+      "title": "L'Ordre soutient l'engagement des infirmiers dans la réserve opérationnelle",
+      "summary": "Lors du Conseil national du 30 septembre 2026, l'ONI a signé une charte avec le Secrétariat Général de la Garde nationale pour faciliter l'engagement des infirmiers réservistes.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/lordre-soutient-lengagement-des-infirmiers-dans-la-reserve-operationnelle"
     },
     {
       "category": "technique",
-      "title": "Serveur de télémétrie ApexPro CARESCAPE V5.0 et V6.0 avec Carescape Central Station ou CIC Pro : information de sécurité",
-      "summary": "L'ANSM publie une information de sécurité de GE Medical Systems Information Technologies concernant le serveur de télémétrie ApexPro.",
+      "title": "Centrale de surveillance Xhibit modèle 96102 avec répartiteur DisplayPort 010-1975-00 : information de sécurité",
+      "summary": "L'ANSM publie une information de sécurité de Spacelabs Healthcare Inc. sur la centrale de surveillance Xhibit.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/serveur-de-telemetrie-apexpro-carescape-v5-0-et-v6-0-avec-carescape-central-station-ou-cic-pro-clinical-information-center-ge-medical-systems-information-technologies-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-xhibit-modele-96102-utilisee-avec-le-repartiteur-displayport-modele-010-1975-00-spacelabs-healthcare-inc"
     },
     {
       "category": "formation",
-      "title": "Avenant 11 : Convergence Infirmière vous explique tout",
-      "summary": "Un webinaire pour comprendre les nouvelles cotations et les évolutions de la convention des IDEL.",
-      "source": "Webikeo",
-      "url": "https://webikeo.fr/webinar/avenant-11-convergence-infirmiere-vous-explique-tout-1"
+      "title": "Certification périodique : attention aux échéances",
+      "summary": "Cycle de six ans : date butoir 2029 pour les diplômés après 2023, 2032 pour les diplômés avant 2023 ; les actions DPC restent financées en 2026.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
     }
   ],
   "word": {
-    "field": "Urgences / vigilance",
-    "term": "Hyperkaliémie",
-    "subtitle": "Un excès de potassium dans le sang, dangereux pour le rythme cardiaque",
-    "definition": "Élévation de la kaliémie au-dessus de la norme (environ 5 mmol/L), pouvant provoquer des troubles du rythme cardiaque graves, notamment en cas d'insuffisance rénale.",
+    "field": "Gestes & soins",
+    "term": "Oxygénothérapie",
+    "subtitle": "Apporter de l'oxygène supplémentaire pour corriger une hypoxie",
+    "definition": "Administration d'oxygène à une concentration supérieure à celle de l'air ambiant, sur prescription médicale, afin de maintenir une saturation en oxygène (SpO2) dans la cible fixée.",
     "steps": [
       {
         "n": "1",
         "h": "Repérer",
-        "t": "identifier les patients à risque (insuffisance rénale, traitements augmentant la kaliémie) et vérifier qu'un prélèvement n'est pas hémolysé avant de conclure."
+        "t": "mesurer la SpO2, la fréquence respiratoire et observer les signes de détresse (sueurs, cyanose, tirage) ; vérifier la prescription : débit, dispositif et cible de saturation."
       },
       {
         "n": "2",
         "h": "Surveiller",
-        "t": "alerter le médecin sans délai, réaliser un ECG si prescrit et surveiller le rythme cardiaque, la conscience et la diurèse."
+        "t": "installer le dispositif prescrit (lunettes, masque), vérifier le débit, puis réévaluer régulièrement SpO2, conscience et confort ; prévenir tout risque de feu (pas de flamme, de corps gras)."
       },
       {
         "n": "3",
         "h": "Appliquer",
-        "t": "mettre en œuvre le traitement prescrit, contrôler la kaliémie selon la prescription et tracer les valeurs et les actions dans le dossier de soins."
+        "t": "adapter le débit selon la prescription, alerter le médecin si la cible n'est pas atteinte ou si l'état se dégrade, et tracer débit, dispositif et valeurs dans le dossier de soins."
       }
     ],
-    "retenir": "Une hyperkaliémie peut être silencieuse puis provoquer un trouble du rythme : toute valeur élevée se signale vite au médecin, après avoir écarté un prélèvement hémolysé. ",
-    "sources": "Sources : HAS · Société francophone de néphrologie · Code de la santé publique."
+    "retenir": "L'oxygène est un médicament : on le prescrit, on vise une cible de saturation et on réévalue, sans jamais en donner « au hasard ». ",
+    "sources": "Sources : HAS · Société de pneumologie de langue française · Code de la santé publique."
   }
 }

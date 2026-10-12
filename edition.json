@@ -1,5 +1,5 @@
 {
-  "dateLong": "Sam. 10 oct.",
+  "dateLong": "Lun. 12 oct.",
   "essentiel": [
     {
       "text": "L'"
@@ -9,97 +9,97 @@
       "strong": true
     },
     {
-      "text": " signe une charte pour l'engagement dans la réserve opérationnelle, pendant que l'"
+      "text": " publie ses positions sur la prise en soins du handicap et la répartition des compétences avec les manipulateurs en électroradiologie, tandis que l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie une information de sécurité sur la centrale de surveillance "
+      "text": " signale une erreur d'étiquetage IRM sur les générateurs "
     },
     {
-      "text": "Carescape CSCS V3.0.x",
+      "text": "Inspire 3024 et 3028",
       "strong": true
     },
     {
-      "text": " et que la "
+      "text": " et une action de sécurité sur le logiciel "
     },
     {
-      "text": "certification périodique",
+      "text": "LAP Chimio",
       "strong": true
     },
     {
-      "text": " reste calée sur 2029 ou 2032 selon l'année du diplôme."
+      "text": "."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "La refonte de l'exercice infirmier : mise à jour du 30 juin 2026",
-      "summary": "La FHF fait le point sur la loi du 27 juin 2025, le décret du 24 décembre 2025 et les arrêtés de juin 2026 qui redéfinissent le rôle propre et les actes de la profession.",
-      "source": "FHF",
-      "url": "https://www.fhf.fr/expertises/ressources-humaines/personnel-non-medical/la-refonte-de-lexercice-infirmier"
+      "title": "Loi infirmière : publication des deux arrêtés tant attendus",
+      "summary": "Les arrêtés du 27 juin 2026 fixent la liste des actes et soins réalisables par les infirmiers et celle des produits et examens qu'ils peuvent prescrire.",
+      "source": "SNIIL",
+      "url": "https://www.sniil.fr/loi-infirmiere-arretes/"
     },
     {
       "category": "alertes",
-      "title": "Centrale de surveillance Carescape Central Station (CSCS) V3.0.x : information de sécurité",
-      "summary": "L'ANSM relaie, le 1er octobre 2026, une action de sécurité de GE Medical Systems Information Technologies Inc. destinée aux établissements de santé (réf. R2625769).",
+      "title": "Générateur d'impulsions implantable Inspire (modèles 3024 et 3028) : information de sécurité",
+      "summary": "Dans le manuel IRM, les images radiographiques des modèles 3024 et 3028 sont interverties ; aucun retrait de produit n'est requis (information du 8 octobre 2026).",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-carescape-central-station-cscs-v3-0-x-ge-medical-systems-information-technologies-inc"
+      "url": "https://ansm.sante.fr/uploads/2026/10/08/20261008-mes-generateur-impulsion-implantable-inspire-medical-systems.pdf"
     },
     {
       "category": "science",
-      "title": "Prix de la recherche en sciences infirmières : voici les lauréats 2026",
-      "summary": "Trois lauréats distingués, dont des travaux sur le suicide et l'étude PRESENCE consacrée au soutien social.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/ipa-specialites/recherche-et-bibliographie/prix-de-la-recherche-en-sciences-infirmieres-voici-les-laureats-2026"
+      "title": "Position de l'Ordre sur le rôle de l'infirmier auprès de la personne en situation de handicap",
+      "summary": "Le CNOI formule ses recommandations en s'appuyant sur celles de la HAS relatives à l'organisation des soins en établissement de santé (9 octobre 2026).",
+      "source": "Ordre infirmier",
+      "url": "https://www.ordre-infirmiers.fr/position-et-recommandations-du-conseil-national-de-l-ordre-des-infirmiers-relatives-au-role-de-l-0"
     },
     {
       "category": "profession",
-      "title": "L'Ordre soutient l'engagement des infirmiers dans la réserve opérationnelle",
-      "summary": "Lors du Conseil national du 30 septembre 2026, l'ONI a signé une charte avec le Secrétariat Général de la Garde nationale pour faciliter l'engagement des infirmiers réservistes.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/lordre-soutient-lengagement-des-infirmiers-dans-la-reserve-operationnelle"
+      "title": "Infirmiers et manipulateurs d'électroradiologie : l'Ordre délimite les compétences",
+      "summary": "Une recommandation du 2 octobre 2026 précise le partage des actes d'imagerie médicale entre infirmiers et manipulateurs ; une position sur les puéricultrices libérales est aussi parue.",
+      "source": "Ordre infirmier",
+      "url": "https://www.ordre-infirmiers.fr/publications"
     },
     {
       "category": "technique",
-      "title": "Centrale de surveillance Xhibit modèle 96102 avec répartiteur DisplayPort 010-1975-00 : information de sécurité",
-      "summary": "L'ANSM publie une information de sécurité de Spacelabs Healthcare Inc. sur la centrale de surveillance Xhibit.",
+      "title": "LAP : logiciel d'aide à la prescription – Chimio – Computer Engineering : information aux utilisateurs",
+      "summary": "L'ANSM relaie, le 9 octobre 2026, une action de sécurité de Computer Engineering destinée aux services d'oncologie (réf. R2629961).",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-xhibit-modele-96102-utilisee-avec-le-repartiteur-displayport-modele-010-1975-00-spacelabs-healthcare-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "Certification périodique : attention aux échéances",
-      "summary": "Cycle de six ans : date butoir 2029 pour les diplômés après 2023, 2032 pour les diplômés avant 2023 ; les actions DPC restent financées en 2026.",
+      "title": "31e Congrès du CII : ouverture des inscriptions",
+      "summary": "Le Conseil international des infirmières appelle à s'inscrire à son 31e congrès (annonce du 2 octobre 2026).",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
+      "url": "https://www.infirmiers.com/formation-professionnelle"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Oxygénothérapie",
-    "subtitle": "Apporter de l'oxygène supplémentaire pour corriger une hypoxie",
-    "definition": "Administration d'oxygène à une concentration supérieure à celle de l'air ambiant, sur prescription médicale, afin de maintenir une saturation en oxygène (SpO2) dans la cible fixée.",
+    "field": "Pharmaco / thérapeutique",
+    "term": "Règle des 5 B",
+    "subtitle": "Cinq vérifications pour sécuriser chaque administration de médicament",
+    "definition": "Méthode de contrôle avant toute administration : bon patient, bon médicament, bonne dose, bonne voie, bon moment, pour prévenir les erreurs médicamenteuses.",
     "steps": [
       {
         "n": "1",
         "h": "Repérer",
-        "t": "mesurer la SpO2, la fréquence respiratoire et observer les signes de détresse (sueurs, cyanose, tirage) ; vérifier la prescription : débit, dispositif et cible de saturation."
+        "t": "confronter la prescription au patient (identité, allergies) et au produit : nom, dosage, forme et date de péremption."
       },
       {
         "n": "2",
         "h": "Surveiller",
-        "t": "installer le dispositif prescrit (lunettes, masque), vérifier le débit, puis réévaluer régulièrement SpO2, conscience et confort ; prévenir tout risque de feu (pas de flamme, de corps gras)."
+        "t": "vérifier la dose calculée, la voie et l'horaire prescrits ; en cas de doute ou de prescription illisible, ne pas administrer et demander au prescripteur."
       },
       {
         "n": "3",
         "h": "Appliquer",
-        "t": "adapter le débit selon la prescription, alerter le médecin si la cible n'est pas atteinte ou si l'état se dégrade, et tracer débit, dispositif et valeurs dans le dossier de soins."
+        "t": "administrer, rester auprès du patient pour observer tolérance et effets indésirables, puis tracer immédiatement dans le dossier de soins."
       }
     ],
-    "retenir": "L'oxygène est un médicament : on le prescrit, on vise une cible de saturation et on réévalue, sans jamais en donner « au hasard ». ",
-    "sources": "Sources : HAS · Société de pneumologie de langue française · Code de la santé publique."
+    "retenir": "Les 5 B se vérifient à chaque administration, au moment du geste et non de mémoire : un doute suspend l'acte. ",
+    "sources": "Sources : HAS · Guide « Sécurisation de l'administration des médicaments » · Code de la santé publique."
   }
 }

@@ -1,32 +1,32 @@
 {
-  "dateLong": "Lun. 12 oct.",
+  "dateLong": "Mar. 13 oct.",
   "essentiel": [
     {
-      "text": "L'"
+      "text": "La campagne de "
     },
     {
-      "text": "Ordre national des infirmiers",
+      "text": "vaccination grippe et Covid-19",
       "strong": true
     },
     {
-      "text": " publie ses positions sur la prise en soins du handicap et la répartition des compétences avec les manipulateurs en électroradiologie, tandis que l'"
+      "text": " démarre ce 13 octobre, tandis que l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " signale une erreur d'étiquetage IRM sur les générateurs "
+      "text": " publie un rappel sur le prolongateur "
     },
     {
-      "text": "Inspire 3024 et 3028",
+      "text": "AMS 700 CX/LGX",
       "strong": true
     },
     {
-      "text": " et une action de sécurité sur le logiciel "
+      "text": " et alerte sur un risque hépatique avec "
     },
     {
-      "text": "LAP Chimio",
+      "text": "Ocrevus",
       "strong": true
     },
     {
@@ -36,70 +36,70 @@
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Loi infirmière : publication des deux arrêtés tant attendus",
-      "summary": "Les arrêtés du 27 juin 2026 fixent la liste des actes et soins réalisables par les infirmiers et celle des produits et examens qu'ils peuvent prescrire.",
-      "source": "SNIIL",
-      "url": "https://www.sniil.fr/loi-infirmiere-arretes/"
+      "title": "Grippe et Covid : coup d'envoi de la nouvelle campagne de vaccination",
+      "summary": "La campagne annuelle démarre mardi 13 octobre, avant l'épidémie, après une grippe sévère l'hiver dernier ; la circulation grippale reste modérée selon Santé publique France.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/grippe-et-covid-coup-denvoi-de-la-nouvelle-campagne-de-vaccination"
     },
     {
       "category": "alertes",
-      "title": "Générateur d'impulsions implantable Inspire (modèles 3024 et 3028) : information de sécurité",
-      "summary": "Dans le manuel IRM, les images radiographiques des modèles 3024 et 3028 sont interverties ; aucun retrait de produit n'est requis (information du 8 octobre 2026).",
+      "title": "Prolongateur arrière (RTE) AMS 700 CX/LGX – Boston Scientific : rappel de produit",
+      "summary": "L'ANSM publie le 12 octobre 2026 un rappel concernant ce composant de prothèse érectile implantable.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/uploads/2026/10/08/20261008-mes-generateur-impulsion-implantable-inspire-medical-systems.pdf"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "Position de l'Ordre sur le rôle de l'infirmier auprès de la personne en situation de handicap",
-      "summary": "Le CNOI formule ses recommandations en s'appuyant sur celles de la HAS relatives à l'organisation des soins en établissement de santé (9 octobre 2026).",
-      "source": "Ordre infirmier",
-      "url": "https://www.ordre-infirmiers.fr/position-et-recommandations-du-conseil-national-de-l-ordre-des-infirmiers-relatives-au-role-de-l-0"
+      "title": "Ocrevus (ocrelizumab) : nouveau risque de lésions hépatiques d'origine médicamenteuse",
+      "summary": "L'ANSM informe, le 8 octobre 2026, d'un risque d'atteinte hépatique médicamenteuse à surveiller chez les patients traités par ocrelizumab.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/actualites/a-la-une"
     },
     {
       "category": "profession",
-      "title": "Infirmiers et manipulateurs d'électroradiologie : l'Ordre délimite les compétences",
-      "summary": "Une recommandation du 2 octobre 2026 précise le partage des actes d'imagerie médicale entre infirmiers et manipulateurs ; une position sur les puéricultrices libérales est aussi parue.",
-      "source": "Ordre infirmier",
-      "url": "https://www.ordre-infirmiers.fr/publications"
+      "title": "Pornic et Paimbœuf : des consultations infirmières en psychiatrie plus près des patients",
+      "summary": "Le centre médico-psychologique propose des consultations infirmières de proximité, avec numéro et horaires communiqués le 12 octobre 2026.",
+      "source": "Infos Média Nantes",
+      "url": "https://infos-media-nantes.fr/pornic-paimboeuf-consultations-infirmieres-psychiatrie-centre-hospitalier-2026"
     },
     {
       "category": "technique",
-      "title": "LAP : logiciel d'aide à la prescription – Chimio – Computer Engineering : information aux utilisateurs",
-      "summary": "L'ANSM relaie, le 9 octobre 2026, une action de sécurité de Computer Engineering destinée aux services d'oncologie (réf. R2629961).",
+      "title": "Accessoire d'endoscopie Fujifilm Medwork : rappel de produit",
+      "summary": "L'ANSM relaie un rappel de produit sur un accessoire d'endoscopie Fujifilm Medwork, à vérifier dans les services d'endoscopie.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "31e Congrès du CII : ouverture des inscriptions",
-      "summary": "Le Conseil international des infirmières appelle à s'inscrire à son 31e congrès (annonce du 2 octobre 2026).",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/formation-professionnelle"
+      "title": "DPC : choisir ses actions avant le cycle 2026-2028",
+      "summary": "Les orientations prioritaires 2023-2025 étant prorogées jusqu'en 2026, les infirmiers peuvent préparer leurs actions du prochain cycle triennal.",
+      "source": "Agence du DPC",
+      "url": "https://www.agencedpc.fr/"
     }
   ],
   "word": {
-    "field": "Pharmaco / thérapeutique",
-    "term": "Règle des 5 B",
-    "subtitle": "Cinq vérifications pour sécuriser chaque administration de médicament",
-    "definition": "Méthode de contrôle avant toute administration : bon patient, bon médicament, bonne dose, bonne voie, bon moment, pour prévenir les erreurs médicamenteuses.",
+    "field": "Gestes & soins",
+    "term": "Aspiration trachéale",
+    "subtitle": "Dégager les voies aériennes d'un patient qui ne sait pas se désencombrer",
+    "definition": "Geste stérile qui retire les sécrétions bronchiques par une sonde d'aspiration, chez un patient trachéotomisé, intubé ou encombré, pour maintenir les voies aériennes libres.",
     "steps": [
       {
         "n": "1",
-        "h": "Repérer",
-        "t": "confronter la prescription au patient (identité, allergies) et au produit : nom, dosage, forme et date de péremption."
+        "h": "Préparer",
+        "t": "vérifier l'indication, préoxygéner, régler l'aspiration à la dépression prescrite et se protéger (hygiène des mains, gants, masque, lunettes)."
       },
       {
         "n": "2",
-        "h": "Surveiller",
-        "t": "vérifier la dose calculée, la voie et l'horaire prescrits ; en cas de doute ou de prescription illisible, ne pas administrer et demander au prescripteur."
+        "h": "Aspirer",
+        "t": "introduire la sonde stérile sans aspirer, puis aspirer en retirant en rotation, moins de 10 à 15 secondes par passage, en surveillant saturation et tolérance."
       },
       {
         "n": "3",
-        "h": "Appliquer",
-        "t": "administrer, rester auprès du patient pour observer tolérance et effets indésirables, puis tracer immédiatement dans le dossier de soins."
+        "h": "Évaluer",
+        "t": "réoxygéner, apprécier l'aspect et la quantité des sécrétions, éliminer le matériel et tracer le geste dans le dossier de soins."
       }
     ],
-    "retenir": "Les 5 B se vérifient à chaque administration, au moment du geste et non de mémoire : un doute suspend l'acte. ",
-    "sources": "Sources : HAS · Guide « Sécurisation de l'administration des médicaments » · Code de la santé publique."
+    "retenir": "L'aspiration est un geste invasif et brève : asepsie rigoureuse, durée limitée et surveillance de la saturation ; toute désaturation ou bradycardie impose d'arrêter et de réoxygéner. ",
+    "sources": "Sources : Recommandations de bonnes pratiques (SRLF, SF2H) · Référentiels de soins infirmiers."
   }
 }

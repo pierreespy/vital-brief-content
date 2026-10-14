@@ -1,105 +1,98 @@
 {
-  "dateLong": "Mar. 13 oct.",
+  "dateLong": "Mer. 14 oct.",
   "essentiel": [
     {
-      "text": "La campagne de "
+      "text": "Le décret du 9 octobre autorise le "
     },
     {
-      "text": "vaccination grippe et Covid-19",
+      "text": "stockage des vaccins",
       "strong": true
     },
     {
-      "text": " démarre ce 13 octobre, tandis que l'"
+      "text": " par les infirmiers libéraux, tandis que l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie un rappel sur le prolongateur "
+      "text": " active son "
     },
     {
-      "text": "AMS 700 CX/LGX",
+      "text": "plan hivernal 2026-2027",
       "strong": true
     },
     {
-      "text": " et alerte sur un risque hépatique avec "
-    },
-    {
-      "text": "Ocrevus",
-      "strong": true
-    },
-    {
-      "text": "."
+      "text": " (79 types de dispositifs, 14 molécules) et publie une information sur une prothèse de genou."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Grippe et Covid : coup d'envoi de la nouvelle campagne de vaccination",
-      "summary": "La campagne annuelle démarre mardi 13 octobre, avant l'épidémie, après une grippe sévère l'hiver dernier ; la circulation grippale reste modérée selon Santé publique France.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/grippe-et-covid-coup-denvoi-de-la-nouvelle-campagne-de-vaccination"
+      "title": "Stockage des vaccins par les infirmiers libéraux : une avancée pour l'accès aux soins et la prévention",
+      "summary": "L'Ordre national des infirmiers salue le décret n° 2026-939 du 9 octobre 2026 qui autorise les IDEL à stocker les vaccins.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/stockage-des-vaccins-par-les-infirmieres-et-infirmiers-qui-exercent-en-liberal-une-avancee-pour-l"
     },
     {
       "category": "alertes",
-      "title": "Prolongateur arrière (RTE) AMS 700 CX/LGX – Boston Scientific : rappel de produit",
-      "summary": "L'ANSM publie le 12 octobre 2026 un rappel concernant ce composant de prothèse érectile implantable.",
+      "title": "Prothèse totale de genou à glissement, embase tibiale à cimenter : information aux utilisateurs",
+      "summary": "L'ANSM publie le 12 octobre 2026 une information de sécurité sur une embase tibiale (taille 4, insert mobile).",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "Ocrevus (ocrelizumab) : nouveau risque de lésions hépatiques d'origine médicamenteuse",
-      "summary": "L'ANSM informe, le 8 octobre 2026, d'un risque d'atteinte hépatique médicamenteuse à surveiller chez les patients traités par ocrelizumab.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/a-la-une"
+      "title": "HAS : productions programmées 2026",
+      "summary": "La HAS détaille son programme de recommandations de bonne pratique et d'actualisations prévues en 2026, à consulter pour anticiper les nouvelles références.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2026-02/dir1/productions_programmees.pdf"
     },
     {
       "category": "profession",
-      "title": "Pornic et Paimbœuf : des consultations infirmières en psychiatrie plus près des patients",
-      "summary": "Le centre médico-psychologique propose des consultations infirmières de proximité, avec numéro et horaires communiqués le 12 octobre 2026.",
-      "source": "Infos Média Nantes",
-      "url": "https://infos-media-nantes.fr/pornic-paimboeuf-consultations-infirmieres-psychiatrie-centre-hospitalier-2026"
+      "title": "Handicap : la position de l'Ordre sur le rôle de l'infirmier",
+      "summary": "Le Conseil national de l'Ordre précise, le 9 octobre 2026, le rôle de l'infirmier auprès des personnes en situation de handicap.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/publications"
     },
     {
       "category": "technique",
-      "title": "Accessoire d'endoscopie Fujifilm Medwork : rappel de produit",
-      "summary": "L'ANSM relaie un rappel de produit sur un accessoire d'endoscopie Fujifilm Medwork, à vérifier dans les services d'endoscopie.",
+      "title": "L'ANSM active le plan 2026-2027 de suivi des médicaments et des dispositifs médicaux de l'hiver",
+      "summary": "79 types de DM et DMDIV (ventilation, perfusion, dialyse) et 14 molécules sont surveillés pour prévenir les tensions d'approvisionnement.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "url": "https://ansm.sante.fr/actualites/lansm-active-le-plan-2026-2027-de-suivi-des-medicaments-et-des-dispositifs-medicaux-de-lhiver"
     },
     {
       "category": "formation",
-      "title": "DPC : choisir ses actions avant le cycle 2026-2028",
-      "summary": "Les orientations prioritaires 2023-2025 étant prorogées jusqu'en 2026, les infirmiers peuvent préparer leurs actions du prochain cycle triennal.",
-      "source": "Agence du DPC",
-      "url": "https://www.agencedpc.fr/"
+      "title": "Certification périodique : attention aux échéances",
+      "summary": "Infirmiers.com rappelle les échéances de la certification périodique, qui prend le relais du DPC.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Aspiration trachéale",
-    "subtitle": "Dégager les voies aériennes d'un patient qui ne sait pas se désencombrer",
-    "definition": "Geste stérile qui retire les sécrétions bronchiques par une sonde d'aspiration, chez un patient trachéotomisé, intubé ou encombré, pour maintenir les voies aériennes libres.",
+    "field": "Pharmaco / thérapeutique",
+    "term": "HBPM (héparine de bas poids moléculaire)",
+    "subtitle": "L'anticoagulant injectable du quotidien, à manier avec rigueur",
+    "definition": "Anticoagulant injectable par voie sous-cutanée, utilisé en prévention ou en traitement de la maladie thromboembolique veineuse, dont la dose dépend de l'indication et de la fonction rénale.",
     "steps": [
       {
         "n": "1",
-        "h": "Préparer",
-        "t": "vérifier l'indication, préoxygéner, régler l'aspiration à la dépression prescrite et se protéger (hygiène des mains, gants, masque, lunettes)."
+        "h": "Vérifier",
+        "t": "identité, prescription (molécule, dose, indication), dernière numération plaquettaire et créatinine ou clairance, antécédents hémorragiques."
       },
       {
         "n": "2",
-        "h": "Aspirer",
-        "t": "introduire la sonde stérile sans aspirer, puis aspirer en retirant en rotation, moins de 10 à 15 secondes par passage, en surveillant saturation et tolérance."
+        "h": "Injecter",
+        "t": "en sous-cutané, dans la ceinture abdominale en alternant les sites, sans purger la bulle d'air de la seringue préremplie ni frictionner après."
       },
       {
         "n": "3",
-        "h": "Évaluer",
-        "t": "réoxygéner, apprécier l'aspect et la quantité des sécrétions, éliminer le matériel et tracer le geste dans le dossier de soins."
+        "h": "Surveiller",
+        "t": "signes de saignement, hématomes, plaquettes (risque de thrombopénie induite par l'héparine) et tracer l'heure et le site d'injection."
       }
     ],
-    "retenir": "L'aspiration est un geste invasif et brève : asepsie rigoureuse, durée limitée et surveillance de la saturation ; toute désaturation ou bradycardie impose d'arrêter et de réoxygéner. ",
-    "sources": "Sources : Recommandations de bonnes pratiques (SRLF, SF2H) · Référentiels de soins infirmiers."
+    "retenir": "Une HBPM n'est pas interchangeable d'une molécule à l'autre : respecter la dose, adapter à la fonction rénale et surveiller les plaquettes et les saignements. ",
+    "sources": "Sources : RCP des HBPM (ANSM) · Recommandations HAS sur la prévention de la maladie thromboembolique veineuse."
   }
 }

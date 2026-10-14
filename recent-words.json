@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "HBPM (héparine de bas poids moléculaire)",
+      "date": "2026-10-14"
+    },
+    {
       "term": "Aspiration trachéale",
       "date": "2026-10-13"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Aérosolthérapie",
       "date": "2026-09-13"
-    },
-    {
-      "term": "Syndrome coronarien aigu (SCA)",
-      "date": "2026-09-12"
     }
   ]
 }

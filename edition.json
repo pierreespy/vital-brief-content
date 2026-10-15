@@ -1,66 +1,66 @@
 {
-  "dateLong": "Mer. 14 oct.",
+  "dateLong": "Jeu. 15 oct.",
   "essentiel": [
     {
-      "text": "Le décret du 9 octobre autorise le "
+      "text": "La "
     },
     {
-      "text": "stockage des vaccins",
+      "text": "campagne grippe-Covid 2026-2027",
       "strong": true
     },
     {
-      "text": " par les infirmiers libéraux, tandis que l'"
+      "text": " a démarré le 13 octobre, avec le "
+    },
+    {
+      "text": "décret n° 2026-939",
+      "strong": true
+    },
+    {
+      "text": " qui permet aux infirmiers libéraux de stocker les vaccins ; l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " active son "
-    },
-    {
-      "text": "plan hivernal 2026-2027",
-      "strong": true
-    },
-    {
-      "text": " (79 types de dispositifs, 14 molécules) et publie une information sur une prothèse de genou."
+      "text": " publie par ailleurs une information de sécurité sur un logiciel d'aide à la prescription en oncologie."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Stockage des vaccins par les infirmiers libéraux : une avancée pour l'accès aux soins et la prévention",
-      "summary": "L'Ordre national des infirmiers salue le décret n° 2026-939 du 9 octobre 2026 qui autorise les IDEL à stocker les vaccins.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/stockage-des-vaccins-par-les-infirmieres-et-infirmiers-qui-exercent-en-liberal-une-avancee-pour-l"
+      "title": "Vaccination grippe-Covid 2026 : la campagne démarre le 13 octobre, un seul rendez-vous suffit",
+      "summary": "Les deux vaccins peuvent être administrés lors d'une même séance ; le décret n° 2026-939 autorise les IDEL à les détenir au cabinet depuis le 11 octobre.",
+      "source": "Tout sur mes finances",
+      "url": "https://www.toutsurmesfinances.com/actualites/?p=2076"
     },
     {
       "category": "alertes",
-      "title": "Prothèse totale de genou à glissement, embase tibiale à cimenter : information aux utilisateurs",
-      "summary": "L'ANSM publie le 12 octobre 2026 une information de sécurité sur une embase tibiale (taille 4, insert mobile).",
+      "title": "Logiciel d'aide à la prescription Chimio (Computer Engineering) : information de sécurité",
+      "summary": "L'ANSM publie le 9 octobre 2026 une action de sécurité (réf. R2629961) concernant ce logiciel utilisé en oncologie.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "HAS : productions programmées 2026",
-      "summary": "La HAS détaille son programme de recommandations de bonne pratique et d'actualisations prévues en 2026, à consulter pour anticiper les nouvelles références.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2026-02/dir1/productions_programmees.pdf"
+      "title": "Stockage des vaccins grippe et Covid-19 par les IDEL : la HAS donne son feu vert",
+      "summary": "La HAS a rendu un avis favorable au projet de décret, dans le cadre de la loi infirmière de juin 2025.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/exercice-liberal/le-metier-didel/stockage-des-vaccins-grippe-et-covid-19-par-les-idel-la-has-donne-son-feu-vert"
     },
     {
       "category": "profession",
-      "title": "Handicap : la position de l'Ordre sur le rôle de l'infirmier",
-      "summary": "Le Conseil national de l'Ordre précise, le 9 octobre 2026, le rôle de l'infirmier auprès des personnes en situation de handicap.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/publications"
+      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
+      "summary": "Avis favorable de la HAS (juin 2026) sur le projet d'arrêté listant produits et examens prescriptibles par les infirmiers, sous condition d'évaluation clinique et de traçabilité.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
     },
     {
       "category": "technique",
-      "title": "L'ANSM active le plan 2026-2027 de suivi des médicaments et des dispositifs médicaux de l'hiver",
-      "summary": "79 types de DM et DMDIV (ventilation, perfusion, dialyse) et 14 molécules sont surveillés pour prévenir les tensions d'approvisionnement.",
+      "title": "Conférence finale du projet JAMS sur les dispositifs médicaux",
+      "summary": "L'ANSM présente JAMS, un modèle de coopération européenne qu'elle pilote pour renforcer la surveillance des dispositifs médicaux.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/lansm-active-le-plan-2026-2027-de-suivi-des-medicaments-et-des-dispositifs-medicaux-de-lhiver"
+      "url": "https://www.ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Conference-finale-du-projet-JAMS-sur-les-dispositifs-medicaux-un-modele-de-cooperation-europeenne-pilote-par-l-ANSM-Point-d-information"
     },
     {
       "category": "formation",
@@ -71,28 +71,28 @@
     }
   ],
   "word": {
-    "field": "Pharmaco / thérapeutique",
-    "term": "HBPM (héparine de bas poids moléculaire)",
-    "subtitle": "L'anticoagulant injectable du quotidien, à manier avec rigueur",
-    "definition": "Anticoagulant injectable par voie sous-cutanée, utilisé en prévention ou en traitement de la maladie thromboembolique veineuse, dont la dose dépend de l'indication et de la fonction rénale.",
+    "field": "Gestes & soins",
+    "term": "Précautions standard",
+    "subtitle": "Le socle d'hygiène qui protège le patient comme le soignant",
+    "definition": "Ensemble de mesures appliquées à tout patient, quel que soit son statut infectieux, pour prévenir la transmission croisée : hygiène des mains, port de gants et d'équipements de protection, gestion des excreta et des déchets, prévention des accidents d'exposition au sang.",
     "steps": [
       {
         "n": "1",
-        "h": "Vérifier",
-        "t": "identité, prescription (molécule, dose, indication), dernière numération plaquettaire et créatinine ou clairance, antécédents hémorragiques."
+        "h": "Hygiène des mains",
+        "t": "friction hydro-alcoolique avant et après chaque soin, lavage au savon si mains souillées."
       },
       {
         "n": "2",
-        "h": "Injecter",
-        "t": "en sous-cutané, dans la ceinture abdominale en alternant les sites, sans purger la bulle d'air de la seringue préremplie ni frictionner après."
+        "h": "Protéger",
+        "t": "gants à usage unique pour tout risque de contact avec sang ou liquides biologiques ; tablier, masque et lunettes en cas de risque de projection."
       },
       {
         "n": "3",
-        "h": "Surveiller",
-        "t": "signes de saignement, hématomes, plaquettes (risque de thrombopénie induite par l'héparine) et tracer l'heure et le site d'injection."
+        "h": "Éliminer",
+        "t": "jeter les piquants-tranchants immédiatement dans le collecteur, sans recapuchonner, et trier les déchets (DASRI)."
       }
     ],
-    "retenir": "Une HBPM n'est pas interchangeable d'une molécule à l'autre : respecter la dose, adapter à la fonction rénale et surveiller les plaquettes et les saignements. ",
-    "sources": "Sources : RCP des HBPM (ANSM) · Recommandations HAS sur la prévention de la maladie thromboembolique veineuse."
+    "retenir": "Les précautions standard s'appliquent à tous les patients, tout le temps ; les précautions complémentaires (contact, gouttelettes, air) s'y ajoutent selon le mode de transmission. ",
+    "sources": "Sources : SF2H · Recommandations nationales de prévention de la transmission croisée."
   }
 }

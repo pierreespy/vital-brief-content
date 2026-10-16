@@ -1,98 +1,105 @@
 {
-  "dateLong": "Jeu. 15 oct.",
+  "dateLong": "Ven. 16 oct.",
   "essentiel": [
     {
-      "text": "La "
+      "text": "Le "
     },
     {
-      "text": "campagne grippe-Covid 2026-2027",
+      "text": "Conseil d'État",
       "strong": true
     },
     {
-      "text": " a démarré le 13 octobre, avec le "
+      "text": " a rejeté le 5 octobre le référé contre la recommandation "
     },
     {
-      "text": "décret n° 2026-939",
+      "text": "HAS",
       "strong": true
     },
     {
-      "text": " qui permet aux infirmiers libéraux de stocker les vaccins ; l'"
+      "text": " sur la vaccination antigrippale des soignants, alors que le vote pour les conseils de l'"
+    },
+    {
+      "text": "Ordre infirmier",
+      "strong": true
+    },
+    {
+      "text": " est ouvert jusqu'au 30 octobre et que l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie par ailleurs une information de sécurité sur un logiciel d'aide à la prescription en oncologie."
+      "text": " alerte sur le logiciel ICCA de Philips."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Vaccination grippe-Covid 2026 : la campagne démarre le 13 octobre, un seul rendez-vous suffit",
-      "summary": "Les deux vaccins peuvent être administrés lors d'une même séance ; le décret n° 2026-939 autorise les IDEL à les détenir au cabinet depuis le 11 octobre.",
-      "source": "Tout sur mes finances",
-      "url": "https://www.toutsurmesfinances.com/actualites/?p=2076"
+      "title": "Obligation vaccinale grippe des soignants : le Conseil d'État rejette le référé, mais sur l'urgence, pas sur le fond",
+      "summary": "Le 5 octobre 2026, le Conseil d'État écarte le référé faute d'urgence ; la HAS préconise un déploiement progressif sur deux ans.",
+      "source": "Pharmactu",
+      "url": "https://pharmactu.fr/articles/obligation-vaccinale-grippe-soignants-conseil-etat-rejet-refere-2026"
     },
     {
       "category": "alertes",
-      "title": "Logiciel d'aide à la prescription Chimio (Computer Engineering) : information de sécurité",
-      "summary": "L'ANSM publie le 9 octobre 2026 une action de sécurité (réf. R2629961) concernant ce logiciel utilisé en oncologie.",
+      "title": "Logiciel d'aide à la prescription ICCA (Philips) : information de sécurité",
+      "summary": "L'ANSM publie le 15 octobre 2026 une information aux utilisateurs sur IntelliSpace Critical Care and Anesthesia, utilisé en réanimation et anesthésie.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "Stockage des vaccins grippe et Covid-19 par les IDEL : la HAS donne son feu vert",
-      "summary": "La HAS a rendu un avis favorable au projet de décret, dans le cadre de la loi infirmière de juin 2025.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/exercice-liberal/le-metier-didel/stockage-des-vaccins-grippe-et-covid-19-par-les-idel-la-has-donne-son-feu-vert"
+      "title": "Ratios minimum de soignants : la HAS prépare son premier avis pour novembre 2026",
+      "summary": "La note de cadrage porte sur la néonatalogie, l'obstétrique, les soins palliatifs et la psychiatrie, à la suite d'une saisine ministérielle visant infirmiers et aides-soignants.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage"
     },
     {
       "category": "profession",
-      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
-      "summary": "Avis favorable de la HAS (juin 2026) sur le projet d'arrêté listant produits et examens prescriptibles par les infirmiers, sous condition d'évaluation clinique et de traçabilité.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
+      "title": "Élections des conseils (inter)départementaux de l'Ordre des infirmiers : le vote est ouvert",
+      "summary": "Renouvellement partiel des C(I)DOI : vote du 15 octobre à 14 h au 30 octobre 2026 à 14 h.",
+      "source": "Ordre des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/appel-a-candidatures-elections-des-conseils-interdepartementaux-de-l-ordre-des-infirmiers-cidoi"
     },
     {
       "category": "technique",
-      "title": "Conférence finale du projet JAMS sur les dispositifs médicaux",
-      "summary": "L'ANSM présente JAMS, un modèle de coopération européenne qu'elle pilote pour renforcer la surveillance des dispositifs médicaux.",
-      "source": "ANSM",
-      "url": "https://www.ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Conference-finale-du-projet-JAMS-sur-les-dispositifs-medicaux-un-modele-de-cooperation-europeenne-pilote-par-l-ANSM-Point-d-information"
+      "title": "E-notice des médicaments : le QR code sur les boîtes en phase pilote depuis septembre 2026",
+      "summary": "Le dispositif, porté par l'ANSM, permet d'accéder à la notice numérique depuis la boîte de médicament.",
+      "source": "Mon Suivi Médical",
+      "url": "https://monsuivimedical.fr/blog/e-notice-medicaments-qr-code-ansm-2026"
     },
     {
       "category": "formation",
-      "title": "Certification périodique : attention aux échéances",
-      "summary": "Infirmiers.com rappelle les échéances de la certification périodique, qui prend le relais du DPC.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
+      "title": "Nouvelle formation infirmière : le décret n° 2026-130 du 20 février 2026 et l'arrêté sur le diplôme d'État",
+      "summary": "L'Ordre salue la publication au Journal officiel des textes encadrant la nouvelle formation, avec une mise en œuvre prévue à la rentrée 2026.",
+      "source": "Ordre des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/l-ordre-national-des-infirmiers-salue-la-publication-au-journal-officiel-du-decret-ndeg-2026-130-du"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Précautions standard",
-    "subtitle": "Le socle d'hygiène qui protège le patient comme le soignant",
-    "definition": "Ensemble de mesures appliquées à tout patient, quel que soit son statut infectieux, pour prévenir la transmission croisée : hygiène des mains, port de gants et d'équipements de protection, gestion des excreta et des déchets, prévention des accidents d'exposition au sang.",
+    "field": "Urgences / vigilance",
+    "term": "Sepsis",
+    "subtitle": "Une infection qui dérègle l'organisme et menace les organes",
+    "definition": "Dysfonction d'organe menaçant le pronostic vital, causée par une réponse inadaptée de l'organisme à une infection ; sans prise en charge rapide, elle peut évoluer vers le choc septique.",
     "steps": [
       {
         "n": "1",
-        "h": "Hygiène des mains",
-        "t": "friction hydro-alcoolique avant et après chaque soin, lavage au savon si mains souillées."
+        "h": "Repérer",
+        "t": "fièvre ou hypothermie, tachycardie, polypnée, hypotension, confusion, marbrures ; calculer qSOFA ou NEWS2 et alerter sans attendre."
       },
       {
         "n": "2",
-        "h": "Protéger",
-        "t": "gants à usage unique pour tout risque de contact avec sang ou liquides biologiques ; tablier, masque et lunettes en cas de risque de projection."
+        "h": "Prélever",
+        "t": "lactates et hémocultures avant l'antibiothérapie, sans la retarder, avec les autres bilans prescrits."
       },
       {
         "n": "3",
-        "h": "Éliminer",
-        "t": "jeter les piquants-tranchants immédiatement dans le collecteur, sans recapuchonner, et trier les déchets (DASRI)."
+        "h": "Traiter vite",
+        "t": "voie veineuse, antibiothérapie probabiliste selon prescription, remplissage et oxygène si besoin, surveillance rapprochée des constantes et de la diurèse."
       }
     ],
-    "retenir": "Les précautions standard s'appliquent à tous les patients, tout le temps ; les précautions complémentaires (contact, gouttelettes, air) s'y ajoutent selon le mode de transmission. ",
-    "sources": "Sources : SF2H · Recommandations nationales de prévention de la transmission croisée."
+    "retenir": "Dans le sepsis, chaque heure compte : repérer tôt, alerter, prélever puis administrer l'antibiotique prescrit sans délai. ",
+    "sources": "Sources : Surviving Sepsis Campaign · Sepsis-3 · SRLF / SFAR."
   }
 }

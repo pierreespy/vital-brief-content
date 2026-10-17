@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Escarre",
+      "date": "2026-10-17"
+    },
+    {
       "term": "Sepsis",
       "date": "2026-10-16"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Nutrition entérale",
       "date": "2026-09-16"
-    },
-    {
-      "term": "Éducation thérapeutique du patient (ETP)",
-      "date": "2026-09-15"
     }
   ]
 }

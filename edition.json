@@ -1,105 +1,105 @@
 {
-  "dateLong": "Sam. 17 oct.",
+  "dateLong": "Dim. 18 oct.",
   "essentiel": [
     {
-      "text": "Le décret "
+      "text": "Deux décès de nouveau-nés liés à des "
     },
     {
-      "text": "2026-955",
+      "text": "infections nosocomiales",
       "strong": true
     },
     {
-      "text": " met en cohérence les textes sur les actes des infirmiers, l'"
+      "text": " au "
+    },
+    {
+      "text": "CHU de Nantes",
+      "strong": true
+    },
+    {
+      "text": ", information de sécurité de l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " alerte sur un défibrillateur "
+      "text": " sur un logiciel de prescription en oncologie et "
     },
     {
-      "text": "HeartSine",
+      "text": "l'Ordre",
       "strong": true
     },
     {
-      "text": " et les "
-    },
-    {
-      "text": "IDEL",
-      "strong": true
-    },
-    {
-      "text": " se mobilisent ce samedi sur les frais de déplacement."
+      "text": " désormais habilité à porter plainte à la place des infirmiers."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Décret n° 2026-955 du 13 octobre 2026 portant mise en cohérence des dispositions relatives aux actes professionnels des infirmiers",
-      "summary": "Publié au JORF du 15 octobre, il abroge des dispositions devenues caduques au regard de la loi du 27 juin 2025 sur la profession d'infirmier.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983458"
+      "title": "L'Ordre national des infirmiers et les URPS peuvent désormais porter plainte à la place des infirmiers",
+      "summary": "Un décret publié fin juillet 2026 ouvre cette possibilité à l'Ordre et aux URPS pour défendre les infirmiers victimes.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/"
     },
     {
       "category": "alertes",
-      "title": "Défibrillateur externe HeartSine samaritan PAD : information aux utilisateurs",
-      "summary": "L'ANSM a publié le 5 octobre 2026 une information de sécurité sur ce DAE ; vérifiez les appareils de votre service.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "title": "Deux décès de nouveau-nés imputables à des infections nosocomiales dans deux unités de néonatologie du CHU de Nantes",
+      "summary": "Signalés le 6 octobre 2026, ces cas surviennent depuis 2022 et rappellent l'enjeu de l'hygiène des mains et des précautions en néonatologie.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
-      "summary": "La HAS soutient le principe de nouvelles prescriptions infirmières, à condition d'une évaluation clinique, d'une coordination entre professionnels et d'une traçabilité optimale.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
+      "title": "Contraception désogestrel et étonogestrel : les notices évoluent sur le risque rare de méningiome",
+      "summary": "L'ANSM a publié le 11 août 2026 une mise à jour des notices pour mieux informer les patientes.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/"
     },
     {
       "category": "profession",
-      "title": "Mobilisation des IDEL le 17 octobre : carburant, IFD et IK au cœur des revendications",
-      "summary": "Des collectifs d'infirmiers libéraux appellent à manifester ce samedi pour la revalorisation des frais de déplacement.",
-      "source": "La Ruche",
-      "url": "https://laruche.cbainfo.fr/actualites/"
+      "title": "Équipe mobile IDE de nuit en EHPAD : un an de dispositif au centre hospitalier de Vaison-la-Romaine",
+      "summary": "Article du 1er octobre 2026 sur les infirmières mobiles de nuit qui sécurisent la prise en charge des résidents.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/"
     },
     {
       "category": "technique",
-      "title": "Plan hivernal 2026-2027 : surveillance activée pour 14 molécules et 79 types de dispositifs médicaux",
-      "summary": "L'ANSM a activé le 13 octobre son plan de suivi des tensions d'approvisionnement avant l'hiver.",
-      "source": "Le Moniteur des pharmacies",
-      "url": "https://www.lemoniteurdespharmacies.fr/therapeutique/medicaments/mieux-delivrer/plan-hivernal-2026-2027-surveillance-activee"
+      "title": "LAP Chimio – Computer Engineering : information aux utilisateurs",
+      "summary": "L'ANSM a publié le 9 octobre 2026 (n° R2629961) une action de sécurité sur ce logiciel d'aide à la prescription utilisé en oncologie.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-daide-a-la-prescription-chimio-computer-engineering-3"
     },
     {
       "category": "formation",
-      "title": "Formation DPC infirmier : orientations prioritaires et obligation triennale",
-      "summary": "Deux actions de formation ou d'analyse des pratiques sur trois ans ; plaies, stomies et gestion de la violence figurent parmi les orientations.",
-      "source": "La Ruche",
-      "url": "https://laruche.cbainfo.fr/gerer-cabinet-infirmier/formation-continue-idel/formation-dpc-infirmier/"
+      "title": "31e Congrès du Conseil international des infirmières : inscriptions ouvertes",
+      "summary": "Le congrès se tiendra début juillet 2027 ; les inscriptions sont déjà ouvertes.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/evenements"
     }
   ],
   "word": {
-    "field": "Clinique / physiopatho",
-    "term": "Escarre",
-    "subtitle": "Une lésion de la peau et des tissus sous-jacents causée par la pression",
-    "definition": "Plaie ischémique liée à une pression prolongée ou à des forces de cisaillement sur un point d'appui, qui évolue de la rougeur persistante à la nécrose profonde.",
+    "field": "Urgences / vigilance",
+    "term": "Infection nosocomiale",
+    "subtitle": "Une infection contractée pendant ou à cause d'un séjour de soins",
+    "definition": "Infection absente à l'admission, apparaissant au moins 48 h après l'entrée dans un établissement de santé, ou liée à un acte de soins.",
     "steps": [
       {
         "n": "1",
-        "h": "Repérer",
-        "t": "évaluer le risque (échelle de Braden) et inspecter les zones d'appui : sacrum, talons, trochanters, malléoles ; une rougeur qui ne blanchit pas à la pression est un stade 1."
+        "h": "Prévenir",
+        "t": "hygiène des mains (friction hydro-alcoolique), précautions standard, asepsie rigoureuse pour les gestes invasifs (sonde, VVP, cathéter)."
       },
       {
         "n": "2",
-        "h": "Prévenir",
-        "t": "changements de position selon prescription, support adapté, protection des talons, hygiène et hydratation de la peau, dépistage de la dénutrition."
+        "h": "Repérer",
+        "t": "surveiller fièvre, signes locaux au point d'insertion, changement de l'état général ; signaler tout cas groupé sans attendre."
       },
       {
         "n": "3",
-        "h": "Traiter et tracer",
-        "t": "décharger la zone, adapter le pansement au stade et à la plaie, alerter le médecin, suivre la douleur et tracer l'évolution dans le dossier."
+        "h": "Signaler et tracer",
+        "t": "prévenir le médecin et l'équipe opérationnelle d'hygiène, appliquer les précautions complémentaires, tracer dans le dossier."
       }
     ],
-    "retenir": "L'escarre se prévient : repérer le risque tôt, soulager les points d'appui et surveiller la peau à chaque soin. ",
-    "sources": "Sources : HAS · Échelle de Braden · NPIAP/EPUAP."
+    "retenir": "Une infection nosocomiale se prévient d'abord par l'hygiène des mains et l'asepsie ; tout cas suspect se signale vite. ",
+    "sources": "Sources : HAS · CPias · Santé publique France."
   }
 }

@@ -1,105 +1,105 @@
 {
-  "dateLong": "Dim. 18 oct.",
+  "dateLong": "Lun. 19 oct.",
   "essentiel": [
     {
-      "text": "Deux décès de nouveau-nés liés à des "
+      "text": "Campagne de "
     },
     {
-      "text": "infections nosocomiales",
+      "text": "vaccination grippe et Covid-19",
       "strong": true
     },
     {
-      "text": " au "
+      "text": " lancée, "
     },
     {
-      "text": "CHU de Nantes",
+      "text": "shadow IA",
       "strong": true
     },
     {
-      "text": ", information de sécurité de l'"
+      "text": " à l'hôpital : l'usage d'outils d'IA non validés interroge, et l'"
+    },
+    {
+      "text": "Ordre",
+      "strong": true
+    },
+    {
+      "text": " signe une charte pour la réserve opérationnelle ; l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " sur un logiciel de prescription en oncologie et "
-    },
-    {
-      "text": "l'Ordre",
-      "strong": true
-    },
-    {
-      "text": " désormais habilité à porter plainte à la place des infirmiers."
+      "text": " informe sur une centrale de surveillance patient."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "L'Ordre national des infirmiers et les URPS peuvent désormais porter plainte à la place des infirmiers",
-      "summary": "Un décret publié fin juillet 2026 ouvre cette possibilité à l'Ordre et aux URPS pour défendre les infirmiers victimes.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/"
+      "title": "L'Ordre national des infirmiers signe une charte pour soutenir l'engagement dans la réserve opérationnelle",
+      "summary": "Publiée le 2 octobre 2026, la charte vise à faciliter l'engagement des infirmiers dans la réserve opérationnelle.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/publications"
     },
     {
       "category": "alertes",
-      "title": "Deux décès de nouveau-nés imputables à des infections nosocomiales dans deux unités de néonatologie du CHU de Nantes",
-      "summary": "Signalés le 6 octobre 2026, ces cas surviennent depuis 2022 et rappellent l'enjeu de l'hygiène des mains et des précautions en néonatologie.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/"
+      "title": "Centrale de surveillance Carescape Central Station (CSCS) V3.0.x : information de sécurité",
+      "summary": "L'ANSM a publié le 1er octobre 2026 (n° R2625769) un courrier destiné aux établissements de santé utilisateurs.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-carescape-central-station-cscs-v3-0-x-ge-medical-systems-information-technologies-inc"
     },
     {
       "category": "science",
-      "title": "Contraception désogestrel et étonogestrel : les notices évoluent sur le risque rare de méningiome",
-      "summary": "L'ANSM a publié le 11 août 2026 une mise à jour des notices pour mieux informer les patientes.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/"
-    },
-    {
-      "category": "profession",
-      "title": "Équipe mobile IDE de nuit en EHPAD : un an de dispositif au centre hospitalier de Vaison-la-Romaine",
-      "summary": "Article du 1er octobre 2026 sur les infirmières mobiles de nuit qui sécurisent la prise en charge des résidents.",
+      "title": "Campagne de vaccination grippe et Covid-19 : lancement mi-octobre",
+      "summary": "Enjeu majeur de la campagne annuelle : protéger les publics fragiles, avec les IDEL désormais autorisés à stocker des vaccins.",
       "source": "Infirmiers.com",
       "url": "https://www.infirmiers.com/"
     },
     {
+      "category": "profession",
+      "title": "Intelligence artificielle : quel impact dans la pratique infirmière ?",
+      "summary": "Article du 15 octobre 2026 sur le « shadow IA » (outils d'IA utilisés sans validation de la direction) et un prototype s'appuyant sur les seuls protocoles de l'hôpital.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/intelligence-artificielle-quel-impact-dans-la-pratique-infirmiere"
+    },
+    {
       "category": "technique",
-      "title": "LAP Chimio – Computer Engineering : information aux utilisateurs",
-      "summary": "L'ANSM a publié le 9 octobre 2026 (n° R2629961) une action de sécurité sur ce logiciel d'aide à la prescription utilisé en oncologie.",
+      "title": "Dispositifs d'aspiration Med-Stop (Medline) : vigilance sur les kits de bocaux",
+      "summary": "L'ANSM a publié des informations de sécurité sur les dispositifs Med-Stop inclus dans les kits de bocaux d'aspiration Soft Liner.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-daide-a-la-prescription-chimio-computer-engineering-3"
+      "url": "https://ansm.sante.fr/informations-de-securite/dispositif-med-stop-inclus-dans-les-kits-de-bocaux-daspiration-soft-liner-medline"
     },
     {
       "category": "formation",
-      "title": "31e Congrès du Conseil international des infirmières : inscriptions ouvertes",
-      "summary": "Le congrès se tiendra début juillet 2027 ; les inscriptions sont déjà ouvertes.",
+      "title": "Étudiants infirmiers : mobilisation contre la précarité et réforme de la formation",
+      "summary": "Le SNICS-FSU et la FNESI se mobilisent, tandis que le nouveau référentiel de formation est en concertation.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/evenements"
+      "url": "https://www.infirmiers.com/etudiants/la-future-formation-infirmiere-sera-exigeante-et-plus-ajustee-au-metier"
     }
   ],
   "word": {
-    "field": "Urgences / vigilance",
-    "term": "Infection nosocomiale",
-    "subtitle": "Une infection contractée pendant ou à cause d'un séjour de soins",
-    "definition": "Infection absente à l'admission, apparaissant au moins 48 h après l'entrée dans un établissement de santé, ou liée à un acte de soins.",
+    "field": "Médicaments / sécurité transfusionnelle",
+    "term": "Contrôle ultime pré-transfusionnel",
+    "subtitle": "La dernière vérification au lit du patient avant de transfuser",
+    "definition": "Contrôle réglementaire réalisé par l'infirmier, au chevet du patient et juste avant la pose de chaque produit sanguin labile, pour éviter l'erreur d'identité ou de groupe.",
     "steps": [
       {
         "n": "1",
-        "h": "Prévenir",
-        "t": "hygiène des mains (friction hydro-alcoolique), précautions standard, asepsie rigoureuse pour les gestes invasifs (sonde, VVP, cathéter)."
+        "h": "Vérifier l'identité",
+        "t": "demander au patient de dire son nom, prénom et date de naissance, et les comparer au bracelet et aux documents."
       },
       {
         "n": "2",
-        "h": "Repérer",
-        "t": "surveiller fièvre, signes locaux au point d'insertion, changement de l'état général ; signaler tout cas groupé sans attendre."
+        "h": "Concordance",
+        "t": "contrôler que l'identité, le groupe et le numéro du produit correspondent entre la poche, la prescription et la fiche de distribution."
       },
       {
         "n": "3",
-        "h": "Signaler et tracer",
-        "t": "prévenir le médecin et l'équipe opérationnelle d'hygiène, appliquer les précautions complémentaires, tracer dans le dossier."
+        "h": "Compatibilité et traçabilité",
+        "t": "réaliser le test de compatibilité ABO au lit selon le protocole, puis tracer le contrôle, l'heure et les constantes dans le dossier."
       }
     ],
-    "retenir": "Une infection nosocomiale se prévient d'abord par l'hygiène des mains et l'asepsie ; tout cas suspect se signale vite. ",
-    "sources": "Sources : HAS · CPias · Santé publique France."
+    "retenir": "Le contrôle ultime se fait toujours au lit du patient, juste avant la transfusion : en cas de doute, on ne transfuse pas et on appelle le médecin.",
+    "sources": "Sources : HAS · EFS · ANSM."
   }
 }

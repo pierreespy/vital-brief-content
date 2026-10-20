@@ -1,105 +1,105 @@
 {
-  "dateLong": "Lun. 19 oct.",
+  "dateLong": "Mar. 20 oct.",
   "essentiel": [
     {
-      "text": "Campagne de "
+      "text": "Un "
     },
     {
-      "text": "vaccination grippe et Covid-19",
+      "text": "décret du 13 octobre",
       "strong": true
     },
     {
-      "text": " lancée, "
+      "text": " publié au JORF abroge d'anciennes dispositions sur les actes infirmiers, la "
     },
     {
-      "text": "shadow IA",
+      "text": "HAS",
       "strong": true
     },
     {
-      "text": " à l'hôpital : l'usage d'outils d'IA non validés interroge, et l'"
-    },
-    {
-      "text": "Ordre",
-      "strong": true
-    },
-    {
-      "text": " signe une charte pour la réserve opérationnelle ; l'"
+      "text": " encadre la prescription infirmière, et l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " informe sur une centrale de surveillance patient."
+      "text": " signale une action de sécurité sur la centrale "
+    },
+    {
+      "text": "Philips PIC iX",
+      "strong": true
+    },
+    {
+      "text": "."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "L'Ordre national des infirmiers signe une charte pour soutenir l'engagement dans la réserve opérationnelle",
-      "summary": "Publiée le 2 octobre 2026, la charte vise à faciliter l'engagement des infirmiers dans la réserve opérationnelle.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/publications"
+      "title": "Actes professionnels des infirmiers : un décret met en cohérence les dispositions réglementaires",
+      "summary": "Le décret n° 2026-955 du 13 octobre 2026, publié au Journal officiel du 15 octobre, abroge des dispositions devenues caduques depuis la loi infirmière du 27 juin 2025.",
+      "source": "Lexis Veille",
+      "url": "https://www.lexisveille.fr/mise-en-coherence-des-dispositions-relatives-aux-actes-professionnels-des-infirmiers"
     },
     {
       "category": "alertes",
-      "title": "Centrale de surveillance Carescape Central Station (CSCS) V3.0.x : information de sécurité",
-      "summary": "L'ANSM a publié le 1er octobre 2026 (n° R2625769) un courrier destiné aux établissements de santé utilisateurs.",
+      "title": "Centrale de surveillance PIC iX (Philips) : information de sécurité",
+      "summary": "L'ANSM relaie l'action de sécurité n° R2623673 du 20 août 2026 destinée aux établissements de santé utilisateurs.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-carescape-central-station-cscs-v3-0-x-ge-medical-systems-information-technologies-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-pic-ix-essentials-patient-information-center-ix-philips-medizin-systems-boblingen-gmbh"
     },
     {
       "category": "science",
-      "title": "Campagne de vaccination grippe et Covid-19 : lancement mi-octobre",
-      "summary": "Enjeu majeur de la campagne annuelle : protéger les publics fragiles, avec les IDEL désormais autorisés à stocker des vaccins.",
+      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
+      "summary": "Avis favorable sous réserve de la HAS (juin 2026) : raisonnement clinique, réévaluation et orientation médicale rapide en cas de signe atypique ou d'aggravation.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/"
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
     },
     {
       "category": "profession",
-      "title": "Intelligence artificielle : quel impact dans la pratique infirmière ?",
-      "summary": "Article du 15 octobre 2026 sur le « shadow IA » (outils d'IA utilisés sans validation de la direction) et un prototype s'appuyant sur les seuls protocoles de l'hôpital.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/intelligence-artificielle-quel-impact-dans-la-pratique-infirmiere"
+      "title": "Infirmier référent : ce que change le décret sur le statut",
+      "summary": "La MACSF décrypte les conséquences du décret pour l'exercice des infirmiers référents (article du 23 septembre 2026).",
+      "source": "MACSF",
+      "url": "https://www.macsf.fr/actualites/infirmiers"
     },
     {
       "category": "technique",
-      "title": "Dispositifs d'aspiration Med-Stop (Medline) : vigilance sur les kits de bocaux",
-      "summary": "L'ANSM a publié des informations de sécurité sur les dispositifs Med-Stop inclus dans les kits de bocaux d'aspiration Soft Liner.",
+      "title": "Moniteur-défibrillateur Sema (Schiller) : action de sécurité sur le logiciel",
+      "summary": "L'ANSM a publié le 22 juillet 2026 l'action n° R2620206 concernant le logiciel du moniteur-défibrillateur.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/dispositif-med-stop-inclus-dans-les-kits-de-bocaux-daspiration-soft-liner-medline"
+      "url": "https://ansm.sante.fr/informations-de-securite/moniteur-defibrillateur-logiciel-sema-schiller-ag"
     },
     {
       "category": "formation",
-      "title": "Étudiants infirmiers : mobilisation contre la précarité et réforme de la formation",
-      "summary": "Le SNICS-FSU et la FNESI se mobilisent, tandis que le nouveau référentiel de formation est en concertation.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/etudiants/la-future-formation-infirmiere-sera-exigeante-et-plus-ajustee-au-metier"
+      "title": "Congrès du Conseil international des infirmières : inscriptions ouvertes",
+      "summary": "La 31e édition se tiendra début juillet 2027 ; les inscriptions sont ouvertes depuis le 2 octobre 2026.",
+      "source": "MACSF",
+      "url": "https://www.macsf.fr/actualites/infirmiers"
     }
   ],
   "word": {
-    "field": "Médicaments / sécurité transfusionnelle",
-    "term": "Contrôle ultime pré-transfusionnel",
-    "subtitle": "La dernière vérification au lit du patient avant de transfuser",
-    "definition": "Contrôle réglementaire réalisé par l'infirmier, au chevet du patient et juste avant la pose de chaque produit sanguin labile, pour éviter l'erreur d'identité ou de groupe.",
+    "field": "Perfusion / sécurité médicamenteuse",
+    "term": "Extravasation",
+    "subtitle": "Quand le produit perfusé fuit hors de la veine, dans les tissus",
+    "definition": "Diffusion accidentelle d'un produit de perfusion hors du vaisseau vers les tissus voisins ; elle est grave avec les produits irritants ou vésicants (certaines chimiothérapies, potassium, vasopresseurs) car elle peut provoquer une nécrose.",
     "steps": [
       {
         "n": "1",
-        "h": "Vérifier l'identité",
-        "t": "demander au patient de dire son nom, prénom et date de naissance, et les comparer au bracelet et aux documents."
+        "h": "Stopper",
+        "t": "arrêter immédiatement la perfusion, garder la voie en place et tenter d'aspirer le produit par le cathéter."
       },
       {
         "n": "2",
-        "h": "Concordance",
-        "t": "contrôler que l'identité, le groupe et le numéro du produit correspondent entre la poche, la prescription et la fiche de distribution."
+        "h": "Prévenir et protéger",
+        "t": "appeler le médecin, retirer le cathéter selon protocole, délimiter la zone au feutre, surélever le membre et appliquer chaud ou froid selon le produit."
       },
       {
         "n": "3",
-        "h": "Compatibilité et traçabilité",
-        "t": "réaliser le test de compatibilité ABO au lit selon le protocole, puis tracer le contrôle, l'heure et les constantes dans le dossier."
+        "h": "Tracer et surveiller",
+        "t": "noter le produit, le volume, l'heure et l'aspect de la zone, surveiller l'évolution et déclarer l'événement indésirable."
       }
     ],
-    "retenir": "Le contrôle ultime se fait toujours au lit du patient, juste avant la transfusion : en cas de doute, on ne transfuse pas et on appelle le médecin.",
-    "sources": "Sources : HAS · EFS · ANSM."
+    "retenir": "Douleur, brûlure, gonflement ou perte du retour veineux au point de ponction : on stoppe d'abord, on réfléchit ensuite. Le geste précoce limite la nécrose. ",
+    "sources": "Sources : HAS · SF2H · fiches de protocoles hospitaliers."
   }
 }

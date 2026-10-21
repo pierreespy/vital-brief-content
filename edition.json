@@ -1,32 +1,32 @@
 {
-  "dateLong": "Mar. 20 oct.",
+  "dateLong": "Mer. 21 oct.",
   "essentiel": [
     {
-      "text": "Un "
+      "text": "Un député interroge le gouvernement sur le décret d'"
     },
     {
-      "text": "décret du 13 octobre",
+      "text": "accès direct",
       "strong": true
     },
     {
-      "text": " publié au JORF abroge d'anciennes dispositions sur les actes infirmiers, la "
+      "text": " aux infirmiers, la "
     },
     {
       "text": "HAS",
       "strong": true
     },
     {
-      "text": " encadre la prescription infirmière, et l'"
+      "text": " recommande la vaccination antigrippale obligatoire des soignants et l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " signale une action de sécurité sur la centrale "
+      "text": " publie un rappel "
     },
     {
-      "text": "Philips PIC iX",
+      "text": "Intersurgical",
       "strong": true
     },
     {
@@ -36,70 +36,70 @@
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Actes professionnels des infirmiers : un décret met en cohérence les dispositions réglementaires",
-      "summary": "Le décret n° 2026-955 du 13 octobre 2026, publié au Journal officiel du 15 octobre, abroge des dispositions devenues caduques depuis la loi infirmière du 27 juin 2025.",
-      "source": "Lexis Veille",
-      "url": "https://www.lexisveille.fr/mise-en-coherence-des-dispositions-relatives-aux-actes-professionnels-des-infirmiers"
+      "title": "Accès direct aux infirmiers : une question écrite sur la date du décret",
+      "summary": "Une question écrite à l'Assemblée nationale (13 octobre 2026) demande au gouvernement quand sera publié le décret relatif à l'accès direct aux infirmiers.",
+      "source": "Assemblée nationale",
+      "url": "https://questions.assemblee-nationale.fr/q17/17-18979QE.htm"
     },
     {
       "category": "alertes",
-      "title": "Centrale de surveillance PIC iX (Philips) : information de sécurité",
-      "summary": "L'ANSM relaie l'action de sécurité n° R2623673 du 20 août 2026 destinée aux établissements de santé utilisateurs.",
+      "title": "Kits de spirométrie et circuits respiratoires Intersurgical : rappel",
+      "summary": "L'ANSM a publié le 20 octobre 2026 le rappel n° R2630930 destiné aux établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-pic-ix-essentials-patient-information-center-ix-philips-medizin-systems-boblingen-gmbh"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
-      "summary": "Avis favorable sous réserve de la HAS (juin 2026) : raisonnement clinique, réévaluation et orientation médicale rapide en cas de signe atypique ou d'aggravation.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
+      "title": "Grippe : la HAS recommande la vaccination obligatoire des soignants",
+      "summary": "La HAS se prononce pour une obligation vaccinale antigrippale des professionnels de santé.",
+      "source": "Pharmactu",
+      "url": "https://pharmactu.fr/articles/vaccination-obligatoire-grippe-soignants-has-2026"
     },
     {
       "category": "profession",
-      "title": "Infirmier référent : ce que change le décret sur le statut",
-      "summary": "La MACSF décrypte les conséquences du décret pour l'exercice des infirmiers référents (article du 23 septembre 2026).",
-      "source": "MACSF",
-      "url": "https://www.macsf.fr/actualites/infirmiers"
+      "title": "Handicap : l'Ordre précise le rôle de l'infirmier dans la prise en soins",
+      "summary": "Le Conseil national de l'Ordre des infirmiers a publié le 9 octobre 2026 sa position et ses recommandations sur la prise en soins des personnes en situation de handicap.",
+      "source": "Ordre national des infirmiers",
+      "url": "https://www.ordre-infirmiers.fr/position-et-recommandations-du-conseil-national-de-l-ordre-des-infirmiers-relatives-au-role-de-l-0"
     },
     {
       "category": "technique",
-      "title": "Moniteur-défibrillateur Sema (Schiller) : action de sécurité sur le logiciel",
-      "summary": "L'ANSM a publié le 22 juillet 2026 l'action n° R2620206 concernant le logiciel du moniteur-défibrillateur.",
+      "title": "Aiguille de ponction Cook : information de sécurité",
+      "summary": "L'ANSM a publié le 1er octobre 2026 le rappel n° R2627886 destiné aux établissements de santé et centres d'imagerie.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/moniteur-defibrillateur-logiciel-sema-schiller-ag"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "Congrès du Conseil international des infirmières : inscriptions ouvertes",
-      "summary": "La 31e édition se tiendra début juillet 2027 ; les inscriptions sont ouvertes depuis le 2 octobre 2026.",
-      "source": "MACSF",
-      "url": "https://www.macsf.fr/actualites/infirmiers"
+      "title": "Fin de l'ANDPC en 2027 : ce que les infirmiers doivent savoir",
+      "summary": "Selon cet article, l'ANDPC fermerait en 2027 ; la formation continue des infirmiers reste à suivre de près.",
+      "source": "SOSIDEC",
+      "url": "https://sosidec.com/actualites/fin-andpc-2027-dpc-infirmiers-formation-continue"
     }
   ],
   "word": {
-    "field": "Perfusion / sécurité médicamenteuse",
-    "term": "Extravasation",
-    "subtitle": "Quand le produit perfusé fuit hors de la veine, dans les tissus",
-    "definition": "Diffusion accidentelle d'un produit de perfusion hors du vaisseau vers les tissus voisins ; elle est grave avec les produits irritants ou vésicants (certaines chimiothérapies, potassium, vasopresseurs) car elle peut provoquer une nécrose.",
+    "field": "Urgences / neurologie",
+    "term": "Score de Glasgow",
+    "subtitle": "Mesurer la conscience en trois réponses : yeux, parole, motricité",
+    "definition": "Échelle de 3 à 15 évaluant le niveau de conscience par l'ouverture des yeux (Y), la réponse verbale (V) et la réponse motrice (M) ; un score ≤ 8 traduit un coma grave.",
     "steps": [
       {
         "n": "1",
-        "h": "Stopper",
-        "t": "arrêter immédiatement la perfusion, garder la voie en place et tenter d'aspirer le produit par le cathéter."
+        "h": "Stimuler",
+        "t": "évaluer la meilleure réponse à la voix puis à la douleur, en notant Y, V et M séparément."
       },
       {
         "n": "2",
-        "h": "Prévenir et protéger",
-        "t": "appeler le médecin, retirer le cathéter selon protocole, délimiter la zone au feutre, surélever le membre et appliquer chaud ou froid selon le produit."
+        "h": "Additionner",
+        "t": "calculer le total (ex. Y3 V4 M5 = 12) et vérifier les pupilles et les signes de focalisation."
       },
       {
         "n": "3",
-        "h": "Tracer et surveiller",
-        "t": "noter le produit, le volume, l'heure et l'aspect de la zone, surveiller l'évolution et déclarer l'événement indésirable."
+        "h": "Alerter et surveiller",
+        "t": "prévenir le médecin si le score baisse de 2 points ou plus ou est ≤ 8, et répéter l'évaluation à intervalles réguliers."
       }
     ],
-    "retenir": "Douleur, brûlure, gonflement ou perte du retour veineux au point de ponction : on stoppe d'abord, on réfléchit ensuite. Le geste précoce limite la nécrose. ",
-    "sources": "Sources : HAS · SF2H · fiches de protocoles hospitaliers."
+    "retenir": "Un score isolé compte moins que sa tendance : on cote toujours Y, V, M et on trace l'heure de chaque évaluation. ",
+    "sources": "Sources : SFAR · SFMU · recommandations de neuro-réanimation."
   }
 }

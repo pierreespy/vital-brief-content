@@ -1,22 +1,15 @@
 {
-  "dateLong": "Mer. 21 oct.",
+  "dateLong": "Jeu. 22 oct.",
   "essentiel": [
     {
-      "text": "Un député interroge le gouvernement sur le décret d'"
+      "text": "Le "
     },
     {
-      "text": "accès direct",
+      "text": "décret du 13 octobre",
       "strong": true
     },
     {
-      "text": " aux infirmiers, la "
-    },
-    {
-      "text": "HAS",
-      "strong": true
-    },
-    {
-      "text": " recommande la vaccination antigrippale obligatoire des soignants et l'"
+      "text": " met en cohérence les actes infirmiers, l'"
     },
     {
       "text": "ANSM",
@@ -26,80 +19,87 @@
       "text": " publie un rappel "
     },
     {
-      "text": "Intersurgical",
+      "text": "Corin",
       "strong": true
     },
     {
-      "text": "."
+      "text": " et l'"
+    },
+    {
+      "text": "avenant 11",
+      "strong": true
+    },
+    {
+      "text": " revalorise les lettres-clés AMI/AMX des libéraux."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Accès direct aux infirmiers : une question écrite sur la date du décret",
-      "summary": "Une question écrite à l'Assemblée nationale (13 octobre 2026) demande au gouvernement quand sera publié le décret relatif à l'accès direct aux infirmiers.",
-      "source": "Assemblée nationale",
-      "url": "https://questions.assemblee-nationale.fr/q17/17-18979QE.htm"
+      "title": "Décret n° 2026-955 : mise en cohérence des dispositions sur les actes infirmiers",
+      "summary": "Le décret du 13 octobre 2026 met en cohérence les textes relatifs aux activités et compétences des infirmiers, après la loi du 27 juin 2025.",
+      "source": "Lexis Veille",
+      "url": "https://www.lexisveille.fr/mise-en-coherence-des-dispositions-relatives-aux-actes-professionnels-des-infirmiers"
     },
     {
       "category": "alertes",
-      "title": "Kits de spirométrie et circuits respiratoires Intersurgical : rappel",
-      "summary": "L'ANSM a publié le 20 octobre 2026 le rappel n° R2630930 destiné aux établissements de santé.",
+      "title": "Matériel ancillaire genou Unity ASC (poignée modulaire) Corin : rappel de lots",
+      "summary": "L'ANSM a publié le 15 octobre 2026 le rappel n° R2628774 destiné aux pharmacies à usage intérieur.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "url": "https://ansm.sante.fr/informations-de-securite/materiel-ancillaire-genou-unity-asc-poignee-modulaire-corin-ltd"
     },
     {
       "category": "science",
-      "title": "Grippe : la HAS recommande la vaccination obligatoire des soignants",
-      "summary": "La HAS se prononce pour une obligation vaccinale antigrippale des professionnels de santé.",
-      "source": "Pharmactu",
-      "url": "https://pharmactu.fr/articles/vaccination-obligatoire-grippe-soignants-has-2026"
+      "title": "Prescription infirmière : l'avis de la HAS sécurise l'exercice",
+      "summary": "En juin 2026, la HAS a rendu un avis favorable sous réserve sur le projet d'arrêté listant les produits de santé et examens que les infirmiers pourront prescrire.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
     },
     {
       "category": "profession",
-      "title": "Handicap : l'Ordre précise le rôle de l'infirmier dans la prise en soins",
-      "summary": "Le Conseil national de l'Ordre des infirmiers a publié le 9 octobre 2026 sa position et ses recommandations sur la prise en soins des personnes en situation de handicap.",
-      "source": "Ordre national des infirmiers",
-      "url": "https://www.ordre-infirmiers.fr/position-et-recommandations-du-conseil-national-de-l-ordre-des-infirmiers-relatives-au-role-de-l-0"
+      "title": "Avenant 11 : une enveloppe de 503 M€ pour les infirmiers libéraux",
+      "summary": "L'arrêté du 6 mai 2026 revalorise les lettres-clés AMI/AMX et crée deux consultations infirmières.",
+      "source": "Infirmiers.com",
+      "url": "https://infirmiers.com/profession-ide/actualite-sociale/negociations-conventionnelles-vient-reconnaitre-clairement-les-competences-des-idel"
     },
     {
       "category": "technique",
-      "title": "Aiguille de ponction Cook : information de sécurité",
-      "summary": "L'ANSM a publié le 1er octobre 2026 le rappel n° R2627886 destiné aux établissements de santé et centres d'imagerie.",
+      "title": "Valve hémostatique anti-retour ANRYV (Balt) : information de sécurité",
+      "summary": "L'ANSM a publié le 21 août 2026 le rappel n° R2622646 concernant cette valve hémostatique.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "url": "https://ansm.sante.fr/informations-de-securite/valve-hemostatique-anti-retour-anryv-balt-extrusion-sas"
     },
     {
       "category": "formation",
-      "title": "Fin de l'ANDPC en 2027 : ce que les infirmiers doivent savoir",
-      "summary": "Selon cet article, l'ANDPC fermerait en 2027 ; la formation continue des infirmiers reste à suivre de près.",
-      "source": "SOSIDEC",
-      "url": "https://sosidec.com/actualites/fin-andpc-2027-dpc-infirmiers-formation-continue"
+      "title": "Certification périodique : attention aux échéances",
+      "summary": "Infirmiers.com rappelle les échéances de la certification périodique des infirmiers.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
     }
   ],
   "word": {
-    "field": "Urgences / neurologie",
-    "term": "Score de Glasgow",
-    "subtitle": "Mesurer la conscience en trois réponses : yeux, parole, motricité",
-    "definition": "Échelle de 3 à 15 évaluant le niveau de conscience par l'ouverture des yeux (Y), la réponse verbale (V) et la réponse motrice (M) ; un score ≤ 8 traduit un coma grave.",
+    "field": "Pharmaco / thérapeutique",
+    "term": "Anticoagulants oraux directs (AOD)",
+    "subtitle": "Anticoagulants par voie orale, à dose fixe, sans surveillance de l'INR",
+    "definition": "Médicaments (apixaban, rivaroxaban, dabigatran, edoxaban) qui bloquent directement un facteur de la coagulation ; ils préviennent les AVC et les thromboses, avec un risque hémorragique à surveiller.",
     "steps": [
       {
         "n": "1",
-        "h": "Stimuler",
-        "t": "évaluer la meilleure réponse à la voix puis à la douleur, en notant Y, V et M séparément."
+        "h": "Vérifier",
+        "t": "l'indication, la fonction rénale, le poids et les traitements associés avant toute prise."
       },
       {
         "n": "2",
-        "h": "Additionner",
-        "t": "calculer le total (ex. Y3 V4 M5 = 12) et vérifier les pupilles et les signes de focalisation."
+        "h": "Administrer",
+        "t": "à heure fixe, sans écraser le comprimé sauf avis du pharmacien, et ne jamais doubler une dose oubliée."
       },
       {
         "n": "3",
-        "h": "Alerter et surveiller",
-        "t": "prévenir le médecin si le score baisse de 2 points ou plus ou est ≤ 8, et répéter l'évaluation à intervalles réguliers."
+        "h": "Surveiller",
+        "t": "saignements, chutes, hématomes ; avant un geste invasif, demander la conduite à tenir pour l'arrêt."
       }
     ],
-    "retenir": "Un score isolé compte moins que sa tendance : on cote toujours Y, V, M et on trace l'heure de chaque évaluation. ",
-    "sources": "Sources : SFAR · SFMU · recommandations de neuro-réanimation."
+    "retenir": "Pas d'INR avec les AOD : la sécurité repose sur la fonction rénale, l'observance et le repérage précoce des saignements. ",
+    "sources": "Sources : HAS · ANSM · recommandations de bon usage des anticoagulants."
   }
 }

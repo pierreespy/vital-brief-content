@@ -1,105 +1,112 @@
 {
-  "dateLong": "Jeu. 22 oct.",
+  "dateLong": "Ven. 23 oct.",
   "essentiel": [
     {
-      "text": "Le "
-    },
-    {
-      "text": "décret du 13 octobre",
-      "strong": true
-    },
-    {
-      "text": " met en cohérence les actes infirmiers, l'"
+      "text": "L'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie un rappel "
+      "text": " publie deux rappels ("
     },
     {
-      "text": "Corin",
+      "text": "Fujifilm Medwork",
       "strong": true
     },
     {
-      "text": " et l'"
+      "text": " et "
     },
     {
-      "text": "avenant 11",
+      "text": "Stryker",
       "strong": true
     },
     {
-      "text": " revalorise les lettres-clés AMI/AMX des libéraux."
+      "text": "), la "
+    },
+    {
+      "text": "HAS",
+      "strong": true
+    },
+    {
+      "text": " recommande une obligation vaccinale antigrippale et l'arrêté du "
+    },
+    {
+      "text": "26 juin 2026",
+      "strong": true
+    },
+    {
+      "text": " redéfinit la liste des actes infirmiers."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Décret n° 2026-955 : mise en cohérence des dispositions sur les actes infirmiers",
-      "summary": "Le décret du 13 octobre 2026 met en cohérence les textes relatifs aux activités et compétences des infirmiers, après la loi du 27 juin 2025.",
-      "source": "Lexis Veille",
-      "url": "https://www.lexisveille.fr/mise-en-coherence-des-dispositions-relatives-aux-actes-professionnels-des-infirmiers"
+      "title": "Arrêté du 26 juin 2026 : liste des actes et soins infirmiers",
+      "summary": "L'arrêté (NOR SFHH2610764A, JO du 27 juin 2026) remplace la liste fermée d'actes par une définition par grandes missions, complétée d'une liste d'actes et de soins.",
+      "source": "FNI",
+      "url": "https://fni.fr/wp-content/uploads/2026/09/Guide20pratique20FNI20NC2B0220arreCC82teCC8120Liste20des20actes20et20soins.pdf"
     },
     {
       "category": "alertes",
-      "title": "Matériel ancillaire genou Unity ASC (poignée modulaire) Corin : rappel de lots",
-      "summary": "L'ANSM a publié le 15 octobre 2026 le rappel n° R2628774 destiné aux pharmacies à usage intérieur.",
+      "title": "Accessoire d'endoscopie Jazz Endoscope valve kit (Fujifilm Medwork) : rappel",
+      "summary": "L'ANSM a publié le 8 octobre 2026 le rappel n° R2627557, destiné aux pharmacies à usage intérieur et aux établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/materiel-ancillaire-genou-unity-asc-poignee-modulaire-corin-ltd"
+      "url": "https://ansm.sante.fr/informations-de-securite/endoscopie-accessoire-jazz-endoscope-valve-kit-fujifilm-medwork"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : l'avis de la HAS sécurise l'exercice",
-      "summary": "En juin 2026, la HAS a rendu un avis favorable sous réserve sur le projet d'arrêté listant les produits de santé et examens que les infirmiers pourront prescrire.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
+      "title": "Vaccin antigrippal : la HAS recommande une obligation annuelle",
+      "summary": "Le 20 juillet 2026, la HAS a recommandé une obligation de vaccination antigrippale, en priorité en EHPAD et en USLD ; les textes d'application sont attendus.",
+      "source": "La Ruche",
+      "url": "https://laruche.cbainfo.fr/actualites/vaccin-grippe-obligatoire-idel/"
     },
     {
       "category": "profession",
-      "title": "Avenant 11 : une enveloppe de 503 M€ pour les infirmiers libéraux",
-      "summary": "L'arrêté du 6 mai 2026 revalorise les lettres-clés AMI/AMX et crée deux consultations infirmières.",
-      "source": "Infirmiers.com",
-      "url": "https://infirmiers.com/profession-ide/actualite-sociale/negociations-conventionnelles-vient-reconnaitre-clairement-les-competences-des-idel"
+      "title": "La profession d'infirmier évolue en 2026 : ce qui change pour les patients",
+      "summary": "Previssima détaille les évolutions de l'exercice issues de la loi du 27 juin 2025, dont l'accès à certains soins sans prescription préalable.",
+      "source": "Previssima",
+      "url": "https://www.previssima.fr/actualite/la-profession-dinfirmier-evolue-en-2026-tout-ce-qui-change-pour-les-patients.html"
     },
     {
       "category": "technique",
-      "title": "Valve hémostatique anti-retour ANRYV (Balt) : information de sécurité",
-      "summary": "L'ANSM a publié le 21 août 2026 le rappel n° R2622646 concernant cette valve hémostatique.",
+      "title": "Pointeur de précision électromagnétique (Stryker) : rappel",
+      "summary": "L'ANSM a publié le 5 octobre 2026 le rappel n° R2628768 pour la chirurgie assistée par ordinateur, destiné aux établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/valve-hemostatique-anti-retour-anryv-balt-extrusion-sas"
+      "url": "https://ansm.sante.fr/informations-de-securite/chirurgie-assistee-par-ordinateur-pointeur-de-precision-electromagnetique-stryker"
     },
     {
       "category": "formation",
-      "title": "Certification périodique : attention aux échéances",
-      "summary": "Infirmiers.com rappelle les échéances de la certification périodique des infirmiers.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
+      "title": "Orientations prioritaires de DPC pour les infirmiers",
+      "summary": "Toute action de DPC doit être rattachée à une orientation prioritaire ; le point sur celles concernant les infirmiers (plaies, perfusion, plan de soins).",
+      "source": "Walter Learning",
+      "url": "https://walter-learning.com/blog/sante/infirmier/orientations-nationales-prioritaires-infirmiers"
     }
   ],
   "word": {
-    "field": "Pharmaco / thérapeutique",
-    "term": "Anticoagulants oraux directs (AOD)",
-    "subtitle": "Anticoagulants par voie orale, à dose fixe, sans surveillance de l'INR",
-    "definition": "Médicaments (apixaban, rivaroxaban, dabigatran, edoxaban) qui bloquent directement un facteur de la coagulation ; ils préviennent les AVC et les thromboses, avec un risque hémorragique à surveiller.",
+    "field": "Gestes & soins",
+    "term": "Cicatrisation dirigée",
+    "subtitle": "Plaie laissée ouverte qui se referme de l'intérieur vers la surface",
+    "definition": "Cicatrisation dite « par seconde intention » : la plaie n'est pas suturée et comble sa perte de substance par un bourgeonnement, puis une épithélialisation ; elle suit les phases de détersion, bourgeonnement et épidermisation.",
     "steps": [
       {
         "n": "1",
-        "h": "Vérifier",
-        "t": "l'indication, la fonction rénale, le poids et les traitements associés avant toute prise."
+        "h": "Évaluer",
+        "t": "la plaie (dimensions, aspect du lit : fibrine, bourgeon, nécrose), les berges, l'exsudat, la douleur et les signes d'infection."
       },
       {
         "n": "2",
-        "h": "Administrer",
-        "t": "à heure fixe, sans écraser le comprimé sauf avis du pharmacien, et ne jamais doubler une dose oubliée."
+        "h": "Réaliser",
+        "t": "le pansement selon la prescription et la phase de cicatrisation, en asepsie, après nettoyage au sérum physiologique."
       },
       {
         "n": "3",
-        "h": "Surveiller",
-        "t": "saignements, chutes, hématomes ; avant un geste invasif, demander la conduite à tenir pour l'arrêt."
+        "h": "Tracer",
+        "t": "l'évolution à chaque soin (mesures, photo selon protocole) et alerter en cas de fièvre, rougeur extensive ou écoulement purulent."
       }
     ],
-    "retenir": "Pas d'INR avec les AOD : la sécurité repose sur la fonction rénale, l'observance et le repérage précoce des saignements. ",
-    "sources": "Sources : HAS · ANSM · recommandations de bon usage des anticoagulants."
+    "retenir": "Une plaie en cicatrisation dirigée est longue : l'adaptation du pansement à la phase et la traçabilité des soins font la qualité de la prise en charge. ",
+    "sources": "Sources : HAS · recommandations de bonnes pratiques sur les plaies et cicatrisation."
   }
 }

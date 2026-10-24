@@ -1,112 +1,112 @@
 {
-  "dateLong": "Ven. 23 oct.",
+  "dateLong": "Sam. 24 oct.",
   "essentiel": [
     {
-      "text": "L'"
+      "text": "La campagne de vaccination "
     },
     {
-      "text": "ANSM",
+      "text": "grippe-Covid",
       "strong": true
     },
     {
-      "text": " publie deux rappels ("
-    },
-    {
-      "text": "Fujifilm Medwork",
-      "strong": true
-    },
-    {
-      "text": " et "
-    },
-    {
-      "text": "Stryker",
-      "strong": true
-    },
-    {
-      "text": "), la "
+      "text": " a démarré le 13 octobre avec 15 millions de doses, la "
     },
     {
       "text": "HAS",
       "strong": true
     },
     {
-      "text": " recommande une obligation vaccinale antigrippale et l'arrêté du "
+      "text": " relance le débat sur l'arrêté de prescription infirmière, et l'"
     },
     {
-      "text": "26 juin 2026",
+      "text": "ANSM",
       "strong": true
     },
     {
-      "text": " redéfinit la liste des actes infirmiers."
+      "text": " publie deux nouveaux rappels ("
+    },
+    {
+      "text": "Medtronic",
+      "strong": true
+    },
+    {
+      "text": " et "
+    },
+    {
+      "text": "Boston Scientific",
+      "strong": true
+    },
+    {
+      "text": ")."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Arrêté du 26 juin 2026 : liste des actes et soins infirmiers",
-      "summary": "L'arrêté (NOR SFHH2610764A, JO du 27 juin 2026) remplace la liste fermée d'actes par une définition par grandes missions, complétée d'une liste d'actes et de soins.",
-      "source": "FNI",
-      "url": "https://fni.fr/wp-content/uploads/2026/09/Guide20pratique20FNI20NC2B0220arreCC82teCC8120Liste20des20actes20et20soins.pdf"
+      "title": "Prescription infirmière : l'avis de la HAS relance le débat sur l'arrêté final",
+      "summary": "Rendu le 11 juin 2026, l'avis favorable sous réserve de la HAS porte sur le projet d'arrêté listant les produits de santé et examens prescriptibles par les IDE.",
+      "source": "Caducée",
+      "url": "https://www.caducee.net/actualite-medicale/16926/prescription-infirmiere-l-avis-de-la-has-relance-le-debat-sur-l-arrete-final.html"
     },
     {
       "category": "alertes",
-      "title": "Accessoire d'endoscopie Jazz Endoscope valve kit (Fujifilm Medwork) : rappel",
-      "summary": "L'ANSM a publié le 8 octobre 2026 le rappel n° R2627557, destiné aux pharmacies à usage intérieur et aux établissements de santé.",
+      "title": "Stabilisateur tissulaire cardiaque Octopus (Medtronic) : rappel",
+      "summary": "L'ANSM a mis en ligne une fiche de rappel sur le stabilisateur tissulaire cardiaque Octopus de Medtronic, destinée aux établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/endoscopie-accessoire-jazz-endoscope-valve-kit-fujifilm-medwork"
+      "url": "https://ansm.sante.fr/informations-de-securite/stabilisateur-tissulaire-cardiaque-octopus-medtronic"
     },
     {
       "category": "science",
-      "title": "Vaccin antigrippal : la HAS recommande une obligation annuelle",
-      "summary": "Le 20 juillet 2026, la HAS a recommandé une obligation de vaccination antigrippale, en priorité en EHPAD et en USLD ; les textes d'application sont attendus.",
-      "source": "La Ruche",
-      "url": "https://laruche.cbainfo.fr/actualites/vaccin-grippe-obligatoire-idel/"
+      "title": "Grippe et Covid : coup d'envoi de la nouvelle campagne de vaccination",
+      "summary": "Lancée le 13 octobre, la campagne 2026-2027 vise en priorité les personnes fragiles ; 15 millions de doses sont à disposition des professionnels dont les infirmiers.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/grippe-et-covid-coup-denvoi-de-la-nouvelle-campagne-de-vaccination"
     },
     {
       "category": "profession",
-      "title": "La profession d'infirmier évolue en 2026 : ce qui change pour les patients",
-      "summary": "Previssima détaille les évolutions de l'exercice issues de la loi du 27 juin 2025, dont l'accès à certains soins sans prescription préalable.",
-      "source": "Previssima",
-      "url": "https://www.previssima.fr/actualite/la-profession-dinfirmier-evolue-en-2026-tout-ce-qui-change-pour-les-patients.html"
+      "title": "Ordre infirmier : nouveau code de déontologie en préparation",
+      "summary": "Élu le 19 novembre 2025, Alain Desbouchages préside l'Ordre national des infirmiers, dont le nouveau code de déontologie intègre les évolutions de la profession.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier"
     },
     {
       "category": "technique",
-      "title": "Pointeur de précision électromagnétique (Stryker) : rappel",
-      "summary": "L'ANSM a publié le 5 octobre 2026 le rappel n° R2628768 pour la chirurgie assistée par ordinateur, destiné aux établissements de santé.",
+      "title": "Rapid Refill Continuous Injection System (Boston Scientific) : rappel",
+      "summary": "L'ANSM a publié une fiche d'information de sécurité sur ce système d'injection continue, à destination des établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/chirurgie-assistee-par-ordinateur-pointeur-de-precision-electromagnetique-stryker"
+      "url": "https://ansm.sante.fr/informations-de-securite/rapid-refill-continuous-injection-system-boston-scientific"
     },
     {
       "category": "formation",
-      "title": "Orientations prioritaires de DPC pour les infirmiers",
-      "summary": "Toute action de DPC doit être rattachée à une orientation prioritaire ; le point sur celles concernant les infirmiers (plaies, perfusion, plan de soins).",
-      "source": "Walter Learning",
-      "url": "https://walter-learning.com/blog/sante/infirmier/orientations-nationales-prioritaires-infirmiers"
+      "title": "Journées nationales des cadres de santé : Nantes, 23 et 24 novembre 2026",
+      "summary": "Les JNCS se tiendront à la Cité des Congrès de Nantes ; une inscription à un congrès ne vaut pas inscription à une action de DPC.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/evenements"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Cicatrisation dirigée",
-    "subtitle": "Plaie laissée ouverte qui se referme de l'intérieur vers la surface",
-    "definition": "Cicatrisation dite « par seconde intention » : la plaie n'est pas suturée et comble sa perte de substance par un bourgeonnement, puis une épithélialisation ; elle suit les phases de détersion, bourgeonnement et épidermisation.",
+    "field": "Clinique / physiopatho",
+    "term": "Pression artérielle moyenne (PAM)",
+    "subtitle": "La pression qui assure la perfusion des organes pendant tout le cycle cardiaque",
+    "definition": "La PAM se calcule par (PAS + 2 × PAD) / 3 ; elle reflète la pression de perfusion des organes, avec un seuil d'alerte habituel autour de 65 mmHg.",
     "steps": [
       {
         "n": "1",
-        "h": "Évaluer",
-        "t": "la plaie (dimensions, aspect du lit : fibrine, bourgeon, nécrose), les berges, l'exsudat, la douleur et les signes d'infection."
+        "h": "Mesurer",
+        "t": "la tension avec un brassard adapté, patient au repos, et relever la PAM affichée par le scope ou la calculer."
       },
       {
         "n": "2",
-        "h": "Réaliser",
-        "t": "le pansement selon la prescription et la phase de cicatrisation, en asepsie, après nettoyage au sérum physiologique."
+        "h": "Interpréter",
+        "t": "avec le contexte : une PAM inférieure à 65 mmHg, surtout avec marbrures, oligurie ou confusion, évoque une hypoperfusion."
       },
       {
         "n": "3",
-        "h": "Tracer",
-        "t": "l'évolution à chaque soin (mesures, photo selon protocole) et alerter en cas de fièvre, rougeur extensive ou écoulement purulent."
+        "h": "Alerter",
+        "t": "le médecin sans attendre, installer le patient selon la prescription et surveiller de façon rapprochée (diurèse, conscience, fréquence cardiaque)."
       }
     ],
-    "retenir": "Une plaie en cicatrisation dirigée est longue : l'adaptation du pansement à la phase et la traçabilité des soins font la qualité de la prise en charge. ",
-    "sources": "Sources : HAS · recommandations de bonnes pratiques sur les plaies et cicatrisation."
+    "retenir": "La PAM est un meilleur reflet de la perfusion des organes que la seule pression systolique : une PAM basse est un signal d'alerte à transmettre rapidement. ",
+    "sources": "Sources : SFAR · Surviving Sepsis Campaign (cible de PAM ≥ 65 mmHg)."
   }
 }

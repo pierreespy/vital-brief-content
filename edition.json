@@ -1,105 +1,105 @@
 {
-  "dateLong": "Lun. 26 oct.",
+  "dateLong": "Mar. 27 oct.",
   "essentiel": [
     {
-      "text": "Le "
+      "text": "L'"
     },
     {
-      "text": "décret 2026-955",
+      "text": "arrêté du 26 juin 2026",
       "strong": true
     },
     {
-      "text": " met en cohérence les actes des infirmiers, l'"
+      "text": " remplace les listes fermées d'actes par de grandes missions infirmières, l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie une action de sécurité sur le logiciel "
+      "text": " signale la centrale de surveillance "
     },
     {
-      "text": "Centricity (GE Healthcare)",
+      "text": "Carescape (GE)",
       "strong": true
     },
     {
-      "text": " en soins intensifs, et la "
+      "text": " et la "
     },
     {
-      "text": "HAS",
+      "text": "certification périodique",
       "strong": true
     },
     {
-      "text": " insiste sur la réévaluation clinique dans la prescription infirmière."
+      "text": " prend le relais du DPC."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Actes professionnels des infirmiers : mise en cohérence des dispositions",
-      "summary": "Le décret n° 2026-955 du 13 octobre 2026, publié au JO du 15 octobre, harmonise les règles sur les activités et compétences des infirmiers et abroge des dispositions devenues caduques.",
-      "source": "Le Monde du Droit",
-      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106253-actes-professionnels-des-infirmiers.html"
+      "title": "Liste des actes et soins infirmiers : ce que change l'arrêté du 26 juin 2026",
+      "summary": "Le guide pratique de la FNI explique comment les grandes missions remplacent les listes fermées d'actes du décret de 2004.",
+      "source": "FNI",
+      "url": "https://fni.fr/wp-content/uploads/2026/09/Guide20pratique20FNI20NC2B0220arreCC82teCC8120Liste20des20actes20et20soins.pdf"
     },
     {
       "category": "alertes",
-      "title": "Centricity High Acuity Anesthesia / Critical Care (GE Healthcare) : information de sécurité",
-      "summary": "L'ANSM a publié le 16 octobre 2026 l'action de sécurité R2626189 sur ce logiciel d'aide à la prescription, destinée aux services de soins intensifs.",
+      "title": "Centrale de surveillance Carescape Central Station V3.0.x (GE) : information de sécurité",
+      "summary": "L'ANSM a publié le 1er octobre 2026 l'information R2625769 destinée aux établissements de santé.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-daide-a-la-prescription-centricity-high-acuity-anesthesia-critical-care-ge-healthcare-finland-oy-1"
+      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-carescape-central-station-cscs-v3-0-x-ge-medical-systems-information-technologies-inc"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
-      "summary": "Pour la HAS, la prescription doit reposer sur un raisonnement clinique, une réévaluation adaptée et une orientation médicale rapide en cas de symptôme atypique.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
+      "title": "Mise en cohérence des dispositions relatives aux actes professionnels des infirmiers",
+      "summary": "Lexis Veille analyse le décret n° 2026-955 du 13 octobre 2026, publié au JO du 15 octobre.",
+      "source": "Lexis Veille",
+      "url": "https://www.lexisveille.fr/mise-en-coherence-des-dispositions-relatives-aux-actes-professionnels-des-infirmiers"
     },
     {
       "category": "profession",
-      "title": "Prescription infirmière : l'avis de la HAS relance le débat sur l'arrêté final",
-      "summary": "Caducée revient sur l'avis favorable de la HAS (juin 2026) et les discussions qu'il ouvre sur la version finale de l'arrêté.",
-      "source": "Caducée",
-      "url": "https://www.caducee.net/actualite-medicale/16926/prescription-infirmiere-l-avis-de-la-has-relance-le-debat-sur-l-arrete-final.html"
+      "title": "La refonte de l'exercice infirmier",
+      "summary": "La FHF fait le point (mise à jour du 30 juin 2026) sur la loi du 27 juin 2025 et ses textes d'application.",
+      "source": "FHF",
+      "url": "https://www.fhf.fr/expertises/ressources-humaines/personnel-non-medical/la-refonte-de-lexercice-infirmier"
     },
     {
       "category": "technique",
-      "title": "Prolongateur arrière RTE AMS 700 CX/LGX (Boston Scientific) : rappel de lots",
-      "summary": "L'ANSM a publié le 12 octobre 2026 l'information R2630425 destinée aux pharmacies à usage intérieur.",
+      "title": "Dispositifs d'aspiration Med-Stop (Medline) : information de sécurité",
+      "summary": "L'ANSM publie une information sur les dispositifs Med-Stop, présents notamment dans les kits de bocaux d'aspiration Soft Liner.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/prolongateur-arriere-rte-ams-700-cx-lgx-boston-scientific"
+      "url": "https://ansm.sante.fr/informations-de-securite/dispositifs-daspiration-med-stop-medline"
     },
     {
       "category": "formation",
-      "title": "Formation continue et DPC des infirmiers",
-      "summary": "Le dossier d'Infirmiers.com sur la formation continue et le DPC, alors que la certification périodique remplace progressivement le dispositif.",
+      "title": "Certification périodique : attention aux échéances",
+      "summary": "Infirmiers.com détaille les échéances de la certification périodique, qui remplace progressivement le DPC.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/exercice-professionnel/activite-professionnelle/formation-continue-dpc"
+      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
     }
   ],
   "word": {
-    "field": "Urgences / vigilance",
-    "term": "Choc anaphylactique",
-    "subtitle": "Réaction allergique brutale et grave, urgence vitale traitée par l'adrénaline",
-    "definition": "Le choc anaphylactique est une réaction d'hypersensibilité immédiate généralisée, associant atteinte cutanée, respiratoire et/ou chute tensionnelle, pouvant engager le pronostic vital en quelques minutes.",
+    "field": "Gestes & soins",
+    "term": "Aspiration endotrachéale en système clos",
+    "subtitle": "Libérer les voies aériennes d'un patient ventilé sans le déconnecter",
+    "definition": "L'aspiration en système clos retire les sécrétions bronchiques via une sonde protégée raccordée au circuit du respirateur, ce qui évite la déconnexion, limite la chute de PEEP et le risque infectieux.",
     "steps": [
       {
         "n": "1",
-        "h": "Arrêter",
-        "t": "la perfusion ou l'administration du produit suspect, garder la voie veineuse et appeler immédiatement le médecin / le 15."
+        "h": "Préparer",
+        "t": "le matériel, vérifier l'aspiration (dépression 100–150 mmHg), hyperoxygéner brièvement et appliquer les précautions standard."
       },
       {
         "n": "2",
-        "h": "Protéger",
-        "t": "le patient : le allonger jambes surélevées (assis si détresse respiratoire), oxygène haut débit, surveillance PA, FC, SpO₂ en continu."
+        "h": "Aspirer",
+        "t": "en introduisant la sonde sans aspirer, puis retirer en aspirant par intermittence, 10 à 15 secondes maximum."
       },
       {
         "n": "3",
-        "h": "Traiter",
-        "t": "par adrénaline intramusculaire (face antérolatérale de cuisse) selon protocole/prescription, puis réévaluer et répéter si besoin, en préparant le remplissage."
+        "h": "Surveiller",
+        "t": "SpO₂, FC, aspect des sécrétions, rincer la sonde, refermer le système et tracer dans les transmissions."
       }
     ],
-    "retenir": "Devant une réaction allergique avec signes respiratoires ou hypotension, l'adrénaline IM ne doit pas être retardée : tout retard aggrave le pronostic. ",
-    "sources": "Sources : SFAR · Société française d'allergologie (recommandations sur la prise en charge de l'anaphylaxie)."
+    "retenir": "Une aspiration trop longue provoque hypoxie et bradycardie : limiter à 15 secondes et arrêter au moindre signe de mauvaise tolérance. ",
+    "sources": "Sources : SFAR · SRLF · recommandations de bonnes pratiques d'aspiration endotrachéale."
   }
 }

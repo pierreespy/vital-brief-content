@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Médicaments à risque (high-alert)",
+      "date": "2026-10-28"
+    },
+    {
       "term": "Aspiration endotrachéale en système clos",
       "date": "2026-10-27"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Syndrome confusionnel aigu",
       "date": "2026-09-28"
-    },
-    {
-      "term": "Score NEWS2 (National Early Warning Score)",
-      "date": "2026-09-27"
     }
   ]
 }

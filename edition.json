@@ -1,119 +1,112 @@
 {
-  "dateLong": "Mer. 28 oct.",
+  "dateLong": "Jeu. 29 oct.",
   "essentiel": [
     {
-      "text": "Le "
-    },
-    {
-      "text": "décret 2026-985 du 23 octobre",
-      "strong": true
-    },
-    {
-      "text": " ouvre une expérimentation de prise en charge directe par les "
-    },
-    {
-      "text": "IPA",
-      "strong": true
-    },
-    {
-      "text": " en "
-    },
-    {
-      "text": "CPTS",
-      "strong": true
-    },
-    {
-      "text": ", l'"
+      "text": "L'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " alerte sur les chambres de perfusion "
+      "text": " alerte sur le logiciel "
     },
     {
-      "text": "ICU Medical",
+      "text": "Centricity",
       "strong": true
     },
     {
-      "text": " et les "
+      "text": " de GE Healthcare en réanimation, le "
     },
     {
-      "text": "Journées d'éthique JIFESS",
+      "text": "décret 2026-955",
       "strong": true
     },
     {
-      "text": " se tiennent les 12 et 13 novembre."
+      "text": " harmonise les actes des infirmiers, la "
+    },
+    {
+      "text": "HAS",
+      "strong": true
+    },
+    {
+      "text": " a rendu un avis conditionné sur la prescription infirmière et la réforme de la formation s'applique aux entrants de "
+    },
+    {
+      "text": "septembre 2026",
+      "strong": true
+    },
+    {
+      "text": "."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Décret n° 2026-985 du 23 octobre 2026 : expérimentation IPA en CPTS et prise en charge directe des patients",
-      "summary": "Le texte fixe les modalités d'une expérimentation permettant aux IPA d'une CPTS de prendre en charge directement les patients, après avis de la HAS du 2 juillet 2026.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055011932"
+      "title": "Actes professionnels des infirmiers : décret n° 2026-955 du 13 octobre 2026",
+      "summary": "Publié au Journal officiel du 15 octobre 2026, le décret met en cohérence les dispositions relatives aux activités et compétences des infirmiers.",
+      "source": "Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106253-actes-professionnels-des-infirmiers.html"
     },
     {
       "category": "alertes",
-      "title": "Perfuseur, chambres de perfusion des tubulures IV (ICU Medical) : information de sécurité",
-      "summary": "L'ANSM a publié le 1er octobre 2026 l'information R2623248/R2623980 destinée aux pharmacies à usage intérieur et aux établissements de santé.",
+      "title": "LAP Centricity High Acuity Anesthesia / Critical Care (GE Healthcare Finland Oy) : information de sécurité",
+      "summary": "L'ANSM a publié le 16 octobre 2026 l'information R2626189 à destination des services de soins critiques utilisant ce logiciel d'aide à la prescription.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/perfuseur-chambres-de-perfusion-des-tubulures-iv-icu-medical-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-daide-a-la-prescription-centricity-high-acuity-anesthesia-critical-care-ge-healthcare-finland-oy-1"
     },
     {
       "category": "science",
-      "title": "Décret 2026-955 infirmiers : 2 articles abrogés",
-      "summary": "Orion Santé détaille l'abrogation des articles D. 4311-15-1 et D. 4311-15-2 du CSP (contraceptifs oraux, adaptation de posologie), en vigueur depuis le 16 octobre 2026.",
-      "source": "Orion Santé",
-      "url": "https://www.orionsante.fr/actualites/decret-du-13-octobre-2026"
+      "title": "Prescription infirmière : la HAS favorable « sous réserve »",
+      "summary": "La HAS conditionne son avis de juin 2026 à un cadre organisationnel coordonné et réclame de mieux définir les situations nécessitant un avis médical.",
+      "source": "Santé mentale",
+      "url": "https://www.santementale.fr/2026/06/prescription-infirmiere-la-has-favorable-sous-reserve/"
     },
     {
       "category": "profession",
-      "title": "Décret infirmier : une nouvelle ère pour les IDEL en 2026 ?",
-      "summary": "Albus analyse ce que la réécriture du cadre de la profession change concrètement pour les infirmiers libéraux.",
-      "source": "Albus",
-      "url": "https://www.albus.fr/blog/actualites/decret-infirmier-une-nouvelle-ere-pour-les-idel-en-2026/"
+      "title": "La profession d'infirmier évolue en 2026 : tout ce qui change pour les patients",
+      "summary": "Previssima fait le point sur les nouvelles missions, les actes et la prescription ouverts aux infirmiers en 2026.",
+      "source": "Previssima",
+      "url": "https://www.previssima.fr/actualite/la-profession-dinfirmier-evolue-en-2026-tout-ce-qui-change-pour-les-patients.html"
     },
     {
       "category": "technique",
-      "title": "Système d'anesthésie Carestation 850 et 850c (Datex-Ohmeda, GE HealthCare) : information de sécurité",
-      "summary": "L'ANSM a publié le 3 septembre 2026 l'information R2626031 sur ces systèmes d'anesthésie.",
+      "title": "Centrale de surveillance PIC iX Essentials (Philips Medizin Systems Böblingen) : information de sécurité",
+      "summary": "L'ANSM a publié le 20 août 2026 une information de sécurité sur cette centrale de surveillance du patient.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/systeme-danesthesie-carestation-850-et-carestation-850c-datex-ohmeda-ge-healthcare"
+      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-pic-ix-essentials-patient-information-center-ix-philips-medizin-systems-boblingen-gmbh"
     },
     {
       "category": "formation",
-      "title": "Journées Itinérantes d'Éthique de Soins de Santé (JIFESS) : 12 et 13 novembre 2026",
-      "summary": "Les XXVIIIèmes JIFESS, organisées par le GEFERS, sont annoncées sur l'agenda des événements d'Infirmiers.com.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/evenements"
+      "title": "Réingénierie de la formation infirmière : décret n° 2026-130 du 20 février 2026",
+      "summary": "Le nouveau diplôme d'État s'applique aux étudiants entrant en première année à compter du 1er septembre 2026 ; la FHF suit la mise en œuvre.",
+      "source": "FHF",
+      "url": "https://www.fhf.fr/expertises/ressources-humaines/developpement-des-competences-formation-etudiants-en-sante/la-reingenierie-de-la-formation-conduisant-au-diplome-detat-infirmier"
     }
   ],
   "word": {
-    "field": "Pharmaco / thérapeutique",
-    "term": "Médicaments à risque (high-alert)",
-    "subtitle": "Les molécules où une erreur peut avoir des conséquences graves pour le patient",
-    "definition": "Les médicaments à risque (insuline, anticoagulants, opioïdes, potassium IV, chimiothérapies…) exposent à des dommages graves en cas d'erreur de dose, de voie ou de débit, et exigent une vigilance renforcée à chaque étape.",
+    "field": "Urgences / vigilance",
+    "term": "Score de Cushman (sevrage alcoolique)",
+    "subtitle": "Une grille pour mesurer l'intensité du sevrage et ajuster la surveillance",
+    "definition": "Le score de Cushman cote pouls, pression systolique, fréquence respiratoire, tremblements, sueurs, agitation et troubles sensoriels pour apprécier la gravité d'un syndrome de sevrage alcoolique et guider le traitement.",
     "steps": [
       {
         "n": "1",
-        "h": "Identifier",
-        "t": "le médicament à risque dans la prescription et repérer dose, voie, débit et unité avant toute préparation."
+        "h": "Évaluer",
+        "t": "à intervalles réguliers selon le protocole du service, en cotant chaque item du score au chevet."
       },
       {
         "n": "2",
-        "h": "Sécuriser",
-        "t": "par un double contrôle indépendant (ou protocole du service), étiquetage clair, pompe programmée et respect de la règle des 5 B."
+        "h": "Alerter",
+        "t": "le médecin si le score augmente ou dépasse le seuil du protocole, avec risque de délirium tremens ou de convulsions."
       },
       {
         "n": "3",
-        "h": "Surveiller",
-        "t": "les effets attendus et indésirables (glycémie, INR, FR, kaliémie selon la classe), puis tracer et déclarer tout événement indésirable."
+        "h": "Appliquer",
+        "t": "la prescription (benzodiazépines, hydratation, vitamine B1) et tracer les scores et la réponse au traitement."
       }
     ],
-    "retenir": "Pour un médicament à risque, ne jamais se fier à la mémoire : vérifier, faire contrôler et surveiller, car l'erreur est rare mais souvent grave. ",
-    "sources": "Sources : HAS · ANSM · guichet des erreurs médicamenteuses · recommandations de sécurisation de la prise en charge médicamenteuse."
+    "retenir": "Le score de Cushman se répète et se trace : c'est la tendance, plus qu'une valeur isolée, qui déclenche l'alerte médicale. ",
+    "sources": "Sources : HAS · SFA · protocoles de service de sevrage alcoolique."
   }
 }

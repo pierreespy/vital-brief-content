@@ -1,112 +1,119 @@
 {
-  "dateLong": "Jeu. 29 oct.",
+  "dateLong": "Ven. 30 oct.",
   "essentiel": [
     {
-      "text": "L'"
+      "text": "L'accès direct aux infirmiers attend toujours son décret (question écrite du "
+    },
+    {
+      "text": "13 octobre",
+      "strong": true
+    },
+    {
+      "text": "), l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " alerte sur le logiciel "
+      "text": " a publié des informations de sécurité sur le ventilateur "
     },
     {
-      "text": "Centricity",
+      "text": "Monnal T60",
       "strong": true
     },
     {
-      "text": " de GE Healthcare en réanimation, le "
+      "text": " et l'obturateur "
     },
     {
-      "text": "décret 2026-955",
+      "text": "TEGO",
       "strong": true
     },
     {
-      "text": " harmonise les actes des infirmiers, la "
+      "text": " d'hémodialyse, l'"
+    },
+    {
+      "text": "Ordre",
+      "strong": true
+    },
+    {
+      "text": " soutient l'engagement dans la réserve opérationnelle et la "
     },
     {
       "text": "HAS",
       "strong": true
     },
     {
-      "text": " a rendu un avis conditionné sur la prescription infirmière et la réforme de la formation s'applique aux entrants de "
-    },
-    {
-      "text": "septembre 2026",
-      "strong": true
-    },
-    {
-      "text": "."
+      "text": " sécurise la prescription infirmière."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Actes professionnels des infirmiers : décret n° 2026-955 du 13 octobre 2026",
-      "summary": "Publié au Journal officiel du 15 octobre 2026, le décret met en cohérence les dispositions relatives aux activités et compétences des infirmiers.",
-      "source": "Le Monde du Droit",
-      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106253-actes-professionnels-des-infirmiers.html"
+      "title": "Accès direct aux infirmiers : le décret d'application de la loi du 27 juin 2025 toujours attendu",
+      "summary": "Une question écrite publiée le 13 octobre 2026 relève que le décret, prévu pour mars 2026, n'est toujours pas paru.",
+      "source": "Assemblée nationale",
+      "url": "https://questions.assemblee-nationale.fr/q17/17-18979QE.htm"
     },
     {
       "category": "alertes",
-      "title": "LAP Centricity High Acuity Anesthesia / Critical Care (GE Healthcare Finland Oy) : information de sécurité",
-      "summary": "L'ANSM a publié le 16 octobre 2026 l'information R2626189 à destination des services de soins critiques utilisant ce logiciel d'aide à la prescription.",
+      "title": "Obturateur de cathéter d'hémodialyse TEGO (ICU Medical Inc.) : information de sécurité",
+      "summary": "L'ANSM diffuse une information aux utilisateurs de ce dispositif utilisé en hémodialyse.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-daide-a-la-prescription-centricity-high-acuity-anesthesia-critical-care-ge-healthcare-finland-oy-1"
+      "url": "https://ansm.sante.fr/informations-de-securite/obturateur-de-catheter-dhemodialyse-tego-icu-medical-inc"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : la HAS favorable « sous réserve »",
-      "summary": "La HAS conditionne son avis de juin 2026 à un cadre organisationnel coordonné et réclame de mieux définir les situations nécessitant un avis médical.",
-      "source": "Santé mentale",
-      "url": "https://www.santementale.fr/2026/06/prescription-infirmiere-la-has-favorable-sous-reserve/"
+      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
+      "summary": "Rendu le 12 juin 2026, l'avis favorable de la HAS porte sur le projet d'arrêté listant les produits de santé et examens prescriptibles par les IDE.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
     },
     {
       "category": "profession",
-      "title": "La profession d'infirmier évolue en 2026 : tout ce qui change pour les patients",
-      "summary": "Previssima fait le point sur les nouvelles missions, les actes et la prescription ouverts aux infirmiers en 2026.",
-      "source": "Previssima",
-      "url": "https://www.previssima.fr/actualite/la-profession-dinfirmier-evolue-en-2026-tout-ce-qui-change-pour-les-patients.html"
+      "title": "L'Ordre soutient l'engagement des infirmiers dans la réserve opérationnelle",
+      "summary": "Position adoptée à l'issue du Conseil national de l'Ordre des infirmiers du 30 septembre 2026.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier"
     },
     {
       "category": "technique",
-      "title": "Centrale de surveillance PIC iX Essentials (Philips Medizin Systems Böblingen) : information de sécurité",
-      "summary": "L'ANSM a publié le 20 août 2026 une information de sécurité sur cette centrale de surveillance du patient.",
+      "title": "Ventilateur de transport et d'urgence Monnal T60 Advanced (Air Liquide Medical Systems) : information de sécurité",
+      "summary": "L'ANSM informe les utilisateurs de ce ventilateur utilisé en transport et en urgence.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-pic-ix-essentials-patient-information-center-ix-philips-medizin-systems-boblingen-gmbh"
+      "url": "https://ansm.sante.fr/informations-de-securite/ventilateur-de-transport-et-urgence-monnal-t60-advanced-air-liquide-medical-systems"
     },
     {
       "category": "formation",
-      "title": "Réingénierie de la formation infirmière : décret n° 2026-130 du 20 février 2026",
-      "summary": "Le nouveau diplôme d'État s'applique aux étudiants entrant en première année à compter du 1er septembre 2026 ; la FHF suit la mise en œuvre.",
-      "source": "FHF",
-      "url": "https://www.fhf.fr/expertises/ressources-humaines/developpement-des-competences-formation-etudiants-en-sante/la-reingenierie-de-la-formation-conduisant-au-diplome-detat-infirmier"
+      "title": "Congrès, formations et événements infirmiers à venir",
+      "summary": "L'agenda d'Infirmiers.com recense les prochains congrès et rendez-vous de formation de la profession.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/evenements"
     }
   ],
   "word": {
-    "field": "Urgences / vigilance",
-    "term": "Score de Cushman (sevrage alcoolique)",
-    "subtitle": "Une grille pour mesurer l'intensité du sevrage et ajuster la surveillance",
-    "definition": "Le score de Cushman cote pouls, pression systolique, fréquence respiratoire, tremblements, sueurs, agitation et troubles sensoriels pour apprécier la gravité d'un syndrome de sevrage alcoolique et guider le traitement.",
+    "field": "Clinique / prévention",
+    "term": "Score de Braden",
+    "subtitle": "Une échelle pour repérer le risque d'escarre dès l'admission",
+    "definition": "Le score de Braden évalue le risque de développer une escarre à partir de six items : perception sensorielle, humidité, activité, mobilité, nutrition, frictions et cisaillement ; plus le score est bas, plus le risque est élevé.",
     "steps": [
       {
         "n": "1",
         "h": "Évaluer",
-        "t": "à intervalles réguliers selon le protocole du service, en cotant chaque item du score au chevet."
+        "t": "à l'admission puis régulièrement, en cotant les six items et en tenant compte de l'état clinique."
       },
       {
         "n": "2",
-        "h": "Alerter",
-        "t": "le médecin si le score augmente ou dépasse le seuil du protocole, avec risque de délirium tremens ou de convulsions."
+        "h": "Prévenir",
+        "t": "selon le niveau de risque : changements de position, support adapté, soins de peau, apports nutritionnels."
       },
       {
         "n": "3",
-        "h": "Appliquer",
-        "t": "la prescription (benzodiazépines, hydratation, vitamine B1) et tracer les scores et la réponse au traitement."
+        "h": "Tracer",
+        "t": "le score et les mesures mises en place, et le réévaluer à chaque changement d'état du patient."
       }
     ],
-    "retenir": "Le score de Cushman se répète et se trace : c'est la tendance, plus qu'une valeur isolée, qui déclenche l'alerte médicale. ",
-    "sources": "Sources : HAS · SFA · protocoles de service de sevrage alcoolique."
+    "retenir": "Le score de Braden oriente la prévention mais ne remplace pas l'inspection de la peau : un patient peu à risque peut aussi avoir une rougeur à surveiller. ",
+    "sources": "Sources : HAS · protocoles de prévention des escarres des services."
   }
 }

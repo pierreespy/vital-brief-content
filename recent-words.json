@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Score NEWS2",
+      "date": "2026-10-31"
+    },
+    {
       "term": "Score de Braden",
       "date": "2026-10-30"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Évaluation de la douleur (EVA / EN)",
       "date": "2026-10-01"
-    },
-    {
-      "term": "Glycémie capillaire",
-      "date": "2026-09-30"
     }
   ]
 }

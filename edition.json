@@ -1,87 +1,80 @@
 {
-  "dateLong": "Ven. 30 oct.",
+  "dateLong": "Sam. 31 oct.",
   "essentiel": [
     {
-      "text": "L'accès direct aux infirmiers attend toujours son décret (question écrite du "
+      "text": "Le décret du "
     },
     {
       "text": "13 octobre",
       "strong": true
     },
     {
-      "text": "), l'"
+      "text": " met en cohérence les textes sur les actes infirmiers, l'association "
+    },
+    {
+      "text": "Asalée",
+      "strong": true
+    },
+    {
+      "text": " fait appel de sa liquidation judiciaire, l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " a publié des informations de sécurité sur le ventilateur "
+      "text": " publie des informations de sécurité sur le logiciel "
     },
     {
-      "text": "Monnal T60",
+      "text": "IntelliSpace Critical Care and Anesthesia",
       "strong": true
     },
     {
-      "text": " et l'obturateur "
+      "text": " et sur la pompe implantable "
     },
     {
-      "text": "TEGO",
+      "text": "SynchroMed",
       "strong": true
     },
     {
-      "text": " d'hémodialyse, l'"
-    },
-    {
-      "text": "Ordre",
-      "strong": true
-    },
-    {
-      "text": " soutient l'engagement dans la réserve opérationnelle et la "
-    },
-    {
-      "text": "HAS",
-      "strong": true
-    },
-    {
-      "text": " sécurise la prescription infirmière."
+      "text": "."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Accès direct aux infirmiers : le décret d'application de la loi du 27 juin 2025 toujours attendu",
-      "summary": "Une question écrite publiée le 13 octobre 2026 relève que le décret, prévu pour mars 2026, n'est toujours pas paru.",
-      "source": "Assemblée nationale",
-      "url": "https://questions.assemblee-nationale.fr/q17/17-18979QE.htm"
+      "title": "Actes professionnels des infirmiers : un décret du 13 octobre 2026 met en cohérence les textes",
+      "summary": "Publié le 15 octobre, le décret harmonise les dispositions relatives aux activités et compétences des infirmiers.",
+      "source": "Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106253-actes-professionnels-des-infirmiers.html"
     },
     {
       "category": "alertes",
-      "title": "Obturateur de cathéter d'hémodialyse TEGO (ICU Medical Inc.) : information de sécurité",
-      "summary": "L'ANSM diffuse une information aux utilisateurs de ce dispositif utilisé en hémodialyse.",
+      "title": "LAP IntelliSpace Critical Care and Anesthesia (ICCA) – Philips Medizin Systems : information de sécurité",
+      "summary": "Avis ANSM n° R2626323 destiné aux services de soins intensifs utilisant ce logiciel d'aide à la prescription.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/obturateur-de-catheter-dhemodialyse-tego-icu-medical-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-aide-a-la-prescription-intellispace-critical-care-and-anesthesia-icca-philips-medizin-systems-boblingen-gmbh"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
-      "summary": "Rendu le 12 juin 2026, l'avis favorable de la HAS porte sur le projet d'arrêté listant les produits de santé et examens prescriptibles par les IDE.",
+      "title": "Infirmiers : actualités de l'exercice professionnel",
+      "summary": "La rubrique d'Infirmiers.com rassemble les dernières publications sur les pratiques et recommandations pour la profession.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
+      "url": "https://www.infirmiers.com/exercice-professionnel/paramedicaux/infirmier"
     },
     {
       "category": "profession",
-      "title": "L'Ordre soutient l'engagement des infirmiers dans la réserve opérationnelle",
-      "summary": "Position adoptée à l'issue du Conseil national de l'Ordre des infirmiers du 30 septembre 2026.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier"
+      "title": "Liquidation d'Asalée : l'association fait appel et demande la suspension du jugement",
+      "summary": "Après la liquidation prononcée le 29 septembre par le tribunal des activités économiques de Paris, l'association, qui emploie environ 2 000 infirmiers, a fait appel le 5 octobre.",
+      "source": "Le Quotidien du Médecin",
+      "url": "https://www.lequotidiendumedecin.fr/liberal-soins-de-ville/liquidation-dasalee-lassociation-fait-appel-et-demande-la-suspension-du-jugement"
     },
     {
       "category": "technique",
-      "title": "Ventilateur de transport et d'urgence Monnal T60 Advanced (Air Liquide Medical Systems) : information de sécurité",
-      "summary": "L'ANSM informe les utilisateurs de ce ventilateur utilisé en transport et en urgence.",
+      "title": "Pompe implantable SynchroMed : application logicielle de la tablette de programmation clinique A810 (Medtronic) – information de sécurité",
+      "summary": "L'ANSM informe les utilisateurs d'une action de sécurité sur la tablette de programmation de la pompe implantable SynchroMed.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/ventilateur-de-transport-et-urgence-monnal-t60-advanced-air-liquide-medical-systems"
+      "url": "https://ansm.sante.fr/informations-de-securite/pompe-implantable-accessoires-application-logicielle-de-la-tablette-de-programmation-clinique-synchromed-a810-medtronic-inc"
     },
     {
       "category": "formation",
@@ -92,28 +85,28 @@
     }
   ],
   "word": {
-    "field": "Clinique / prévention",
-    "term": "Score de Braden",
-    "subtitle": "Une échelle pour repérer le risque d'escarre dès l'admission",
-    "definition": "Le score de Braden évalue le risque de développer une escarre à partir de six items : perception sensorielle, humidité, activité, mobilité, nutrition, frictions et cisaillement ; plus le score est bas, plus le risque est élevé.",
+    "field": "Urgences / vigilance",
+    "term": "Score NEWS2",
+    "subtitle": "Un score pour repérer tôt l'aggravation d'un patient",
+    "definition": "Le NEWS2 (National Early Warning Score 2) additionne sept paramètres vitaux : fréquence respiratoire, saturation en O2, oxygène administré, pression artérielle systolique, pouls, conscience et température ; plus le total est élevé, plus le risque de détérioration est important.",
     "steps": [
       {
         "n": "1",
-        "h": "Évaluer",
-        "t": "à l'admission puis régulièrement, en cotant les six items et en tenant compte de l'état clinique."
+        "h": "Mesurer",
+        "t": "les sept paramètres de façon complète et fiable, à chaque tour de surveillance."
       },
       {
         "n": "2",
-        "h": "Prévenir",
-        "t": "selon le niveau de risque : changements de position, support adapté, soins de peau, apports nutritionnels."
+        "h": "Coter",
+        "t": "chaque paramètre de 0 à 3, additionner, et repérer un score isolé de 3 sur un seul item."
       },
       {
         "n": "3",
-        "h": "Tracer",
-        "t": "le score et les mesures mises en place, et le réévaluer à chaque changement d'état du patient."
+        "h": "Alerter",
+        "t": "selon le seuil défini dans le service : surveillance renforcée, appel du médecin ou de l'équipe d'urgence, et tracer."
       }
     ],
-    "retenir": "Le score de Braden oriente la prévention mais ne remplace pas l'inspection de la peau : un patient peu à risque peut aussi avoir une rougeur à surveiller. ",
-    "sources": "Sources : HAS · protocoles de prévention des escarres des services."
+    "retenir": "Le NEWS2 aide à déclencher l'alerte, mais l'inquiétude de l'infirmière compte autant que le chiffre : un score faible n'exclut pas une dégradation. ",
+    "sources": "Sources : Royal College of Physicians · protocoles d'alerte des services."
   }
 }

@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Voie veineuse périphérique (VVP)",
+      "date": "2026-11-01"
+    },
+    {
       "term": "Score NEWS2",
       "date": "2026-10-31"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Score qSOFA (quick SOFA)",
       "date": "2026-10-02"
-    },
-    {
-      "term": "Évaluation de la douleur (EVA / EN)",
-      "date": "2026-10-01"
     }
   ]
 }

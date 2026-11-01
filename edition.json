@@ -1,39 +1,46 @@
 {
-  "dateLong": "Sam. 31 oct.",
+  "dateLong": "Dim. 1 nov.",
   "essentiel": [
     {
-      "text": "Le décret du "
+      "text": "L'arrêté du "
     },
     {
-      "text": "13 octobre",
+      "text": "26 juin 2026",
       "strong": true
     },
     {
-      "text": " met en cohérence les textes sur les actes infirmiers, l'association "
+      "text": " fixe la liste des actes et soins infirmiers, la "
     },
     {
-      "text": "Asalée",
+      "text": "HAS",
       "strong": true
     },
     {
-      "text": " fait appel de sa liquidation judiciaire, l'"
+      "text": " rend un avis favorable « sous réserve » sur la prescription infirmière, la réforme du "
+    },
+    {
+      "text": "diplôme d'État",
+      "strong": true
+    },
+    {
+      "text": " s'applique depuis septembre et l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie des informations de sécurité sur le logiciel "
+      "text": " publie des informations de sécurité sur le "
     },
     {
-      "text": "IntelliSpace Critical Care and Anesthesia",
+      "text": "BAVU Intersurgical",
       "strong": true
     },
     {
-      "text": " et sur la pompe implantable "
+      "text": " et le moniteur-défibrillateur "
     },
     {
-      "text": "SynchroMed",
+      "text": "Schiller SEMA",
       "strong": true
     },
     {
@@ -43,70 +50,70 @@
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Actes professionnels des infirmiers : un décret du 13 octobre 2026 met en cohérence les textes",
-      "summary": "Publié le 15 octobre, le décret harmonise les dispositions relatives aux activités et compétences des infirmiers.",
-      "source": "Le Monde du Droit",
-      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106253-actes-professionnels-des-infirmiers.html"
+      "title": "La refonte de l'exercice infirmier : l'arrêté du 26 juin 2026 fixe la liste des actes et soins",
+      "summary": "Publié au JO du 27 juin, l'arrêté définit les actes, ainsi que les produits de santé et examens que les infirmiers peuvent prescrire ou renouveler.",
+      "source": "FHF",
+      "url": "https://www.fhf.fr/expertises/ressources-humaines/personnel-non-medical/la-refonte-de-lexercice-infirmier"
     },
     {
       "category": "alertes",
-      "title": "LAP IntelliSpace Critical Care and Anesthesia (ICCA) – Philips Medizin Systems : information de sécurité",
-      "summary": "Avis ANSM n° R2626323 destiné aux services de soins intensifs utilisant ce logiciel d'aide à la prescription.",
+      "title": "Insufflateur manuel pour ventilation (BAVU) – Intersurgical : information de sécurité",
+      "summary": "L'ANSM relaie une information de sécurité sur ce ballon de ventilation manuelle utilisé en réanimation et en urgence.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/lap-logiciel-aide-a-la-prescription-intellispace-critical-care-and-anesthesia-icca-philips-medizin-systems-boblingen-gmbh"
+      "url": "https://ansm.sante.fr/informations-de-securite/insufflateur-manuel-pour-ventilation-reanimateurs-bavu-intersurgical"
     },
     {
       "category": "science",
-      "title": "Infirmiers : actualités de l'exercice professionnel",
-      "summary": "La rubrique d'Infirmiers.com rassemble les dernières publications sur les pratiques et recommandations pour la profession.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/exercice-professionnel/paramedicaux/infirmier"
+      "title": "Prescription infirmière : la HAS favorable « sous réserve »",
+      "summary": "La HAS s'est prononcée sur le projet d'arrêté de prescription prévu par la loi du 27 juin 2025, un avis qui a relancé le débat sur le texte final.",
+      "source": "Santé mentale",
+      "url": "https://www.santementale.fr/2026/06/prescription-infirmiere-la-has-favorable-sous-reserve/"
     },
     {
       "category": "profession",
-      "title": "Liquidation d'Asalée : l'association fait appel et demande la suspension du jugement",
-      "summary": "Après la liquidation prononcée le 29 septembre par le tribunal des activités économiques de Paris, l'association, qui emploie environ 2 000 infirmiers, a fait appel le 5 octobre.",
-      "source": "Le Quotidien du Médecin",
-      "url": "https://www.lequotidiendumedecin.fr/liberal-soins-de-ville/liquidation-dasalee-lassociation-fait-appel-et-demande-la-suspension-du-jugement"
+      "title": "La profession d'infirmier évolue en 2026 : tout ce qui change pour les patients",
+      "summary": "Previssima détaille les nouvelles missions issues de la loi du 27 juin 2025 et leurs conséquences pour les patients.",
+      "source": "Previssima",
+      "url": "https://www.previssima.fr/actualite/la-profession-dinfirmier-evolue-en-2026-tout-ce-qui-change-pour-les-patients.html"
     },
     {
       "category": "technique",
-      "title": "Pompe implantable SynchroMed : application logicielle de la tablette de programmation clinique A810 (Medtronic) – information de sécurité",
-      "summary": "L'ANSM informe les utilisateurs d'une action de sécurité sur la tablette de programmation de la pompe implantable SynchroMed.",
+      "title": "Moniteur-défibrillateur, logiciel SEMA – Schiller AG : information de sécurité",
+      "summary": "L'ANSM informe les utilisateurs d'une action de sécurité concernant le logiciel de ce moniteur-défibrillateur.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/pompe-implantable-accessoires-application-logicielle-de-la-tablette-de-programmation-clinique-synchromed-a810-medtronic-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/moniteur-defibrillateur-logiciel-sema-schiller-ag"
     },
     {
       "category": "formation",
-      "title": "Congrès, formations et événements infirmiers à venir",
-      "summary": "L'agenda d'Infirmiers.com recense les prochains congrès et rendez-vous de formation de la profession.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/evenements"
+      "title": "La réingénierie de la formation conduisant au diplôme d'État infirmier",
+      "summary": "Le décret n° 2026-130 et l'arrêté du 20 février 2026 s'appliquent aux étudiants entrés en première année à compter du 1er septembre 2026.",
+      "source": "FHF",
+      "url": "https://www.fhf.fr/expertises/ressources-humaines/developpement-des-competences-formation-etudiants-en-sante/la-reingenierie-de-la-formation-conduisant-au-diplome-detat-infirmier"
     }
   ],
   "word": {
-    "field": "Urgences / vigilance",
-    "term": "Score NEWS2",
-    "subtitle": "Un score pour repérer tôt l'aggravation d'un patient",
-    "definition": "Le NEWS2 (National Early Warning Score 2) additionne sept paramètres vitaux : fréquence respiratoire, saturation en O2, oxygène administré, pression artérielle systolique, pouls, conscience et température ; plus le total est élevé, plus le risque de détérioration est important.",
+    "field": "Gestes & soins",
+    "term": "Voie veineuse périphérique (VVP)",
+    "subtitle": "L'abord veineux de base : le poser, le surveiller, le retirer à temps",
+    "definition": "La VVP est un cathéter court introduit dans une veine périphérique, le plus souvent de l'avant-bras ou de la main, pour perfuser ou injecter des médicaments, avec un risque d'infection, d'infiltration et de phlébite qui impose une surveillance régulière.",
     "steps": [
       {
         "n": "1",
-        "h": "Mesurer",
-        "t": "les sept paramètres de façon complète et fiable, à chaque tour de surveillance."
+        "h": "Préparer",
+        "t": "avec hygiène des mains, antisepsie large du site, choix du calibre le plus petit adapté et d'une veine souple."
       },
       {
         "n": "2",
-        "h": "Coter",
-        "t": "chaque paramètre de 0 à 3, additionner, et repérer un score isolé de 3 sur un seul item."
+        "h": "Poser",
+        "t": "en asepsie, vérifier le reflux sanguin, rincer, fixer avec un pansement transparent et dater."
       },
       {
         "n": "3",
-        "h": "Alerter",
-        "t": "selon le seuil défini dans le service : surveillance renforcée, appel du médecin ou de l'équipe d'urgence, et tracer."
+        "h": "Surveiller",
+        "t": "à chaque utilisation : douleur, rougeur, gonflement, perméabilité ; retirer au moindre signe ou si le cathéter n'est plus indiqué, et tracer."
       }
     ],
-    "retenir": "Le NEWS2 aide à déclencher l'alerte, mais l'inquiétude de l'infirmière compte autant que le chiffre : un score faible n'exclut pas une dégradation. ",
-    "sources": "Sources : Royal College of Physicians · protocoles d'alerte des services."
+    "retenir": "Une VVP inutile est une porte d'entrée pour l'infection : on la retire dès qu'elle n'est plus nécessaire, et on suit la durée de maintien définie dans le protocole du service. ",
+    "sources": "Sources : recommandations de prévention des infections liées aux cathéters · protocoles des services."
   }
 }

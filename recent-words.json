@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Schéma insulinique basal-bolus",
+      "date": "2026-11-02"
+    },
+    {
       "term": "Voie veineuse périphérique (VVP)",
       "date": "2026-11-01"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Hypoglycémie",
       "date": "2026-10-03"
-    },
-    {
-      "term": "Score qSOFA (quick SOFA)",
-      "date": "2026-10-02"
     }
   ]
 }

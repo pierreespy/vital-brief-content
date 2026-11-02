@@ -1,119 +1,126 @@
 {
-  "dateLong": "Dim. 1 nov.",
+  "dateLong": "Lun. 2 nov.",
   "essentiel": [
     {
-      "text": "L'arrêté du "
+      "text": "Le guide pratique de la "
     },
     {
-      "text": "26 juin 2026",
+      "text": "FNI",
       "strong": true
     },
     {
-      "text": " fixe la liste des actes et soins infirmiers, la "
+      "text": " décrypte l'arrêté sur la liste des actes et soins, la "
     },
     {
       "text": "HAS",
       "strong": true
     },
     {
-      "text": " rend un avis favorable « sous réserve » sur la prescription infirmière, la réforme du "
+      "text": " s'est prononcée le 23 juillet 2026 sur le vaccin "
     },
     {
-      "text": "diplôme d'État",
+      "text": "Comirnaty 10 µg",
       "strong": true
     },
     {
-      "text": " s'applique depuis septembre et l'"
+      "text": " chez les 6 mois-4 ans, l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie des informations de sécurité sur le "
+      "text": " publie des informations de sécurité sur la centrale "
     },
     {
-      "text": "BAVU Intersurgical",
+      "text": "Xhibit Spacelabs",
       "strong": true
     },
     {
-      "text": " et le moniteur-défibrillateur "
+      "text": " et la table "
     },
     {
-      "text": "Schiller SEMA",
+      "text": "TryTable",
       "strong": true
     },
     {
-      "text": "."
+      "text": ", et les "
+    },
+    {
+      "text": "JNCS",
+      "strong": true
+    },
+    {
+      "text": " se tiennent à Nantes les 23 et 24 novembre."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "La refonte de l'exercice infirmier : l'arrêté du 26 juin 2026 fixe la liste des actes et soins",
-      "summary": "Publié au JO du 27 juin, l'arrêté définit les actes, ainsi que les produits de santé et examens que les infirmiers peuvent prescrire ou renouveler.",
-      "source": "FHF",
-      "url": "https://www.fhf.fr/expertises/ressources-humaines/personnel-non-medical/la-refonte-de-lexercice-infirmier"
+      "title": "Guide pratique FNI n° 2 : l'arrêté « Liste des actes et soins »",
+      "summary": "La Fédération nationale des infirmiers détaille, domaine d'activité par domaine, la liste des actes et soins issue de l'arrêté du 26 juin 2026.",
+      "source": "FNI",
+      "url": "https://fni.fr/wp-content/uploads/2026/09/Guide20pratique20FNI20NC2B0220arreCC82teCC8120Liste20des20actes20et20soins.pdf"
     },
     {
       "category": "alertes",
-      "title": "Insufflateur manuel pour ventilation (BAVU) – Intersurgical : information de sécurité",
-      "summary": "L'ANSM relaie une information de sécurité sur ce ballon de ventilation manuelle utilisé en réanimation et en urgence.",
+      "title": "Centrale de surveillance Xhibit (modèle 96102) – Spacelabs Healthcare : information de sécurité",
+      "summary": "L'ANSM relaie une information destinée aux utilisateurs de cette centrale de surveillance, utilisée avec le répartiteur DisplayPort 010-1975-00.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/insufflateur-manuel-pour-ventilation-reanimateurs-bavu-intersurgical"
+      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-xhibit-modele-96102-utilisee-avec-le-repartiteur-displayport-modele-010-1975-00-spacelabs-healthcare-inc"
     },
     {
       "category": "science",
-      "title": "Prescription infirmière : la HAS favorable « sous réserve »",
-      "summary": "La HAS s'est prononcée sur le projet d'arrêté de prescription prévu par la loi du 27 juin 2025, un avis qui a relancé le débat sur le texte final.",
-      "source": "Santé mentale",
-      "url": "https://www.santementale.fr/2026/06/prescription-infirmiere-la-has-favorable-sous-reserve/"
+      "title": "Covid-19 : place du vaccin Comirnaty 10 µg chez les enfants de 6 mois à 4 ans",
+      "summary": "Décision HAS du 23 juillet 2026 adoptant l'avis sur la stratégie vaccinale, en remplacement de la formulation 3 µg.",
+      "source": "HAS",
+      "url": "https://has-sante.fr/jcms/p_4231715/fr/decision-n-2026-0155/dc/sespev-du-23-juillet-2026-du-college-de-la-haute-autorite-de-sante-portant-adoption-de-l-avis-intitule-strategie-de-vaccination-contre-la-covid-19-place-du-vaccin-a-arnm-comirnaty-10-g-chez-les-enfants-ages-de-6-mois-a-4-ans-dans-la-strategie-vaccinale-en-remplacement-de-la-formulation-3-g"
     },
     {
       "category": "profession",
-      "title": "La profession d'infirmier évolue en 2026 : tout ce qui change pour les patients",
-      "summary": "Previssima détaille les nouvelles missions issues de la loi du 27 juin 2025 et leurs conséquences pour les patients.",
-      "source": "Previssima",
-      "url": "https://www.previssima.fr/actualite/la-profession-dinfirmier-evolue-en-2026-tout-ce-qui-change-pour-les-patients.html"
+      "title": "Ordre infirmier : dossiers et actualités de l'ONI",
+      "summary": "Présidé par Alain Desbouchages depuis son élection du 19 novembre 2025, l'Ordre s'est implanté à La Réunion et à Mayotte en mars 2026.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier"
     },
     {
       "category": "technique",
-      "title": "Moniteur-défibrillateur, logiciel SEMA – Schiller AG : information de sécurité",
-      "summary": "L'ANSM informe les utilisateurs d'une action de sécurité concernant le logiciel de ce moniteur-défibrillateur.",
+      "title": "Table d'examen TryTable TU2000 – Medkonsult Medical Technology : information de sécurité",
+      "summary": "L'ANSM publie une information de sécurité concernant cette table d'examen utilisée en soins.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/moniteur-defibrillateur-logiciel-sema-schiller-ag"
+      "url": "https://ansm.sante.fr/informations-de-securite/table-dexamen-trytable-tu2000-medkonsult-medical-technology-s-r-o"
     },
     {
       "category": "formation",
-      "title": "La réingénierie de la formation conduisant au diplôme d'État infirmier",
-      "summary": "Le décret n° 2026-130 et l'arrêté du 20 février 2026 s'appliquent aux étudiants entrés en première année à compter du 1er septembre 2026.",
-      "source": "FHF",
-      "url": "https://www.fhf.fr/expertises/ressources-humaines/developpement-des-competences-formation-etudiants-en-sante/la-reingenierie-de-la-formation-conduisant-au-diplome-detat-infirmier"
+      "title": "Journées nationales des cadres de santé (JNCS) 2026",
+      "summary": "Rendez-vous à la Cité des Congrès de Nantes les 23 et 24 novembre 2026 pour les cadres de santé.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/evenements"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Voie veineuse périphérique (VVP)",
-    "subtitle": "L'abord veineux de base : le poser, le surveiller, le retirer à temps",
-    "definition": "La VVP est un cathéter court introduit dans une veine périphérique, le plus souvent de l'avant-bras ou de la main, pour perfuser ou injecter des médicaments, avec un risque d'infection, d'infiltration et de phlébite qui impose une surveillance régulière.",
+    "field": "Pharmaco / thérapeutique",
+    "term": "Schéma insulinique basal-bolus",
+    "subtitle": "Une insuline lente pour le fond, une insuline rapide pour chaque repas",
+    "definition": "Le schéma basal-bolus associe une injection d'insuline lente (basale) couvrant les besoins de fond et des injections d'insuline rapide (bolus) avant les repas ou pour corriger une hyperglycémie, selon la glycémie capillaire et le repas prévu.",
     "steps": [
       {
         "n": "1",
-        "h": "Préparer",
-        "t": "avec hygiène des mains, antisepsie large du site, choix du calibre le plus petit adapté et d'une veine souple."
+        "h": "Contrôler",
+        "t": "la glycémie capillaire avant le repas, vérifier la prescription, le type d'insuline et la dose."
       },
       {
         "n": "2",
-        "h": "Poser",
-        "t": "en asepsie, vérifier le reflux sanguin, rincer, fixer avec un pansement transparent et dater."
+        "h": "Injecter",
+        "t": "le bolus rapide au bon moment par rapport au repas, en variant les sites d'injection, avec le stylo adapté."
       },
       {
         "n": "3",
         "h": "Surveiller",
-        "t": "à chaque utilisation : douleur, rougeur, gonflement, perméabilité ; retirer au moindre signe ou si le cathéter n'est plus indiqué, et tracer."
+        "t": "hypoglycémie (sueurs, malaise), repas réellement pris, glycémies suivantes ; tracer et alerter le médecin si besoin."
       }
     ],
-    "retenir": "Une VVP inutile est une porte d'entrée pour l'infection : on la retire dès qu'elle n'est plus nécessaire, et on suit la durée de maintien définie dans le protocole du service. ",
-    "sources": "Sources : recommandations de prévention des infections liées aux cathéters · protocoles des services."
+    "retenir": "Insuline rapide et insuline lente ne se confondent pas : on vérifie le nom, la dose et le repas avant chaque injection, car c'est un médicament à haut risque. ",
+    "sources": "Sources : recommandations de prise en charge du diabète · protocoles des services."
   }
 }

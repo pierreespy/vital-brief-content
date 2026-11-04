@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Échelle numérique de la douleur (EN)",
+      "date": "2026-11-04"
+    },
+    {
       "term": "Schéma insulinique basal-bolus",
       "date": "2026-11-02"
     },
@@ -115,10 +119,6 @@
     {
       "term": "INR (International Normalized Ratio)",
       "date": "2026-10-04"
-    },
-    {
-      "term": "Hypoglycémie",
-      "date": "2026-10-03"
     }
   ]
 }

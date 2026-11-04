@@ -1,50 +1,43 @@
 {
-  "dateLong": "Lun. 2 nov.",
+  "dateLong": "Mer. 4 nov.",
   "essentiel": [
     {
-      "text": "Le guide pratique de la "
+      "text": "Le "
     },
     {
-      "text": "FNI",
+      "text": "Caducée",
       "strong": true
     },
     {
-      "text": " décrypte l'arrêté sur la liste des actes et soins, la "
-    },
-    {
-      "text": "HAS",
-      "strong": true
-    },
-    {
-      "text": " s'est prononcée le 23 juillet 2026 sur le vaccin "
-    },
-    {
-      "text": "Comirnaty 10 µg",
-      "strong": true
-    },
-    {
-      "text": " chez les 6 mois-4 ans, l'"
+      "text": " fait le point sur la réforme infirmière (prescription, consultation, actes), l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie des informations de sécurité sur la centrale "
+      "text": " publie des informations de sécurité sur les tubulures de perfusion "
     },
     {
-      "text": "Xhibit Spacelabs",
+      "text": "ICU Medical",
       "strong": true
     },
     {
-      "text": " et la table "
+      "text": " et la centrale "
     },
     {
-      "text": "TryTable",
+      "text": "Carescape",
       "strong": true
     },
     {
-      "text": ", et les "
+      "text": ", la "
+    },
+    {
+      "text": "HAS",
+      "strong": true
+    },
+    {
+      "text": " rappelle le calendrier vaccinal 2026 et les "
     },
     {
       "text": "JNCS",
@@ -57,70 +50,70 @@
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Guide pratique FNI n° 2 : l'arrêté « Liste des actes et soins »",
-      "summary": "La Fédération nationale des infirmiers détaille, domaine d'activité par domaine, la liste des actes et soins issue de l'arrêté du 26 juin 2026.",
-      "source": "FNI",
-      "url": "https://fni.fr/wp-content/uploads/2026/09/Guide20pratique20FNI20NC2B0220arreCC82teCC8120Liste20des20actes20et20soins.pdf"
+      "title": "Réforme infirmière : prescription, consultation et actes infirmiers entrent dans une nouvelle phase",
+      "summary": "Prescription (vaccins, plaies, santé sexuelle, sevrage tabagique, biologie ciblée), consultation autonome et remboursement libéral : ce que change la réforme pour les IDE.",
+      "source": "Caducée",
+      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
     },
     {
       "category": "alertes",
-      "title": "Centrale de surveillance Xhibit (modèle 96102) – Spacelabs Healthcare : information de sécurité",
-      "summary": "L'ANSM relaie une information destinée aux utilisateurs de cette centrale de surveillance, utilisée avec le répartiteur DisplayPort 010-1975-00.",
+      "title": "Perfuseur, chambres de perfusion des tubulures IV – ICU Medical : information de sécurité",
+      "summary": "L'ANSM relaie une action de sécurité (n° R2623248 / R2623980) concernant des chambres de perfusion de tubulures IV d'ICU Medical.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-xhibit-modele-96102-utilisee-avec-le-repartiteur-displayport-modele-010-1975-00-spacelabs-healthcare-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/perfuseur-chambres-de-perfusion-des-tubulures-iv-icu-medical-inc"
     },
     {
       "category": "science",
-      "title": "Covid-19 : place du vaccin Comirnaty 10 µg chez les enfants de 6 mois à 4 ans",
-      "summary": "Décision HAS du 23 juillet 2026 adoptant l'avis sur la stratégie vaccinale, en remplacement de la formulation 3 µg.",
+      "title": "Actualisation du calendrier des vaccinations pour l'année 2026",
+      "summary": "Avis du Collège de la HAS du 26 février 2026 sur le calendrier vaccinal 2026, référence pour les IDE vaccinateurs.",
       "source": "HAS",
-      "url": "https://has-sante.fr/jcms/p_4231715/fr/decision-n-2026-0155/dc/sespev-du-23-juillet-2026-du-college-de-la-haute-autorite-de-sante-portant-adoption-de-l-avis-intitule-strategie-de-vaccination-contre-la-covid-19-place-du-vaccin-a-arnm-comirnaty-10-g-chez-les-enfants-ages-de-6-mois-a-4-ans-dans-la-strategie-vaccinale-en-remplacement-de-la-formulation-3-g"
+      "url": "https://www.has-sante.fr/jcms/p_3883262/en/avis-n2026-0016/ac/sespev-du-26-fevrier-2026-du-college-de-la-haute-autorite-de-sante-relatif-a-l-actualisation-du-calendrier-des-vaccinations-pour-l-annee-2026"
     },
     {
       "category": "profession",
-      "title": "Ordre infirmier : dossiers et actualités de l'ONI",
-      "summary": "Présidé par Alain Desbouchages depuis son élection du 19 novembre 2025, l'Ordre s'est implanté à La Réunion et à Mayotte en mars 2026.",
+      "title": "Salon infirmier 2026 : l'heure des nouvelles compétences et nouvelles missions du métier",
+      "summary": "Le salon met en avant les nouvelles missions issues de la loi de juin 2025 sur l'exercice infirmier.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier"
+      "url": "https://www.infirmiers.com/salon-infirmier-2026-lheure-des-nouvelles-competences-et-nouvelles-missions-du-metier"
     },
     {
       "category": "technique",
-      "title": "Table d'examen TryTable TU2000 – Medkonsult Medical Technology : information de sécurité",
-      "summary": "L'ANSM publie une information de sécurité concernant cette table d'examen utilisée en soins.",
+      "title": "Centrale de surveillance CARESCAPE Central Station (CSCS) V3.0.x – GE Medical Systems : information de sécurité",
+      "summary": "L'ANSM publie une information de sécurité (n° R2625769) destinée aux établissements utilisant cette centrale de surveillance.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/table-dexamen-trytable-tu2000-medkonsult-medical-technology-s-r-o"
+      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-carescape-central-station-cscs-v3-0-x-ge-medical-systems-information-technologies-inc"
     },
     {
       "category": "formation",
       "title": "Journées nationales des cadres de santé (JNCS) 2026",
-      "summary": "Rendez-vous à la Cité des Congrès de Nantes les 23 et 24 novembre 2026 pour les cadres de santé.",
+      "summary": "Rendez-vous à la Cité des Congrès de Nantes les 23 et 24 novembre 2026, dans moins de trois semaines.",
       "source": "Infirmiers.com",
       "url": "https://www.infirmiers.com/evenements"
     }
   ],
   "word": {
-    "field": "Pharmaco / thérapeutique",
-    "term": "Schéma insulinique basal-bolus",
-    "subtitle": "Une insuline lente pour le fond, une insuline rapide pour chaque repas",
-    "definition": "Le schéma basal-bolus associe une injection d'insuline lente (basale) couvrant les besoins de fond et des injections d'insuline rapide (bolus) avant les repas ou pour corriger une hyperglycémie, selon la glycémie capillaire et le repas prévu.",
+    "field": "Clinique / physiopatho",
+    "term": "Échelle numérique de la douleur (EN)",
+    "subtitle": "Demander au patient de noter sa douleur de 0 à 10",
+    "definition": "L'échelle numérique est une auto-évaluation de la douleur : le patient donne une note de 0 (aucune douleur) à 10 (douleur maximale imaginable), ce qui permet de suivre l'évolution et l'efficacité du traitement.",
     "steps": [
       {
         "n": "1",
-        "h": "Contrôler",
-        "t": "la glycémie capillaire avant le repas, vérifier la prescription, le type d'insuline et la dose."
+        "h": "Expliquer",
+        "t": "l'échelle au patient (0 = pas de douleur, 10 = pire douleur imaginable) et évaluer au repos et au mouvement."
       },
       {
         "n": "2",
-        "h": "Injecter",
-        "t": "le bolus rapide au bon moment par rapport au repas, en variant les sites d'injection, avec le stylo adapté."
+        "h": "Évaluer",
+        "t": "à chaque prise de constantes, avant et après un antalgique (délai d'action respecté), avec la même échelle."
       },
       {
         "n": "3",
-        "h": "Surveiller",
-        "t": "hypoglycémie (sueurs, malaise), repas réellement pris, glycémies suivantes ; tracer et alerter le médecin si besoin."
+        "h": "Tracer",
+        "t": "la note, le siège et la réponse au traitement ; alerter le médecin si la douleur reste élevée (EN ≥ 4) ou augmente."
       }
     ],
-    "retenir": "Insuline rapide et insuline lente ne se confondent pas : on vérifie le nom, la dose et le repas avant chaque injection, car c'est un médicament à haut risque. ",
-    "sources": "Sources : recommandations de prise en charge du diabète · protocoles des services."
+    "retenir": "On croit le patient : la douleur est ce qu'il dit. Toujours la même échelle, tracée, avant et après chaque antalgique. Si le patient ne peut pas s'exprimer, utiliser une échelle d'hétéro-évaluation (Algoplus, ECPA). ",
+    "sources": "Sources : recommandations de prise en charge de la douleur · protocoles des services."
   }
 }

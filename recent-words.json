@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Score qSOFA",
+      "date": "2026-11-05"
+    },
+    {
       "term": "Échelle numérique de la douleur (EN)",
       "date": "2026-11-04"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Sondage vésical",
       "date": "2026-10-05"
-    },
-    {
-      "term": "INR (International Normalized Ratio)",
-      "date": "2026-10-04"
     }
   ]
 }

@@ -1,119 +1,112 @@
 {
-  "dateLong": "Mer. 4 nov.",
+  "dateLong": "Jeu. 5 nov.",
   "essentiel": [
     {
-      "text": "Le "
-    },
-    {
-      "text": "Caducée",
-      "strong": true
-    },
-    {
-      "text": " fait le point sur la réforme infirmière (prescription, consultation, actes), l'"
-    },
-    {
-      "text": "ANSM",
-      "strong": true
-    },
-    {
-      "text": " publie des informations de sécurité sur les tubulures de perfusion "
-    },
-    {
-      "text": "ICU Medical",
-      "strong": true
-    },
-    {
-      "text": " et la centrale "
-    },
-    {
-      "text": "Carescape",
-      "strong": true
-    },
-    {
-      "text": ", la "
+      "text": "La "
     },
     {
       "text": "HAS",
       "strong": true
     },
     {
-      "text": " rappelle le calendrier vaccinal 2026 et les "
+      "text": " attend son premier avis sur les ratios minimum de soignants (obstétrique-néonatalogie) en novembre et recommande la vaccination antigrippale obligatoire des professionnels et étudiants en santé, l'"
     },
     {
-      "text": "JNCS",
+      "text": "ANSM",
       "strong": true
     },
     {
-      "text": " se tiennent à Nantes les 23 et 24 novembre."
+      "text": " publie le rappel des seringues "
+    },
+    {
+      "text": "Steriflush NaCl 0,9 %",
+      "strong": true
+    },
+    {
+      "text": " et une information sur le logiciel "
+    },
+    {
+      "text": "Easily-LAPCMP",
+      "strong": true
+    },
+    {
+      "text": ", et les négociations conventionnelles reconnaissent les compétences des "
+    },
+    {
+      "text": "IDEL",
+      "strong": true
+    },
+    {
+      "text": "."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Réforme infirmière : prescription, consultation et actes infirmiers entrent dans une nouvelle phase",
-      "summary": "Prescription (vaccins, plaies, santé sexuelle, sevrage tabagique, biologie ciblée), consultation autonome et remboursement libéral : ce que change la réforme pour les IDE.",
-      "source": "Caducée",
-      "url": "https://www.caducee.net/actualite-medicale/16935/reforme-infirmiere-prescription-consultation-et-actes-infirmiers-entrent-dans-une-nouvelle-phase.html"
+      "title": "Avis HAS sur les ratios minimum soignants en néonatalogie, en obstétrique, en soins palliatifs et en psychiatrie",
+      "summary": "La HAS doit rendre en novembre 2026 son premier avis, sur l'obstétrique-néonatalogie, pour permettre la fixation des ratios par décret au 1er janvier 2027.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage"
     },
     {
       "category": "alertes",
-      "title": "Perfuseur, chambres de perfusion des tubulures IV – ICU Medical : information de sécurité",
-      "summary": "L'ANSM relaie une action de sécurité (n° R2623248 / R2623980) concernant des chambres de perfusion de tubulures IV d'ICU Medical.",
+      "title": "Steriflush, seringues de NaCl 0,9 % – Sterisets Manufacturing S.A. : rappel de produit",
+      "summary": "Rappel (n° R2632140, publié le 30 octobre 2026) : les utilisateurs doivent cesser d'utiliser et de distribuer les lots concernés de ces seringues de rinçage.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/perfuseur-chambres-de-perfusion-des-tubulures-iv-icu-medical-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/steriflush-seringues-de-nacl-0-9-sterisets-manufacturing-s-a"
     },
     {
       "category": "science",
-      "title": "Actualisation du calendrier des vaccinations pour l'année 2026",
-      "summary": "Avis du Collège de la HAS du 26 février 2026 sur le calendrier vaccinal 2026, référence pour les IDE vaccinateurs.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_3883262/en/avis-n2026-0016/ac/sespev-du-26-fevrier-2026-du-college-de-la-haute-autorite-de-sante-relatif-a-l-actualisation-du-calendrier-des-vaccinations-pour-l-annee-2026"
+      "title": "Grippe : la HAS recommande la vaccination antigrippale obligatoire de l'ensemble des professionnels de santé",
+      "summary": "Recommandation du 20 juillet 2026 : obligation étendue aux professionnels et aux étudiants des filières médicales, paramédicales et pharmaceutiques, à commencer par les EHPAD et USLD, après décret.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38115-la-has-recommande-la-vaccination-antigrippale-obligatoire-de-l-ensemble-des-professionnels-de-sante.html"
     },
     {
       "category": "profession",
-      "title": "Salon infirmier 2026 : l'heure des nouvelles compétences et nouvelles missions du métier",
-      "summary": "Le salon met en avant les nouvelles missions issues de la loi de juin 2025 sur l'exercice infirmier.",
+      "title": "Négociations conventionnelles : « On vient reconnaître clairement les compétences » des IDEL",
+      "summary": "Infirmiers.com revient sur les négociations conventionnelles et la reconnaissance des compétences des infirmiers libéraux.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/salon-infirmier-2026-lheure-des-nouvelles-competences-et-nouvelles-missions-du-metier"
+      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/negociations-conventionnelles-vient-reconnaitre-clairement-les-competences-des-idel"
     },
     {
       "category": "technique",
-      "title": "Centrale de surveillance CARESCAPE Central Station (CSCS) V3.0.x – GE Medical Systems : information de sécurité",
-      "summary": "L'ANSM publie une information de sécurité (n° R2625769) destinée aux établissements utilisant cette centrale de surveillance.",
+      "title": "LAP : logiciel d'aide à la prescription – Easily-LAPCMP – Hospices Civils de Lyon : information de sécurité",
+      "summary": "L'ANSM a publié le 4 novembre 2026 une nouvelle information aux utilisateurs de ce logiciel d'aide à la prescription.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/centrale-de-surveillance-carescape-central-station-cscs-v3-0-x-ge-medical-systems-information-technologies-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "Journées nationales des cadres de santé (JNCS) 2026",
-      "summary": "Rendez-vous à la Cité des Congrès de Nantes les 23 et 24 novembre 2026, dans moins de trois semaines.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/evenements"
+      "title": "Promouvoir la simulation en santé pour la gestion des risques",
+      "summary": "Guide méthodologique de la HAS sur la simulation (dont la chambre des erreurs) pour former les équipes à la sécurité des soins.",
+      "source": "HAS",
+      "url": "https://has-sante.fr/jcms/pprd_2974158/fr/promouvoir-la-simulation-en-sante-pour-la-gestion-des-risques"
     }
   ],
   "word": {
-    "field": "Clinique / physiopatho",
-    "term": "Échelle numérique de la douleur (EN)",
-    "subtitle": "Demander au patient de noter sa douleur de 0 à 10",
-    "definition": "L'échelle numérique est une auto-évaluation de la douleur : le patient donne une note de 0 (aucune douleur) à 10 (douleur maximale imaginable), ce qui permet de suivre l'évolution et l'efficacité du traitement.",
+    "field": "Urgences / vigilance",
+    "term": "Score qSOFA",
+    "subtitle": "Repérer vite un patient infecté à risque de sepsis grave",
+    "definition": "Le qSOFA est un score de repérage au lit du patient, sans examen biologique : 1 point pour une fréquence respiratoire ≥ 22/min, 1 point pour une altération de la conscience (Glasgow < 15), 1 point pour une PA systolique ≤ 100 mmHg ; un score ≥ 2 évoque un sepsis à risque de mauvaise évolution.",
     "steps": [
       {
         "n": "1",
-        "h": "Expliquer",
-        "t": "l'échelle au patient (0 = pas de douleur, 10 = pire douleur imaginable) et évaluer au repos et au mouvement."
+        "h": "Mesurer",
+        "t": "fréquence respiratoire, conscience et pression artérielle systolique chez tout patient suspect d'infection."
       },
       {
         "n": "2",
-        "h": "Évaluer",
-        "t": "à chaque prise de constantes, avant et après un antalgique (délai d'action respecté), avec la même échelle."
+        "h": "Compter",
+        "t": "1 point par critère présent ; un score ≥ 2 impose d'alerter sans attendre."
       },
       {
         "n": "3",
-        "h": "Tracer",
-        "t": "la note, le siège et la réponse au traitement ; alerter le médecin si la douleur reste élevée (EN ≥ 4) ou augmente."
+        "h": "Alerter",
+        "t": "le médecin, surveiller de façon rapprochée (lactates, hémocultures, antibiothérapie selon prescription) et tracer l'heure de l'alerte."
       }
     ],
-    "retenir": "On croit le patient : la douleur est ce qu'il dit. Toujours la même échelle, tracée, avant et après chaque antalgique. Si le patient ne peut pas s'exprimer, utiliser une échelle d'hétéro-évaluation (Algoplus, ECPA). ",
-    "sources": "Sources : recommandations de prise en charge de la douleur · protocoles des services."
+    "retenir": "qSOFA ≥ 2 = alerte, pas diagnostic. Un score à 0 ou 1 n'exclut pas un sepsis : en cas de doute clinique, on prévient quand même. ",
+    "sources": "Sources : Sepsis-3 (JAMA 2016) · recommandations de prise en charge du sepsis · protocoles des services."
   }
 }

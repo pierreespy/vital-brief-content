@@ -1,112 +1,119 @@
 {
-  "dateLong": "Jeu. 5 nov.",
+  "dateLong": "Sam. 7 nov.",
   "essentiel": [
     {
-      "text": "La "
+      "text": "L'"
     },
     {
-      "text": "HAS",
+      "text": "avenant 11",
       "strong": true
     },
     {
-      "text": " attend son premier avis sur les ratios minimum de soignants (obstétrique-néonatalogie) en novembre et recommande la vaccination antigrippale obligatoire des professionnels et étudiants en santé, l'"
-    },
-    {
-      "text": "ANSM",
-      "strong": true
-    },
-    {
-      "text": " publie le rappel des seringues "
-    },
-    {
-      "text": "Steriflush NaCl 0,9 %",
-      "strong": true
-    },
-    {
-      "text": " et une information sur le logiciel "
-    },
-    {
-      "text": "Easily-LAPCMP",
-      "strong": true
-    },
-    {
-      "text": ", et les négociations conventionnelles reconnaissent les compétences des "
+      "text": " des "
     },
     {
       "text": "IDEL",
       "strong": true
     },
     {
-      "text": "."
+      "text": " entre en vigueur avec les premières revalorisations (AMI/AMX à 3,35 €), l'"
+    },
+    {
+      "text": "ANSM",
+      "strong": true
+    },
+    {
+      "text": " rappelle deux lots d'"
+    },
+    {
+      "text": "aflibercept",
+      "strong": true
+    },
+    {
+      "text": " (Afiveg, Mynzepli) et le "
+    },
+    {
+      "text": "PRAC",
+      "strong": true
+    },
+    {
+      "text": " examine des réactions allergiques liées aux immunoglobulines, tandis que la "
+    },
+    {
+      "text": "HAS",
+      "strong": true
+    },
+    {
+      "text": " a rendu un avis « sous réserve » sur la prescription infirmière."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Avis HAS sur les ratios minimum soignants en néonatalogie, en obstétrique, en soins palliatifs et en psychiatrie",
-      "summary": "La HAS doit rendre en novembre 2026 son premier avis, sur l'obstétrique-néonatalogie, pour permettre la fixation des ratios par décret au 1er janvier 2027.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage"
+      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
+      "summary": "Dans son avis du 12 juin 2026 sur le projet d'arrêté, la HAS se dit favorable sous réserve, notamment sur la liste ouverte aux IDE généralistes.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
     },
     {
       "category": "alertes",
-      "title": "Steriflush, seringues de NaCl 0,9 % – Sterisets Manufacturing S.A. : rappel de produit",
-      "summary": "Rappel (n° R2632140, publié le 30 octobre 2026) : les utilisateurs doivent cesser d'utiliser et de distribuer les lots concernés de ces seringues de rinçage.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/steriflush-seringues-de-nacl-0-9-sterisets-manufacturing-s-a"
+      "title": "Aflibercept : rappel de lots d'Afiveg et Mynzepli jusqu'aux patients",
+      "summary": "Rappel annoncé le 29 octobre 2026 pour défaut qualité (lots 2461572 Afiveg et 2393229 Mynzepli) : le pharmacien doit contacter les patients concernés.",
+      "source": "Pharmactu",
+      "url": "https://pharmactu.fr/articles/aflibercept-afiveg-mynzepli-rappel-lots-patients-ansm-2026"
     },
     {
       "category": "science",
-      "title": "Grippe : la HAS recommande la vaccination antigrippale obligatoire de l'ensemble des professionnels de santé",
-      "summary": "Recommandation du 20 juillet 2026 : obligation étendue aux professionnels et aux étudiants des filières médicales, paramédicales et pharmaceutiques, à commencer par les EHPAD et USLD, après décret.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38115-la-has-recommande-la-vaccination-antigrippale-obligatoire-de-l-ensemble-des-professionnels-de-sante.html"
+      "title": "Retour d'information sur le PRAC de novembre 2026 (26-29 octobre)",
+      "summary": "Le PRAC examine l'augmentation des notifications de réactions allergiques associées à certains lots d'immunoglobuline humaine normale.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/actualites/retour-dinformation-sur-le-prac-de-novembre-2026-26-29-octobre"
     },
     {
       "category": "profession",
-      "title": "Négociations conventionnelles : « On vient reconnaître clairement les compétences » des IDEL",
-      "summary": "Infirmiers.com revient sur les négociations conventionnelles et la reconnaissance des compétences des infirmiers libéraux.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/negociations-conventionnelles-vient-reconnaitre-clairement-les-competences-des-idel"
+      "title": "Avenant 11 : les premières revalos arrivent le 6 novembre !",
+      "summary": "Revalorisation des lettres-clés AMI et AMX de 3,15 € à 3,35 €, puis 3,45 € au 1er novembre 2027, et majoration de 15 € pour certaines urgences à domicile.",
+      "source": "FNI",
+      "url": "https://fni.fr/avenant-11-les-premieres-revalos-arrivent-le-6-novembre/"
     },
     {
       "category": "technique",
-      "title": "LAP : logiciel d'aide à la prescription – Easily-LAPCMP – Hospices Civils de Lyon : information de sécurité",
-      "summary": "L'ANSM a publié le 4 novembre 2026 une nouvelle information aux utilisateurs de ce logiciel d'aide à la prescription.",
+      "title": "Bandelettes de glycémie Nova Biomedical : rappel de produit",
+      "summary": "L'ANSM liste le 5-6 novembre 2026 un rappel de bandelettes de glycémie Nova Biomedical : vérifier les lots sur la fiche officielle avant utilisation.",
       "source": "ANSM",
       "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "Promouvoir la simulation en santé pour la gestion des risques",
-      "summary": "Guide méthodologique de la HAS sur la simulation (dont la chambre des erreurs) pour former les équipes à la sécurité des soins.",
-      "source": "HAS",
-      "url": "https://has-sante.fr/jcms/pprd_2974158/fr/promouvoir-la-simulation-en-sante-pour-la-gestion-des-risques"
+      "title": "Vaccination du voyage : un élargissement envisagé pour les infirmiers",
+      "summary": "Infirmiers.com signale le 5 novembre 2026 une évolution des compétences vaccinales des infirmiers pour la vaccination du voyage.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/tous-les-articles"
     }
   ],
   "word": {
-    "field": "Urgences / vigilance",
-    "term": "Score qSOFA",
-    "subtitle": "Repérer vite un patient infecté à risque de sepsis grave",
-    "definition": "Le qSOFA est un score de repérage au lit du patient, sans examen biologique : 1 point pour une fréquence respiratoire ≥ 22/min, 1 point pour une altération de la conscience (Glasgow < 15), 1 point pour une PA systolique ≤ 100 mmHg ; un score ≥ 2 évoque un sepsis à risque de mauvaise évolution.",
+    "field": "Clinique / physiopatho",
+    "term": "Hypoglycémie",
+    "subtitle": "Reconnaître et corriger vite une glycémie trop basse",
+    "definition": "L'hypoglycémie est une glycémie capillaire inférieure à 0,70 g/L (3,9 mmol/L), avec ou sans signes : sueurs, pâleur, tremblements, faim, troubles de la conscience pouvant aller jusqu'au coma.",
     "steps": [
       {
         "n": "1",
-        "h": "Mesurer",
-        "t": "fréquence respiratoire, conscience et pression artérielle systolique chez tout patient suspect d'infection."
+        "h": "Contrôler",
+        "t": "la glycémie capillaire devant tout malaise, sueurs ou trouble de conscience chez un patient à risque (diabète, insuline, sulfamides)."
       },
       {
         "n": "2",
-        "h": "Compter",
-        "t": "1 point par critère présent ; un score ≥ 2 impose d'alerter sans attendre."
+        "h": "Resucrer",
+        "t": "15 g de sucre par voie orale si le patient est conscient ; si ce n'est pas possible, resucrage IV ou glucagon selon protocole et prescription."
       },
       {
         "n": "3",
-        "h": "Alerter",
-        "t": "le médecin, surveiller de façon rapprochée (lactates, hémocultures, antibiothérapie selon prescription) et tracer l'heure de l'alerte."
+        "h": "Recontrôler",
+        "t": "la glycémie après 15 minutes, rechercher la cause, prévenir le médecin et tracer l'épisode."
       }
     ],
-    "retenir": "qSOFA ≥ 2 = alerte, pas diagnostic. Un score à 0 ou 1 n'exclut pas un sepsis : en cas de doute clinique, on prévient quand même. ",
-    "sources": "Sources : Sepsis-3 (JAMA 2016) · recommandations de prise en charge du sepsis · protocoles des services."
+    "retenir": "Hypoglycémie = glycémie < 0,70 g/L : on contrôle, on resucre, on recontrôle à 15 minutes. Un patient inconscient ne reçoit rien par la bouche. ",
+    "sources": "Sources : recommandations de prise en charge du diabète · protocoles des services."
   }
 }

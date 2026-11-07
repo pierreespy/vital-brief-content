@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Hypoglycémie",
+      "date": "2026-11-07"
+    },
+    {
       "term": "Score qSOFA",
       "date": "2026-11-05"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Transmissions ciblées",
       "date": "2026-10-06"
-    },
-    {
-      "term": "Sondage vésical",
-      "date": "2026-10-05"
     }
   ]
 }

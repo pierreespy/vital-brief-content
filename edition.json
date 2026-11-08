@@ -1,119 +1,126 @@
 {
-  "dateLong": "Sam. 7 nov.",
+  "dateLong": "Dim. 8 nov.",
   "essentiel": [
     {
-      "text": "L'"
+      "text": "Les "
+    },
+    {
+      "text": "arrêtés du 26 juin 2026",
+      "strong": true
+    },
+    {
+      "text": " fixent la liste des actes et prescriptions des "
+    },
+    {
+      "text": "IDE",
+      "strong": true
+    },
+    {
+      "text": ", l'"
     },
     {
       "text": "avenant 11",
       "strong": true
     },
     {
-      "text": " des "
+      "text": " revalorise les "
     },
     {
       "text": "IDEL",
       "strong": true
     },
     {
-      "text": " entre en vigueur avec les premières revalorisations (AMI/AMX à 3,35 €), l'"
+      "text": ", l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " rappelle deux lots d'"
+      "text": " signale un retrait de lot de circuits de ventilation "
     },
     {
-      "text": "aflibercept",
+      "text": "Intersurgical",
       "strong": true
     },
     {
-      "text": " (Afiveg, Mynzepli) et le "
+      "text": " et les "
     },
     {
-      "text": "PRAC",
+      "text": "Rencontres de Santé publique France",
       "strong": true
     },
     {
-      "text": " examine des réactions allergiques liées aux immunoglobulines, tandis que la "
-    },
-    {
-      "text": "HAS",
-      "strong": true
-    },
-    {
-      "text": " a rendu un avis « sous réserve » sur la prescription infirmière."
+      "text": " se tiennent demain à Montrouge."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Prescription infirmière : un avis de la HAS qui sécurise l'exercice infirmier",
-      "summary": "Dans son avis du 12 juin 2026 sur le projet d'arrêté, la HAS se dit favorable sous réserve, notamment sur la liste ouverte aux IDE généralistes.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/prescription-infirmiere-un-avis-de-la-has-qui-securise-lexercice-infirmier"
+      "title": "La refonte de l'exercice infirmier : décret et arrêtés d'application",
+      "summary": "L'arrêté du 26 juin 2026, publié au JO du 27 juin, fixe la liste des actes et soins des IDE, avec un second arrêté sur les produits de santé et examens prescriptibles.",
+      "source": "FHF",
+      "url": "https://www.fhf.fr/expertises/ressources-humaines/personnel-non-medical/la-refonte-de-lexercice-infirmier"
     },
     {
       "category": "alertes",
-      "title": "Aflibercept : rappel de lots d'Afiveg et Mynzepli jusqu'aux patients",
-      "summary": "Rappel annoncé le 29 octobre 2026 pour défaut qualité (lots 2461572 Afiveg et 2393229 Mynzepli) : le pharmacien doit contacter les patients concernés.",
-      "source": "Pharmactu",
-      "url": "https://pharmactu.fr/articles/aflibercept-afiveg-mynzepli-rappel-lots-patients-ansm-2026"
+      "title": "Circuits de ventilation patient à intérieur lisse : retrait de lot Intersurgical",
+      "summary": "Information de sécurité ANSM du 5 novembre 2026 (R2632860) destinée aux établissements de santé : le fabricant procède à un retrait de lot.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/circuit-de-ventilation-patient-circuits-respiratoires-a-interieur-lisse-intersurgical"
     },
     {
       "category": "science",
-      "title": "Retour d'information sur le PRAC de novembre 2026 (26-29 octobre)",
-      "summary": "Le PRAC examine l'augmentation des notifications de réactions allergiques associées à certains lots d'immunoglobuline humaine normale.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/retour-dinformation-sur-le-prac-de-novembre-2026-26-29-octobre"
+      "title": "Grippe : la circulation repart à la hausse en France",
+      "summary": "Connexion France fait le point sur la remontée de l'activité grippale et les régions les plus touchées, utile pour anticiper la vaccination et les précautions en soins.",
+      "source": "Connexion France",
+      "url": "https://www.connexionfrance.com/article/French-news/Health/Flu-is-on-the-rise-again-in-France-Which-areas-are-most-affected"
     },
     {
       "category": "profession",
-      "title": "Avenant 11 : les premières revalos arrivent le 6 novembre !",
-      "summary": "Revalorisation des lettres-clés AMI et AMX de 3,15 € à 3,35 €, puis 3,45 € au 1er novembre 2027, et majoration de 15 € pour certaines urgences à domicile.",
-      "source": "FNI",
-      "url": "https://fni.fr/avenant-11-les-premieres-revalos-arrivent-le-6-novembre/"
+      "title": "L'avenant 11, qui revalorise les IDEL, est publié",
+      "summary": "Signé le 31 mars 2026 et publié au JO le 6 mai, il prévoit 503 M€ sur 2026-2029, l'encadrement de l'infirmier référent et le dépistage du cancer colorectal par les IDEL.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/exercice-liberal/le-metier-didel/lavenant-11-qui-revalorise-les-idel-est-publie"
     },
     {
       "category": "technique",
-      "title": "Bandelettes de glycémie Nova Biomedical : rappel de produit",
-      "summary": "L'ANSM liste le 5-6 novembre 2026 un rappel de bandelettes de glycémie Nova Biomedical : vérifier les lots sur la fiche officielle avant utilisation.",
+      "title": "Obturateur de cathéter d'hémodialyse CitraLock S 4 : rappel Sterisets",
+      "summary": "L'ANSM relaie le rappel R2628963 (5 octobre 2026) étendant un rappel antérieur de lots : vérifier les références avant tout verrou de cathéter.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "url": "https://ansm.sante.fr/informations-de-securite/obturateur-de-catheter-dhemodialyse-citralock-s-4-ref-3591s2-sterisets-medical-products"
     },
     {
       "category": "formation",
-      "title": "Vaccination du voyage : un élargissement envisagé pour les infirmiers",
-      "summary": "Infirmiers.com signale le 5 novembre 2026 une évolution des compétences vaccinales des infirmiers pour la vaccination du voyage.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/tous-les-articles"
+      "title": "Rencontres de Santé publique France, le 9 novembre 2026",
+      "summary": "Rendez-vous annuel au Beffroi de Montrouge consacré aux enjeux de santé publique et de prévention.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/index.php/les-actualites"
     }
   ],
   "word": {
-    "field": "Clinique / physiopatho",
-    "term": "Hypoglycémie",
-    "subtitle": "Reconnaître et corriger vite une glycémie trop basse",
-    "definition": "L'hypoglycémie est une glycémie capillaire inférieure à 0,70 g/L (3,9 mmol/L), avec ou sans signes : sueurs, pâleur, tremblements, faim, troubles de la conscience pouvant aller jusqu'au coma.",
+    "field": "Gestes & soins",
+    "term": "Hémocultures",
+    "subtitle": "Prélever correctement pour identifier le germe d'une bactériémie",
+    "definition": "Les hémocultures sont des prélèvements de sang mis en culture (flacons aérobie et anaérobie) pour détecter bactéries ou levures circulantes, notamment devant une fièvre, des frissons ou une suspicion de sepsis.",
     "steps": [
       {
         "n": "1",
-        "h": "Contrôler",
-        "t": "la glycémie capillaire devant tout malaise, sueurs ou trouble de conscience chez un patient à risque (diabète, insuline, sulfamides)."
+        "h": "Préparer",
+        "t": "l'asepsie : hygiène des mains, antiseptique alcoolique sur la peau et sur les opercules des flacons, avec temps de séchage respecté."
       },
       {
         "n": "2",
-        "h": "Resucrer",
-        "t": "15 g de sucre par voie orale si le patient est conscient ; si ce n'est pas possible, resucrage IV ou glucagon selon protocole et prescription."
+        "h": "Prélever",
+        "t": "par ponction veineuse, idéalement avant la première antibiothérapie, en remplissant chaque flacon au volume indiqué (environ 8 à 10 mL) ; plusieurs sites ou temps selon prescription."
       },
       {
         "n": "3",
-        "h": "Recontrôler",
-        "t": "la glycémie après 15 minutes, rechercher la cause, prévenir le médecin et tracer l'épisode."
+        "h": "Acheminer",
+        "t": "sans délai au laboratoire, étiqueter (patient, site, heure, flacons) et tracer le prélèvement, sans réfrigérer les flacons."
       }
     ],
-    "retenir": "Hypoglycémie = glycémie < 0,70 g/L : on contrôle, on resucre, on recontrôle à 15 minutes. Un patient inconscient ne reçoit rien par la bouche. ",
-    "sources": "Sources : recommandations de prise en charge du diabète · protocoles des services."
+    "retenir": "Hémoculture = asepsie rigoureuse, avant antibiotiques, bon volume par flacon, envoi rapide. Un prélèvement mal fait expose aux faux positifs par contamination cutanée. ",
+    "sources": "Sources : recommandations de bonnes pratiques de prélèvement · protocoles des services."
   }
 }

@@ -1,126 +1,119 @@
 {
-  "dateLong": "Dim. 8 nov.",
+  "dateLong": "Lun. 9 nov.",
   "essentiel": [
     {
-      "text": "Les "
+      "text": "Le décret sur l'"
     },
     {
-      "text": "arrêtés du 26 juin 2026",
+      "text": "infirmier référent",
       "strong": true
     },
     {
-      "text": " fixent la liste des actes et prescriptions des "
-    },
-    {
-      "text": "IDE",
-      "strong": true
-    },
-    {
-      "text": ", l'"
-    },
-    {
-      "text": "avenant 11",
-      "strong": true
-    },
-    {
-      "text": " revalorise les "
-    },
-    {
-      "text": "IDEL",
-      "strong": true
-    },
-    {
-      "text": ", l'"
+      "text": " est publié, l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " signale un retrait de lot de circuits de ventilation "
+      "text": " signale une information de sécurité sur l'hémodialyse "
     },
     {
-      "text": "Intersurgical",
+      "text": "Fresenius 6008 CareSystem",
       "strong": true
     },
     {
-      "text": " et les "
+      "text": " et un rappel des seringues "
     },
     {
-      "text": "Rencontres de Santé publique France",
+      "text": "Steriflush",
       "strong": true
     },
     {
-      "text": " se tiennent demain à Montrouge."
+      "text": ", les indicateurs "
+    },
+    {
+      "text": "Santé publique France",
+      "strong": true
+    },
+    {
+      "text": " des infections respiratoires restent stables et les "
+    },
+    {
+      "text": "JNCS",
+      "strong": true
+    },
+    {
+      "text": " ouvrent le 23 novembre à Nantes."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "La refonte de l'exercice infirmier : décret et arrêtés d'application",
-      "summary": "L'arrêté du 26 juin 2026, publié au JO du 27 juin, fixe la liste des actes et soins des IDE, avec un second arrêté sur les produits de santé et examens prescriptibles.",
-      "source": "FHF",
-      "url": "https://www.fhf.fr/expertises/ressources-humaines/personnel-non-medical/la-refonte-de-lexercice-infirmier"
+      "title": "Infirmier référent : le décret fixant les missions est enfin publié",
+      "summary": "Publié au JO du 23 mai 2026, le décret précise les missions de l'infirmier référent et les documents auxquels il a accès, à commencer par le dossier médical partagé.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/infirmier-referent-le-decret-fixant-les-missions-est-enfin-publie"
     },
     {
       "category": "alertes",
-      "title": "Circuits de ventilation patient à intérieur lisse : retrait de lot Intersurgical",
-      "summary": "Information de sécurité ANSM du 5 novembre 2026 (R2632860) destinée aux établissements de santé : le fabricant procède à un retrait de lot.",
+      "title": "Équipement d'hémodialyse 6008 CareSystem : information de sécurité Fresenius",
+      "summary": "Information ANSM du 5 novembre 2026 (R2632863) destinée aux établissements de santé, centres de santé et néphrologues.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/circuit-de-ventilation-patient-circuits-respiratoires-a-interieur-lisse-intersurgical"
+      "url": "https://ansm.sante.fr/informations-de-securite/equipement-dhemodialyse-6008-caresystem-fresenius-medical-care"
     },
     {
       "category": "science",
-      "title": "Grippe : la circulation repart à la hausse en France",
-      "summary": "Connexion France fait le point sur la remontée de l'activité grippale et les régions les plus touchées, utile pour anticiper la vaccination et les précautions en soins.",
-      "source": "Connexion France",
-      "url": "https://www.connexionfrance.com/article/French-news/Health/Flu-is-on-the-rise-again-in-France-Which-areas-are-most-affected"
+      "title": "Infections respiratoires aiguës : bulletin national du 4 novembre 2026",
+      "summary": "En semaine 44, grippe, bronchiolite et Covid-19 restent stables à leur niveau de base ; la campagne de vaccination antigrippale est ouverte dans l'Hexagone depuis le 13 octobre.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-4-novembre-2026"
     },
     {
       "category": "profession",
-      "title": "L'avenant 11, qui revalorise les IDEL, est publié",
-      "summary": "Signé le 31 mars 2026 et publié au JO le 6 mai, il prévoit 503 M€ sur 2026-2029, l'encadrement de l'infirmier référent et le dépistage du cancer colorectal par les IDEL.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/exercice-liberal/le-metier-didel/lavenant-11-qui-revalorise-les-idel-est-publie"
+      "title": "Publication du décret infirmier : de nouvelles compétences pour la profession",
+      "summary": "Le décret d'application de la loi du 27 juin 2025 élargit les compétences des infirmiers ; la profession attend désormais les arrêtés sur les actes et prescriptions.",
+      "source": "Weka",
+      "url": "https://www.weka.fr/actualite/?p=208960"
     },
     {
       "category": "technique",
-      "title": "Obturateur de cathéter d'hémodialyse CitraLock S 4 : rappel Sterisets",
-      "summary": "L'ANSM relaie le rappel R2628963 (5 octobre 2026) étendant un rappel antérieur de lots : vérifier les références avant tout verrou de cathéter.",
+      "title": "Seringues Steriflush NaCl 0,9 % (Sterisets) : rappel Raffin Medical",
+      "summary": "Rappel de produit R2631424 publié par l'ANSM le 4 novembre 2026 : vérifier les lots de seringues de rinçage et sets de soins associés avant utilisation.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/obturateur-de-catheter-dhemodialyse-citralock-s-4-ref-3591s2-sterisets-medical-products"
+      "url": "https://ansm.sante.fr/informations-de-securite/seringues-steriflush-nacl-0-9-sterisets-et-sets-de-soins-associes-distribues-par-raffin-medical"
     },
     {
       "category": "formation",
-      "title": "Rencontres de Santé publique France, le 9 novembre 2026",
-      "summary": "Rendez-vous annuel au Beffroi de Montrouge consacré aux enjeux de santé publique et de prévention.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/index.php/les-actualites"
+      "title": "Journées nationales des cadres de santé, les 23 et 24 novembre 2026",
+      "summary": "Rendez-vous à la Cité des Congrès de Nantes, destiné aux cadres de santé et à l'encadrement des équipes soignantes.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/evenements"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Hémocultures",
-    "subtitle": "Prélever correctement pour identifier le germe d'une bactériémie",
-    "definition": "Les hémocultures sont des prélèvements de sang mis en culture (flacons aérobie et anaérobie) pour détecter bactéries ou levures circulantes, notamment devant une fièvre, des frissons ou une suspicion de sepsis.",
+    "field": "Réglementaire / rôle",
+    "term": "Infirmier référent",
+    "subtitle": "Le soignant de coordination désigné pour le suivi d'un patient",
+    "definition": "L'infirmier référent est un infirmier chargé d'assurer la coordination et le suivi des soins d'un patient, dans le cadre défini par le décret publié au JO du 23 mai 2026 ; il a notamment accès au dossier médical partagé.",
     "steps": [
       {
         "n": "1",
-        "h": "Préparer",
-        "t": "l'asepsie : hygiène des mains, antiseptique alcoolique sur la peau et sur les opercules des flacons, avec temps de séchage respecté."
+        "h": "Identifier",
+        "t": "le patient concerné et vérifier que sa situation relève du dispositif et que l'accord du patient est recueilli."
       },
       {
         "n": "2",
-        "h": "Prélever",
-        "t": "par ponction veineuse, idéalement avant la première antibiothérapie, en remplissant chaque flacon au volume indiqué (environ 8 à 10 mL) ; plusieurs sites ou temps selon prescription."
+        "h": "Coordonner",
+        "t": "les soins avec le médecin traitant et les autres intervenants, en s'appuyant sur le dossier médical partagé."
       },
       {
         "n": "3",
-        "h": "Acheminer",
-        "t": "sans délai au laboratoire, étiqueter (patient, site, heure, flacons) et tracer le prélèvement, sans réfrigérer les flacons."
+        "h": "Tracer",
+        "t": "les évaluations, les décisions et les transmissions pour assurer la continuité du suivi."
       }
     ],
-    "retenir": "Hémoculture = asepsie rigoureuse, avant antibiotiques, bon volume par flacon, envoi rapide. Un prélèvement mal fait expose aux faux positifs par contamination cutanée. ",
-    "sources": "Sources : recommandations de bonnes pratiques de prélèvement · protocoles des services."
+    "retenir": "Infirmier référent = coordination et suivi du patient, avec accès au DMP, dans le cadre fixé par le décret de mai 2026. Se reporter au texte et aux protocoles locaux pour le détail des missions. ",
+    "sources": "Sources : Infirmiers.com · décret publié au JO du 23 mai 2026."
   }
 }

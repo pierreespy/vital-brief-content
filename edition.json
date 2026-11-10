@@ -1,119 +1,119 @@
 {
-  "dateLong": "Lun. 9 nov.",
+  "dateLong": "Mar. 10 nov.",
   "essentiel": [
     {
-      "text": "Le décret sur l'"
+      "text": "Le "
     },
     {
-      "text": "infirmier référent",
+      "text": "décret du 20 février 2026",
       "strong": true
     },
     {
-      "text": " est publié, l'"
+      "text": " fait délivrer le diplôme d'État infirmier par les universités, l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " signale une information de sécurité sur l'hémodialyse "
+      "text": " publie un rappel des circuits de ventilation "
     },
     {
-      "text": "Fresenius 6008 CareSystem",
+      "text": "Intersurgical",
       "strong": true
     },
     {
-      "text": " et un rappel des seringues "
+      "text": " et des sets de soins "
     },
     {
-      "text": "Steriflush",
+      "text": "Innoset",
       "strong": true
     },
     {
-      "text": ", les indicateurs "
+      "text": " à seringues Steriflush, "
     },
     {
       "text": "Santé publique France",
       "strong": true
     },
     {
-      "text": " des infections respiratoires restent stables et les "
+      "text": " signale des infections respiratoires stables et la fin du "
     },
     {
-      "text": "JNCS",
+      "text": "DPC",
       "strong": true
     },
     {
-      "text": " ouvrent le 23 novembre à Nantes."
+      "text": " se précise avec la certification périodique."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Infirmier référent : le décret fixant les missions est enfin publié",
-      "summary": "Publié au JO du 23 mai 2026, le décret précise les missions de l'infirmier référent et les documents auxquels il a accès, à commencer par le dossier médical partagé.",
+      "title": "Diplôme d'État infirmier : délivrance par les universités dès septembre 2026",
+      "summary": "Le décret n° 2026-130 du 20 février 2026 confie aux universités accréditées la délivrance du diplôme, pour les étudiants entrant en première année à compter du 1er septembre 2026.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/competence-et-role-propre/infirmier-referent-le-decret-fixant-les-missions-est-enfin-publie"
+      "url": "https://www.infirmiers.com/etudiants/admission-et-cursus-en-ifsi/le-nouveau-referentiel-de-formation-une-opportunite-historique-pour-la-profession"
     },
     {
       "category": "alertes",
-      "title": "Équipement d'hémodialyse 6008 CareSystem : information de sécurité Fresenius",
-      "summary": "Information ANSM du 5 novembre 2026 (R2632863) destinée aux établissements de santé, centres de santé et néphrologues.",
+      "title": "Circuits de ventilation patient à intérieur lisse : rappel Intersurgical",
+      "summary": "Rappel n° R2632860 publié par l'ANSM le 5 novembre 2026, destiné aux établissements de santé : identifier les circuits concernés avant utilisation.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/equipement-dhemodialyse-6008-caresystem-fresenius-medical-care"
+      "url": "https://ansm.sante.fr/informations-de-securite/circuit-de-ventilation-patient-circuits-respiratoires-a-interieur-lisse-intersurgical"
     },
     {
       "category": "science",
-      "title": "Infections respiratoires aiguës : bulletin national du 4 novembre 2026",
-      "summary": "En semaine 44, grippe, bronchiolite et Covid-19 restent stables à leur niveau de base ; la campagne de vaccination antigrippale est ouverte dans l'Hexagone depuis le 13 octobre.",
+      "title": "Infections respiratoires aiguës : indicateurs stables en semaine 44",
+      "summary": "Grippe, bronchiolite et Covid-19 restent à leur niveau de base ; le VRS est en épidémie en Martinique et en pré-épidémie en Île-de-France.",
       "source": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-4-novembre-2026"
     },
     {
       "category": "profession",
       "title": "Publication du décret infirmier : de nouvelles compétences pour la profession",
-      "summary": "Le décret d'application de la loi du 27 juin 2025 élargit les compétences des infirmiers ; la profession attend désormais les arrêtés sur les actes et prescriptions.",
+      "summary": "Le décret d'application de la loi du 27 juin 2025 élargit les compétences des infirmiers ; la profession attend les arrêtés sur les actes et la prescription.",
       "source": "Weka",
       "url": "https://www.weka.fr/actualite/?p=208960"
     },
     {
       "category": "technique",
-      "title": "Seringues Steriflush NaCl 0,9 % (Sterisets) : rappel Raffin Medical",
-      "summary": "Rappel de produit R2631424 publié par l'ANSM le 4 novembre 2026 : vérifier les lots de seringues de rinçage et sets de soins associés avant utilisation.",
+      "title": "Sets de soins Innoset avec seringues Steriflush NaCl 0,9 % : rappel de produit",
+      "summary": "Rappel publié par l'ANSM le 3 novembre 2026 : vérifier les sets assemblés contenant des seringues de rinçage Sterisets avant utilisation.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/seringues-steriflush-nacl-0-9-sterisets-et-sets-de-soins-associes-distribues-par-raffin-medical"
+      "url": "https://ansm.sante.fr/informations-de-securite/sets-de-soins-assembles-par-innoset-avec-seringues-steriflush-nacl-0-9-du-fabricant-sterisets"
     },
     {
       "category": "formation",
-      "title": "Journées nationales des cadres de santé, les 23 et 24 novembre 2026",
-      "summary": "Rendez-vous à la Cité des Congrès de Nantes, destiné aux cadres de santé et à l'encadrement des équipes soignantes.",
+      "title": "Certification périodique : attention aux échéances",
+      "summary": "Avec la fin annoncée du DPC, chaque infirmier devra réaliser au moins deux actions par axe sur un cycle de 6 ans.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/evenements"
+      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
     }
   ],
   "word": {
-    "field": "Réglementaire / rôle",
-    "term": "Infirmier référent",
-    "subtitle": "Le soignant de coordination désigné pour le suivi d'un patient",
-    "definition": "L'infirmier référent est un infirmier chargé d'assurer la coordination et le suivi des soins d'un patient, dans le cadre défini par le décret publié au JO du 23 mai 2026 ; il a notamment accès au dossier médical partagé.",
+    "field": "Clinique / surveillance",
+    "term": "Confusion Assessment Method (CAM)",
+    "subtitle": "L'outil de repérage rapide du délirium chez le patient",
+    "definition": "La CAM est une grille d'évaluation qui repère le délirium (syndrome confusionnel aigu) : début aigu et fluctuant, inattention, pensée désorganisée ou altération de la vigilance. Le diagnostic est évoqué si les deux premiers critères sont présents avec l'un des deux autres.",
     "steps": [
       {
         "n": "1",
-        "h": "Identifier",
-        "t": "le patient concerné et vérifier que sa situation relève du dispositif et que l'accord du patient est recueilli."
+        "h": "Repérer",
+        "t": "un changement brutal du comportement ou de la vigilance par rapport à l'état habituel, en s'appuyant sur l'entourage et les transmissions."
       },
       {
         "n": "2",
-        "h": "Coordonner",
-        "t": "les soins avec le médecin traitant et les autres intervenants, en s'appuyant sur le dossier médical partagé."
+        "h": "Évaluer",
+        "t": "avec la grille CAM : début aigu/fluctuant, inattention, pensée désorganisée, altération de la vigilance."
       },
       {
         "n": "3",
-        "h": "Tracer",
-        "t": "les évaluations, les décisions et les transmissions pour assurer la continuité du suivi."
+        "h": "Alerter",
+        "t": "le médecin pour rechercher la cause (infection, douleur, globe vésical, médicaments, déshydratation) et tracer l'évolution."
       }
     ],
-    "retenir": "Infirmier référent = coordination et suivi du patient, avec accès au DMP, dans le cadre fixé par le décret de mai 2026. Se reporter au texte et aux protocoles locaux pour le détail des missions. ",
-    "sources": "Sources : Infirmiers.com · décret publié au JO du 23 mai 2026."
+    "retenir": "CAM = repérage du délirium : début aigu + inattention + (pensée désorganisée ou vigilance altérée). Le délirium est une urgence à chercher la cause, pas une fatalité liée à l'âge. ",
+    "sources": "Sources : HAS · recommandations sur la prise en charge du délirium."
   }
 }

@@ -1,119 +1,119 @@
 {
-  "dateLong": "Mar. 10 nov.",
+  "dateLong": "Mer. 11 nov.",
   "essentiel": [
     {
-      "text": "Le "
+      "text": "Les "
     },
     {
-      "text": "décret du 20 février 2026",
+      "text": "infirmiers libéraux",
       "strong": true
     },
     {
-      "text": " fait délivrer le diplôme d'État infirmier par les universités, l'"
+      "text": " peuvent stocker les vaccins grippe et Covid-19 depuis le "
+    },
+    {
+      "text": "décret du 9 octobre 2026",
+      "strong": true
+    },
+    {
+      "text": ", l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " publie un rappel des circuits de ventilation "
+      "text": " signale une action de sécurité sur les canules de trachéotomie "
     },
     {
-      "text": "Intersurgical",
+      "text": "Tracoe Vario",
       "strong": true
     },
     {
-      "text": " et des sets de soins "
+      "text": ", la "
     },
     {
-      "text": "Innoset",
+      "text": "chambre disciplinaire",
       "strong": true
     },
     {
-      "text": " à seringues Steriflush, "
+      "text": " de l'Ordre voit ses affaires remonter et les "
     },
     {
-      "text": "Santé publique France",
+      "text": "Journées du GEFERS",
       "strong": true
     },
     {
-      "text": " signale des infections respiratoires stables et la fin du "
-    },
-    {
-      "text": "DPC",
-      "strong": true
-    },
-    {
-      "text": " se précise avec la certification périodique."
+      "text": " s'ouvrent demain à Marseille."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Diplôme d'État infirmier : délivrance par les universités dès septembre 2026",
-      "summary": "Le décret n° 2026-130 du 20 février 2026 confie aux universités accréditées la délivrance du diplôme, pour les étudiants entrant en première année à compter du 1er septembre 2026.",
+      "title": "Stockage des vaccins par les infirmiers libéraux : une avancée pour l'accès aux soins",
+      "summary": "Le décret n° 2026-939 du 9 octobre 2026, en vigueur depuis le 11 octobre, autorise les IDEL à détenir des vaccins grippe et Covid-19 dans une enceinte réfrigérée avec monitorage de la température.",
       "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/etudiants/admission-et-cursus-en-ifsi/le-nouveau-referentiel-de-formation-une-opportunite-historique-pour-la-profession"
+      "url": "https://www.infirmiers.com/exercice-liberal/stockage-des-vaccins-par-les-infirmiers-liberaux-une-avancee-pour-lacces-aux-soins-et-la-prevention"
     },
     {
       "category": "alertes",
-      "title": "Circuits de ventilation patient à intérieur lisse : rappel Intersurgical",
-      "summary": "Rappel n° R2632860 publié par l'ANSM le 5 novembre 2026, destiné aux établissements de santé : identifier les circuits concernés avant utilisation.",
+      "title": "Canules de trachéotomie Tracoe Vario et Experc Set Vario : action de sécurité",
+      "summary": "Action n° R2628066 menée par Coloplast pour Tracoe medical : un addendum à la notice est diffusé, la notice d'instructions modifiée étant attendue courant 2027.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/circuit-de-ventilation-patient-circuits-respiratoires-a-interieur-lisse-intersurgical"
+      "url": "https://ansm.sante.fr/informations-de-securite/canule-de-tracheotomie-tracoe-vario-tracheostomy-tube-experc-set-vario-tracoe-medical-gmbh"
     },
     {
       "category": "science",
-      "title": "Infections respiratoires aiguës : indicateurs stables en semaine 44",
-      "summary": "Grippe, bronchiolite et Covid-19 restent à leur niveau de base ; le VRS est en épidémie en Martinique et en pré-épidémie en Île-de-France.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-4-novembre-2026"
+      "title": "Entre hôpital et libéral : trajectoires et santé des infirmières face aux risques psychosociaux",
+      "summary": "Le rapport IRDES n° 602 montre que les infirmières quittant l'hôpital partent avec un état de santé plus dégradé, et que 23 % se trouvent en situation de « job strain ».",
+      "source": "IRDES",
+      "url": "https://www.irdes.fr/recherche/rapports/602-entre-hopital-et-liberal-trajectoires-professionnelles-et-sante-face-aux-facteurs-de-risques-psychosociaux-des-infirmieres.pdf"
     },
     {
       "category": "profession",
-      "title": "Publication du décret infirmier : de nouvelles compétences pour la profession",
-      "summary": "Le décret d'application de la loi du 27 juin 2025 élargit les compétences des infirmiers ; la profession attend les arrêtés sur les actes et la prescription.",
-      "source": "Weka",
-      "url": "https://www.weka.fr/actualite/?p=208960"
+      "title": "En disciplinaire, une hausse des affaires et des IDEL toujours surreprésentés",
+      "summary": "La chambre disciplinaire nationale de l'Ordre a inscrit 134 affaires en 2025 contre 85 en 2024, portée par les appels liés aux faux pass sanitaires ; un tiers des dossiers oppose des infirmiers entre eux.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier/en-disciplinaire-une-hausse-des-affaires-et-des-idel-toujours-surrepresentes"
     },
     {
       "category": "technique",
-      "title": "Sets de soins Innoset avec seringues Steriflush NaCl 0,9 % : rappel de produit",
-      "summary": "Rappel publié par l'ANSM le 3 novembre 2026 : vérifier les sets assemblés contenant des seringues de rinçage Sterisets avant utilisation.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/sets-de-soins-assembles-par-innoset-avec-seringues-steriflush-nacl-0-9-du-fabricant-sterisets"
+      "title": "Livre blanc plaies 2026 : la cicatrisation, une prise en charge pluridisciplinaire",
+      "summary": "Le livre blanc rappelle que la cicatrisation d'une plaie chronique ou complexe justifie une prise en charge pluridisciplinaire, où l'infirmier tient un rôle central.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/wp-content/uploads/2026/07/livreblancplaie2026vf1.pdf"
     },
     {
       "category": "formation",
-      "title": "Certification périodique : attention aux échéances",
-      "summary": "Avec la fin annoncée du DPC, chaque infirmier devra réaliser au moins deux actions par axe sur un cycle de 6 ans.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
+      "title": "Journées du GEFERS : « Pour une éthique de la continuité du prendre soin »",
+      "summary": "Les 28es Journées itinérantes d'éthique des soins de santé se tiennent les 12 et 13 novembre 2026 à Marseille, autour de la vulnérabilité, de l'incertitude et de la confiance.",
+      "source": "Santé Mentale",
+      "url": "https://www.santementale.fr/evenement/pour-une-ethique-de-la-continuite-du-prendre-soin/"
     }
   ],
   "word": {
-    "field": "Clinique / surveillance",
-    "term": "Confusion Assessment Method (CAM)",
-    "subtitle": "L'outil de repérage rapide du délirium chez le patient",
-    "definition": "La CAM est une grille d'évaluation qui repère le délirium (syndrome confusionnel aigu) : début aigu et fluctuant, inattention, pensée désorganisée ou altération de la vigilance. Le diagnostic est évoqué si les deux premiers critères sont présents avec l'un des deux autres.",
+    "field": "Pharmaco / thérapeutique",
+    "term": "Chaîne du froid (vaccins)",
+    "subtitle": "Garder les vaccins entre +2 °C et +8 °C, du stock jusqu'à l'injection",
+    "definition": "La chaîne du froid est l'ensemble des conditions qui maintiennent un produit thermosensible, comme un vaccin, entre +2 °C et +8 °C sans jamais le congeler, de sa réception à son administration ; une rupture peut le rendre inefficace sans que rien ne se voie.",
     "steps": [
       {
         "n": "1",
-        "h": "Repérer",
-        "t": "un changement brutal du comportement ou de la vigilance par rapport à l'état habituel, en s'appuyant sur l'entourage et les transmissions."
+        "h": "Stocker",
+        "t": "dans une enceinte réfrigérée dédiée (pas la porte, pas contre la paroi du fond), avec thermomètre mini/maxi ou enregistreur de température."
       },
       {
         "n": "2",
-        "h": "Évaluer",
-        "t": "avec la grille CAM : début aigu/fluctuant, inattention, pensée désorganisée, altération de la vigilance."
+        "h": "Contrôler",
+        "t": "et tracer la température chaque jour ; vérifier l'aspect, la date de péremption et transporter en glacière isotherme sans contact direct avec les accumulateurs."
       },
       {
         "n": "3",
-        "h": "Alerter",
-        "t": "le médecin pour rechercher la cause (infection, douleur, globe vésical, médicaments, déshydratation) et tracer l'évolution."
+        "h": "Réagir",
+        "t": "en cas d'écart de température : isoler les doses, ne pas les injecter, noter la durée et l'amplitude de l'écart et contacter le pharmacien ou le laboratoire."
       }
     ],
-    "retenir": "CAM = repérage du délirium : début aigu + inattention + (pensée désorganisée ou vigilance altérée). Le délirium est une urgence à chercher la cause, pas une fatalité liée à l'âge. ",
-    "sources": "Sources : HAS · recommandations sur la prise en charge du délirium."
+    "retenir": "Vaccin = +2 °C à +8 °C, jamais congelé. Un vaccin qui a subi une rupture de la chaîne du froid peut sembler intact mais ne plus protéger : en cas de doute, on isole et on demande avis avant d'injecter. ",
+    "sources": "Sources : HAS · ANSM · Ordre national des pharmaciens (conditions de détention des vaccins)."
   }
 }

@@ -1,119 +1,119 @@
 {
-  "dateLong": "Mer. 11 nov.",
+  "dateLong": "Jeu. 12 nov.",
   "essentiel": [
     {
-      "text": "Les "
+      "text": "La "
     },
     {
-      "text": "infirmiers libéraux",
+      "text": "HAS",
       "strong": true
     },
     {
-      "text": " peuvent stocker les vaccins grippe et Covid-19 depuis le "
+      "text": " valide une consultation infirmière "
     },
     {
-      "text": "décret du 9 octobre 2026",
+      "text": "CIA",
       "strong": true
     },
     {
-      "text": ", l'"
+      "text": " pour l'instauration de l'insuline dans le diabète de type 2, l'"
     },
     {
       "text": "ANSM",
       "strong": true
     },
     {
-      "text": " signale une action de sécurité sur les canules de trachéotomie "
+      "text": " rappelle un lot de "
     },
     {
-      "text": "Tracoe Vario",
+      "text": "Fucithalmic",
       "strong": true
     },
     {
-      "text": ", la "
+      "text": " et des kits de nébulisation "
     },
     {
-      "text": "chambre disciplinaire",
+      "text": "Aerogen",
       "strong": true
     },
     {
-      "text": " de l'Ordre voit ses affaires remonter et les "
+      "text": ", tandis qu'une étude sur "
     },
     {
-      "text": "Journées du GEFERS",
+      "text": "208 infirmiers",
       "strong": true
     },
     {
-      "text": " s'ouvrent demain à Marseille."
+      "text": " lie planning participatif et attractivité du poste."
     }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Stockage des vaccins par les infirmiers libéraux : une avancée pour l'accès aux soins",
-      "summary": "Le décret n° 2026-939 du 9 octobre 2026, en vigueur depuis le 11 octobre, autorise les IDEL à détenir des vaccins grippe et Covid-19 dans une enceinte réfrigérée avec monitorage de la température.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/exercice-liberal/stockage-des-vaccins-par-les-infirmiers-liberaux-une-avancee-pour-lacces-aux-soins-et-la-prevention"
+      "title": "Diabète de type 2 : une consultation infirmière à 20 € pour accompagner le début de l'insuline",
+      "summary": "Après l'avis favorable de la HAS du 22 octobre 2026, la consultation CIA (20 € en métropole, avenant 11) permet jusqu'à 4 consultations sur 6 mois pour les patients en ALD qui débutent l'insuline, sous réserve de formation à l'éducation thérapeutique.",
+      "source": "SanteMatin",
+      "url": "https://www.santematin.fr/diabete-type-2-consultation-infirmiere-insuline-6-novembre-2026-has"
     },
     {
       "category": "alertes",
-      "title": "Canules de trachéotomie Tracoe Vario et Experc Set Vario : action de sécurité",
-      "summary": "Action n° R2628066 menée par Coloplast pour Tracoe medical : un addendum à la notice est diffusé, la notice d'instructions modifiée étant attendue courant 2027.",
+      "title": "Fucithalmic 1 %, gel ophtalmique : rappel d'un lot par précaution",
+      "summary": "Le lot MED26/A023/B021 est rappelé après des résultats non conformes à un test de simulation du procédé aseptique : un risque de contamination microbiologique ne peut être exclu, sans cas de pharmacovigilance signalé à ce jour.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/canule-de-tracheotomie-tracoe-vario-tracheostomy-tube-experc-set-vario-tracoe-medical-gmbh"
+      "url": "https://ansm.sante.fr/informations-de-securite/fucithalmic-1-pour-cent-gel-ophtalmique-laboratoire-centre-specialites-pharmaceutiques"
     },
     {
       "category": "science",
-      "title": "Entre hôpital et libéral : trajectoires et santé des infirmières face aux risques psychosociaux",
-      "summary": "Le rapport IRDES n° 602 montre que les infirmières quittant l'hôpital partent avec un état de santé plus dégradé, et que 23 % se trouvent en situation de « job strain ».",
-      "source": "IRDES",
-      "url": "https://www.irdes.fr/recherche/rapports/602-entre-hopital-et-liberal-trajectoires-professionnelles-et-sante-face-aux-facteurs-de-risques-psychosociaux-des-infirmieres.pdf"
+      "title": "Substituer des infirmiers aux médecins à l'hôpital : une revue Cochrane nuance le débat",
+      "summary": "Fondée sur 82 essais randomisés, la revue conclut que la mortalité ne diffère probablement pas entre prise en charge infirmière et médicale (RR 1,03 ; IC 95 % 0,87–1,21), la substitution étant souvent partielle et encadrée par des protocoles.",
+      "source": "Caducée.net",
+      "url": "https://www.caducee.net/actualite-medicale/16815/substituer-des-infirmiers-aux-medecins-a-l-hopital-une-revue-cochrane-nuance-le-debat.html"
     },
     {
       "category": "profession",
-      "title": "En disciplinaire, une hausse des affaires et des IDEL toujours surreprésentés",
-      "summary": "La chambre disciplinaire nationale de l'Ordre a inscrit 134 affaires en 2025 contre 85 en 2024, portée par les appels liés aux faux pass sanitaires ; un tiers des dossiers oppose des infirmiers entre eux.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/ordre-infirmier/en-disciplinaire-une-hausse-des-affaires-et-des-idel-toujours-surrepresentes"
+      "title": "Autonomisation des infirmiers : participer à son planning, un levier d'attractivité et de fidélisation",
+      "summary": "Menée auprès de 208 infirmiers de 11 régions, l'étude associe la co-construction des plannings à une meilleure satisfaction, un meilleur équilibre vie pro/vie perso et une attractivité accrue du poste, avec un rôle clé du cadre de santé.",
+      "source": "CHU de Poitiers",
+      "url": "https://www.chu-poitiers.fr/en/etude-sur-lautonomisation-des-infirmiers-une-avancee-pour-lattractivite-et-la-fidelisation/"
     },
     {
       "category": "technique",
-      "title": "Livre blanc plaies 2026 : la cicatrisation, une prise en charge pluridisciplinaire",
-      "summary": "Le livre blanc rappelle que la cicatrisation d'une plaie chronique ou complexe justifie une prise en charge pluridisciplinaire, où l'infirmier tient un rôle central.",
-      "source": "ActuSoins",
-      "url": "https://www.actusoins.com/wp-content/uploads/2026/07/livreblancplaie2026vf1.pdf"
+      "title": "Kit de nébulisation continue Aerogen (CNTS) avec seringue en sachet : retrait de lot",
+      "summary": "Rappel n° R2633375 mené par Aerogen Ltd auprès des établissements de santé, officines et prestataires à domicile, qui ont reçu un courrier d'information sur les lots concernés.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/nebuliseur-accessoire-kit-de-nebulisation-continue-aerogen-cnts-avec-seringue-en-sachet-aerogen-ltd"
     },
     {
       "category": "formation",
-      "title": "Journées du GEFERS : « Pour une éthique de la continuité du prendre soin »",
-      "summary": "Les 28es Journées itinérantes d'éthique des soins de santé se tiennent les 12 et 13 novembre 2026 à Marseille, autour de la vulnérabilité, de l'incertitude et de la confiance.",
-      "source": "Santé Mentale",
-      "url": "https://www.santementale.fr/evenement/pour-une-ethique-de-la-continuite-du-prendre-soin/"
+      "title": "Journées dermatologiques de Paris : un Forum infirmier le 3 décembre",
+      "summary": "Dans le cadre des JDP (1er au 5 décembre 2026, Palais des Congrès de Paris), le Forum infirmier se tient le jeudi 3 décembre de 9h15 à 16h30, pour 50 € sur justificatif professionnel.",
+      "source": "JDP",
+      "url": "https://www.lesjdp.fr/inscriptions/forum-infirmier"
     }
   ],
   "word": {
-    "field": "Pharmaco / thérapeutique",
-    "term": "Chaîne du froid (vaccins)",
-    "subtitle": "Garder les vaccins entre +2 °C et +8 °C, du stock jusqu'à l'injection",
-    "definition": "La chaîne du froid est l'ensemble des conditions qui maintiennent un produit thermosensible, comme un vaccin, entre +2 °C et +8 °C sans jamais le congeler, de sa réception à son administration ; une rupture peut le rendre inefficace sans que rien ne se voie.",
+    "field": "Gestes & soins",
+    "term": "Aérosolthérapie par nébulisation",
+    "subtitle": "Transformer un médicament liquide en fin brouillard inhalé jusqu'aux bronches",
+    "definition": "La nébulisation est l'administration d'un médicament par voie inhalée sous forme de fines gouttelettes produites par un nébuliseur (pneumatique, ultrasonique ou à tamis vibrant), afin d'agir directement sur les voies respiratoires.",
     "steps": [
       {
         "n": "1",
-        "h": "Stocker",
-        "t": "dans une enceinte réfrigérée dédiée (pas la porte, pas contre la paroi du fond), avec thermomètre mini/maxi ou enregistreur de température."
+        "h": "Préparer",
+        "t": "sur prescription écrite (produit, dose, dilution, durée) : vérifier les 5 B, diluer au sérum physiologique stérile (jamais d'eau), installer le patient assis ou demi-assis."
       },
       {
         "n": "2",
-        "h": "Contrôler",
-        "t": "et tracer la température chaque jour ; vérifier l'aspect, la date de péremption et transporter en glacière isotherme sans contact direct avec les accumulateurs."
+        "h": "Administrer",
+        "t": "masque ou embout bien adapté, respiration calme et ample par la bouche, environ 10 à 15 minutes jusqu'à disparition du brouillard ; arrêter en cas de toux forte ou de dyspnée."
       },
       {
         "n": "3",
-        "h": "Réagir",
-        "t": "en cas d'écart de température : isoler les doses, ne pas les injecter, noter la durée et l'amplitude de l'écart et contacter le pharmacien ou le laboratoire."
+        "h": "Surveiller",
+        "t": "SpO2, fréquence respiratoire et cardiaque (tachycardie sous bêta-2 mimétiques), rincer la bouche après un corticoïde ; vider, nettoyer et sécher le matériel après chaque séance."
       }
     ],
-    "retenir": "Vaccin = +2 °C à +8 °C, jamais congelé. Un vaccin qui a subi une rupture de la chaîne du froid peut sembler intact mais ne plus protéger : en cas de doute, on isole et on demande avis avant d'injecter. ",
-    "sources": "Sources : HAS · ANSM · Ordre national des pharmaciens (conditions de détention des vaccins)."
+    "retenir": "Ne nébuliser que des produits prévus pour cette voie, dilués au sérum physiologique stérile. Matériel nettoyé et séché après chaque usage, et surveillance de la tolérance respiratoire pendant toute la séance. ",
+    "sources": "Sources : SPLF (Groupe aérosolthérapie) · CHUV (procédure de soin) · HPCI (hygiène)."
   }
 }

@@ -1,119 +1,87 @@
 {
-  "dateLong": "Jeu. 12 nov.",
+  "dateLong": "Ven. 13 nov.",
   "essentiel": [
-    {
-      "text": "La "
-    },
-    {
-      "text": "HAS",
-      "strong": true
-    },
-    {
-      "text": " valide une consultation infirmière "
-    },
-    {
-      "text": "CIA",
-      "strong": true
-    },
-    {
-      "text": " pour l'instauration de l'insuline dans le diabète de type 2, l'"
-    },
-    {
-      "text": "ANSM",
-      "strong": true
-    },
-    {
-      "text": " rappelle un lot de "
-    },
-    {
-      "text": "Fucithalmic",
-      "strong": true
-    },
-    {
-      "text": " et des kits de nébulisation "
-    },
-    {
-      "text": "Aerogen",
-      "strong": true
-    },
-    {
-      "text": ", tandis qu'une étude sur "
-    },
-    {
-      "text": "208 infirmiers",
-      "strong": true
-    },
-    {
-      "text": " lie planning participatif et attractivité du poste."
-    }
+    { "text": "L'" },
+    { "text": "Ofast", "strong": true },
+    { "text": " recense " },
+    { "text": "659 décès par overdose", "strong": true },
+    { "text": " en 2024 (+171 % en dix ans), " },
+    { "text": "Santé publique France", "strong": true },
+    { "text": " signale la reprise du " },
+    { "text": "Covid-19", "strong": true },
+    { "text": " et une bronchiolite en pré-épidémie en Île-de-France, tandis que la nouvelle " },
+    { "text": "NGAP", "strong": true },
+    { "text": " infirmière s'applique par étapes et que l'objectif de doubler les " },
+    { "text": "IPA", "strong": true },
+    { "text": " formés dès 2027 fait débat." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Diabète de type 2 : une consultation infirmière à 20 € pour accompagner le début de l'insuline",
-      "summary": "Après l'avis favorable de la HAS du 22 octobre 2026, la consultation CIA (20 € en métropole, avenant 11) permet jusqu'à 4 consultations sur 6 mois pour les patients en ALD qui débutent l'insuline, sous réserve de formation à l'éducation thérapeutique.",
-      "source": "SanteMatin",
-      "url": "https://www.santematin.fr/diabete-type-2-consultation-infirmiere-insuline-6-novembre-2026-has"
+      "title": "La nomenclature des actes actualisée, fruit de l'Avenant 11, est parue",
+      "summary": "Publiée au JO du 22 octobre 2026, la décision Uncam met à jour la NGAP infirmière : consultations dès le 6 novembre 2026, nouveaux bilans de pansements au 1er janvier 2027, forfaits journaliers au 1er janvier 2028.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/exercice-liberal/le-metier-didel/la-nomenclature-des-actes-actualisee-fruit-de-lavenant-11-est-parue"
     },
     {
       "category": "alertes",
-      "title": "Fucithalmic 1 %, gel ophtalmique : rappel d'un lot par précaution",
-      "summary": "Le lot MED26/A023/B021 est rappelé après des résultats non conformes à un test de simulation du procédé aseptique : un risque de contamination microbiologique ne peut être exclu, sans cas de pharmacovigilance signalé à ce jour.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/fucithalmic-1-pour-cent-gel-ophtalmique-laboratoire-centre-specialites-pharmaceutiques"
+      "title": "Infections respiratoires aiguës : bulletin du 12 novembre 2026",
+      "summary": "Les indicateurs Covid-19 repartent à la hausse avec un impact encore faible sur le recours aux soins ; la bronchiolite est épidémique en Martinique et en phase pré-épidémique en Île-de-France, au niveau de base ailleurs.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-12-novembre-2026"
     },
     {
       "category": "science",
-      "title": "Substituer des infirmiers aux médecins à l'hôpital : une revue Cochrane nuance le débat",
-      "summary": "Fondée sur 82 essais randomisés, la revue conclut que la mortalité ne diffère probablement pas entre prise en charge infirmière et médicale (RR 1,03 ; IC 95 % 0,87–1,21), la substitution étant souvent partielle et encadrée par des protocoles.",
-      "source": "Caducée.net",
-      "url": "https://www.caducee.net/actualite-medicale/16815/substituer-des-infirmiers-aux-medecins-a-l-hopital-une-revue-cochrane-nuance-le-debat.html"
+      "title": "Décès par overdose : les médicaments de substitution en cause dans plus de la moitié des cas",
+      "summary": "Selon la note de l'Ofast fondée sur l'enquête DRAMES, 659 décès liés aux drogues ou médicaments ont été recensés en 2024 contre 243 en 2014 ; les médicaments de substitution aux opiacés en expliquent 338 (51 %), avec un âge moyen de 39 ans.",
+      "source": "Le Moniteur des pharmacies",
+      "url": "https://www.lemoniteurdespharmacies.fr/conseils/premiers-soins/deces-par-overdose-les-medicaments-de-substitution-en-cause-dans-plus-de-la-moitie-des-cas"
     },
     {
       "category": "profession",
-      "title": "Autonomisation des infirmiers : participer à son planning, un levier d'attractivité et de fidélisation",
-      "summary": "Menée auprès de 208 infirmiers de 11 régions, l'étude associe la co-construction des plannings à une meilleure satisfaction, un meilleur équilibre vie pro/vie perso et une attractivité accrue du poste, avec un rôle clé du cadre de santé.",
-      "source": "CHU de Poitiers",
-      "url": "https://www.chu-poitiers.fr/en/etude-sur-lautonomisation-des-infirmiers-une-avancee-pour-lattractivite-et-la-fidelisation/"
+      "title": "Former davantage d'IPA, mais hors déploiement de la VAE…",
+      "summary": "L'Unipa soutient l'objectif gouvernemental de doubler le nombre d'infirmiers en pratique avancée formés dès 2027 et la fin de la durée minimale d'exercice préalable, mais s'oppose à l'ouverture d'une VAE pour obtenir le diplôme.",
+      "source": "Santé Mentale",
+      "url": "https://www.santementale.fr/2026/11/former-davantage-dipa-mais-hors-deploiement-de-la-vae/"
     },
     {
       "category": "technique",
-      "title": "Kit de nébulisation continue Aerogen (CNTS) avec seringue en sachet : retrait de lot",
-      "summary": "Rappel n° R2633375 mené par Aerogen Ltd auprès des établissements de santé, officines et prestataires à domicile, qui ont reçu un courrier d'information sur les lots concernés.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/nebuliseur-accessoire-kit-de-nebulisation-continue-aerogen-cnts-avec-seringue-en-sachet-aerogen-ltd"
+      "title": "Prescription infirmière : les dispositifs médicaux ouverts par l'arrêté du 26 juin 2026",
+      "summary": "Les IDE peuvent désormais prescrire des dispositifs de mobilité, de continence, de sondage et de stomie, des pansements pour 7 jours en initiation, et renouveler les capteurs de glucose interstitiel.",
+      "source": "Pôle Formation Santé",
+      "url": "https://infirmiers.poleformation-sante.fr/prescription-infirmiere-2026/"
     },
     {
       "category": "formation",
-      "title": "Journées dermatologiques de Paris : un Forum infirmier le 3 décembre",
-      "summary": "Dans le cadre des JDP (1er au 5 décembre 2026, Palais des Congrès de Paris), le Forum infirmier se tient le jeudi 3 décembre de 9h15 à 16h30, pour 50 € sur justificatif professionnel.",
-      "source": "JDP",
-      "url": "https://www.lesjdp.fr/inscriptions/forum-infirmier"
+      "title": "DPC infirmier : le cycle triennal se termine le 31 décembre 2026",
+      "summary": "Deux actions DPC doivent être validées avant le 31 décembre 2026 ; seuls les programmes référencés ANDPC comptent, dans la limite d'un droit de tirage de 14 heures pour les formations longues.",
+      "source": "Albus",
+      "url": "https://www.albus.fr/blog/gestion-de-cabinet/formation-dpc-infirmier/"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Aérosolthérapie par nébulisation",
-    "subtitle": "Transformer un médicament liquide en fin brouillard inhalé jusqu'aux bronches",
-    "definition": "La nébulisation est l'administration d'un médicament par voie inhalée sous forme de fines gouttelettes produites par un nébuliseur (pneumatique, ultrasonique ou à tamis vibrant), afin d'agir directement sur les voies respiratoires.",
+    "field": "Urgences",
+    "term": "Naloxone",
+    "subtitle": "L'antidote qui lève, pour un temps, la dépression respiratoire des opioïdes",
+    "definition": "La naloxone est un antagoniste compétitif des récepteurs opioïdes qui inverse rapidement les effets d'un surdosage (sédation, bradypnée, myosis), utilisée en IV titrée à l'hôpital ou en spray nasal (1,8 mg) en situation d'urgence.",
     "steps": [
       {
         "n": "1",
-        "h": "Préparer",
-        "t": "sur prescription écrite (produit, dose, dilution, durée) : vérifier les 5 B, diluer au sérum physiologique stérile (jamais d'eau), installer le patient assis ou demi-assis."
+        "h": "Reconnaître",
+        "t": "triade troubles de conscience + bradypnée (FR < 10/min) + myosis serré : stimuler, alerter, libérer les voies aériennes et ventiler au masque si besoin avant tout antidote."
       },
       {
         "n": "2",
         "h": "Administrer",
-        "t": "masque ou embout bien adapté, respiration calme et ample par la bouche, environ 10 à 15 minutes jusqu'à disparition du brouillard ; arrêter en cas de toux forte ou de dyspnée."
+        "t": "sur prescription ou protocole : IV titrée (0,4 mg dilués dans 10 mL, 1 mL toutes les 2 à 3 min) jusqu'à FR > 10/min et réveil, sans viser l'éveil complet ; ou 1 pulvérisation nasale, renouvelable."
       },
       {
         "n": "3",
         "h": "Surveiller",
-        "t": "SpO2, fréquence respiratoire et cardiaque (tachycardie sous bêta-2 mimétiques), rincer la bouche après un corticoïde ; vider, nettoyer et sécher le matériel après chaque séance."
+        "t": "FR, SpO2, conscience pendant plusieurs heures : la naloxone agit 30 à 90 min, moins longtemps que beaucoup d'opioïdes (re-sédation) ; guetter un sevrage brutal (agitation, douleur, vomissements)."
       }
     ],
-    "retenir": "Ne nébuliser que des produits prévus pour cette voie, dilués au sérum physiologique stérile. Matériel nettoyé et séché après chaque usage, et surveillance de la tolérance respiratoire pendant toute la séance. ",
-    "sources": "Sources : SPLF (Groupe aérosolthérapie) · CHUV (procédure de soin) · HPCI (hygiène)."
+    "retenir": "La naloxone se titre : le but est une respiration efficace, pas un réveil brutal. Sa durée d'action courte impose une surveillance prolongée et, en ville, la remise d'un kit nasal aux patients à risque. ",
+    "sources": "Sources : ANSM (naloxone, prévention des surdoses) · SFAR · HAS (surdoses d'opioïdes)."
   }
 }

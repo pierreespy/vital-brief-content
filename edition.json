@@ -1,87 +1,85 @@
 {
-  "dateLong": "Ven. 13 nov.",
+  "dateLong": "Sam. 14 nov.",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "Ofast", "strong": true },
-    { "text": " recense " },
-    { "text": "659 décès par overdose", "strong": true },
-    { "text": " en 2024 (+171 % en dix ans), " },
-    { "text": "Santé publique France", "strong": true },
-    { "text": " signale la reprise du " },
-    { "text": "Covid-19", "strong": true },
-    { "text": " et une bronchiolite en pré-épidémie en Île-de-France, tandis que la nouvelle " },
-    { "text": "NGAP", "strong": true },
-    { "text": " infirmière s'applique par étapes et que l'objectif de doubler les " },
-    { "text": "IPA", "strong": true },
-    { "text": " formés dès 2027 fait débat." }
+    { "text": "La " },
+    { "text": "HAS", "strong": true },
+    { "text": " analyse " },
+    { "text": "98 événements indésirables graves", "strong": true },
+    { "text": " liés aux gaz médicaux, l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " relaie une action de sécurité sur un lève-personne mobile, les structures d'accueil doivent désormais fournir gratuitement tenues et " },
+    { "text": "EPI", "strong": true },
+    { "text": " aux étudiants infirmiers, et le dispositif " },
+    { "text": "Infirmiers Éclaireurs", "strong": true },
+    { "text": " s'étend à l'Occitanie et au Grand Est." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "La nomenclature des actes actualisée, fruit de l'Avenant 11, est parue",
-      "summary": "Publiée au JO du 22 octobre 2026, la décision Uncam met à jour la NGAP infirmière : consultations dès le 6 novembre 2026, nouveaux bilans de pansements au 1er janvier 2027, forfaits journaliers au 1er janvier 2028.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/exercice-liberal/le-metier-didel/la-nomenclature-des-actes-actualisee-fruit-de-lavenant-11-est-parue"
+      "title": "Infirmier(e)s stagiaires : tenue et EPI gratuits",
+      "summary": "L'arrêté du 4 novembre 2026 (JO du 6 novembre) complète l'article 28 de l'arrêté du 20 février 2026 sur le DE infirmier : toute structure accueillant un étudiant doit lui fournir gratuitement tenue professionnelle et EPI dès le premier jour de stage, en hospitalier comme en extrahospitalier.",
+      "source": "Jurismetiers",
+      "url": "https://jurismetiers.fr/infirmieres-stagiaires-tenue-et-epi-gratuits/"
     },
     {
       "category": "alertes",
-      "title": "Infections respiratoires aiguës : bulletin du 12 novembre 2026",
-      "summary": "Les indicateurs Covid-19 repartent à la hausse avec un impact encore faible sur le recours aux soins ; la bronchiolite est épidémique en Martinique et en phase pré-épidémique en Île-de-France, au niveau de base ailleurs.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-12-novembre-2026"
+      "title": "Disponibilité des médicaments en ville et en hôpital (semaines 45 et 46)",
+      "summary": "Le point Vidal sur les signalements ANSM du 6 au 10 novembre 2026 relève notamment une rupture de Lariam (méfloquine) et le retour imminent de l'ampoule de 2 mL de Zophren injectable (ondansétron).",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38573-disponibilite-des-medicaments-en-ville-et-en-hopital-semaines-45-et-46.html"
     },
     {
       "category": "science",
-      "title": "Décès par overdose : les médicaments de substitution en cause dans plus de la moitié des cas",
-      "summary": "Selon la note de l'Ofast fondée sur l'enquête DRAMES, 659 décès liés aux drogues ou médicaments ont été recensés en 2024 contre 243 en 2014 ; les médicaments de substitution aux opiacés en expliquent 338 (51 %), avec un âge moyen de 39 ans.",
-      "source": "Le Moniteur des pharmacies",
-      "url": "https://www.lemoniteurdespharmacies.fr/conseils/premiers-soins/deces-par-overdose-les-medicaments-de-substitution-en-cause-dans-plus-de-la-moitie-des-cas"
+      "title": "EIGS liés aux gaz à usage médical : la HAS publie son analyse",
+      "summary": "Fondé sur 98 événements indésirables graves déclarés entre mars 2017 et juin 2025 (oxygène, MEOPA, monoxyde d'azote), le rapport HAS formule six préconisations, de la sécurisation des installations à la prévention du risque d'incendie et à la formation.",
+      "source": "OMéDIT Île-de-France",
+      "url": "https://www.omedit-idf.fr/veille/eigs-lies-aux-gaz-a-usage-medical/"
     },
     {
       "category": "profession",
-      "title": "Former davantage d'IPA, mais hors déploiement de la VAE…",
-      "summary": "L'Unipa soutient l'objectif gouvernemental de doubler le nombre d'infirmiers en pratique avancée formés dès 2027 et la fin de la durée minimale d'exercice préalable, mais s'oppose à l'ouverture d'une VAE pour obtenir le diplôme.",
-      "source": "Santé Mentale",
-      "url": "https://www.santementale.fr/2026/11/former-davantage-dipa-mais-hors-deploiement-de-la-vae/"
+      "title": "En Occitanie, les infirmiers se mobilisent pour mieux repérer les patients en danger à domicile",
+      "summary": "Expérimenté en Auvergne-Rhône-Alpes de 2017 à 2021, le programme Infirmiers Éclaireurs reprend en 2026 avec l'Occitanie et le Grand Est : les IDEL signalent via une application web dénutrition, chutes ou retours à domicile précoces.",
+      "source": "Le Journal Toulousain",
+      "url": "https://www.lejournaltoulousain.fr/occitanie/actualites-occitanie/occitanie-infirmiers-mobilisent-mieux-reperer-patients-danger-domicile-403830/"
     },
     {
       "category": "technique",
-      "title": "Prescription infirmière : les dispositifs médicaux ouverts par l'arrêté du 26 juin 2026",
-      "summary": "Les IDE peuvent désormais prescrire des dispositifs de mobilité, de continence, de sondage et de stomie, des pansements pour 7 jours en initiation, et renouveler les capteurs de glucose interstitiel.",
-      "source": "Pôle Formation Santé",
-      "url": "https://infirmiers.poleformation-sante.fr/prescription-infirmiere-2026/"
+      "title": "Lève-personne mobile Majorque – Identites : information de sécurité",
+      "summary": "Publiée le 12 novembre 2026 (réf. R2633194), cette information relaie une action de sécurité menée par Identites sur le lève-personne Majorque, adressée aux pharmacies, établissements de soins et prestataires de santé à domicile.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/leve-personne-mobile-majorque-identites"
     },
     {
       "category": "formation",
-      "title": "DPC infirmier : le cycle triennal se termine le 31 décembre 2026",
-      "summary": "Deux actions DPC doivent être validées avant le 31 décembre 2026 ; seuls les programmes référencés ANDPC comptent, dans la limite d'un droit de tirage de 14 heures pour les formations longues.",
-      "source": "Albus",
-      "url": "https://www.albus.fr/blog/gestion-de-cabinet/formation-dpc-infirmier/"
+      "title": "9e Journée Sciences Infirmières et Recherche Paramédicale (JSIRP)",
+      "summary": "Organisée le 2 décembre 2026 à Strasbourg dans le cadre du Congrès Français de Psychiatrie, la JSIRP est accessible à 205 € jusqu'au 20 novembre (225 € sur place), avec une rediffusion en ligne jusqu'au 28 mars 2027.",
+      "source": "Congrès Français de Psychiatrie",
+      "url": "https://congresfrancaispsychiatrie.org/congres/journee-sciences-infirmieres-et-recherche-paramedicale-jsirp/"
     }
   ],
   "word": {
-    "field": "Urgences",
-    "term": "Naloxone",
-    "subtitle": "L'antidote qui lève, pour un temps, la dépression respiratoire des opioïdes",
-    "definition": "La naloxone est un antagoniste compétitif des récepteurs opioïdes qui inverse rapidement les effets d'un surdosage (sédation, bradypnée, myosis), utilisée en IV titrée à l'hôpital ou en spray nasal (1,8 mg) en situation d'urgence.",
+    "field": "Gestes & soins",
+    "term": "Oxygénothérapie",
+    "subtitle": "Donner de l'oxygène comme un médicament : prescrit, dosé, surveillé",
+    "definition": "L'oxygénothérapie consiste à administrer de l'oxygène à une concentration supérieure à celle de l'air ambiant (21 %) pour corriger une hypoxémie, via lunettes nasales, masque simple, masque à haute concentration ou haut débit nasal, selon un débit et une cible de SpO2 prescrits.",
     "steps": [
       {
         "n": "1",
-        "h": "Reconnaître",
-        "t": "triade troubles de conscience + bradypnée (FR < 10/min) + myosis serré : stimuler, alerter, libérer les voies aériennes et ventiler au masque si besoin avant tout antidote."
+        "h": "Évaluer",
+        "t": "mesurer SpO2, FR, conscience et signes de lutte ; vérifier la prescription (débit, dispositif, cible : en général 94-98 %, 88-92 % chez l'insuffisant respiratoire chronique hypercapnique)."
       },
       {
         "n": "2",
-        "h": "Administrer",
-        "t": "sur prescription ou protocole : IV titrée (0,4 mg dilués dans 10 mL, 1 mL toutes les 2 à 3 min) jusqu'à FR > 10/min et réveil, sans viser l'éveil complet ; ou 1 pulvérisation nasale, renouvelable."
+        "h": "Installer",
+        "t": "choisir le bon dispositif (lunettes jusqu'à 4-6 L/min, masque haute concentration à 15 L/min), humidifier si haut débit, et appliquer la sécurité : pas de flamme ni de corps gras, bouteille arrimée et contenu vérifié."
       },
       {
         "n": "3",
         "h": "Surveiller",
-        "t": "FR, SpO2, conscience pendant plusieurs heures : la naloxone agit 30 à 90 min, moins longtemps que beaucoup d'opioïdes (re-sédation) ; guetter un sevrage brutal (agitation, douleur, vomissements)."
+        "t": "réévaluer SpO2 et FR régulièrement, guetter somnolence ou céphalées (hypercapnie), protéger les points d'appui (oreilles, nez), ajuster ou sevrer selon la prescription et tracer dans le dossier."
       }
     ],
-    "retenir": "La naloxone se titre : le but est une respiration efficace, pas un réveil brutal. Sa durée d'action courte impose une surveillance prolongée et, en ville, la remise d'un kit nasal aux patients à risque. ",
-    "sources": "Sources : ANSM (naloxone, prévention des surdoses) · SFAR · HAS (surdoses d'opioïdes)."
+    "retenir": "L'oxygène est un médicament : il se prescrit avec une cible de SpO2, se titre et se surveille. Trop peu expose à l'hypoxie, trop chez le BPCO à l'hypercapnie ; et c'est un comburant, à manipuler loin de toute flamme. ",
+    "sources": "Sources : HAS (EIGS liés aux gaz à usage médical, 2026) · SPLF · ANSM (oxygène médicinal)."
   }
 }

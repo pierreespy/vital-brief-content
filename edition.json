@@ -1,85 +1,85 @@
 {
-  "dateLong": "Sam. 14 nov.",
+  "dateLong": "Dim. 15 nov.",
   "essentiel": [
-    { "text": "La " },
-    { "text": "HAS", "strong": true },
-    { "text": " analyse " },
-    { "text": "98 événements indésirables graves", "strong": true },
-    { "text": " liés aux gaz médicaux, l'" },
+    { "text": "Le " },
+    { "text": "Conseil d'État", "strong": true },
+    { "text": " rejette le recours de Convergence Infirmière contre la circulaire " },
+    { "text": "CNAM", "strong": true },
+    { "text": " sur la cotation des perfusions, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " relaie une action de sécurité sur un lève-personne mobile, les structures d'accueil doivent désormais fournir gratuitement tenues et " },
-    { "text": "EPI", "strong": true },
-    { "text": " aux étudiants infirmiers, et le dispositif " },
-    { "text": "Infirmiers Éclaireurs", "strong": true },
-    { "text": " s'étend à l'Occitanie et au Grand Est." }
+    { "text": " diffuse une information de sécurité sur la console ECMO Rotaflow, la " },
+    { "text": "HAS", "strong": true },
+    { "text": " publie son guide parcours en soins palliatifs pédiatriques et la grippe progresse en ville selon " },
+    { "text": "Santé publique France", "strong": true },
+    { "text": "." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Infirmier(e)s stagiaires : tenue et EPI gratuits",
-      "summary": "L'arrêté du 4 novembre 2026 (JO du 6 novembre) complète l'article 28 de l'arrêté du 20 février 2026 sur le DE infirmier : toute structure accueillant un étudiant doit lui fournir gratuitement tenue professionnelle et EPI dès le premier jour de stage, en hospitalier comme en extrahospitalier.",
-      "source": "Jurismetiers",
-      "url": "https://jurismetiers.fr/infirmieres-stagiaires-tenue-et-epi-gratuits/"
+      "title": "Cotation des perfusions : le Conseil d'État rejette le recours de Convergence Infirmière",
+      "summary": "Par une décision du 3 novembre 2026, le Conseil d'État a rejeté le recours contre la circulaire CNAM CIR-9/2025 qui limite à une seule cotation AMI 14 par jour les perfusions, tout en jugeant la circulaire attaquable en raison de ses « effets notables » sur les IDEL ; le syndicat annonce poursuivre le combat en négociation conventionnelle.",
+      "source": "Convergence Infirmière",
+      "url": "https://convergenceinfirmiere.com/"
     },
     {
       "category": "alertes",
-      "title": "Disponibilité des médicaments en ville et en hôpital (semaines 45 et 46)",
-      "summary": "Le point Vidal sur les signalements ANSM du 6 au 10 novembre 2026 relève notamment une rupture de Lariam (méfloquine) et le retour imminent de l'ampoule de 2 mL de Zophren injectable (ondansétron).",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38573-disponibilite-des-medicaments-en-ville-et-en-hopital-semaines-45-et-46.html"
+      "title": "Infections respiratoires aiguës (bronchiolite, Covid-19, grippe) dans les Hauts-de-France – Bulletin du 13 novembre 2026",
+      "summary": "En semaine 45 (2-8 novembre), l'activité grippale reste faible et stable à l'hôpital mais augmente en médecine de ville, tandis qu'au niveau national les indicateurs de bronchiolite baissent, sauf en Île-de-France, en pré-épidémie depuis la semaine 43.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/regions-et-territoires/hauts-de-france/bulletin-regional/infections-respiratoires-aigues-bronchiolite-covid-19-grippe-dans-les-hauts-de-france-bulletin-du-13"
     },
     {
       "category": "science",
-      "title": "EIGS liés aux gaz à usage médical : la HAS publie son analyse",
-      "summary": "Fondé sur 98 événements indésirables graves déclarés entre mars 2017 et juin 2025 (oxygène, MEOPA, monoxyde d'azote), le rapport HAS formule six préconisations, de la sécurisation des installations à la prévention du risque d'incendie et à la formation.",
-      "source": "OMéDIT Île-de-France",
-      "url": "https://www.omedit-idf.fr/veille/eigs-lies-aux-gaz-a-usage-medical/"
+      "title": "Soins palliatifs chez l'enfant : la HAS publie un guide à destination des professionnels",
+      "summary": "Publié le 5 novembre 2026 à la demande de la Société française de soins palliatifs pédiatriques, le guide parcours décrit six étapes, du repérage précoce dès le diagnostic au soutien des proches après le décès, avec l'appui des équipes ressources régionales (ERRSPP) pour les situations complexes.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38575-soins-palliatifs-chez-l-enfant-la-has-publie-un-guide-a-destination-des-professionnels.html"
     },
     {
       "category": "profession",
-      "title": "En Occitanie, les infirmiers se mobilisent pour mieux repérer les patients en danger à domicile",
-      "summary": "Expérimenté en Auvergne-Rhône-Alpes de 2017 à 2021, le programme Infirmiers Éclaireurs reprend en 2026 avec l'Occitanie et le Grand Est : les IDEL signalent via une application web dénutrition, chutes ou retours à domicile précoces.",
-      "source": "Le Journal Toulousain",
-      "url": "https://www.lejournaltoulousain.fr/occitanie/actualites-occitanie/occitanie-infirmiers-mobilisent-mieux-reperer-patients-danger-domicile-403830/"
+      "title": "Centres de santé de Nanterre : une pratique infirmière ancrée sur le territoire",
+      "summary": "Dans les deux centres municipaux de santé de Nanterre, les infirmiers réalisent prises de sang, ECG et vaccinations, et une infirmière en pratique avancée assure aussi des visites à domicile : un reportage sur l'exercice infirmier salarié de proximité.",
+      "source": "ActuSoins",
+      "url": "https://www.actusoins.com/centres-de-sante-de-nanterre-une-pratique-infirmiere-ancree-sur-le-territoire.html"
     },
     {
       "category": "technique",
-      "title": "Lève-personne mobile Majorque – Identites : information de sécurité",
-      "summary": "Publiée le 12 novembre 2026 (réf. R2633194), cette information relaie une action de sécurité menée par Identites sur le lève-personne Majorque, adressée aux pharmacies, établissements de soins et prestataires de santé à domicile.",
+      "title": "ECMO/CEC – Console Rotaflow – Getinge/Maquet Cardiopulmonary AG : information aux utilisateurs",
+      "summary": "Publiée le 13 novembre 2026 (réf. R2631991), cette information relaie une action de sécurité de Getinge sur la console Rotaflow utilisée en ECMO et circulation extracorporelle : les équipes de réanimation et de bloc sont invitées à lire le courrier du fabricant.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/leve-personne-mobile-majorque-identites"
+      "url": "https://ansm.sante.fr/informations-de-securite/ecmo-cec-console-rotaflow-getinge-maquet-cardiopulmonary-ag"
     },
     {
       "category": "formation",
-      "title": "9e Journée Sciences Infirmières et Recherche Paramédicale (JSIRP)",
-      "summary": "Organisée le 2 décembre 2026 à Strasbourg dans le cadre du Congrès Français de Psychiatrie, la JSIRP est accessible à 205 € jusqu'au 20 novembre (225 € sur place), avec une rediffusion en ligne jusqu'au 28 mars 2027.",
-      "source": "Congrès Français de Psychiatrie",
-      "url": "https://congresfrancaispsychiatrie.org/congres/journee-sciences-infirmieres-et-recherche-paramedicale-jsirp/"
+      "title": "Journées nationales des cadres de santé 2026 : les inscriptions sont ouvertes",
+      "summary": "Organisées par l'ANCIM, les 34es Journées nationales des cadres de santé se tiennent les 23 et 24 novembre 2026 à la Cité des Congrès de Nantes, sur le thème « Cadres de santé 2.0 : naviguer dans la complexité ».",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/services/cadre-de-sante/journees-nationales-des-cadres-de-sante-2026-les-inscriptions-sont-ouvertes"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Oxygénothérapie",
-    "subtitle": "Donner de l'oxygène comme un médicament : prescrit, dosé, surveillé",
-    "definition": "L'oxygénothérapie consiste à administrer de l'oxygène à une concentration supérieure à celle de l'air ambiant (21 %) pour corriger une hypoxémie, via lunettes nasales, masque simple, masque à haute concentration ou haut débit nasal, selon un débit et une cible de SpO2 prescrits.",
+    "field": "Clinique / physiopatho",
+    "term": "Déshydratation de la personne âgée",
+    "subtitle": "Une soif qui ne prévient plus : la repérer avant la confusion",
+    "definition": "La déshydratation est un déficit en eau (et souvent en sodium) de l'organisme ; chez la personne âgée, la baisse de la sensation de soif, la diminution de l'eau corporelle et certains traitements (diurétiques, laxatifs) la rendent fréquente et vite grave.",
     "steps": [
       {
         "n": "1",
-        "h": "Évaluer",
-        "t": "mesurer SpO2, FR, conscience et signes de lutte ; vérifier la prescription (débit, dispositif, cible : en général 94-98 %, 88-92 % chez l'insuffisant respiratoire chronique hypercapnique)."
+        "h": "Repérer",
+        "t": "rechercher sécheresse de la muqueuse buccale et des aisselles, perte de poids récente, tachycardie, hypotension orthostatique, urines rares et foncées, et toute confusion d'apparition brutale ; le pli cutané est peu fiable chez le sujet âgé (le chercher au front ou au sternum)."
       },
       {
         "n": "2",
-        "h": "Installer",
-        "t": "choisir le bon dispositif (lunettes jusqu'à 4-6 L/min, masque haute concentration à 15 L/min), humidifier si haut débit, et appliquer la sécurité : pas de flamme ni de corps gras, bouteille arrimée et contenu vérifié."
+        "h": "Agir",
+        "t": "alerter le médecin, proposer à boire régulièrement par petites quantités (eau gélifiée si troubles de la déglutition), préparer une éventuelle réhydratation sous-cutanée ou IV sur prescription et un bilan (natrémie, créatinine)."
       },
       {
         "n": "3",
-        "h": "Surveiller",
-        "t": "réévaluer SpO2 et FR régulièrement, guetter somnolence ou céphalées (hypercapnie), protéger les points d'appui (oreilles, nez), ajuster ou sevrer selon la prescription et tracer dans le dossier."
+        "h": "Prévenir et tracer",
+        "t": "suivre une feuille d'hydratation et le poids, laisser l'eau à portée de main, renforcer les apports en cas de fièvre, diarrhée ou canicule, et signaler les traitements à risque."
       }
     ],
-    "retenir": "L'oxygène est un médicament : il se prescrit avec une cible de SpO2, se titre et se surveille. Trop peu expose à l'hypoxie, trop chez le BPCO à l'hypercapnie ; et c'est un comburant, à manipuler loin de toute flamme. ",
-    "sources": "Sources : HAS (EIGS liés aux gaz à usage médical, 2026) · SPLF · ANSM (oxygène médicinal)."
+    "retenir": "Chez la personne âgée, la soif n'est plus un signal fiable : on propose à boire sans attendre la demande. Une confusion brutale, une chute ou une fièvre doivent faire penser à la déshydratation, et le pli cutané ne suffit pas à l'éliminer. ",
+    "sources": "Sources : SFGG · Collège national des enseignants de gériatrie · Santé publique France (canicule et personnes âgées)."
   }
 }

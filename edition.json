@@ -1,85 +1,83 @@
 {
-  "dateLong": "Dim. 15 nov.",
+  "dateLong": "Lun. 16 nov.",
   "essentiel": [
-    { "text": "Le " },
-    { "text": "Conseil d'État", "strong": true },
-    { "text": " rejette le recours de Convergence Infirmière contre la circulaire " },
-    { "text": "CNAM", "strong": true },
-    { "text": " sur la cotation des perfusions, l'" },
+    { "text": "L'accès direct aux " },
+    { "text": "IPA", "strong": true },
+    { "text": " en CPTS démarre le 1er décembre dans six départements, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " diffuse une information de sécurité sur la console ECMO Rotaflow, la " },
-    { "text": "HAS", "strong": true },
-    { "text": " publie son guide parcours en soins palliatifs pédiatriques et la grippe progresse en ville selon " },
-    { "text": "Santé publique France", "strong": true },
-    { "text": "." }
+    { "text": " relaie le signal européen sur les réactions d'hypersensibilité aux " },
+    { "text": "immunoglobulines", "strong": true },
+    { "text": " et une information Boston Scientific sur la stimulation cérébrale profonde Vercise, tandis que l'essai " },
+    { "text": "OPTIMAL-STROKE", "strong": true },
+    { "text": " plaide pour une pression systolique sous 120 mmHg après un AVC." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Cotation des perfusions : le Conseil d'État rejette le recours de Convergence Infirmière",
-      "summary": "Par une décision du 3 novembre 2026, le Conseil d'État a rejeté le recours contre la circulaire CNAM CIR-9/2025 qui limite à une seule cotation AMI 14 par jour les perfusions, tout en jugeant la circulaire attaquable en raison de ses « effets notables » sur les IDEL ; le syndicat annonce poursuivre le combat en négociation conventionnelle.",
-      "source": "Convergence Infirmière",
-      "url": "https://convergenceinfirmiere.com/"
+      "title": "Décret n° 2026-985 du 23 octobre 2026 : expérimentation de l'accès direct aux IPA exerçant en CPTS",
+      "summary": "À partir du 1er décembre 2026 et pour cinq ans, les infirmiers en pratique avancée membres d'une CPTS pourront recevoir des patients sans prescription ni adressage médical dans six départements (Hérault, Loiret, Martinique, Mayotte, Val-d'Oise, Yonne), avec un compte rendu adressé au médecin traitant.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055011932"
     },
     {
       "category": "alertes",
-      "title": "Infections respiratoires aiguës (bronchiolite, Covid-19, grippe) dans les Hauts-de-France – Bulletin du 13 novembre 2026",
-      "summary": "En semaine 45 (2-8 novembre), l'activité grippale reste faible et stable à l'hôpital mais augmente en médecine de ville, tandis qu'au niveau national les indicateurs de bronchiolite baissent, sauf en Île-de-France, en pré-épidémie depuis la semaine 43.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/regions-et-territoires/hauts-de-france/bulletin-regional/infections-respiratoires-aigues-bronchiolite-covid-19-grippe-dans-les-hauts-de-france-bulletin-du-13"
+      "title": "Immunoglobulines humaines normales : le PRAC examine un signal de réactions d'hypersensibilité",
+      "summary": "Lors de sa réunion du 26 au 29 octobre 2026, le comité européen de pharmacovigilance a ouvert l'examen d'une hausse des réactions d'hypersensibilité liées à certains lots d'immunoglobuline humaine normale, après plusieurs rappels de lots par précaution en France (Flebogamma DIF, Gamunex) : vigilance renforcée lors des perfusions.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/actualites/retour-dinformation-sur-le-prac-de-novembre-2026-26-29-octobre"
     },
     {
       "category": "science",
-      "title": "Soins palliatifs chez l'enfant : la HAS publie un guide à destination des professionnels",
-      "summary": "Publié le 5 novembre 2026 à la demande de la Société française de soins palliatifs pédiatriques, le guide parcours décrit six étapes, du repérage précoce dès le diagnostic au soutien des proches après le décès, avec l'appui des équipes ressources régionales (ERRSPP) pour les situations complexes.",
+      "title": "Abaisser la pression systolique en dessous de 120 mmHg après un AVC diminue les événements cardiovasculaires",
+      "summary": "Présenté au congrès de l'AHA 2026, l'essai brésilien OPTIMAL-STROKE (4 368 patients après AVC ischémique ou AIT) montre qu'une cible systolique < 120 mmHg réduit le risque de récidive et d'événement cardiovasculaire par rapport à < 140 mmHg, au prix d'événements rénaux plus fréquents.",
       "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38575-soins-palliatifs-chez-l-enfant-la-has-publie-un-guide-a-destination-des-professionnels.html"
+      "url": "https://www.vidal.fr/actualites/38577-abaisser-la-pression-systolique-en-dessous-de-120-mmhg-apres-un-avc-diminue-les-evenements-cardiovasculaires.html"
     },
     {
       "category": "profession",
-      "title": "Centres de santé de Nanterre : une pratique infirmière ancrée sur le territoire",
-      "summary": "Dans les deux centres municipaux de santé de Nanterre, les infirmiers réalisent prises de sang, ECG et vaccinations, et une infirmière en pratique avancée assure aussi des visites à domicile : un reportage sur l'exercice infirmier salarié de proximité.",
-      "source": "ActuSoins",
-      "url": "https://www.actusoins.com/centres-de-sante-de-nanterre-une-pratique-infirmiere-ancree-sur-le-territoire.html"
+      "title": "SOS hôpital : les soignants font grève pour pouvoir soigner",
+      "summary": "Aux urgences du CHU de Rangueil à Toulouse, infirmières et aides-soignants ont engagé une grève illimitée pour obtenir 12 postes supplémentaires, quand la direction n'annonce que trois renforts infirmiers temporaires pour l'hiver.",
+      "source": "SNPI CFE-CGC",
+      "url": "https://syndicat-infirmier.com/SOS-hopital-les-soignants-font-greve-pour-pouvoir-soigner.html"
     },
     {
       "category": "technique",
-      "title": "ECMO/CEC – Console Rotaflow – Getinge/Maquet Cardiopulmonary AG : information aux utilisateurs",
-      "summary": "Publiée le 13 novembre 2026 (réf. R2631991), cette information relaie une action de sécurité de Getinge sur la console Rotaflow utilisée en ECMO et circulation extracorporelle : les équipes de réanimation et de bloc sont invitées à lire le courrier du fabricant.",
+      "title": "Neurostimulateur implantable – Programmateur du médecin des systèmes de stimulation cérébrale profonde Vercise – Boston Scientific",
+      "summary": "Publiée le 12 novembre 2026 (réf. R2633870), cette information aux utilisateurs concerne le programmateur du médecin des systèmes Vercise de stimulation cérébrale profonde : les établissements concernés sont invités à lire le courrier du fabricant et à appliquer ses consignes.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/ecmo-cec-console-rotaflow-getinge-maquet-cardiopulmonary-ag"
+      "url": "https://ansm.sante.fr/informations-de-securite/neurostimulateur-implantable-programmateur-du-medecin-concernant-les-systemes-de-stimulation-cerebrale-profonde-vercise-boston-scientific-neuromodulation-corporation"
     },
     {
       "category": "formation",
-      "title": "Journées nationales des cadres de santé 2026 : les inscriptions sont ouvertes",
-      "summary": "Organisées par l'ANCIM, les 34es Journées nationales des cadres de santé se tiennent les 23 et 24 novembre 2026 à la Cité des Congrès de Nantes, sur le thème « Cadres de santé 2.0 : naviguer dans la complexité ».",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/services/cadre-de-sante/journees-nationales-des-cadres-de-sante-2026-les-inscriptions-sont-ouvertes"
+      "title": "Congrès Français de Psychiatrie 2026 : les sessions DPC du mercredi 2 décembre",
+      "summary": "En ouverture du 18e Congrès Français de Psychiatrie (Strasbourg, 2-5 décembre 2026), des programmes de DPC sont proposés le mercredi 2 décembre, accessibles sans inscription au congrès, avec inscription en ligne sur le site du CFP.",
+      "source": "Congrès Français de Psychiatrie",
+      "url": "https://congresfrancaispsychiatrie.org/congres/votre-formation-au-cfp/les-sessions-dpc-du-cfp/"
     }
   ],
   "word": {
-    "field": "Clinique / physiopatho",
-    "term": "Déshydratation de la personne âgée",
-    "subtitle": "Une soif qui ne prévient plus : la repérer avant la confusion",
-    "definition": "La déshydratation est un déficit en eau (et souvent en sodium) de l'organisme ; chez la personne âgée, la baisse de la sensation de soif, la diminution de l'eau corporelle et certains traitements (diurétiques, laxatifs) la rendent fréquente et vite grave.",
+    "field": "Réglementaire / rôle",
+    "term": "Transmissions ciblées",
+    "subtitle": "Écrire l'essentiel du patient pour que l'équipe suivante sache agir",
+    "definition": "Les transmissions ciblées sont une méthode d'écriture du dossier de soins qui organise l'information autour d'une « cible » (problème, préoccupation ou événement du patient) décrite selon le modèle DAR : Données, Actions, Résultats.",
     "steps": [
       {
         "n": "1",
-        "h": "Repérer",
-        "t": "rechercher sécheresse de la muqueuse buccale et des aisselles, perte de poids récente, tachycardie, hypotension orthostatique, urines rares et foncées, et toute confusion d'apparition brutale ; le pli cutané est peu fiable chez le sujet âgé (le chercher au front ou au sternum)."
+        "h": "Choisir la cible",
+        "t": "formuler un problème précis et observable (douleur, chute, anxiété, refus de soin, diagnostic infirmier…), jamais un acte ou une pathologie seule ; une cible par sujet, datée et signée."
       },
       {
         "n": "2",
-        "h": "Agir",
-        "t": "alerter le médecin, proposer à boire régulièrement par petites quantités (eau gélifiée si troubles de la déglutition), préparer une éventuelle réhydratation sous-cutanée ou IV sur prescription et un bilan (natrémie, créatinine)."
+        "h": "Rédiger en DAR",
+        "t": "Données : faits objectifs et paroles du patient (EN à 7, PA 90/60) ; Actions : soins réalisés, rôle propre ou sur prescription ; Résultats : effet obtenu et réévaluation chiffrée à l'heure prévue."
       },
       {
         "n": "3",
-        "h": "Prévenir et tracer",
-        "t": "suivre une feuille d'hydratation et le poids, laisser l'eau à portée de main, renforcer les apports en cas de fièvre, diarrhée ou canicule, et signaler les traitements à risque."
+        "h": "Assurer la continuité",
+        "t": "clôturer la cible quand le problème est résolu, reporter les suivis dans le diagramme de soins et s'appuyer sur ces écrits lors de la relève orale, sans interprétation ni jugement de valeur."
       }
     ],
-    "retenir": "Chez la personne âgée, la soif n'est plus un signal fiable : on propose à boire sans attendre la demande. Une confusion brutale, une chute ou une fièvre doivent faire penser à la déshydratation, et le pli cutané ne suffit pas à l'éliminer. ",
-    "sources": "Sources : SFGG · Collège national des enseignants de gériatrie · Santé publique France (canicule et personnes âgées)."
+    "retenir": "Le dossier de soins fait partie du rôle infirmier (art. R. 4311-3 du CSP) et a valeur médico-légale : ce qui n'est pas écrit est réputé non fait. Une bonne cible est courte, factuelle, chiffrée, et se termine toujours par un résultat évalué. ",
+    "sources": "Sources : Code de la santé publique (art. R. 4311-3) · HAS (dossier patient, continuité des soins) · référentiels IFSI (UE 3.1)."
   }
 }

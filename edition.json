@@ -1,83 +1,83 @@
 {
-  "dateLong": "Lun. 16 nov.",
+  "dateLong": "Mar. 17 nov.",
   "essentiel": [
-    { "text": "L'accès direct aux " },
-    { "text": "IPA", "strong": true },
-    { "text": " en CPTS démarre le 1er décembre dans six départements, l'" },
+    { "text": "Le décret du 12 novembre plafonne à 30 % l'activité de " },
+    { "text": "médecine esthétique", "strong": true },
+    { "text": " des médecins, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " relaie le signal européen sur les réactions d'hypersensibilité aux " },
-    { "text": "immunoglobulines", "strong": true },
-    { "text": " et une information Boston Scientific sur la stimulation cérébrale profonde Vercise, tandis que l'essai " },
-    { "text": "OPTIMAL-STROKE", "strong": true },
-    { "text": " plaide pour une pression systolique sous 120 mmHg après un AVC." }
+    { "text": " fait retirer les seringues de rinçage " },
+    { "text": "Steriflush", "strong": true },
+    { "text": " et signale des flacons défectueux de " },
+    { "text": "Respreeza", "strong": true },
+    { "text": ", tandis qu'une étude sur 844 000 adultes confirme les limites de l'IMC pour définir l'obésité." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Décret n° 2026-985 du 23 octobre 2026 : expérimentation de l'accès direct aux IPA exerçant en CPTS",
-      "summary": "À partir du 1er décembre 2026 et pour cinq ans, les infirmiers en pratique avancée membres d'une CPTS pourront recevoir des patients sans prescription ni adressage médical dans six départements (Hérault, Loiret, Martinique, Mayotte, Val-d'Oise, Yonne), avec un compte rendu adressé au médecin traitant.",
+      "title": "Décret n° 2026-1043 du 12 novembre 2026 relatif à la pratique médicale des actes, des procédés, des techniques et des méthodes à visée esthétique",
+      "summary": "Publié au JO du 14 novembre, le texte limite l'activité esthétique non chirurgicale d'un médecin à 30 % de son temps de travail, impose formation, déclaration au conseil départemental de l'Ordre et délai de réflexion de cinq jours pour le patient ; les infirmiers ne figurent pas parmi les bénéficiaires des dispositions transitoires.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055011932"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087571"
     },
     {
       "category": "alertes",
-      "title": "Immunoglobulines humaines normales : le PRAC examine un signal de réactions d'hypersensibilité",
-      "summary": "Lors de sa réunion du 26 au 29 octobre 2026, le comité européen de pharmacovigilance a ouvert l'examen d'une hausse des réactions d'hypersensibilité liées à certains lots d'immunoglobuline humaine normale, après plusieurs rappels de lots par précaution en France (Flebogamma DIF, Gamunex) : vigilance renforcée lors des perfusions.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/retour-dinformation-sur-le-prac-de-novembre-2026-26-29-octobre"
+      "title": "Respreeza (alpha-1 antitrypsine humaine) : des flacons défectueux signalés sur deux lots",
+      "summary": "CSL Behring a recensé 13 défauts confirmés du système de fermeture des flacons de Respreeza 1 000 mg (lots P100897460 et P100906885), qui se desserre au retrait du Mix2Vial après reconstitution : risque d'infection non exclu, les flacons concernés ne doivent pas être administrés et sont à retourner au laboratoire.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38565-respreeza-alpha-1-antitrypsine-humaine-des-flacons-defectueux-signales-sur-deux-lots.html"
     },
     {
       "category": "science",
-      "title": "Abaisser la pression systolique en dessous de 120 mmHg après un AVC diminue les événements cardiovasculaires",
-      "summary": "Présenté au congrès de l'AHA 2026, l'essai brésilien OPTIMAL-STROKE (4 368 patients après AVC ischémique ou AIT) montre qu'une cible systolique < 120 mmHg réduit le risque de récidive et d'événement cardiovasculaire par rapport à < 140 mmHg, au prix d'événements rénaux plus fréquents.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38577-abaisser-la-pression-systolique-en-dessous-de-120-mmhg-apres-un-avc-diminue-les-evenements-cardiovasculaires.html"
+      "title": "Obésité : une étude confirme les limites de l'IMC pour évaluer l'excès de graisse",
+      "summary": "Menée sur plus de 844 000 adultes sous la direction de Francesco Rubino, l'étude montre qu'environ 2 % des personnes classées obèses par l'IMC n'ont pas d'excès de tissu adipeux, quand d'autres, seulement « en surpoids », ont une obésité abdominale révélée par le tour de taille.",
+      "source": "L'Info Durable (AFP)",
+      "url": "https://www.linfodurable.fr/obesite-une-etude-confirme-les-limites-de-limc-pour-evaluer-lexces-de-graisse-59719"
     },
     {
       "category": "profession",
-      "title": "SOS hôpital : les soignants font grève pour pouvoir soigner",
-      "summary": "Aux urgences du CHU de Rangueil à Toulouse, infirmières et aides-soignants ont engagé une grève illimitée pour obtenir 12 postes supplémentaires, quand la direction n'annonce que trois renforts infirmiers temporaires pour l'hiver.",
-      "source": "SNPI CFE-CGC",
-      "url": "https://syndicat-infirmier.com/SOS-hopital-les-soignants-font-greve-pour-pouvoir-soigner.html"
+      "title": "Complémentaire santé des hospitaliers : où en est-on ?",
+      "summary": "Le projet d'accord sur la protection sociale complémentaire de la fonction publique hospitalière, attendue au 1er janvier 2027, est soumis aux syndicats jusqu'au 24 novembre : la CFDT annonce qu'elle signera.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/complementaire-sante-des-hospitaliers-ou-en-est"
     },
     {
       "category": "technique",
-      "title": "Neurostimulateur implantable – Programmateur du médecin des systèmes de stimulation cérébrale profonde Vercise – Boston Scientific",
-      "summary": "Publiée le 12 novembre 2026 (réf. R2633870), cette information aux utilisateurs concerne le programmateur du médecin des systèmes Vercise de stimulation cérébrale profonde : les établissements concernés sont invités à lire le courrier du fabricant et à appliquer ses consignes.",
+      "title": "Seringues Steriflush NaCl 0,9 % fabriquées par Sterisets et distribuées par B. Braun Medical",
+      "summary": "Rappel publié le 4 novembre 2026 : tous les lots non périmés de sept références de seringues de rinçage pré-remplies (3 à 20 ml, dont 3010004 et 3020012) sont retirés à la suite de l'action corrective du fabricant Sterisets ; vérifier les stocks des unités et des sets de soins.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/neurostimulateur-implantable-programmateur-du-medecin-concernant-les-systemes-de-stimulation-cerebrale-profonde-vercise-boston-scientific-neuromodulation-corporation"
+      "url": "https://ansm.sante.fr/informations-de-securite/seringues-steriflush-nacl-0-9-fabriquees-par-sterisets-et-distribuees-par-b-braun-medical"
     },
     {
       "category": "formation",
-      "title": "Congrès Français de Psychiatrie 2026 : les sessions DPC du mercredi 2 décembre",
-      "summary": "En ouverture du 18e Congrès Français de Psychiatrie (Strasbourg, 2-5 décembre 2026), des programmes de DPC sont proposés le mercredi 2 décembre, accessibles sans inscription au congrès, avec inscription en ligne sur le site du CFP.",
-      "source": "Congrès Français de Psychiatrie",
-      "url": "https://congresfrancaispsychiatrie.org/congres/votre-formation-au-cfp/les-sessions-dpc-du-cfp/"
+      "title": "Journées des Infirmiers 2026 : étape de Rennes les 2 et 3 décembre",
+      "summary": "Conférences et ateliers pratiques destinés aux infirmiers et étudiants se tiennent à Rennes les 2 et 3 décembre 2026 ; certains ateliers nécessitent une inscription préalable sur le site de l'événement.",
+      "source": "Journées des Infirmiers",
+      "url": "https://journeesdesinfirmiers.fr/"
     }
   ],
   "word": {
-    "field": "Réglementaire / rôle",
-    "term": "Transmissions ciblées",
-    "subtitle": "Écrire l'essentiel du patient pour que l'équipe suivante sache agir",
-    "definition": "Les transmissions ciblées sont une méthode d'écriture du dossier de soins qui organise l'information autour d'une « cible » (problème, préoccupation ou événement du patient) décrite selon le modèle DAR : Données, Actions, Résultats.",
+    "field": "Gestes & soins",
+    "term": "Rinçage pulsé",
+    "subtitle": "Pousser le sérum par à-coups pour garder un cathéter propre et perméable",
+    "definition": "Le rinçage pulsé consiste à injecter du NaCl 0,9 % dans un cathéter par petites poussées successives (pousser-arrêter), créant des turbulences qui décollent les dépôts de médicaments, de sang ou de fibrine de la paroi interne.",
     "steps": [
       {
         "n": "1",
-        "h": "Choisir la cible",
-        "t": "formuler un problème précis et observable (douleur, chute, anxiété, refus de soin, diagnostic infirmier…), jamais un acte ou une pathologie seule ; une cible par sujet, datée et signée."
+        "h": "Savoir quand rincer",
+        "t": "avant et après chaque injection, entre deux médicaments (incompatibilités), après un prélèvement sanguin, une transfusion ou une nutrition parentérale, et à chaque fermeture de ligne inutilisée."
       },
       {
         "n": "2",
-        "h": "Rédiger en DAR",
-        "t": "Données : faits objectifs et paroles du patient (EN à 7, PA 90/60) ; Actions : soins réalisés, rôle propre ou sur prescription ; Résultats : effet obtenu et réévaluation chiffrée à l'heure prévue."
+        "h": "Utiliser le bon matériel",
+        "t": "seringue de 10 ml au minimum (pression plus douce sur le cathéter), pré-remplie de préférence, au moins 10 ml chez l'adulte, 20 ml après produits sanguins ou nutrition parentérale, sur un site désinfecté."
       },
       {
         "n": "3",
-        "h": "Assurer la continuité",
-        "t": "clôturer la cible quand le problème est résolu, reporter les suivis dans le diagramme de soins et s'appuyer sur ces écrits lors de la relève orale, sans interprétation ni jugement de valeur."
+        "h": "Pousser par à-coups et verrouiller",
+        "t": "injecter environ 1 ml par poussée sans jamais forcer en cas de résistance, puis clamper en fin d'injection (pression positive) pour éviter le reflux de sang dans le cathéter."
       }
     ],
-    "retenir": "Le dossier de soins fait partie du rôle infirmier (art. R. 4311-3 du CSP) et a valeur médico-légale : ce qui n'est pas écrit est réputé non fait. Une bonne cible est courte, factuelle, chiffrée, et se termine toujours par un résultat évalué. ",
-    "sources": "Sources : Code de la santé publique (art. R. 4311-3) · HAS (dossier patient, continuité des soins) · référentiels IFSI (UE 3.1)."
+    "retenir": "Le rinçage pulsé prévient l'occlusion et les incompatibilités médicamenteuses, et limite le biofilm. Une résistance à l'injection ne se force jamais : elle signe une obstruction possible et impose d'arrêter et de contrôler le cathéter. ",
+    "sources": "Sources : SF2H (prévention des infections liées aux cathéters périphériques, 2019) · Infusion Nurses Society (Standards of Practice) · ANSM (seringues de rinçage)."
   }
 }

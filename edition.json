@@ -1,83 +1,102 @@
 {
-  "dateLong": "Mar. 17 nov.",
+  "dateLong": "Mer. 18 nov.",
   "essentiel": [
-    { "text": "Le décret du 12 novembre plafonne à 30 % l'activité de " },
-    { "text": "médecine esthétique", "strong": true },
-    { "text": " des médecins, l'" },
-    { "text": "ANSM", "strong": true },
-    { "text": " fait retirer les seringues de rinçage " },
-    { "text": "Steriflush", "strong": true },
-    { "text": " et signale des flacons défectueux de " },
-    { "text": "Respreeza", "strong": true },
-    { "text": ", tandis qu'une étude sur 844 000 adultes confirme les limites de l'IMC pour définir l'obésité." }
+    {
+      "text": "Santé publique France",
+      "strong": true
+    },
+    {
+      "text": " ouvre la semaine mondiale de l'"
+    },
+    {
+      "text": "antibiorésistance",
+      "strong": true
+    },
+    {
+      "text": " avec un BEH spécial, Abbott rappelle un lot de capteurs "
+    },
+    {
+      "text": "FreeStyle Libre 2 Plus",
+      "strong": true
+    },
+    {
+      "text": " et le "
+    },
+    {
+      "text": "SMPS",
+      "strong": true
+    },
+    {
+      "text": " révèle que deux directeurs des soins sur trois sont en risque d'épuisement."
+    }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Décret n° 2026-1043 du 12 novembre 2026 relatif à la pratique médicale des actes, des procédés, des techniques et des méthodes à visée esthétique",
-      "summary": "Publié au JO du 14 novembre, le texte limite l'activité esthétique non chirurgicale d'un médecin à 30 % de son temps de travail, impose formation, déclaration au conseil départemental de l'Ordre et délai de réflexion de cinq jours pour le patient ; les infirmiers ne figurent pas parmi les bénéficiaires des dispositions transitoires.",
+      "title": "Décret n° 2026-1026 du 3 novembre 2026 révisant et complétant les tableaux des maladies professionnelles annexés au livre IV du code de la sécurité sociale",
+      "summary": "Paru au JO du 5 novembre, le décret révise le tableau n° 25 des maladies professionnelles (affections liées à l'inhalation de poussières de silice cristalline) et facilite la reconnaissance du cancer du poumon chez les salariés exposés, un point d'appui pour les équipes de santé au travail.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087571"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055057725"
     },
     {
       "category": "alertes",
-      "title": "Respreeza (alpha-1 antitrypsine humaine) : des flacons défectueux signalés sur deux lots",
-      "summary": "CSL Behring a recensé 13 défauts confirmés du système de fermeture des flacons de Respreeza 1 000 mg (lots P100897460 et P100906885), qui se desserre au retrait du Mix2Vial après reconstitution : risque d'infection non exclu, les flacons concernés ne doivent pas être administrés et sont à retourner au laboratoire.",
+      "title": "Hôpital : état de disponibilité de plusieurs spécialités hospitalières (semaines 45 et 46)",
+      "summary": "Entre le 6 et le 10 novembre, l'ANSM a signalé deux ruptures de stock et une tension d'approvisionnement sur des spécialités réservées à l'hôpital, dont Farmorubicine 10 mg injectable (épirubicine), sans date de retour, et Pipéracilline Panpharma 4 g, annoncée pour décembre 2026.",
       "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38565-respreeza-alpha-1-antitrypsine-humaine-des-flacons-defectueux-signales-sur-deux-lots.html"
+      "url": "https://www.vidal.fr/actualites/38574-hopital-etat-de-disponibilite-de-plusieurs-specialites-hospitalieres-semaines-45-et-46.html"
     },
     {
       "category": "science",
-      "title": "Obésité : une étude confirme les limites de l'IMC pour évaluer l'excès de graisse",
-      "summary": "Menée sur plus de 844 000 adultes sous la direction de Francesco Rubino, l'étude montre qu'environ 2 % des personnes classées obèses par l'IMC n'ont pas d'excès de tissu adipeux, quand d'autres, seulement « en surpoids », ont une obésité abdominale révélée par le tour de taille.",
-      "source": "L'Info Durable (AFP)",
-      "url": "https://www.linfodurable.fr/obesite-une-etude-confirme-les-limites-de-limc-pour-evaluer-lexces-de-graisse-59719"
+      "title": "Antibiorésistance en France en 2025 : de la surveillance à l'action",
+      "summary": "Publié le 17 novembre pour la Journée européenne d'information sur les antibiotiques et la semaine mondiale de l'OMS (18-24 novembre), ce numéro spécial du BEH fait le point sur la surveillance de la résistance bactérienne, la prévention des infections et l'antibioprophylaxie chirurgicale et interventionnelle.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/sites/default/files/cadic_files/documents/spf00006962.pdf"
     },
     {
       "category": "profession",
-      "title": "Complémentaire santé des hospitaliers : où en est-on ?",
-      "summary": "Le projet d'accord sur la protection sociale complémentaire de la fonction publique hospitalière, attendue au 1er janvier 2027, est soumis aux syndicats jusqu'au 24 novembre : la CFDT annonce qu'elle signera.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/actualite-sociale/complementaire-sante-des-hospitaliers-ou-en-est"
+      "title": "Baromètre SMPS de l'état d'esprit des directeurs des soins : 2 directeurs des soins sur 3 en risque d'épuisement",
+      "summary": "Première édition de ce baromètre annuel : 178 directeurs des soins de la fonction publique hospitalière, près d'un tiers de la profession, ont répondu entre le 22 septembre et le 4 novembre, et deux sur trois se disent exposés à un risque d'épuisement professionnel.",
+      "source": "La Veille Acteurs de Santé",
+      "url": "https://toute-la.veille-acteurs-sante.fr/246994/barometre-smps-de-letat-desprit-des-directeurs-des-soins-2-directeurs-des-soins-sur-3-en-risque-depuisement-document/"
     },
     {
       "category": "technique",
-      "title": "Seringues Steriflush NaCl 0,9 % fabriquées par Sterisets et distribuées par B. Braun Medical",
-      "summary": "Rappel publié le 4 novembre 2026 : tous les lots non périmés de sept références de seringues de rinçage pré-remplies (3 à 20 ml, dont 3010004 et 3020012) sont retirés à la suite de l'action corrective du fabricant Sterisets ; vérifier les stocks des unités et des sets de soins.",
+      "title": "Appareils de mesure du glucose en continu : capteur FreeStyle Libre 2 Plus (Abbott Diabetes Care) – rappel de produit et conduites à tenir",
+      "summary": "Le lot 260930P, quelques centaines de capteurs distribués après le 12 octobre 2026, peut donner des mesures de glucose incorrectes, retardées ou absentes : vérifier le numéro de lot des patients équipés, contrôler par glycémie capillaire en cas de doute ; Abbott remplace gratuitement les capteurs concernés.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/seringues-steriflush-nacl-0-9-fabriquees-par-sterisets-et-distribuees-par-b-braun-medical"
+      "url": "https://ansm.sante.fr/informations-de-securite/appareils-de-mesure-du-glucose-en-continu-capteur-freestyle-libre-2-plus-abbott-diabetes-care-ltd-rappel-de-produit-et-conduites-a-tenir"
     },
     {
       "category": "formation",
-      "title": "Journées des Infirmiers 2026 : étape de Rennes les 2 et 3 décembre",
-      "summary": "Conférences et ateliers pratiques destinés aux infirmiers et étudiants se tiennent à Rennes les 2 et 3 décembre 2026 ; certains ateliers nécessitent une inscription préalable sur le site de l'événement.",
-      "source": "Journées des Infirmiers",
-      "url": "https://journeesdesinfirmiers.fr/"
+      "title": "Résistance aux antimicrobiens : un webinaire sur le bon usage des antibiotiques en ville et en établissement",
+      "summary": "Le CPias Occitanie, le CRAtb et l'OMEDIT Occitanie organisent ce mercredi 18 novembre un webinaire gratuit destiné aux professionnels de santé de ville, d'EHPAD et du secteur du handicap, à l'occasion de la semaine mondiale de sensibilisation à l'antibiorésistance.",
+      "source": "Médecin d'Occitanie",
+      "url": "https://www.medecin-occitanie.org/resistance-aux-antimicrobiens-un-webinaire-sur-le-bon-usage-des-antibiotiques-en-ville-et-en-etablissement/"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Rinçage pulsé",
-    "subtitle": "Pousser le sérum par à-coups pour garder un cathéter propre et perméable",
-    "definition": "Le rinçage pulsé consiste à injecter du NaCl 0,9 % dans un cathéter par petites poussées successives (pousser-arrêter), créant des turbulences qui décollent les dépôts de médicaments, de sang ou de fibrine de la paroi interne.",
+    "field": "Pharmaco & thérapeutique",
+    "term": "Taux résiduel",
+    "subtitle": "Doser un médicament au plus bas, juste avant la dose suivante",
+    "definition": "Le taux résiduel (ou concentration « en vallée ») est la concentration sanguine d'un médicament mesurée juste avant l'administration de la dose suivante ; il sert à ajuster la posologie des médicaments à marge thérapeutique étroite comme la vancomycine, les aminosides, la digoxine, le lithium ou le tacrolimus.",
     "steps": [
       {
         "n": "1",
-        "h": "Savoir quand rincer",
-        "t": "avant et après chaque injection, entre deux médicaments (incompatibilités), après un prélèvement sanguin, une transfusion ou une nutrition parentérale, et à chaque fermeture de ligne inutilisée."
+        "h": "Prélever au bon moment",
+        "t": "dans les 30 minutes qui précèdent la dose suivante, une fois l'état d'équilibre atteint (souvent après 3 à 4 doses, selon la prescription) ; en perfusion continue de vancomycine, on dose une concentration « au plateau » à n'importe quelle heure."
       },
       {
         "n": "2",
-        "h": "Utiliser le bon matériel",
-        "t": "seringue de 10 ml au minimum (pression plus douce sur le cathéter), pré-remplie de préférence, au moins 10 ml chez l'adulte, 20 ml après produits sanguins ou nutrition parentérale, sur un site désinfecté."
+        "h": "Prélever au bon endroit et tracer",
+        "t": "jamais sur la voie où passe le médicament (bras opposé de préférence), tube prescrit par le laboratoire, et noter sur le bon l'heure exacte du prélèvement et celle de la dernière administration."
       },
       {
         "n": "3",
-        "h": "Pousser par à-coups et verrouiller",
-        "t": "injecter environ 1 ml par poussée sans jamais forcer en cas de résistance, puis clamper en fin d'injection (pression positive) pour éviter le reflux de sang dans le cathéter."
+        "h": "Transmettre et surveiller",
+        "t": "signaler le résultat au prescripteur pour adapter la dose ou l'intervalle, et surveiller les signes de toxicité : fonction rénale (créatinine, diurèse), troubles de l'audition ou vertiges sous aminosides et vancomycine."
       }
     ],
-    "retenir": "Le rinçage pulsé prévient l'occlusion et les incompatibilités médicamenteuses, et limite le biofilm. Une résistance à l'injection ne se force jamais : elle signe une obstruction possible et impose d'arrêter et de contrôler le cathéter. ",
-    "sources": "Sources : SF2H (prévention des infections liées aux cathéters périphériques, 2019) · Infusion Nurses Society (Standards of Practice) · ANSM (seringues de rinçage)."
+    "retenir": "Un taux résiduel n'a de valeur que si l'heure du prélèvement et celle de la dernière dose sont exactes : mal chronométré, il expose au sous-dosage (échec du traitement, sélection de bactéries résistantes) ou au surdosage (toxicité rénale et auditive). ",
+    "sources": "Sources : ANSM (mise au point sur le bon usage des aminosides injectables) · Société française de pharmacologie et de thérapeutique (suivi thérapeutique pharmacologique) · Vidal (monographies vancomycine, gentamicine)."
   }
 }

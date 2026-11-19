@@ -1,102 +1,83 @@
 {
-  "dateLong": "Mer. 18 nov.",
+  "dateLong": "Jeu. 19 nov.",
   "essentiel": [
-    {
-      "text": "Santé publique France",
-      "strong": true
-    },
-    {
-      "text": " ouvre la semaine mondiale de l'"
-    },
-    {
-      "text": "antibiorésistance",
-      "strong": true
-    },
-    {
-      "text": " avec un BEH spécial, Abbott rappelle un lot de capteurs "
-    },
-    {
-      "text": "FreeStyle Libre 2 Plus",
-      "strong": true
-    },
-    {
-      "text": " et le "
-    },
-    {
-      "text": "SMPS",
-      "strong": true
-    },
-    {
-      "text": " révèle que deux directeurs des soins sur trois sont en risque d'épuisement."
-    }
+    { "text": "Le " },
+    { "text": "Journal officiel", "strong": true },
+    { "text": " fixe le prix des préparations magistrales de " },
+    { "text": "furosémide", "strong": true },
+    { "text": " face aux tensions sur les comprimés, l'" },
+    { "text": "OMS", "strong": true },
+    { "text": " appelle à accélérer la lutte contre l'antibiorésistance et quatre soignants d'un " },
+    { "text": "Ehpad de l'Aveyron", "strong": true },
+    { "text": " ont été jugés à Rodez pour maltraitance." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Décret n° 2026-1026 du 3 novembre 2026 révisant et complétant les tableaux des maladies professionnelles annexés au livre IV du code de la sécurité sociale",
-      "summary": "Paru au JO du 5 novembre, le décret révise le tableau n° 25 des maladies professionnelles (affections liées à l'inhalation de poussières de silice cristalline) et facilite la reconnaissance du cancer du poumon chez les salariés exposés, un point d'appui pour les équipes de santé au travail.",
+      "title": "Arrêté du 17 novembre 2026 fixant le prix de vente au public des préparations magistrales à base de furosémide prises en charge par l'assurance maladie",
+      "summary": "Publié au JO du 18 novembre, l'arrêté accompagne le remplacement temporaire des comprimés de furosémide 20 et 40 mg en tension par des gélules préparées en officine, autorisé par l'ANSM sans nouvelle ordonnance : 24,23 € TTC la boîte de 30 gélules à 20 mg, remboursée jusqu'au retour des spécialités.",
       "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055057725"
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/18/0269"
     },
     {
       "category": "alertes",
-      "title": "Hôpital : état de disponibilité de plusieurs spécialités hospitalières (semaines 45 et 46)",
-      "summary": "Entre le 6 et le 10 novembre, l'ANSM a signalé deux ruptures de stock et une tension d'approvisionnement sur des spécialités réservées à l'hôpital, dont Farmorubicine 10 mg injectable (épirubicine), sans date de retour, et Pipéracilline Panpharma 4 g, annoncée pour décembre 2026.",
+      "title": "Disponibilité des médicaments en ville et à l'hôpital (semaines 46 et 47)",
+      "summary": "Le point des signalements ANSM du 10 au 17 novembre : les quatre présentations de Creon (pancréatine) restent en tension en ville avec des retours annoncés seulement entre fin janvier et fin novembre 2027, tandis que la duloxétine 30 et 60 mg est remise à disposition depuis le 13 novembre.",
       "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38574-hopital-etat-de-disponibilite-de-plusieurs-specialites-hospitalieres-semaines-45-et-46.html"
+      "url": "https://www.vidal.fr/actualites/38602-disponibilite-des-medicaments-en-ville-et-a-l-hopital-semaines-46-et-47.html"
     },
     {
       "category": "science",
-      "title": "Antibiorésistance en France en 2025 : de la surveillance à l'action",
-      "summary": "Publié le 17 novembre pour la Journée européenne d'information sur les antibiotiques et la semaine mondiale de l'OMS (18-24 novembre), ce numéro spécial du BEH fait le point sur la surveillance de la résistance bactérienne, la prévention des infections et l'antibioprophylaxie chirurgicale et interventionnelle.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/sites/default/files/cadic_files/documents/spf00006962.pdf"
+      "title": "Résistance aux antimicrobiens : l'OMS note des progrès mais appelle à redoubler d'efforts",
+      "summary": "Le 16 novembre, l'OMS a rappelé qu'en 2023 environ une infection bactérienne confirmée en laboratoire sur six dans le monde était résistante aux antibiotiques, pointé l'accès au diagnostic comme principal point faible et publié deux nouveaux outils pour renforcer les capacités diagnostiques des pays.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38600-resistance-aux-antimicrobiens-l-oms-note-des-progres-mais-appelle-a-redoubler-d-efforts.html"
     },
     {
       "category": "profession",
-      "title": "Baromètre SMPS de l'état d'esprit des directeurs des soins : 2 directeurs des soins sur 3 en risque d'épuisement",
-      "summary": "Première édition de ce baromètre annuel : 178 directeurs des soins de la fonction publique hospitalière, près d'un tiers de la profession, ont répondu entre le 22 septembre et le 4 novembre, et deux sur trois se disent exposés à un risque d'épuisement professionnel.",
-      "source": "La Veille Acteurs de Santé",
-      "url": "https://toute-la.veille-acteurs-sante.fr/246994/barometre-smps-de-letat-desprit-des-directeurs-des-soins-2-directeurs-des-soins-sur-3-en-risque-depuisement-document/"
+      "title": "« Comment on en est arrivé à de telles extrémités » : quatre soignants d'un Ehpad jugés pour des maltraitances sur des malades d'Alzheimer",
+      "summary": "Jugés le 18 novembre par le tribunal correctionnel de Rodez, quatre anciens salariés de l'Ehpad d'Onet-le-Château sont accusés d'avoir mis en scène de façon dégradante, au moins dix fois, des résidents de l'unité Alzheimer et partagé les images sur un groupe Messenger ; le parquet a requis quatre mois de prison avec sursis.",
+      "source": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/aveyron/rodez/comment-on-en-est-arrive-a-de-telles-extremites-quatre-soignants-d-un-ehpad-juges-pour-des-maltraitances-sur-des-malades-d-alzheimer-3452091.html"
     },
     {
       "category": "technique",
-      "title": "Appareils de mesure du glucose en continu : capteur FreeStyle Libre 2 Plus (Abbott Diabetes Care) – rappel de produit et conduites à tenir",
-      "summary": "Le lot 260930P, quelques centaines de capteurs distribués après le 12 octobre 2026, peut donner des mesures de glucose incorrectes, retardées ou absentes : vérifier le numéro de lot des patients équipés, contrôler par glycémie capillaire en cas de doute ; Abbott remplace gratuitement les capteurs concernés.",
+      "title": "Kit de préparation pour cathéter d'occlusion Philips Bridge – Merit Medical",
+      "summary": "Information de sécurité du 16 novembre destinée aux établissements de santé : le cathéter à ballonnet d'occlusion Philips Bridge peut rencontrer une résistance à la progression sur le fil-guide 0,035\" InQwire Amplatz fourni dans le kit, que Merit Medical retire pour les lots non périmés (réf. K12-09098B et K12-09098C).",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/appareils-de-mesure-du-glucose-en-continu-capteur-freestyle-libre-2-plus-abbott-diabetes-care-ltd-rappel-de-produit-et-conduites-a-tenir"
+      "url": "https://ansm.sante.fr/informations-de-securite/kit-de-preparation-pour-catheter-docclusion-philips-bridge-merit-medical"
     },
     {
       "category": "formation",
-      "title": "Résistance aux antimicrobiens : un webinaire sur le bon usage des antibiotiques en ville et en établissement",
-      "summary": "Le CPias Occitanie, le CRAtb et l'OMEDIT Occitanie organisent ce mercredi 18 novembre un webinaire gratuit destiné aux professionnels de santé de ville, d'EHPAD et du secteur du handicap, à l'occasion de la semaine mondiale de sensibilisation à l'antibiorésistance.",
-      "source": "Médecin d'Occitanie",
-      "url": "https://www.medecin-occitanie.org/resistance-aux-antimicrobiens-un-webinaire-sur-le-bon-usage-des-antibiotiques-en-ville-et-en-etablissement/"
+      "title": "Les Journées Dermatologiques de Paris 2026 : Forum Infirmier",
+      "summary": "Dans le cadre des JDP (1er-5 décembre, Palais des Congrès de Paris), une journée dédiée aux infirmiers se tient le jeudi 3 décembre de 9h15 à 16h30, salle 351, pour 50 € sur justificatif professionnel.",
+      "source": "Journées Dermatologiques de Paris",
+      "url": "https://www.lesjdp.fr/inscriptions/forum-infirmier"
     }
   ],
   "word": {
-    "field": "Pharmaco & thérapeutique",
-    "term": "Taux résiduel",
-    "subtitle": "Doser un médicament au plus bas, juste avant la dose suivante",
-    "definition": "Le taux résiduel (ou concentration « en vallée ») est la concentration sanguine d'un médicament mesurée juste avant l'administration de la dose suivante ; il sert à ajuster la posologie des médicaments à marge thérapeutique étroite comme la vancomycine, les aminosides, la digoxine, le lithium ou le tacrolimus.",
+    "field": "Clinique & surveillance",
+    "term": "Globe vésical",
+    "subtitle": "Une vessie pleine qui n'arrive plus à se vider",
+    "definition": "Le globe vésical est une rétention aiguë d'urine : la vessie se remplit sans pouvoir se vider, ce qui donne une voussure sus-pubienne tendue et douloureuse ; il est fréquent après une anesthésie ou une chirurgie, sous morphiniques ou anticholinergiques, en cas d'hypertrophie de la prostate ou de constipation sévère.",
     "steps": [
       {
         "n": "1",
-        "h": "Prélever au bon moment",
-        "t": "dans les 30 minutes qui précèdent la dose suivante, une fois l'état d'équilibre atteint (souvent après 3 à 4 doses, selon la prescription) ; en perfusion continue de vancomycine, on dose une concentration « au plateau » à n'importe quelle heure."
+        "h": "Repérer",
+        "t": "absence de miction depuis plusieurs heures ou petites mictions répétées (par regorgement), envie pressante, voussure et matité sus-pubiennes à la palpation-percussion ; chez la personne âgée, une agitation ou une confusion inexpliquée peut être le seul signe."
       },
       {
         "n": "2",
-        "h": "Prélever au bon endroit et tracer",
-        "t": "jamais sur la voie où passe le médicament (bras opposé de préférence), tube prescrit par le laboratoire, et noter sur le bon l'heure exacte du prélèvement et celle de la dernière administration."
+        "h": "Mesurer",
+        "t": "objectiver le volume vésical par échographie vésicale (bladder scan) avant tout sondage, selon le seuil fixé par le protocole du service, et tracer le volume, l'heure et l'heure de la dernière miction."
       },
       {
         "n": "3",
-        "h": "Transmettre et surveiller",
-        "t": "signaler le résultat au prescripteur pour adapter la dose ou l'intervalle, et surveiller les signes de toxicité : fonction rénale (créatinine, diurèse), troubles de l'audition ou vertiges sous aminosides et vancomycine."
+        "h": "Évacuer et surveiller",
+        "t": "sur prescription ou protocole, sondage évacuateur en asepsie stricte, noter le volume et l'aspect des urines (hématurie), puis surveiller la reprise des mictions, le résidu post-mictionnel et rechercher la cause (traitement, constipation)."
       }
     ],
-    "retenir": "Un taux résiduel n'a de valeur que si l'heure du prélèvement et celle de la dernière dose sont exactes : mal chronométré, il expose au sous-dosage (échec du traitement, sélection de bactéries résistantes) ou au surdosage (toxicité rénale et auditive). ",
-    "sources": "Sources : ANSM (mise au point sur le bon usage des aminosides injectables) · Société française de pharmacologie et de thérapeutique (suivi thérapeutique pharmacologique) · Vidal (monographies vancomycine, gentamicine)."
+    "retenir": "Une agitation brutale chez un patient âgé ou opéré doit faire penser au globe vésical : un bladder scan suffit à le confirmer, et le lever rapidement évite douleur, infection urinaire et insuffisance rénale aiguë obstructive. ",
+    "sources": "Sources : SF2H (prévention des infections associées au sondage urinaire) · Association française d'urologie (rétention aiguë d'urine) · HAS (confusion aiguë de la personne âgée)."
   }
 }

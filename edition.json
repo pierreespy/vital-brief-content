@@ -1,83 +1,85 @@
 {
-  "dateLong": "Jeu. 19 nov.",
+  "dateLong": "Ven. 20 nov.",
   "essentiel": [
-    { "text": "Le " },
-    { "text": "Journal officiel", "strong": true },
-    { "text": " fixe le prix des préparations magistrales de " },
-    { "text": "furosémide", "strong": true },
-    { "text": " face aux tensions sur les comprimés, l'" },
-    { "text": "OMS", "strong": true },
-    { "text": " appelle à accélérer la lutte contre l'antibiorésistance et quatre soignants d'un " },
-    { "text": "Ehpad de l'Aveyron", "strong": true },
-    { "text": " ont été jugés à Rodez pour maltraitance." }
+    { "text": "La " },
+    { "text": "HAS", "strong": true },
+    { "text": " publie ses 60 recommandations sur les substances de l'" },
+    { "text": "aide à mourir", "strong": true },
+    { "text": ", " },
+    { "text": "Santé publique France", "strong": true },
+    { "text": " estime à 9 000 par an les hospitalisations évitées par le vaccin antigrippal chez les seniors et l'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " rappelle un lot de " },
+    { "text": "Mapakna LP 20 mg", "strong": true },
+    { "text": " (nifédipine)." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Arrêté du 17 novembre 2026 fixant le prix de vente au public des préparations magistrales à base de furosémide prises en charge par l'assurance maladie",
-      "summary": "Publié au JO du 18 novembre, l'arrêté accompagne le remplacement temporaire des comprimés de furosémide 20 et 40 mg en tension par des gélules préparées en officine, autorisé par l'ANSM sans nouvelle ordonnance : 24,23 € TTC la boîte de 30 gélules à 20 mg, remboursée jusqu'au retour des spécialités.",
-      "source": "Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/18/0269"
+      "title": "Substances létales, préparation, gestion des complications… Ce que recommande la HAS pour l'aide à mourir",
+      "summary": "Saisie après la loi du 18 août 2026, la HAS a publié le 19 novembre 60 recommandations : pentobarbital ou sécobarbital par voie orale, thiopental (propofol en cas de rupture) par voie IV, antiémétique 1 à 2 h avant, deux mallettes identiques pour la voie IV et des kits prêts à l'emploi, avec une formation technique et humaine des soignants volontaires.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38615-substances-letales-preparation-gestion-des-complications-ce-que-recommande-la-has-pour-l-aide-a-mourir.html"
     },
     {
       "category": "alertes",
-      "title": "Disponibilité des médicaments en ville et à l'hôpital (semaines 46 et 47)",
-      "summary": "Le point des signalements ANSM du 10 au 17 novembre : les quatre présentations de Creon (pancréatine) restent en tension en ville avec des retours annoncés seulement entre fin janvier et fin novembre 2027, tandis que la duloxétine 30 et 60 mg est remise à disposition depuis le 13 novembre.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38602-disponibilite-des-medicaments-en-ville-et-a-l-hopital-semaines-46-et-47.html"
+      "title": "Mapakna LP 20 mg, comprimé à libération prolongée – Laboratoires Majorelle",
+      "summary": "Rappel de lot du 18 novembre destiné aux établissements de santé (réf. MED26/B022) : ce tocolytique à base de nifédipine, utilisé en cas de menace d'accouchement prématuré, présente des résultats de dissolution non conformes relevés par les laboratoires de l'ANSM, sans réclamation ni cas de pharmacovigilance signalé à ce jour.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/mapakna-lp-20-mg-comprime-a-liberation-prolongee-laboratoires-majorelle"
     },
     {
       "category": "science",
-      "title": "Résistance aux antimicrobiens : l'OMS note des progrès mais appelle à redoubler d'efforts",
-      "summary": "Le 16 novembre, l'OMS a rappelé qu'en 2023 environ une infection bactérienne confirmée en laboratoire sur six dans le monde était résistante aux antibiotiques, pointé l'accès au diagnostic comme principal point faible et publié deux nouveaux outils pour renforcer les capacités diagnostiques des pays.",
+      "title": "Vaccination antigrippale des seniors : environ 9 000 hospitalisations évitées chaque année",
+      "summary": "Selon une étude de Santé publique France publiée le 19 novembre, le vaccin a évité en moyenne 9 073 hospitalisations par saison chez les 65 ans et plus sur les trois dernières saisons (11 732 en 2024-2025), alors que seuls 57 % des seniors étaient vaccinés en 2025-2026.",
       "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38600-resistance-aux-antimicrobiens-l-oms-note-des-progres-mais-appelle-a-redoubler-d-efforts.html"
+      "url": "https://www.vidal.fr/actualites/38613-vaccination-antigrippale-des-seniors-environ-9-000-hospitalisations-evitees-chaque-annee.html"
     },
     {
       "category": "profession",
-      "title": "« Comment on en est arrivé à de telles extrémités » : quatre soignants d'un Ehpad jugés pour des maltraitances sur des malades d'Alzheimer",
-      "summary": "Jugés le 18 novembre par le tribunal correctionnel de Rodez, quatre anciens salariés de l'Ehpad d'Onet-le-Château sont accusés d'avoir mis en scène de façon dégradante, au moins dix fois, des résidents de l'unité Alzheimer et partagé les images sur un groupe Messenger ; le parquet a requis quatre mois de prison avec sursis.",
-      "source": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/aveyron/rodez/comment-on-en-est-arrive-a-de-telles-extremites-quatre-soignants-d-un-ehpad-juges-pour-des-maltraitances-sur-des-malades-d-alzheimer-3452091.html"
+      "title": "« Il faut que cet accompagnement continue » : 2 000 infirmières dans l'inquiétude après la liquidation judiciaire d'Asalée",
+      "summary": "Placée en liquidation le 29 septembre avec poursuite d'activité jusqu'au 30 décembre, l'association qui salarie 2 000 infirmières de santé publique en exercice coordonné avec les médecins généralistes attend les offres de reprise, à déposer avant le 30 novembre à 17 h.",
+      "source": "Ouest-France",
+      "url": "https://ouest-france.fr/sante/il-faut-que-cet-accompagnement-continue-une-association-placee-en-liquidation-judiciaire-2000-infirmieres-en-attente-6551eee0-e26c-11f1-a3b1-0c6de532ce7d"
     },
     {
       "category": "technique",
-      "title": "Kit de préparation pour cathéter d'occlusion Philips Bridge – Merit Medical",
-      "summary": "Information de sécurité du 16 novembre destinée aux établissements de santé : le cathéter à ballonnet d'occlusion Philips Bridge peut rencontrer une résistance à la progression sur le fil-guide 0,035\" InQwire Amplatz fourni dans le kit, que Merit Medical retire pour les lots non périmés (réf. K12-09098B et K12-09098C).",
+      "title": "Console de contre-pulsion intra-aortique Cardiosave Hybrid et Cardiosave Rescue – Getinge",
+      "summary": "Nouvelle information de sécurité du 19 novembre (n° R2633199) adressée aux établissements de santé : Getinge engage une action de sécurité sur ses consoles de ballon de contre-pulsion intra-aortique, utilisées en réanimation et en cardiologie interventionnelle, et a adressé un courrier aux services utilisateurs.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/kit-de-preparation-pour-catheter-docclusion-philips-bridge-merit-medical"
+      "url": "https://ansm.sante.fr/informations-de-securite/console-de-contre-pulsion-intra-aortique-cardiosave-hybrid-et-cardiosave-rescue-getinge"
     },
     {
       "category": "formation",
-      "title": "Les Journées Dermatologiques de Paris 2026 : Forum Infirmier",
-      "summary": "Dans le cadre des JDP (1er-5 décembre, Palais des Congrès de Paris), une journée dédiée aux infirmiers se tient le jeudi 3 décembre de 9h15 à 16h30, salle 351, pour 50 € sur justificatif professionnel.",
-      "source": "Journées Dermatologiques de Paris",
-      "url": "https://www.lesjdp.fr/inscriptions/forum-infirmier"
+      "title": "Formation Plaies et cicatrisation",
+      "summary": "Le centre de formation des professionnels de santé du CHU de Clermont-Ferrand propose une dernière session 2026 le 7 décembre, ouverte aux infirmiers en inter-établissement (775 € par personne), avec inscription au plus tard 10 jours avant.",
+      "source": "CHU de Clermont-Ferrand",
+      "url": "https://cfps.chu-clermontferrand.fr/formation/plaies-et-cicatrisation/"
     }
   ],
   "word": {
-    "field": "Clinique & surveillance",
-    "term": "Globe vésical",
-    "subtitle": "Une vessie pleine qui n'arrive plus à se vider",
-    "definition": "Le globe vésical est une rétention aiguë d'urine : la vessie se remplit sans pouvoir se vider, ce qui donne une voussure sus-pubienne tendue et douloureuse ; il est fréquent après une anesthésie ou une chirurgie, sous morphiniques ou anticholinergiques, en cas d'hypertrophie de la prostate ou de constipation sévère.",
+    "field": "Hygiène & prévention",
+    "term": "Précautions complémentaires Gouttelettes",
+    "subtitle": "Le masque et la chambre qui coupent la route aux virus respiratoires",
+    "definition": "Les précautions complémentaires de type Gouttelettes s'ajoutent aux précautions standard pour les infections transmises par les grosses gouttelettes émises en parlant, toussant ou éternuant (grippe, VRS, coqueluche, méningocoque…), qui contaminent à courte distance, environ 1 à 2 mètres.",
     "steps": [
       {
         "n": "1",
-        "h": "Repérer",
-        "t": "absence de miction depuis plusieurs heures ou petites mictions répétées (par regorgement), envie pressante, voussure et matité sus-pubiennes à la palpation-percussion ; chez la personne âgée, une agitation ou une confusion inexpliquée peut être le seul signe."
+        "h": "Installer",
+        "t": "chambre individuelle ou regroupement des patients atteints du même agent, signalisation sur la porte et dans le dossier, information du patient et de ses visiteurs, matériel dédié dans la chambre."
       },
       {
         "n": "2",
-        "h": "Mesurer",
-        "t": "objectiver le volume vésical par échographie vésicale (bladder scan) avant tout sondage, selon le seuil fixé par le protocole du service, et tracer le volume, l'heure et l'heure de la dernière miction."
+        "h": "Se protéger",
+        "t": "masque chirurgical pour le soignant dès l'entrée dans la chambre, friction hydro-alcoolique avant et après chaque contact, et appareil de protection respiratoire FFP2 réservé aux gestes générant des aérosols (aspiration, kinésithérapie respiratoire) selon le protocole du service."
       },
       {
         "n": "3",
-        "h": "Évacuer et surveiller",
-        "t": "sur prescription ou protocole, sondage évacuateur en asepsie stricte, noter le volume et l'aspect des urines (hématurie), puis surveiller la reprise des mictions, le résidu post-mictionnel et rechercher la cause (traitement, constipation)."
+        "h": "Limiter et lever",
+        "t": "réduire les déplacements du patient, qui porte un masque chirurgical hors de sa chambre, et ne lever les précautions qu'à la durée prévue pour le germe (par exemple 7 jours après le début des symptômes pour la grippe), sur avis de l'équipe d'hygiène."
       }
     ],
-    "retenir": "Une agitation brutale chez un patient âgé ou opéré doit faire penser au globe vésical : un bladder scan suffit à le confirmer, et le lever rapidement évite douleur, infection urinaire et insuffisance rénale aiguë obstructive. ",
-    "sources": "Sources : SF2H (prévention des infections associées au sondage urinaire) · Association française d'urologie (rétention aiguë d'urine) · HAS (confusion aiguë de la personne âgée)."
+    "retenir": "En période de grippe, le masque chirurgical se met dès l'entrée dans la chambre, et pas seulement à moins d'un mètre du patient : il protège le soignant comme les autres patients, à condition d'être associé à l'hygiène des mains. ",
+    "sources": "Sources : SF2H (Recommandations Prévention de la transmission croisée par voie respiratoire : Air ou Gouttelettes, 2013) · Santé publique France (grippe saisonnière) · HCSP (prise en charge des infections respiratoires en établissement)."
   }
 }

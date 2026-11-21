@@ -1,85 +1,87 @@
 {
-  "dateLong": "Ven. 20 nov.",
+  "dateLong": "Sam. 21 nov.",
   "essentiel": [
-    { "text": "La " },
+    { "text": "L'" },
+    { "text": "Île-de-France", "strong": true },
+    { "text": " et les " },
+    { "text": "Hauts-de-France", "strong": true },
+    { "text": " passent en pré-épidémie d'infections respiratoires, la " },
     { "text": "HAS", "strong": true },
-    { "text": " publie ses 60 recommandations sur les substances de l'" },
-    { "text": "aide à mourir", "strong": true },
-    { "text": ", " },
-    { "text": "Santé publique France", "strong": true },
-    { "text": " estime à 9 000 par an les hospitalisations évitées par le vaccin antigrippal chez les seniors et l'" },
+    { "text": " précise la place du vaccin " },
+    { "text": "Capvaxive", "strong": true },
+    { "text": " contre le pneumocoque et l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle un lot de " },
-    { "text": "Mapakna LP 20 mg", "strong": true },
-    { "text": " (nifédipine)." }
+    { "text": " relaie une action de sécurité sur les systèmes d'anesthésie " },
+    { "text": "Carestation 850", "strong": true },
+    { "text": "." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Substances létales, préparation, gestion des complications… Ce que recommande la HAS pour l'aide à mourir",
-      "summary": "Saisie après la loi du 18 août 2026, la HAS a publié le 19 novembre 60 recommandations : pentobarbital ou sécobarbital par voie orale, thiopental (propofol en cas de rupture) par voie IV, antiémétique 1 à 2 h avant, deux mallettes identiques pour la voie IV et des kits prêts à l'emploi, avec une formation technique et humaine des soignants volontaires.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38615-substances-letales-preparation-gestion-des-complications-ce-que-recommande-la-has-pour-l-aide-a-mourir.html"
+      "title": "Vaccination contre les infections invasives à pneumocoques : place du vaccin Capvaxive",
+      "summary": "Mise en ligne le 16 novembre, cette recommandation de la HAS prévoit une dose unique de VPC21 (Capvaxive) chez les 2-17 ans à très haut risque (asplénie dont drépanocytose, immunodépression, brèche ostéoméningée, implant cochléaire) après un schéma complet, au moins 8 semaines après un vaccin conjugué, et chez l'adulte à risque comme chez tous les 65 ans et plus.",
+      "source": "HAS",
+      "url": "https://www.has-sante.fr/jcms/p_4606429"
     },
     {
       "category": "alertes",
-      "title": "Mapakna LP 20 mg, comprimé à libération prolongée – Laboratoires Majorelle",
-      "summary": "Rappel de lot du 18 novembre destiné aux établissements de santé (réf. MED26/B022) : ce tocolytique à base de nifédipine, utilisé en cas de menace d'accouchement prématuré, présente des résultats de dissolution non conformes relevés par les laboratoires de l'ANSM, sans réclamation ni cas de pharmacovigilance signalé à ce jour.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/mapakna-lp-20-mg-comprime-a-liberation-prolongee-laboratoires-majorelle"
+      "title": "Infections respiratoires aiguës (grippe, bronchiolite, Covid-19) : bulletin du 18 novembre 2026",
+      "summary": "En semaine 46, les indicateurs repartent à la hausse en ville comme à l'hôpital, tous âges confondus, et l'Île-de-France et les Hauts-de-France basculent en pré-épidémie, tandis que la bronchiolite reste à son niveau de base, plus bas que les années précédentes.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-18-novembre-2026"
     },
     {
       "category": "science",
-      "title": "Vaccination antigrippale des seniors : environ 9 000 hospitalisations évitées chaque année",
-      "summary": "Selon une étude de Santé publique France publiée le 19 novembre, le vaccin a évité en moyenne 9 073 hospitalisations par saison chez les 65 ans et plus sur les trois dernières saisons (11 732 en 2024-2025), alors que seuls 57 % des seniors étaient vaccinés en 2025-2026.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38613-vaccination-antigrippale-des-seniors-environ-9-000-hospitalisations-evitees-chaque-annee.html"
+      "title": "20 ans de gestion de l'hépatite C chez les usagers de drogues en France",
+      "summary": "Selon l'enquête Coquelicot (Inserm, ANRS MIE, Santé publique France, CHU de Tours) publiée dans Nature Communications, l'incidence chez les usagers injecteurs est passée de 6,5 à 2,4 pour 100 personnes-années entre 2013 et 2023, et la prévalence de l'infection active a été divisée par deux (19,4 % à 9,5 %).",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/presse/20-ans-de-gestion-de-lhepatite-c-chez-les-usagers-de-drogues-en-france"
     },
     {
       "category": "profession",
-      "title": "« Il faut que cet accompagnement continue » : 2 000 infirmières dans l'inquiétude après la liquidation judiciaire d'Asalée",
-      "summary": "Placée en liquidation le 29 septembre avec poursuite d'activité jusqu'au 30 décembre, l'association qui salarie 2 000 infirmières de santé publique en exercice coordonné avec les médecins généralistes attend les offres de reprise, à déposer avant le 30 novembre à 17 h.",
-      "source": "Ouest-France",
-      "url": "https://ouest-france.fr/sante/il-faut-que-cet-accompagnement-continue-une-association-placee-en-liquidation-judiciaire-2000-infirmieres-en-attente-6551eee0-e26c-11f1-a3b1-0c6de532ce7d"
+      "title": "Dénutrition : un nouvel outil de repérage déployé auprès de 21 000 infirmiers libéraux",
+      "summary": "Lancé fin septembre par libheros avec Danone Santé Nutrition, l'outil de screening fondé sur le référentiel ICOPE (perte de poids, perte d'appétit) et l'IMC réunit déjà 21 000 infirmiers et 200 IPA libéraux, ces derniers pouvant diagnostiquer la dénutrition et prescrire des compléments nutritionnels oraux.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/profession-ide/denutrition-un-nouvel-outil-de-reperage-deploye-aupres-de-21-000-infirmiers-liberaux"
     },
     {
       "category": "technique",
-      "title": "Console de contre-pulsion intra-aortique Cardiosave Hybrid et Cardiosave Rescue – Getinge",
-      "summary": "Nouvelle information de sécurité du 19 novembre (n° R2633199) adressée aux établissements de santé : Getinge engage une action de sécurité sur ses consoles de ballon de contre-pulsion intra-aortique, utilisées en réanimation et en cardiologie interventionnelle, et a adressé un courrier aux services utilisateurs.",
+      "title": "Système d'anesthésie Carestation 850 – GE Healthcare",
+      "summary": "Information de sécurité du 18 novembre (n° R2632280) adressée aux établissements : certains systèmes peuvent délivrer une concentration réduite d'agent anesthésique, signalée par les alarmes « Erreur de précision » ou « Iso non délivré ! », et GE HealthCare corrigera gratuitement les appareils concernés.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/console-de-contre-pulsion-intra-aortique-cardiosave-hybrid-et-cardiosave-rescue-getinge"
+      "url": "https://ansm.sante.fr/informations-de-securite/systeme-danesthesie-carestation-850-et-carestation-850-ge-healthcare"
     },
     {
       "category": "formation",
-      "title": "Formation Plaies et cicatrisation",
-      "summary": "Le centre de formation des professionnels de santé du CHU de Clermont-Ferrand propose une dernière session 2026 le 7 décembre, ouverte aux infirmiers en inter-établissement (775 € par personne), avec inscription au plus tard 10 jours avant.",
-      "source": "CHU de Clermont-Ferrand",
-      "url": "https://cfps.chu-clermontferrand.fr/formation/plaies-et-cicatrisation/"
+      "title": "Webinaires FNI : réussir son installation en libéral ou la cession de sa patientèle",
+      "summary": "La Fédération nationale des infirmiers organise le 17 décembre à 14 h un webinaire gratuit de 90 minutes sur les étapes de l'installation et de la cession de patientèle, sur inscription et dans la limite des places disponibles.",
+      "source": "FNI",
+      "url": "https://fni.fr/webinaires/"
     }
   ],
   "word": {
-    "field": "Hygiène & prévention",
-    "term": "Précautions complémentaires Gouttelettes",
-    "subtitle": "Le masque et la chambre qui coupent la route aux virus respiratoires",
-    "definition": "Les précautions complémentaires de type Gouttelettes s'ajoutent aux précautions standard pour les infections transmises par les grosses gouttelettes émises en parlant, toussant ou éternuant (grippe, VRS, coqueluche, méningocoque…), qui contaminent à courte distance, environ 1 à 2 mètres.",
+    "field": "Urgences & vigilance",
+    "term": "Fausse route alimentaire",
+    "subtitle": "Quand le bol alimentaire se trompe de chemin et bloque les voies aériennes",
+    "definition": "La fausse route est le passage d'aliments, de liquide ou de salive dans les voies aériennes au lieu de l'œsophage ; elle peut provoquer une obstruction partielle (toux efficace) ou totale (le patient ne peut plus parler, tousser ni respirer), urgence vitale fréquente chez la personne âgée ou présentant des troubles de la déglutition.",
     "steps": [
       {
         "n": "1",
-        "h": "Installer",
-        "t": "chambre individuelle ou regroupement des patients atteints du même agent, signalisation sur la porte et dans le dossier, information du patient et de ses visiteurs, matériel dédié dans la chambre."
+        "h": "Reconnaître",
+        "t": "obstruction partielle si le patient tousse, parle et respire : l'encourager à tousser, sans taper dans le dos ; obstruction totale s'il porte les mains à la gorge, ne peut plus parler ni tousser, devient cyanosé : agir immédiatement et faire donner l'alerte."
       },
       {
         "n": "2",
-        "h": "Se protéger",
-        "t": "masque chirurgical pour le soignant dès l'entrée dans la chambre, friction hydro-alcoolique avant et après chaque contact, et appareil de protection respiratoire FFP2 réservé aux gestes générant des aérosols (aspiration, kinésithérapie respiratoire) selon le protocole du service."
+        "h": "Désobstruer",
+        "t": "patient penché en avant, jusqu'à 5 claques vigoureuses entre les omoplates, puis si inefficace jusqu'à 5 compressions abdominales (manœuvre de Heimlich), compressions thoraciques chez la femme enceinte ou la personne obèse, en alternance jusqu'à expulsion du corps étranger."
       },
       {
         "n": "3",
-        "h": "Limiter et lever",
-        "t": "réduire les déplacements du patient, qui porte un masque chirurgical hors de sa chambre, et ne lever les précautions qu'à la durée prévue pour le germe (par exemple 7 jours après le début des symptômes pour la grippe), sur avis de l'équipe d'hygiène."
+        "h": "Si perte de connaissance",
+        "t": "allonger le patient au sol, alerter (15 ou numéro d'urgence interne), débuter la réanimation cardio-pulmonaire 30/2 avec défibrillateur, puis, une fois la situation stabilisée, tracer l'événement et faire évaluer la déglutition (textures adaptées, position assise, surveillance des repas)."
       }
     ],
-    "retenir": "En période de grippe, le masque chirurgical se met dès l'entrée dans la chambre, et pas seulement à moins d'un mètre du patient : il protège le soignant comme les autres patients, à condition d'être associé à l'hygiène des mains. ",
-    "sources": "Sources : SF2H (Recommandations Prévention de la transmission croisée par voie respiratoire : Air ou Gouttelettes, 2013) · Santé publique France (grippe saisonnière) · HCSP (prise en charge des infections respiratoires en établissement)."
+    "retenir": "Toux efficace = on laisse tousser et on surveille ; toux impossible = 5 claques dans le dos puis 5 compressions abdominales. Après toute fausse route sérieuse, un avis médical s'impose (risque de pneumopathie d'inhalation), et la prévention passe par l'installation au repas et l'adaptation des textures. ",
+    "sources": "Sources : European Resuscitation Council (Guidelines 2021, obstruction des voies aériennes par un corps étranger) · Ministère de la Santé (gestes qui sauvent) · HAS (dénutrition et troubles de la déglutition de la personne âgée)."
   }
 }

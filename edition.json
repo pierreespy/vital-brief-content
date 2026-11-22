@@ -1,87 +1,83 @@
 {
-  "dateLong": "Sam. 21 nov.",
+  "dateLong": "Dim. 22 nov.",
   "essentiel": [
-    { "text": "L'" },
-    { "text": "Île-de-France", "strong": true },
-    { "text": " et les " },
-    { "text": "Hauts-de-France", "strong": true },
-    { "text": " passent en pré-épidémie d'infections respiratoires, la " },
-    { "text": "HAS", "strong": true },
-    { "text": " précise la place du vaccin " },
-    { "text": "Capvaxive", "strong": true },
-    { "text": " contre le pneumocoque et l'" },
-    { "text": "ANSM", "strong": true },
-    { "text": " relaie une action de sécurité sur les systèmes d'anesthésie " },
-    { "text": "Carestation 850", "strong": true },
-    { "text": "." }
+    { "text": "Le " },
+    { "text": "Sénat", "strong": true },
+    { "text": " adopte le " },
+    { "text": "PLFSS 2027", "strong": true },
+    { "text": " avant la commission mixte paritaire du 26 novembre, " },
+    { "text": "Santé publique France", "strong": true },
+    { "text": " annonce une baisse de 13,9 % des prescriptions d'antibiotiques en ville en 2025 et les " },
+    { "text": "IBODE de l'AP-HP", "strong": true },
+    { "text": " sont appelés à une grève illimitée." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Vaccination contre les infections invasives à pneumocoques : place du vaccin Capvaxive",
-      "summary": "Mise en ligne le 16 novembre, cette recommandation de la HAS prévoit une dose unique de VPC21 (Capvaxive) chez les 2-17 ans à très haut risque (asplénie dont drépanocytose, immunodépression, brèche ostéoméningée, implant cochléaire) après un schéma complet, au moins 8 semaines après un vaccin conjugué, et chez l'adulte à risque comme chez tous les 65 ans et plus.",
-      "source": "HAS",
-      "url": "https://www.has-sante.fr/jcms/p_4606429"
+      "title": "Le Sénat adopte le budget de la Sécurité sociale pour 2027",
+      "summary": "Le PLFSS 2027 a été adopté par le Sénat le 18 novembre par 201 voix contre 124 (15 abstentions), avec notamment 400 M€ supplémentaires pour l'APA et la PCH ; le texte passe en commission mixte paritaire le 26 novembre.",
+      "source": "Egora",
+      "url": "https://www.egora.fr/actus-pro/politiques/le-senat-adopte-le-budget-de-la-securite-sociale-pour-2027"
     },
     {
       "category": "alertes",
-      "title": "Infections respiratoires aiguës (grippe, bronchiolite, Covid-19) : bulletin du 18 novembre 2026",
-      "summary": "En semaine 46, les indicateurs repartent à la hausse en ville comme à l'hôpital, tous âges confondus, et l'Île-de-France et les Hauts-de-France basculent en pré-épidémie, tandis que la bronchiolite reste à son niveau de base, plus bas que les années précédentes.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-18-novembre-2026"
+      "title": "Disponibilité des médicaments en ville et à l'hôpital (semaines 46 et 47)",
+      "summary": "Le point bimensuel recense notamment la rupture hospitalière de Mitomycine Accord (problème de fabrication et hausse des ventes) et la tension persistante sur la duloxétine 30 et 60 mg, dont la remise à disposition est attendue fin novembre.",
+      "source": "Vidal",
+      "url": "https://www.vidal.fr/actualites/38602-disponibilite-des-medicaments-en-ville-et-a-l-hopital-semaines-46-et-47.html"
     },
     {
       "category": "science",
-      "title": "20 ans de gestion de l'hépatite C chez les usagers de drogues en France",
-      "summary": "Selon l'enquête Coquelicot (Inserm, ANRS MIE, Santé publique France, CHU de Tours) publiée dans Nature Communications, l'incidence chez les usagers injecteurs est passée de 6,5 à 2,4 pour 100 personnes-années entre 2013 et 2023, et la prévalence de l'infection active a été divisée par deux (19,4 % à 9,5 %).",
+      "title": "Consommation d'antibiotiques en secteur de ville en France, 2015-2025",
+      "summary": "Après le rebond de 2024, les prescriptions d'antibiotiques en ville reculent de 13,9 % en 2025 (741 pour 1 000 habitants) et la consommation de 9,6 %, rapprochant la France de l'objectif de 650 prescriptions pour 1 000 habitants fixé pour 2027.",
       "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/presse/20-ans-de-gestion-de-lhepatite-c-chez-les-usagers-de-drogues-en-france"
+      "url": "https://www.santepubliquefrance.fr/resistance-aux-antibiotiques/rapportsynthese/consommation-dantibiotiques-en-secteur-de-ville-en-france-2015-2025"
     },
     {
       "category": "profession",
-      "title": "Dénutrition : un nouvel outil de repérage déployé auprès de 21 000 infirmiers libéraux",
-      "summary": "Lancé fin septembre par libheros avec Danone Santé Nutrition, l'outil de screening fondé sur le référentiel ICOPE (perte de poids, perte d'appétit) et l'IMC réunit déjà 21 000 infirmiers et 200 IPA libéraux, ces derniers pouvant diagnostiquer la dénutrition et prescrire des compléments nutritionnels oraux.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/profession-ide/denutrition-un-nouvel-outil-de-reperage-deploye-aupres-de-21-000-infirmiers-liberaux"
+      "title": "À l'AP-HP, les infirmiers de bloc opératoire appelés à une grève illimitée",
+      "summary": "Sud Santé a déposé un préavis de grève illimitée à partir du 12 novembre pour les IBODE de l'AP-HP ; le collectif Inter-Blocs dénonce des effectifs réduits de moitié à Necker et cinq infirmiers au lieu de 13 pour faire tourner le bloc de neurochirurgie de Lariboisière.",
+      "source": "France 3 Paris Île-de-France",
+      "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/je-n-ai-pas-envie-d-attendre-qu-un-enfant-decede-sur-la-table-a-l-ap-hp-les-infirmiers-de-bloc-operatoire-appeles-a-une-greve-illimitee-3445608.html"
     },
     {
       "category": "technique",
-      "title": "Système d'anesthésie Carestation 850 – GE Healthcare",
-      "summary": "Information de sécurité du 18 novembre (n° R2632280) adressée aux établissements : certains systèmes peuvent délivrer une concentration réduite d'agent anesthésique, signalée par les alarmes « Erreur de précision » ou « Iso non délivré ! », et GE HealthCare corrigera gratuitement les appareils concernés.",
+      "title": "Bactériologie – Test rapide Xpert MRSA/SA SSTI – Cepheid",
+      "summary": "Rappel de produit du 19 novembre (n° R2634622) destiné aux laboratoires de biologie médicale : Cepheid retire 2 lots de ce test PCR rapide de détection du SARM et du S. aureus sur prélèvements cutanés et des tissus mous, les utilisateurs concernés ayant reçu un courrier du fabricant.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/systeme-danesthesie-carestation-850-et-carestation-850-ge-healthcare"
+      "url": "https://ansm.sante.fr/informations-de-securite/bacteriologie-test-rapide-xpert-mrsa-sa-ssti-cepheid"
     },
     {
       "category": "formation",
-      "title": "Webinaires FNI : réussir son installation en libéral ou la cession de sa patientèle",
-      "summary": "La Fédération nationale des infirmiers organise le 17 décembre à 14 h un webinaire gratuit de 90 minutes sur les étapes de l'installation et de la cession de patientèle, sur inscription et dans la limite des places disponibles.",
-      "source": "FNI",
-      "url": "https://fni.fr/webinaires/"
+      "title": "Webinaire IHAB France : « Et si on se lançait dans la démarche IHAB ? »",
+      "summary": "IHAB France organise le 7 décembre de 14 h à 16 h un webinaire gratuit en ligne destiné aux équipes de maternité et de néonatalogie qui envisagent de s'engager dans le label Initiative Hôpital Ami des Bébés.",
+      "source": "IHAB France",
+      "url": "https://events.teams.microsoft.com/event/8f4ed08a-a304-4b83-a105-7adc594451dc@f9529d52-5012-485b-9510-e829c5c1518f"
     }
   ],
   "word": {
-    "field": "Urgences & vigilance",
-    "term": "Fausse route alimentaire",
-    "subtitle": "Quand le bol alimentaire se trompe de chemin et bloque les voies aériennes",
-    "definition": "La fausse route est le passage d'aliments, de liquide ou de salive dans les voies aériennes au lieu de l'œsophage ; elle peut provoquer une obstruction partielle (toux efficace) ou totale (le patient ne peut plus parler, tousser ni respirer), urgence vitale fréquente chez la personne âgée ou présentant des troubles de la déglutition.",
+    "field": "Pharmaco & thérapeutique",
+    "term": "Réévaluation de l'antibiothérapie à 48-72 h",
+    "subtitle": "Le rendez-vous obligé de tout antibiotique : continuer, adapter ou arrêter",
+    "definition": "La réévaluation à 48-72 h est le temps où l'on reconsidère toute antibiothérapie débutée, à la lumière de l'évolution clinique et des résultats microbiologiques (cultures, antibiogramme), pour confirmer l'indication, désescalader vers un spectre plus étroit, passer de la voie IV à la voie orale ou arrêter le traitement, et fixer sa durée.",
     "steps": [
       {
         "n": "1",
-        "h": "Reconnaître",
-        "t": "obstruction partielle si le patient tousse, parle et respire : l'encourager à tousser, sans taper dans le dos ; obstruction totale s'il porte les mains à la gorge, ne peut plus parler ni tousser, devient cyanosé : agir immédiatement et faire donner l'alerte."
+        "h": "Préparer",
+        "t": "réaliser les prélèvements avant la première dose (hémocultures, ECBU…), tracer l'heure de début, l'indication et la date de réévaluation prévue, et surveiller température, constantes, état général et tolérance (diarrhée, éruption, veine perfusée)."
       },
       {
         "n": "2",
-        "h": "Désobstruer",
-        "t": "patient penché en avant, jusqu'à 5 claques vigoureuses entre les omoplates, puis si inefficace jusqu'à 5 compressions abdominales (manœuvre de Heimlich), compressions thoraciques chez la femme enceinte ou la personne obèse, en alternance jusqu'à expulsion du corps étranger."
+        "h": "Signaler à J2-J3",
+        "t": "transmettre au prescripteur l'évolution clinique, l'arrivée des résultats bactériologiques et la capacité du patient à avaler : ce sont les éléments qui permettent la désescalade ou le relais per os, à noter dans le dossier."
       },
       {
         "n": "3",
-        "h": "Si perte de connaissance",
-        "t": "allonger le patient au sol, alerter (15 ou numéro d'urgence interne), débuter la réanimation cardio-pulmonaire 30/2 avec défibrillateur, puis, une fois la situation stabilisée, tracer l'événement et faire évaluer la déglutition (textures adaptées, position assise, surveillance des repas)."
+        "h": "Appliquer et suivre",
+        "t": "mettre en œuvre la nouvelle prescription (molécule, voie, posologie), retirer la voie veineuse devenue inutile, vérifier la date d'arrêt prévue et poursuivre la surveillance de l'efficacité et des effets indésirables jusqu'à la fin du traitement."
       }
     ],
-    "retenir": "Toux efficace = on laisse tousser et on surveille ; toux impossible = 5 claques dans le dos puis 5 compressions abdominales. Après toute fausse route sérieuse, un avis médical s'impose (risque de pneumopathie d'inhalation), et la prévention passe par l'installation au repas et l'adaptation des textures. ",
-    "sources": "Sources : European Resuscitation Council (Guidelines 2021, obstruction des voies aériennes par un corps étranger) · Ministère de la Santé (gestes qui sauvent) · HAS (dénutrition et troubles de la déglutition de la personne âgée)."
+    "retenir": "Pas d'antibiotique sans date de réévaluation ni durée : à 48-72 h, on confirme, on désescalade, on passe per os ou on arrête. L'infirmière y contribue par la qualité des prélèvements, de la surveillance et des transmissions, contre l'antibiorésistance. ",
+    "sources": "Sources : HAS (Choix et durées d'antibiothérapie, fiche « Réévaluation de l'antibiothérapie ») · Santé publique France (consommation d'antibiotiques 2015-2025) · SPILF (bon usage des antibiotiques)."
   }
 }

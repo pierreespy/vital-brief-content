@@ -1,83 +1,85 @@
 {
-  "dateLong": "Dim. 22 nov.",
+  "dateLong": "Lun. 23 nov.",
   "essentiel": [
-    { "text": "Le " },
-    { "text": "Sénat", "strong": true },
-    { "text": " adopte le " },
-    { "text": "PLFSS 2027", "strong": true },
-    { "text": " avant la commission mixte paritaire du 26 novembre, " },
-    { "text": "Santé publique France", "strong": true },
-    { "text": " annonce une baisse de 13,9 % des prescriptions d'antibiotiques en ville en 2025 et les " },
-    { "text": "IBODE de l'AP-HP", "strong": true },
-    { "text": " sont appelés à une grève illimitée." }
+    { "text": "L'" },
+    { "text": "ANSM", "strong": true },
+    { "text": " autorise les gélules magistrales de " },
+    { "text": "furosémide", "strong": true },
+    { "text": " sans nouvelle ordonnance face à des tensions attendues jusqu'en 2027, la " },
+    { "text": "HAS", "strong": true },
+    { "text": " publie sa recommandation sur le " },
+    { "text": "risque cardiovasculaire global", "strong": true },
+    { "text": " et la " },
+    { "text": "CGT Santé", "strong": true },
+    { "text": " couvre les soignants par un préavis de grève national jusqu'au 26 novembre." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Le Sénat adopte le budget de la Sécurité sociale pour 2027",
-      "summary": "Le PLFSS 2027 a été adopté par le Sénat le 18 novembre par 201 voix contre 124 (15 abstentions), avec notamment 400 M€ supplémentaires pour l'APA et la PCH ; le texte passe en commission mixte paritaire le 26 novembre.",
-      "source": "Egora",
-      "url": "https://www.egora.fr/actus-pro/politiques/le-senat-adopte-le-budget-de-la-securite-sociale-pour-2027"
+      "title": "Tensions en furosémide 20 et 40 mg : l'ANSM met en place de nouvelles mesures pour permettre la continuité de traitement des patients",
+      "summary": "Depuis le 18 novembre, le pharmacien peut délivrer à titre exceptionnel des gélules magistrales de furosémide 20 ou 40 mg à la place des comprimés indisponibles sans nouvelle prescription, et l'ANSM interdit temporairement les ventes directes des laboratoires aux officines ; les tensions liées à Viatris et Zentiva devraient durer plusieurs mois en 2027.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/actualites/tensions-en-furosemide-20-et-40-mg-lansm-met-en-place-de-nouvelles-mesures-pour-permettre-la-continuite-de-traitement-des-patients"
     },
     {
       "category": "alertes",
-      "title": "Disponibilité des médicaments en ville et à l'hôpital (semaines 46 et 47)",
-      "summary": "Le point bimensuel recense notamment la rupture hospitalière de Mitomycine Accord (problème de fabrication et hausse des ventes) et la tension persistante sur la duloxétine 30 et 60 mg, dont la remise à disposition est attendue fin novembre.",
-      "source": "Vidal",
-      "url": "https://www.vidal.fr/actualites/38602-disponibilite-des-medicaments-en-ville-et-a-l-hopital-semaines-46-et-47.html"
+      "title": "Défaut qualité lénalidomide : les mesures de réduction des risques doivent être strictement respectées",
+      "summary": "L'ANSM a actualisé le 19 novembre son alerte sur les gélules de lénalidomide (Viatris) retrouvées endommagées dans leurs plaquettes : port de gants, ne jamais ouvrir une plaquette abîmée, et aucun contact avec la poudre pour les femmes enceintes ou en âge de procréer, ce médicament étant tératogène.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/actualites/defaut-qualite-lenalidomide-les-mesures-de-reduction-des-risques-doivent-etre-strictement-respectees"
     },
     {
       "category": "science",
-      "title": "Consommation d'antibiotiques en secteur de ville en France, 2015-2025",
-      "summary": "Après le rebond de 2024, les prescriptions d'antibiotiques en ville reculent de 13,9 % en 2025 (741 pour 1 000 habitants) et la consommation de 9,6 %, rapprochant la France de l'objectif de 650 prescriptions pour 1 000 habitants fixé pour 2027.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/resistance-aux-antibiotiques/rapportsynthese/consommation-dantibiotiques-en-secteur-de-ville-en-france-2015-2025"
+      "title": "Risque cardiovasculaire global : la HAS publie de nouvelles recommandations de bonnes pratiques",
+      "summary": "Auto-saisie et élaborée sur quatre ans selon la méthode GRADE, la recommandation du 19 novembre demande d'évaluer le risque de chaque patient en prévention primaire à l'aide de SCORE2, de ne pas généraliser ECG, écho-Doppler ou score calcique, et ne recommande pas l'aspirine en prévention primaire en raison du risque hémorragique.",
+      "source": "Environnement Santé Politique",
+      "url": "https://environnementsantepolitique.fr/2026/11/21/la-haute-autorite-de-sante-has-sest-auto-saisie-et-vient-de-publier-de-nouvelles-recommandations-de-bonnes-pratiques-sur-levaluation-et-la-prise-en-charge-du-risque-cardiovasculair/"
     },
     {
       "category": "profession",
-      "title": "À l'AP-HP, les infirmiers de bloc opératoire appelés à une grève illimitée",
-      "summary": "Sud Santé a déposé un préavis de grève illimitée à partir du 12 novembre pour les IBODE de l'AP-HP ; le collectif Inter-Blocs dénonce des effectifs réduits de moitié à Necker et cinq infirmiers au lieu de 13 pour faire tourner le bloc de neurochirurgie de Lariboisière.",
-      "source": "France 3 Paris Île-de-France",
-      "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/je-n-ai-pas-envie-d-attendre-qu-un-enfant-decede-sur-la-table-a-l-ap-hp-les-infirmiers-de-bloc-operatoire-appeles-a-une-greve-illimitee-3445608.html"
+      "title": "Préavis de grève du 20 au 26 novembre 2026",
+      "summary": "La fédération CGT Santé et Action sociale a déposé un préavis national couvrant les personnels des établissements sanitaires, sociaux et médico-sociaux du 20 au 26 novembre, pour dénoncer les sous-effectifs et réclamer des hausses de salaire ; chaque établissement fixe son service minimum.",
+      "source": "CGT Santé Action sociale",
+      "url": "https://cgt-sante-action-sociale.fr/preavis-de-greve-du-20-au-26-novembre-2026/"
     },
     {
       "category": "technique",
-      "title": "Bactériologie – Test rapide Xpert MRSA/SA SSTI – Cepheid",
-      "summary": "Rappel de produit du 19 novembre (n° R2634622) destiné aux laboratoires de biologie médicale : Cepheid retire 2 lots de ce test PCR rapide de détection du SARM et du S. aureus sur prélèvements cutanés et des tissus mous, les utilisateurs concernés ayant reçu un courrier du fabricant.",
+      "title": "Chaise de douche/toilette mobile Raz – Raz Design Inc. : information aux utilisateurs",
+      "summary": "L'ANSM a publié le 20 novembre une information de sécurité sur les chaises de douche et d'aisance mobiles Raz, utilisées pour la toilette des patients à mobilité réduite ; au Canada, ces modèles (Raz-AT, Raz-CAT, Raz-AP, Raz-SP) ont été rappelés après qu'un côté de l'assise a pu glisser hors du cadre.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/bacteriologie-test-rapide-xpert-mrsa-sa-ssti-cepheid"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "formation",
-      "title": "Webinaire IHAB France : « Et si on se lançait dans la démarche IHAB ? »",
-      "summary": "IHAB France organise le 7 décembre de 14 h à 16 h un webinaire gratuit en ligne destiné aux équipes de maternité et de néonatalogie qui envisagent de s'engager dans le label Initiative Hôpital Ami des Bébés.",
-      "source": "IHAB France",
-      "url": "https://events.teams.microsoft.com/event/8f4ed08a-a304-4b83-a105-7adc594451dc@f9529d52-5012-485b-9510-e829c5c1518f"
+      "title": "Cicatrisations 2027 : les Journées de la Société française et francophone des plaies et cicatrisations",
+      "summary": "Le congrès de la SFFPC se tiendra du 17 au 19 janvier 2027 au Palais des Congrès de Paris, en format hybride, avec plénières, ateliers et sessions dédiées aux soins de plaies ouvertes aux infirmiers et paramédicaux.",
+      "source": "Viparis",
+      "url": "https://www.viparis.com/en/news-events/events/cicatrisation-les-journees-de-la-societe-francaise-et-francophone-plaies-et-cicatrisations-1-en"
     }
   ],
   "word": {
-    "field": "Pharmaco & thérapeutique",
-    "term": "Réévaluation de l'antibiothérapie à 48-72 h",
-    "subtitle": "Le rendez-vous obligé de tout antibiotique : continuer, adapter ou arrêter",
-    "definition": "La réévaluation à 48-72 h est le temps où l'on reconsidère toute antibiothérapie débutée, à la lumière de l'évolution clinique et des résultats microbiologiques (cultures, antibiogramme), pour confirmer l'indication, désescalader vers un spectre plus étroit, passer de la voie IV à la voie orale ou arrêter le traitement, et fixer sa durée.",
+    "field": "Urgences",
+    "term": "Œdème aigu du poumon (OAP) cardiogénique",
+    "subtitle": "Quand le cœur ne suit plus et que les poumons se noient : une urgence vitale",
+    "definition": "L'œdème aigu du poumon cardiogénique est l'accumulation brutale de liquide dans les alvéoles pulmonaires due à une élévation des pressions dans les cavités gauches du cœur (poussée d'insuffisance cardiaque, ischémie, trouble du rythme, poussée hypertensive), entraînant une détresse respiratoire aiguë.",
     "steps": [
       {
         "n": "1",
-        "h": "Préparer",
-        "t": "réaliser les prélèvements avant la première dose (hémocultures, ECBU…), tracer l'heure de début, l'indication et la date de réévaluation prévue, et surveiller température, constantes, état général et tolérance (diarrhée, éruption, veine perfusée)."
+        "h": "Reconnaître et alerter",
+        "t": "dyspnée brutale aggravée en position allongée (orthopnée), polypnée, crépitants aux deux bases, toux avec expectorations mousseuses parfois rosées, sueurs, angoisse, SpO2 qui chute : appeler immédiatement le médecin ou le SAMU."
       },
       {
         "n": "2",
-        "h": "Signaler à J2-J3",
-        "t": "transmettre au prescripteur l'évolution clinique, l'arrivée des résultats bactériologiques et la capacité du patient à avaler : ce sont les éléments qui permettent la désescalade ou le relais per os, à noter dans le dossier."
+        "h": "Installer et préparer",
+        "t": "position demi-assise jambes pendantes, oxygénothérapie selon la prescription pour corriger l'hypoxémie, scope, ECG, voie veineuse ; préparer le furosémide IV et les dérivés nitrés prescrits, ainsi que le matériel de ventilation non invasive."
       },
       {
         "n": "3",
-        "h": "Appliquer et suivre",
-        "t": "mettre en œuvre la nouvelle prescription (molécule, voie, posologie), retirer la voie veineuse devenue inutile, vérifier la date d'arrêt prévue et poursuivre la surveillance de l'efficacité et des effets indésirables jusqu'à la fin du traitement."
+        "h": "Surveiller la réponse",
+        "t": "fréquence respiratoire, SpO2, pression artérielle (risque d'hypotension sous nitrés), conscience, diurèse horaire et bilan entrées-sorties, kaliémie sous diurétique, puis poids quotidien une fois l'épisode passé."
       }
     ],
-    "retenir": "Pas d'antibiotique sans date de réévaluation ni durée : à 48-72 h, on confirme, on désescalade, on passe per os ou on arrête. L'infirmière y contribue par la qualité des prélèvements, de la surveillance et des transmissions, contre l'antibiorésistance. ",
-    "sources": "Sources : HAS (Choix et durées d'antibiothérapie, fiche « Réévaluation de l'antibiothérapie ») · Santé publique France (consommation d'antibiotiques 2015-2025) · SPILF (bon usage des antibiotiques)."
+    "retenir": "Détresse respiratoire, orthopnée et crépitants chez un patient cardiaque : penser OAP. On assoit, on oxygène, on alerte, puis on surveille de près la respiration, la tension et la diurèse sous diurétique. ",
+    "sources": "Sources : ESC (recommandations insuffisance cardiaque aiguë) · SFMU (prise en charge de la dyspnée aiguë) · HAS (parcours insuffisance cardiaque)."
   }
 }

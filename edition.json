@@ -1,85 +1,83 @@
 {
-  "dateLong": "Lun. 23 nov.",
+  "dateLong": "Mar. 24 nov.",
   "essentiel": [
-    { "text": "L'" },
+    { "text": "Le " },
+    { "text": "PLFSS 2027", "strong": true },
+    { "text": " passe en commission mixte paritaire le 26 novembre, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " autorise les gélules magistrales de " },
-    { "text": "furosémide", "strong": true },
-    { "text": " sans nouvelle ordonnance face à des tensions attendues jusqu'en 2027, la " },
-    { "text": "HAS", "strong": true },
-    { "text": " publie sa recommandation sur le " },
-    { "text": "risque cardiovasculaire global", "strong": true },
+    { "text": " signale une tension d'approvisionnement sur le " },
+    { "text": "Nozinan 25 mg", "strong": true },
     { "text": " et la " },
-    { "text": "CGT Santé", "strong": true },
-    { "text": " couvre les soignants par un préavis de grève national jusqu'au 26 novembre." }
+    { "text": "DREES", "strong": true },
+    { "text": " confirme la hausse des inscrits en formation infirmière et aide-soignante." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Tensions en furosémide 20 et 40 mg : l'ANSM met en place de nouvelles mesures pour permettre la continuité de traitement des patients",
-      "summary": "Depuis le 18 novembre, le pharmacien peut délivrer à titre exceptionnel des gélules magistrales de furosémide 20 ou 40 mg à la place des comprimés indisponibles sans nouvelle prescription, et l'ANSM interdit temporairement les ventes directes des laboratoires aux officines ; les tensions liées à Viatris et Zentiva devraient durer plusieurs mois en 2027.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/tensions-en-furosemide-20-et-40-mg-lansm-met-en-place-de-nouvelles-mesures-pour-permettre-la-continuite-de-traitement-des-patients"
+      "title": "Après l'adoption du PLFSS par le Sénat, au tour de la CMP de se pencher sur le texte, le 26 novembre",
+      "summary": "Adopté en première lecture par le Sénat le 18 novembre (201 voix contre 124) après le rejet de l'Assemblée, le budget de la Sécurité sociale 2027 est examiné le 26 novembre par une commission mixte paritaire de sept députés et sept sénateurs, jour d'expiration du délai constitutionnel de 50 jours.",
+      "source": "Le Quotidien du Médecin",
+      "url": "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/apres-ladoption-du-plfss-par-le-senat-au-tour-de-la-cmp-de-se-pencher-sur-le-texte-le-26-novembre"
     },
     {
       "category": "alertes",
-      "title": "Défaut qualité lénalidomide : les mesures de réduction des risques doivent être strictement respectées",
-      "summary": "L'ANSM a actualisé le 19 novembre son alerte sur les gélules de lénalidomide (Viatris) retrouvées endommagées dans leurs plaquettes : port de gants, ne jamais ouvrir une plaquette abîmée, et aucun contact avec la poudre pour les femmes enceintes ou en âge de procréer, ce médicament étant tératogène.",
+      "title": "Disponibilité des médicaments : Nozinan 25 mg, comprimé pelliculé sécable, en tension d'approvisionnement",
+      "summary": "L'ANSM a mis à jour le 23 novembre la fiche du Nozinan 25 mg (lévomépromazine), antipsychotique très utilisé en psychiatrie et en soins palliatifs, signalé en tension d'approvisionnement sans date de remise à disposition annoncée : anticiper avec le prescripteur et la pharmacie.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/actualites/defaut-qualite-lenalidomide-les-mesures-de-reduction-des-risques-doivent-etre-strictement-respectees"
+      "url": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments"
     },
     {
       "category": "science",
-      "title": "Risque cardiovasculaire global : la HAS publie de nouvelles recommandations de bonnes pratiques",
-      "summary": "Auto-saisie et élaborée sur quatre ans selon la méthode GRADE, la recommandation du 19 novembre demande d'évaluer le risque de chaque patient en prévention primaire à l'aide de SCORE2, de ne pas généraliser ECG, écho-Doppler ou score calcique, et ne recommande pas l'aspirine en prévention primaire en raison du risque hémorragique.",
-      "source": "Environnement Santé Politique",
-      "url": "https://environnementsantepolitique.fr/2026/11/21/la-haute-autorite-de-sante-has-sest-auto-saisie-et-vient-de-publier-de-nouvelles-recommandations-de-bonnes-pratiques-sur-levaluation-et-la-prise-en-charge-du-risque-cardiovasculair/"
+      "title": "Formation aux professions paramédicales : infirmier et aide-soignant toujours en hausse",
+      "summary": "Selon la DREES, 180 700 élèves et étudiants (dont 83 % de femmes) étaient inscrits en 2025 dans l'une des 1 430 formations paramédicales, les effectifs en formation infirmière et aide-soignante poursuivant leur progression.",
+      "source": "Santé Mentale",
+      "url": "https://www.santementale.fr/2026/11/formation-aux-professions-paramedicales-infirmier-et-aide-soignant-toujours-en-hausse/"
     },
     {
       "category": "profession",
-      "title": "Préavis de grève du 20 au 26 novembre 2026",
-      "summary": "La fédération CGT Santé et Action sociale a déposé un préavis national couvrant les personnels des établissements sanitaires, sociaux et médico-sociaux du 20 au 26 novembre, pour dénoncer les sous-effectifs et réclamer des hausses de salaire ; chaque établissement fixe son service minimum.",
-      "source": "CGT Santé Action sociale",
-      "url": "https://cgt-sante-action-sociale.fr/preavis-de-greve-du-20-au-26-novembre-2026/"
+      "title": "Ratios de soignants : la HAS lance ses travaux, premier avis en novembre 2026",
+      "summary": "En application de la loi du 29 janvier 2025, la HAS doit rendre ce mois-ci son premier avis sur les ratios minimum soignants en obstétrique et néonatalogie, pour une fixation par décret au 1er janvier 2027 ; la psychiatrie et les soins palliatifs suivront en 2027.",
+      "source": "SOS IDEC",
+      "url": "https://sosidec.com/actualites/ratios-soignants-has-note-cadrage-premier-avis-novembre-2026"
     },
     {
       "category": "technique",
-      "title": "Chaise de douche/toilette mobile Raz – Raz Design Inc. : information aux utilisateurs",
-      "summary": "L'ANSM a publié le 20 novembre une information de sécurité sur les chaises de douche et d'aisance mobiles Raz, utilisées pour la toilette des patients à mobilité réduite ; au Canada, ces modèles (Raz-AT, Raz-CAT, Raz-AP, Raz-SP) ont été rappelés après qu'un côté de l'assise a pu glisser hors du cadre.",
+      "title": "Matériel ancillaire (rachis) – Broche de Kirschner en nitinol, mousse du système rachidien ES2 – Stryker Spine : rappel",
+      "summary": "L'ANSM a publié le 23 novembre le retrait de lots (rappel n° R2631553) de broches de Kirschner en nitinol et de mousses du système rachidien ES2 de Stryker Spine, destiné aux établissements de santé : les équipes de bloc et de stérilisation doivent vérifier leurs stocks.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "url": "https://ansm.sante.fr/informations-de-securite/materiel-ancillaire-rachis-broche-de-kirschner-en-nitinol-mousse-du-systeme-rachidien-es2-stryker-spine-inc"
     },
     {
       "category": "formation",
-      "title": "Cicatrisations 2027 : les Journées de la Société française et francophone des plaies et cicatrisations",
-      "summary": "Le congrès de la SFFPC se tiendra du 17 au 19 janvier 2027 au Palais des Congrès de Paris, en format hybride, avec plénières, ateliers et sessions dédiées aux soins de plaies ouvertes aux infirmiers et paramédicaux.",
-      "source": "Viparis",
-      "url": "https://www.viparis.com/en/news-events/events/cicatrisation-les-journees-de-la-societe-francaise-et-francophone-plaies-et-cicatrisations-1-en"
+      "title": "Congrès Urgences 2027 de la SFMU : dates, tarifs, programme",
+      "summary": "Le congrès annuel de la Société française de médecine d'urgence se tiendra du 2 au 4 juin 2027 ; l'appel à communications, ouvert aux infirmiers, ferme le 16 décembre 2026 et les inscriptions ouvrent début janvier 2027.",
+      "source": "Lona Santé",
+      "url": "https://www.lonasante.com/congres-urgences/"
     }
   ],
   "word": {
-    "field": "Urgences",
-    "term": "Œdème aigu du poumon (OAP) cardiogénique",
-    "subtitle": "Quand le cœur ne suit plus et que les poumons se noient : une urgence vitale",
-    "definition": "L'œdème aigu du poumon cardiogénique est l'accumulation brutale de liquide dans les alvéoles pulmonaires due à une élévation des pressions dans les cavités gauches du cœur (poussée d'insuffisance cardiaque, ischémie, trouble du rythme, poussée hypertensive), entraînant une détresse respiratoire aiguë.",
+    "field": "Pharmacovigilance",
+    "term": "Syndrome malin des neuroleptiques",
+    "subtitle": "Fièvre, rigidité et confusion sous antipsychotique : une urgence rare mais mortelle",
+    "definition": "Le syndrome malin des neuroleptiques est une complication rare et grave des antipsychotiques (ou de l'arrêt brutal d'un antiparkinsonien), associant hyperthermie, rigidité musculaire, troubles de la conscience et dysautonomie, avec élévation des CPK.",
     "steps": [
       {
         "n": "1",
-        "h": "Reconnaître et alerter",
-        "t": "dyspnée brutale aggravée en position allongée (orthopnée), polypnée, crépitants aux deux bases, toux avec expectorations mousseuses parfois rosées, sueurs, angoisse, SpO2 qui chute : appeler immédiatement le médecin ou le SAMU."
+        "h": "Repérer",
+        "t": "chez un patient sous neuroleptique (surtout à l'introduction, à une hausse de dose ou en injection retard) : fièvre inexpliquée, rigidité « en tuyau de plomb », confusion, sueurs, tachycardie, tension instable ; alerter immédiatement le médecin."
       },
       {
         "n": "2",
-        "h": "Installer et préparer",
-        "t": "position demi-assise jambes pendantes, oxygénothérapie selon la prescription pour corriger l'hypoxémie, scope, ECG, voie veineuse ; préparer le furosémide IV et les dérivés nitrés prescrits, ainsi que le matériel de ventilation non invasive."
+        "h": "Agir",
+        "t": "suspendre l'administration du neuroleptique sur avis médical, réaliser le bilan prescrit (CPK, ionogramme, créatinine, NFS), poser une voie veineuse, hydrater, refroidir le patient et préparer un éventuel transfert en réanimation."
       },
       {
         "n": "3",
-        "h": "Surveiller la réponse",
-        "t": "fréquence respiratoire, SpO2, pression artérielle (risque d'hypotension sous nitrés), conscience, diurèse horaire et bilan entrées-sorties, kaliémie sous diurétique, puis poids quotidien une fois l'épisode passé."
+        "h": "Surveiller",
+        "t": "température, pression artérielle, fréquence cardiaque et respiratoire, conscience, diurèse et aspect des urines (rhabdomyolyse, insuffisance rénale), état cutané du patient immobilisé ; déclarer l'effet indésirable en pharmacovigilance."
       }
     ],
-    "retenir": "Détresse respiratoire, orthopnée et crépitants chez un patient cardiaque : penser OAP. On assoit, on oxygène, on alerte, puis on surveille de près la respiration, la tension et la diurèse sous diurétique. ",
-    "sources": "Sources : ESC (recommandations insuffisance cardiaque aiguë) · SFMU (prise en charge de la dyspnée aiguë) · HAS (parcours insuffisance cardiaque)."
+    "retenir": "Fièvre + rigidité + confusion sous antipsychotique = syndrome malin jusqu'à preuve du contraire. On alerte, on suspend sur prescription, on refroidit, on hydrate et on surveille les CPK et la fonction rénale. ",
+    "sources": "Sources : ANSM (dossier antipsychotiques) · Vidal (lévomépromazine, mises en garde) · HAS (bon usage des antipsychotiques)."
   }
 }

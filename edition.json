@@ -1,83 +1,85 @@
 {
-  "dateLong": "Mar. 24 nov.",
+  "dateLong": "Mer. 25 nov.",
   "essentiel": [
-    { "text": "Le " },
+    { "text": "À la veille de la CMP sur le " },
     { "text": "PLFSS 2027", "strong": true },
-    { "text": " passe en commission mixte paritaire le 26 novembre, l'" },
+    { "text": ", la " },
+    { "text": "FNI", "strong": true },
+    { "text": " s'oppose à la facturation d'actes infirmiers par les sociétés de téléconsultation, l'" },
+    { "text": "UNIPA", "strong": true },
+    { "text": " pose ses conditions au doublement des " },
+    { "text": "IPA", "strong": true },
+    { "text": " formés et l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " signale une tension d'approvisionnement sur le " },
-    { "text": "Nozinan 25 mg", "strong": true },
-    { "text": " et la " },
-    { "text": "DREES", "strong": true },
-    { "text": " confirme la hausse des inscrits en formation infirmière et aide-soignante." }
+    { "text": " publie un nouveau rappel du stent coronaire Shockwave Reducer." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Après l'adoption du PLFSS par le Sénat, au tour de la CMP de se pencher sur le texte, le 26 novembre",
-      "summary": "Adopté en première lecture par le Sénat le 18 novembre (201 voix contre 124) après le rejet de l'Assemblée, le budget de la Sécurité sociale 2027 est examiné le 26 novembre par une commission mixte paritaire de sept députés et sept sénateurs, jour d'expiration du délai constitutionnel de 50 jours.",
-      "source": "Le Quotidien du Médecin",
-      "url": "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/apres-ladoption-du-plfss-par-le-senat-au-tour-de-la-cmp-de-se-pencher-sur-le-texte-le-26-novembre"
+      "title": "PLFSS 2027 : ces mesures qui pourraient concerner les IDEL",
+      "summary": "Alors que la commission mixte paritaire se réunit le 26 novembre, la FNI dénonce l'article 23 qui permettrait aux sociétés de téléconsultation de facturer à l'Assurance maladie les actes d'assistance réalisés à domicile par les infirmiers qu'elles emploient, y voyant une « financiarisation » des soins.",
+      "source": "FNI",
+      "url": "https://fni.fr/plfss-2027-ces-mesures-qui-pourraient-concerner-les-idel/"
     },
     {
       "category": "alertes",
-      "title": "Disponibilité des médicaments : Nozinan 25 mg, comprimé pelliculé sécable, en tension d'approvisionnement",
-      "summary": "L'ANSM a mis à jour le 23 novembre la fiche du Nozinan 25 mg (lévomépromazine), antipsychotique très utilisé en psychiatrie et en soins palliatifs, signalé en tension d'approvisionnement sans date de remise à disposition annoncée : anticiper avec le prescripteur et la pharmacie.",
+      "title": "Préservatifs Amor Thin et Vibratissimo Mix : rappel de lots",
+      "summary": "L'ANSM a publié le 23 novembre le rappel de préservatifs Amor Thin (boîte de 12) et Vibratissimo Mix (boîte de 100) : en consultation de prévention ou en santé sexuelle, informer les patients de vérifier leurs boîtes et de ne pas utiliser les produits concernés.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments"
+      "url": "https://ansm.sante.fr/informations-de-securite/"
     },
     {
       "category": "science",
-      "title": "Formation aux professions paramédicales : infirmier et aide-soignant toujours en hausse",
-      "summary": "Selon la DREES, 180 700 élèves et étudiants (dont 83 % de femmes) étaient inscrits en 2025 dans l'une des 1 430 formations paramédicales, les effectifs en formation infirmière et aide-soignante poursuivant leur progression.",
+      "title": "Expérience patient à l'hôpital : un rapport pour éclairer son développement",
+      "summary": "Le rapport de l'IGAS (Dupays, Goichot, Sudreau) constate un déploiement encore hétérogène des démarches d'expérience patient et formule 12 recommandations en 4 axes : recueillir la parole des patients ne suffit pas, il faut la traduire en actions construites avec eux et les équipes soignantes.",
       "source": "Santé Mentale",
-      "url": "https://www.santementale.fr/2026/11/formation-aux-professions-paramedicales-infirmier-et-aide-soignant-toujours-en-hausse/"
+      "url": "https://www.santementale.fr/2026/11/experience-patient-a-lhopital-un-rapport-pour-eclairer-son-developpement/"
     },
     {
       "category": "profession",
-      "title": "Ratios de soignants : la HAS lance ses travaux, premier avis en novembre 2026",
-      "summary": "En application de la loi du 29 janvier 2025, la HAS doit rendre ce mois-ci son premier avis sur les ratios minimum soignants en obstétrique et néonatalogie, pour une fixation par décret au 1er janvier 2027 ; la psychiatrie et les soins palliatifs suivront en 2027.",
-      "source": "SOS IDEC",
-      "url": "https://sosidec.com/actualites/ratios-soignants-has-note-cadrage-premier-avis-novembre-2026"
+      "title": "Pratique avancée : plus d'infirmières formées et « reconnues »… l'Unipa dit « oui », mais à certaines conditions",
+      "summary": "L'Union nationale des IPA salue l'objectif gouvernemental de doubler les IPA formés dès 2027 (3 973 diplômés et 1 988 étudiants en janvier 2026), mais réclame une formation exigeante sans raccourci par la VAE et une reconnaissance effective des responsabilités.",
+      "source": "Concours pluripro",
+      "url": "https://www.concourspluripro.fr/exercice-pluriprofessionnel/metiers/pratique-avancee-plus-dinfirmieres-formees-et-reconnues-lunipa"
     },
     {
       "category": "technique",
-      "title": "Matériel ancillaire (rachis) – Broche de Kirschner en nitinol, mousse du système rachidien ES2 – Stryker Spine : rappel",
-      "summary": "L'ANSM a publié le 23 novembre le retrait de lots (rappel n° R2631553) de broches de Kirschner en nitinol et de mousses du système rachidien ES2 de Stryker Spine, destiné aux établissements de santé : les équipes de bloc et de stérilisation doivent vérifier leurs stocks.",
+      "title": "Stent de réduction du sinus coronaire – Shockwave Reducer – Shockwave Medical : rappel",
+      "summary": "L'ANSM a publié le 24 novembre un nouveau rappel (n° R2633204) du stent Shockwave Reducer destiné aux établissements de santé, après une première action d'octobre liée à des difficultés de dégonflage du ballonnet à l'implantation : les équipes de cardiologie interventionnelle doivent contrôler leurs stocks.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/materiel-ancillaire-rachis-broche-de-kirschner-en-nitinol-mousse-du-systeme-rachidien-es2-stryker-spine-inc"
+      "url": "https://ansm.sante.fr/informations-de-securite/stent-de-reduction-du-sinus-coronaire-shockwave-reducer-shockwave-medical"
     },
     {
       "category": "formation",
-      "title": "Congrès Urgences 2027 de la SFMU : dates, tarifs, programme",
-      "summary": "Le congrès annuel de la Société française de médecine d'urgence se tiendra du 2 au 4 juin 2027 ; l'appel à communications, ouvert aux infirmiers, ferme le 16 décembre 2026 et les inscriptions ouvrent début janvier 2027.",
-      "source": "Lona Santé",
-      "url": "https://www.lonasante.com/congres-urgences/"
+      "title": "Certification périodique : attention aux échéances",
+      "summary": "Les orientations prioritaires DPC 2023-2025 ayant été prorogées jusqu'au 31 décembre 2026, il reste un peu plus de cinq semaines aux infirmiers pour terminer et faire valider leurs actions sur Mon DPC avant la clôture de la période.",
+      "source": "Infirmiers.com",
+      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
     }
   ],
   "word": {
-    "field": "Pharmacovigilance",
-    "term": "Syndrome malin des neuroleptiques",
-    "subtitle": "Fièvre, rigidité et confusion sous antipsychotique : une urgence rare mais mortelle",
-    "definition": "Le syndrome malin des neuroleptiques est une complication rare et grave des antipsychotiques (ou de l'arrêt brutal d'un antiparkinsonien), associant hyperthermie, rigidité musculaire, troubles de la conscience et dysautonomie, avec élévation des CPK.",
+    "field": "Gestes & soins",
+    "term": "Drainage thoracique",
+    "subtitle": "Un tuyau, un bocal, une surveillance sans faille : évacuer l'air ou le liquide de la plèvre",
+    "definition": "Le drainage thoracique consiste à évacuer de l'air (pneumothorax), du liquide (épanchement pleural) ou du sang (hémothorax) de la cavité pleurale par un drain relié à un système clos en aspiration ou en siphonage, afin de permettre la réexpansion du poumon.",
     "steps": [
       {
         "n": "1",
-        "h": "Repérer",
-        "t": "chez un patient sous neuroleptique (surtout à l'introduction, à une hausse de dose ou en injection retard) : fièvre inexpliquée, rigidité « en tuyau de plomb », confusion, sueurs, tachycardie, tension instable ; alerter immédiatement le médecin."
+        "h": "Préparer",
+        "t": "le système de drainage (montage stérile, niveau d'eau du compartiment de valve et réglage de l'aspiration prescrite), installer le patient, assister le médecin à la pose en asepsie chirurgicale et vérifier la fixation du drain et l'étanchéité des raccords."
       },
       {
         "n": "2",
-        "h": "Agir",
-        "t": "suspendre l'administration du neuroleptique sur avis médical, réaliser le bilan prescrit (CPK, ionogramme, créatinine, NFS), poser une voie veineuse, hydrater, refroidir le patient et préparer un éventuel transfert en réanimation."
+        "h": "Sécuriser",
+        "t": "garder le bocal toujours en dessous du thorax, ne jamais clamper le drain sans prescription (sauf débranchement accidentel ou changement de système), éviter les coudures et garder deux pinces à portée de main au lit du patient."
       },
       {
         "n": "3",
         "h": "Surveiller",
-        "t": "température, pression artérielle, fréquence cardiaque et respiratoire, conscience, diurèse et aspect des urines (rhabdomyolyse, insuffisance rénale), état cutané du patient immobilisé ; déclarer l'effet indésirable en pharmacovigilance."
+        "t": "fréquence respiratoire, SpO₂, douleur et ampliation thoracique ; oscillation de la colonne d'eau, bullage, quantité et aspect du liquide drainé (alerter si sang rouge abondant) ; pansement, emphysème sous-cutané au point d'insertion ; tracer chaque observation."
       }
     ],
-    "retenir": "Fièvre + rigidité + confusion sous antipsychotique = syndrome malin jusqu'à preuve du contraire. On alerte, on suspend sur prescription, on refroidit, on hydrate et on surveille les CPK et la fonction rénale. ",
-    "sources": "Sources : ANSM (dossier antipsychotiques) · Vidal (lévomépromazine, mises en garde) · HAS (bon usage des antipsychotiques)."
+    "retenir": "Bocal sous le thorax, système clos et étanche, pas de clampage sans prescription. Une colonne qui n'oscille plus, un bullage inattendu, une dyspnée ou un drainage sanglant abondant : on alerte immédiatement. ",
+    "sources": "Sources : HAS (prévention des infections liées aux dispositifs invasifs) · SPLF (recommandations pneumothorax) · Protocoles de soins infirmiers CHU."
   }
 }

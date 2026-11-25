@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Drainage thoracique",
+      "date": "2026-11-25"
+    },
+    {
       "term": "Syndrome malin des neuroleptiques",
       "date": "2026-11-24"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Titration morphinique",
       "date": "2026-10-25"
-    },
-    {
-      "term": "Pression artérielle moyenne (PAM)",
-      "date": "2026-10-24"
     }
   ]
 }

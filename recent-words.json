@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Syndrome de renutrition inappropriée (SRI)",
+      "date": "2026-11-26"
+    },
+    {
       "term": "Drainage thoracique",
       "date": "2026-11-25"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Choc anaphylactique",
       "date": "2026-10-26"
-    },
-    {
-      "term": "Titration morphinique",
-      "date": "2026-10-25"
     }
   ]
 }

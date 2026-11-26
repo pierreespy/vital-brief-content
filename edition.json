@@ -1,85 +1,83 @@
 {
-  "dateLong": "Mer. 25 nov.",
+  "dateLong": "Jeu. 26 nov.",
   "essentiel": [
-    { "text": "À la veille de la CMP sur le " },
+    { "text": "Jour de " },
+    { "text": "CMP", "strong": true },
+    { "text": " sur le " },
     { "text": "PLFSS 2027", "strong": true },
-    { "text": ", la " },
-    { "text": "FNI", "strong": true },
-    { "text": " s'oppose à la facturation d'actes infirmiers par les sociétés de téléconsultation, l'" },
-    { "text": "UNIPA", "strong": true },
-    { "text": " pose ses conditions au doublement des " },
-    { "text": "IPA", "strong": true },
-    { "text": " formés et l'" },
+    { "text": ", " },
+    { "text": "Santé publique France", "strong": true },
+    { "text": " compte sept régions en pré-épidémie de grippe et l'Île-de-France en épidémie de bronchiolite, tandis que l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " publie un nouveau rappel du stent coronaire Shockwave Reducer." }
+    { "text": " relaie le retrait de toutes les endoprothèses Relay et Treo de Terumo Aortic." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "PLFSS 2027 : ces mesures qui pourraient concerner les IDEL",
-      "summary": "Alors que la commission mixte paritaire se réunit le 26 novembre, la FNI dénonce l'article 23 qui permettrait aux sociétés de téléconsultation de facturer à l'Assurance maladie les actes d'assistance réalisés à domicile par les infirmiers qu'elles emploient, y voyant une « financiarisation » des soins.",
-      "source": "FNI",
-      "url": "https://fni.fr/plfss-2027-ces-mesures-qui-pourraient-concerner-les-idel/"
+      "title": "Après l'adoption du PLFSS par le Sénat, au tour de la CMP de se pencher sur le texte, le 26 novembre",
+      "summary": "Adopté le 18 novembre au Sénat par 201 voix contre 124, le PLFSS 2027 passe ce jeudi devant sept députés et sept sénateurs : en cas d'échec de la CMP, une nouvelle lecture s'ouvrira et l'Assemblée aura le dernier mot, notamment sur l'article 23 (téléconsultation assistée par infirmier).",
+      "source": "Le Quotidien du Médecin",
+      "url": "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/apres-ladoption-du-plfss-par-le-senat-au-tour-de-la-cmp-de-se-pencher-sur-le-texte-le-26-novembre"
     },
     {
       "category": "alertes",
-      "title": "Préservatifs Amor Thin et Vibratissimo Mix : rappel de lots",
-      "summary": "L'ANSM a publié le 23 novembre le rappel de préservatifs Amor Thin (boîte de 12) et Vibratissimo Mix (boîte de 100) : en consultation de prévention ou en santé sexuelle, informer les patients de vérifier leurs boîtes et de ne pas utiliser les produits concernés.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/"
+      "title": "Infections respiratoires aiguës (grippe, bronchiolite, covid-19). Bulletin du 25 novembre 2026",
+      "summary": "En semaine 47, la circulation des virus grippaux s'intensifie avec sept régions de l'Hexagone en pré-épidémie et l'Île-de-France bascule en épidémie de bronchiolite : le moment de relancer la vaccination antigrippale des patients à risque et des soignants.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-25-novembre-2026"
     },
     {
       "category": "science",
-      "title": "Expérience patient à l'hôpital : un rapport pour éclairer son développement",
-      "summary": "Le rapport de l'IGAS (Dupays, Goichot, Sudreau) constate un déploiement encore hétérogène des démarches d'expérience patient et formule 12 recommandations en 4 axes : recueillir la parole des patients ne suffit pas, il faut la traduire en actions construites avec eux et les équipes soignantes.",
-      "source": "Santé Mentale",
-      "url": "https://www.santementale.fr/2026/11/experience-patient-a-lhopital-un-rapport-pour-eclairer-son-developpement/"
+      "title": "Soins non programmés, vaccination, IVG : une étude révèle les pratiques des infirmières en centres de santé",
+      "summary": "L'enquête de l'Union syndicale des professionnels de centres de santé (155 répondants) montre que les infirmières en soins généraux y assurent souvent l'accueil des urgences et consultations non programmées, au-delà de la vaccination et de l'accompagnement des IVG.",
+      "source": "Concours pluripro",
+      "url": "https://www.concourspluripro.fr/exercice-pluriprofessionnel/centres-de-sante/soins-non-programmes-vaccination-ivg-une-etude-revele"
     },
     {
       "category": "profession",
-      "title": "Pratique avancée : plus d'infirmières formées et « reconnues »… l'Unipa dit « oui », mais à certaines conditions",
-      "summary": "L'Union nationale des IPA salue l'objectif gouvernemental de doubler les IPA formés dès 2027 (3 973 diplômés et 1 988 étudiants en janvier 2026), mais réclame une formation exigeante sans raccourci par la VAE et une reconnaissance effective des responsabilités.",
-      "source": "Concours pluripro",
-      "url": "https://www.concourspluripro.fr/exercice-pluriprofessionnel/metiers/pratique-avancee-plus-dinfirmieres-formees-et-reconnues-lunipa"
+      "title": "Indemnités journalières : Convergence Infirmière s'oppose à la hausse des cotisations et à l'allongement de la carence",
+      "summary": "Pour combler un déficit de 309 millions d'euros du régime des libéraux, le gouvernement envisage de porter la cotisation IJ à 0,40 % et le délai de carence de trois à huit jours : Convergence Infirmière dénonce une double peine pour les IDEL.",
+      "source": "Infirmiers.com",
+      "url": "https://infirmiers.com/exercice-liberal/indemnites-journalieres-convergence-infirmiere-soppose-la-hausse-des-cotisations-et-lallongement-de"
     },
     {
       "category": "technique",
-      "title": "Stent de réduction du sinus coronaire – Shockwave Reducer – Shockwave Medical : rappel",
-      "summary": "L'ANSM a publié le 24 novembre un nouveau rappel (n° R2633204) du stent Shockwave Reducer destiné aux établissements de santé, après une première action d'octobre liée à des difficultés de dégonflage du ballonnet à l'implantation : les équipes de cardiologie interventionnelle doivent contrôler leurs stocks.",
+      "title": "Endoprothèses thoraciques Relay Plus et Relay Pro et endoprothèse abdominale Treo – Terumo Aortic : rappel",
+      "summary": "Terumo Aortic retire tous les systèmes Relay Plus, Relay Pro et Treo non périmés, sur-mesure compris, en raison d'une possible présence d'endotoxines : arrêt immédiat d'utilisation et mise en quarantaine des stocks dans les blocs de chirurgie vasculaire.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/stent-de-reduction-du-sinus-coronaire-shockwave-reducer-shockwave-medical"
+      "url": "https://ansm.sante.fr/informations-de-securite/endoprotheses-thoraciques-relay-plus-et-relay-pro-et-endoprothese-abdominale-treo-terumo-aortic"
     },
     {
       "category": "formation",
-      "title": "Certification périodique : attention aux échéances",
-      "summary": "Les orientations prioritaires DPC 2023-2025 ayant été prorogées jusqu'au 31 décembre 2026, il reste un peu plus de cinq semaines aux infirmiers pour terminer et faire valider leurs actions sur Mon DPC avant la clôture de la période.",
-      "source": "Infirmiers.com",
-      "url": "https://www.infirmiers.com/formation-professionnelle/certification-periodique-attention-aux-echeances"
+      "title": "Webinaire : la prise en charge des patients consommateurs d'opioïdes",
+      "summary": "L'URPS Infirmière PACA propose aux infirmiers libéraux un temps d'échange d'une heure le jeudi 3 décembre (14 h-15 h) sur l'accompagnement à domicile des patients sous opioïdes et la prévention des surdoses.",
+      "source": "URPS Infirmière PACA",
+      "url": "https://www.urps-infirmiere-paca.fr/retrouvez-nos-webinaires-nhesitez-pas-a-vous-inscrire/"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Drainage thoracique",
-    "subtitle": "Un tuyau, un bocal, une surveillance sans faille : évacuer l'air ou le liquide de la plèvre",
-    "definition": "Le drainage thoracique consiste à évacuer de l'air (pneumothorax), du liquide (épanchement pleural) ou du sang (hémothorax) de la cavité pleurale par un drain relié à un système clos en aspiration ou en siphonage, afin de permettre la réexpansion du poumon.",
+    "field": "Clinique & nutrition",
+    "term": "Syndrome de renutrition inappropriée (SRI)",
+    "subtitle": "Quand nourrir trop vite un patient dénutri devient dangereux",
+    "definition": "Le syndrome de renutrition inappropriée est un ensemble de troubles métaboliques (hypophosphorémie, hypokaliémie, hypomagnésémie, carence en thiamine, rétention hydrosodée) survenant à la reprise d'une alimentation orale, entérale ou parentérale chez un patient dénutri ou à jeun prolongé, pouvant entraîner insuffisance cardiaque, troubles du rythme et décès.",
     "steps": [
       {
         "n": "1",
-        "h": "Préparer",
-        "t": "le système de drainage (montage stérile, niveau d'eau du compartiment de valve et réglage de l'aspiration prescrite), installer le patient, assister le médecin à la pose en asepsie chirurgicale et vérifier la fixation du drain et l'étanchéité des raccords."
+        "h": "Repérer",
+        "t": "les patients à risque avant toute renutrition : IMC < 16, perte de poids > 15 % en 3-6 mois, apports quasi nuls depuis plus de 10 jours, alcoolisme chronique, anorexie mentale, phosphore, potassium ou magnésium déjà bas ; le signaler au médecin et au diététicien."
       },
       {
         "n": "2",
-        "h": "Sécuriser",
-        "t": "garder le bocal toujours en dessous du thorax, ne jamais clamper le drain sans prescription (sauf débranchement accidentel ou changement de système), éviter les coudures et garder deux pinces à portée de main au lit du patient."
+        "h": "Renourrir progressivement",
+        "t": "appliquer la prescription : apports énergétiques débutés bas (de l'ordre de 10 kcal/kg/j chez les plus à risque) puis augmentés par paliers, supplémentation en thiamine avant et pendant la renutrition, ainsi qu'en phosphore, potassium et magnésium selon le bilan."
       },
       {
         "n": "3",
         "h": "Surveiller",
-        "t": "fréquence respiratoire, SpO₂, douleur et ampliation thoracique ; oscillation de la colonne d'eau, bullage, quantité et aspect du liquide drainé (alerter si sang rouge abondant) ; pansement, emphysème sous-cutané au point d'insertion ; tracer chaque observation."
+        "t": "ionogramme, phosphorémie et magnésémie quotidiens les premiers jours, poids, bilan entrées-sorties, œdèmes, fréquence cardiaque, dyspnée, confusion ou faiblesse musculaire ; alerter au moindre signe et tracer chaque paramètre."
       }
     ],
-    "retenir": "Bocal sous le thorax, système clos et étanche, pas de clampage sans prescription. Une colonne qui n'oscille plus, un bullage inattendu, une dyspnée ou un drainage sanglant abondant : on alerte immédiatement. ",
-    "sources": "Sources : HAS (prévention des infections liées aux dispositifs invasifs) · SPLF (recommandations pneumothorax) · Protocoles de soins infirmiers CHU."
+    "retenir": "Chez le patient dénutri, on renourrit lentement : thiamine d'abord, apports augmentés par paliers, phosphore surveillé de près. Œdèmes, tachycardie, dyspnée ou confusion à la reprise alimentaire = penser SRI et alerter. ",
+    "sources": "Sources : HAS / FFN (diagnostic de la dénutrition, 2019-2021) · SFNCM (recommandations sur le syndrome de renutrition inappropriée) · NICE CG32."
   }
 }

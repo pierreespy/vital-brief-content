@@ -1,83 +1,83 @@
 {
-  "dateLong": "Jeu. 26 nov.",
+  "dateLong": "Ven. 27 nov.",
   "essentiel": [
-    { "text": "Jour de " },
+    { "text": "La " },
     { "text": "CMP", "strong": true },
-    { "text": " sur le " },
+    { "text": " a échoué sur le " },
     { "text": "PLFSS 2027", "strong": true },
-    { "text": ", " },
-    { "text": "Santé publique France", "strong": true },
-    { "text": " compte sept régions en pré-épidémie de grippe et l'Île-de-France en épidémie de bronchiolite, tandis que l'" },
+    { "text": ", qui repart en nouvelle lecture à l'Assemblée dès le 7 décembre, tandis que l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " relaie le retrait de toutes les endoprothèses Relay et Treo de Terumo Aortic." }
+    { "text": " rappelle quatre lots de " },
+    { "text": "Valproate de sodium Arrow", "strong": true },
+    { "text": " solution buvable pour une seringue doseuse non conforme." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Après l'adoption du PLFSS par le Sénat, au tour de la CMP de se pencher sur le texte, le 26 novembre",
-      "summary": "Adopté le 18 novembre au Sénat par 201 voix contre 124, le PLFSS 2027 passe ce jeudi devant sept députés et sept sénateurs : en cas d'échec de la CMP, une nouvelle lecture s'ouvrira et l'Assemblée aura le dernier mot, notamment sur l'article 23 (téléconsultation assistée par infirmier).",
-      "source": "Le Quotidien du Médecin",
-      "url": "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/apres-ladoption-du-plfss-par-le-senat-au-tour-de-la-cmp-de-se-pencher-sur-le-texte-le-26-novembre"
+      "title": "Budget 2027 de la Sécurité sociale : députés et sénateurs échouent à trouver un compromis",
+      "summary": "Réunie jeudi 26 novembre, la CMP sur le PLFSS 2027 s'est séparée sans accord après 1 h 15 : le texte repasse en commission des affaires sociales de l'Assemblée dès lundi, puis en séance le 7 décembre, avant une lecture définitive où les députés auront le dernier mot.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-echec-de-la-tentative-de-compromis-entre-deputes-et-senateurs"
     },
     {
       "category": "alertes",
-      "title": "Infections respiratoires aiguës (grippe, bronchiolite, covid-19). Bulletin du 25 novembre 2026",
-      "summary": "En semaine 47, la circulation des virus grippaux s'intensifie avec sept régions de l'Hexagone en pré-épidémie et l'Île-de-France bascule en épidémie de bronchiolite : le moment de relancer la vaccination antigrippale des patients à risque et des soignants.",
-      "source": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-25-novembre-2026"
+      "title": "Valproate de Sodium Arrow 200 mg/mL, solution buvable – Laboratoire Arrow Génériques : rappel de lots",
+      "summary": "Une seringue étiquetée « Bétaméthasone 0,05 % » et graduée en gouttes au lieu de milligrammes a été retrouvée dans des étuis scellés : les lots 1047, 1048, 1056 et 1057 sont rappelés en établissements de santé, avec un risque de surdosage grave chez le nourrisson et le jeune enfant.",
+      "source": "ANSM",
+      "url": "https://ansm.sante.fr/informations-de-securite/valproate-de-sodium-arrow-200-mg-ml-solution-buvable-laboratoire-arrow-generiques"
     },
     {
       "category": "science",
-      "title": "Soins non programmés, vaccination, IVG : une étude révèle les pratiques des infirmières en centres de santé",
-      "summary": "L'enquête de l'Union syndicale des professionnels de centres de santé (155 répondants) montre que les infirmières en soins généraux y assurent souvent l'accueil des urgences et consultations non programmées, au-delà de la vaccination et de l'accompagnement des IVG.",
-      "source": "Concours pluripro",
-      "url": "https://www.concourspluripro.fr/exercice-pluriprofessionnel/centres-de-sante/soins-non-programmes-vaccination-ivg-une-etude-revele"
+      "title": "Résultats de la Grande Consultation Santé",
+      "summary": "Près de 29 000 soignants, dont 13 577 infirmiers, ont répondu à l'enquête du Shift Project : 74 % ont déjà vu un événement climatique, canicules en tête, désorganiser leur activité, et ils sont deux fois plus nombreux depuis l'été 2026 à juger le système de santé incapable d'y faire face.",
+      "source": "The Shift Project",
+      "url": "https://theshiftproject.org/publications/resultats-de-la-grande-consultation-sante/"
     },
     {
       "category": "profession",
-      "title": "Indemnités journalières : Convergence Infirmière s'oppose à la hausse des cotisations et à l'allongement de la carence",
-      "summary": "Pour combler un déficit de 309 millions d'euros du régime des libéraux, le gouvernement envisage de porter la cotisation IJ à 0,40 % et le délai de carence de trois à huit jours : Convergence Infirmière dénonce une double peine pour les IDEL.",
-      "source": "Infirmiers.com",
-      "url": "https://infirmiers.com/exercice-liberal/indemnites-journalieres-convergence-infirmiere-soppose-la-hausse-des-cotisations-et-lallongement-de"
+      "title": "Ratios infirmiers : en 2027, la sécurité des patients doit devenir une obligation réelle",
+      "summary": "À cinq semaines de l'entrée en vigueur prévue le 1er janvier 2027, le SNPI-CFE-CGC alerte : les décrets d'application de la loi sur les ratios soignants ne sont toujours pas parus, et le syndicat réclame des normes nationales contraignantes, des contrôles et un financement dédié.",
+      "source": "Santé Mentale",
+      "url": "https://www.santementale.fr/2026/11/ratios-infirmiers-en-2027-la-securite-des-patients-doit-devenir-une-obligation-reelle/"
     },
     {
       "category": "technique",
-      "title": "Endoprothèses thoraciques Relay Plus et Relay Pro et endoprothèse abdominale Treo – Terumo Aortic : rappel",
-      "summary": "Terumo Aortic retire tous les systèmes Relay Plus, Relay Pro et Treo non périmés, sur-mesure compris, en raison d'une possible présence d'endotoxines : arrêt immédiat d'utilisation et mise en quarantaine des stocks dans les blocs de chirurgie vasculaire.",
+      "title": "Endoscope (accessoire) – Trousse anti-buée Fred 2 – Medtronic / Covidien LLC",
+      "summary": "Medtronic engage une action de sécurité sur sa solution anti-buée Fred 2 pour optiques d'endoscopes (n° ANSM R2635859) : les pharmacies à usage intérieur concernées ont reçu un courrier détaillant la conduite à tenir, à relayer aux équipes de bloc et d'endoscopie.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/endoprotheses-thoraciques-relay-plus-et-relay-pro-et-endoprothese-abdominale-treo-terumo-aortic"
+      "url": "https://ansm.sante.fr/informations-de-securite/endoscope-accessoire-trousse-anti-buee-fred-2-medtronic-covidien-llc"
     },
     {
       "category": "formation",
-      "title": "Webinaire : la prise en charge des patients consommateurs d'opioïdes",
-      "summary": "L'URPS Infirmière PACA propose aux infirmiers libéraux un temps d'échange d'une heure le jeudi 3 décembre (14 h-15 h) sur l'accompagnement à domicile des patients sous opioïdes et la prévention des surdoses.",
-      "source": "URPS Infirmière PACA",
-      "url": "https://www.urps-infirmiere-paca.fr/retrouvez-nos-webinaires-nhesitez-pas-a-vous-inscrire/"
+      "title": "Congrès Français de Psychiatrie 2026 : inscriptions",
+      "summary": "Le CFP se tient à Strasbourg du 2 au 5 décembre, avec dès le mercredi 2 décembre la journée JSIRP consacrée aux sciences infirmières et à la recherche paramédicale, des sessions DPC dédiées et un accès paramédical aux quatre jours à partir de 65 €.",
+      "source": "Congrès Français de Psychiatrie",
+      "url": "https://congresfrancaispsychiatrie.org/congres/inscription/"
     }
   ],
   "word": {
-    "field": "Clinique & nutrition",
-    "term": "Syndrome de renutrition inappropriée (SRI)",
-    "subtitle": "Quand nourrir trop vite un patient dénutri devient dangereux",
-    "definition": "Le syndrome de renutrition inappropriée est un ensemble de troubles métaboliques (hypophosphorémie, hypokaliémie, hypomagnésémie, carence en thiamine, rétention hydrosodée) survenant à la reprise d'une alimentation orale, entérale ou parentérale chez un patient dénutri ou à jeun prolongé, pouvant entraîner insuffisance cardiaque, troubles du rythme et décès.",
+    "field": "Gestes & soins",
+    "term": "Vérification du positionnement de la sonde nasogastrique",
+    "subtitle": "Avant de passer quoi que ce soit dans la sonde, s'assurer qu'elle est bien dans l'estomac",
+    "definition": "La vérification du positionnement de la sonde nasogastrique est l'ensemble des contrôles permettant de confirmer que l'extrémité de la sonde se situe dans l'estomac et non dans l'arbre respiratoire, avant toute première utilisation puis avant chaque administration d'alimentation, d'eau ou de médicament.",
     "steps": [
       {
         "n": "1",
-        "h": "Repérer",
-        "t": "les patients à risque avant toute renutrition : IMC < 16, perte de poids > 15 % en 3-6 mois, apports quasi nuls depuis plus de 10 jours, alcoolisme chronique, anorexie mentale, phosphore, potassium ou magnésium déjà bas ; le signaler au médecin et au diététicien."
+        "h": "Mesurer et repérer",
+        "t": "avant la pose, mesurer la longueur nez-lobe de l'oreille-appendice xiphoïde (NEX), puis noter le repère centimétrique au niveau de la narine une fois la sonde fixée ; toute variation de ce repère fait suspecter un déplacement."
       },
       {
         "n": "2",
-        "h": "Renourrir progressivement",
-        "t": "appliquer la prescription : apports énergétiques débutés bas (de l'ordre de 10 kcal/kg/j chez les plus à risque) puis augmentés par paliers, supplémentation en thiamine avant et pendant la renutrition, ainsi qu'en phosphore, potassium et magnésium selon le bilan."
+        "h": "Confirmer le positionnement",
+        "t": "aspirer le contenu gastrique et tester le pH (≤ 5,5 en faveur d'une position gastrique selon les protocoles) ; en cas de doute, de pH non concluant ou de patient à risque, la radiographie reste la référence. L'insufflation d'air à l'auscultation n'est pas une méthode fiable."
       },
       {
         "n": "3",
-        "h": "Surveiller",
-        "t": "ionogramme, phosphorémie et magnésémie quotidiens les premiers jours, poids, bilan entrées-sorties, œdèmes, fréquence cardiaque, dyspnée, confusion ou faiblesse musculaire ; alerter au moindre signe et tracer chaque paramètre."
+        "h": "Recontrôler et tracer",
+        "t": "revérifier le repère externe et le positionnement avant chaque utilisation, après une toux, des vomissements ou une aspiration ; stopper toute administration et alerter devant une toux, une dyspnée ou une désaturation ; tracer la méthode et le résultat dans le dossier."
       }
     ],
-    "retenir": "Chez le patient dénutri, on renourrit lentement : thiamine d'abord, apports augmentés par paliers, phosphore surveillé de près. Œdèmes, tachycardie, dyspnée ou confusion à la reprise alimentaire = penser SRI et alerter. ",
-    "sources": "Sources : HAS / FFN (diagnostic de la dénutrition, 2019-2021) · SFNCM (recommandations sur le syndrome de renutrition inappropriée) · NICE CG32."
+    "retenir": "Rien ne passe dans une sonde nasogastrique dont la position n'a pas été confirmée : repère externe, pH du liquide aspiré, radio au moindre doute — jamais le test à l'air seul. Toux ou désaturation pendant l'alimentation = on arrête et on alerte. ",
+    "sources": "Sources : NHS Improvement / NPSA (Patient Safety Alert, positionnement des sondes nasogastriques, 2016) · SFNCM (recommandations de bonnes pratiques en nutrition entérale) · Protocoles de soins infirmiers CHU."
   }
 }

@@ -1,6 +1,10 @@
 {
   "recent": [
     {
+      "term": "Thrombopénie induite par l'héparine (TIH)",
+      "date": "2026-11-28"
+    },
+    {
       "term": "Vérification du positionnement de la sonde nasogastrique",
       "date": "2026-11-27"
     },
@@ -115,10 +119,6 @@
     {
       "term": "Médicaments à risque (high-alert)",
       "date": "2026-10-28"
-    },
-    {
-      "term": "Aspiration endotrachéale en système clos",
-      "date": "2026-10-27"
     }
   ]
 }

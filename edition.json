@@ -1,83 +1,85 @@
 {
-  "dateLong": "Ven. 27 nov.",
+  "dateLong": "Sam. 28 nov.",
   "essentiel": [
-    { "text": "La " },
-    { "text": "CMP", "strong": true },
-    { "text": " a échoué sur le " },
-    { "text": "PLFSS 2027", "strong": true },
-    { "text": ", qui repart en nouvelle lecture à l'Assemblée dès le 7 décembre, tandis que l'" },
+    { "text": "Un " },
+    { "text": "arrêté", "strong": true },
+    { "text": " paru au JO du 27 novembre ouvre la prescription de " },
+    { "text": "transport bariatrique", "strong": true },
+    { "text": " dès 110 kg, l'" },
     { "text": "ANSM", "strong": true },
-    { "text": " rappelle quatre lots de " },
-    { "text": "Valproate de sodium Arrow", "strong": true },
-    { "text": " solution buvable pour une seringue doseuse non conforme." }
+    { "text": " rappelle deux lots d'" },
+    { "text": "Humexlib État grippal", "strong": true },
+    { "text": " pour un braille erroné, et le capteur " },
+    { "text": "Dexcom G7", "strong": true },
+    { "text": " couplé à CamAPS FX sera remboursé dès 2 ans à partir du 10 décembre." }
   ],
   "articles": [
     {
       "category": "reglementaire",
-      "title": "Budget 2027 de la Sécurité sociale : députés et sénateurs échouent à trouver un compromis",
-      "summary": "Réunie jeudi 26 novembre, la CMP sur le PLFSS 2027 s'est séparée sans accord après 1 h 15 : le texte repasse en commission des affaires sociales de l'Assemblée dès lundi, puis en séance le 7 décembre, avant une lecture définitive où les députés auront le dernier mot.",
-      "source": "Public Sénat",
-      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-echec-de-la-tentative-de-compromis-entre-deputes-et-senateurs"
+      "title": "Arrêté du 15 novembre 2026 modifiant le référentiel de prescription des transports",
+      "summary": "Publié au JO du 27 novembre, le texte permet de mentionner un transport bariatrique sur la prescription pour les patients d'au moins 110 kg avec un IMC ≥ 30, le niveau 1 couvrant les poids de 110 à 240 kg, en application du décret n° 2026-787 du 13 août 2026.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055150608"
     },
     {
       "category": "alertes",
-      "title": "Valproate de Sodium Arrow 200 mg/mL, solution buvable – Laboratoire Arrow Génériques : rappel de lots",
-      "summary": "Une seringue étiquetée « Bétaméthasone 0,05 % » et graduée en gouttes au lieu de milligrammes a été retrouvée dans des étuis scellés : les lots 1047, 1048, 1056 et 1057 sont rappelés en établissements de santé, avec un risque de surdosage grave chez le nourrisson et le jeune enfant.",
+      "title": "Humexlib État grippal (paracétamol/vitamine C/phéniramine) – Urgo Healthcare : rappel de lots",
+      "summary": "Les lots 1316 (exp. 05/2029) et 1317 (exp. 06/2029) des boîtes de 8 sachets sont rappelés par précaution auprès des pharmacies : le braille indique à tort « sans sucre » alors que la poudre contient du sucre, un point à signaler aux patients diabétiques malvoyants.",
       "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/valproate-de-sodium-arrow-200-mg-ml-solution-buvable-laboratoire-arrow-generiques"
+      "url": "https://ansm.sante.fr/informations-de-securite/humexlib-etat-grippal-paracetamol-vitamine-c-pheniramine-500-mg-200-mg-25-mg-poudre-pour-solution-buvable-en-sachet-laboratoires-urgo-healthcare"
     },
     {
       "category": "science",
-      "title": "Résultats de la Grande Consultation Santé",
-      "summary": "Près de 29 000 soignants, dont 13 577 infirmiers, ont répondu à l'enquête du Shift Project : 74 % ont déjà vu un événement climatique, canicules en tête, désorganiser leur activité, et ils sont deux fois plus nombreux depuis l'été 2026 à juger le système de santé incapable d'y faire face.",
-      "source": "The Shift Project",
-      "url": "https://theshiftproject.org/publications/resultats-de-la-grande-consultation-sante/"
+      "title": "Enquête nationale CAPA : l'autonomie clinique des infirmiers en pratique avancée",
+      "summary": "Menée auprès de 594 IPA, l'étude de la SoFRIPA décrit une autonomie clinique « en consolidation progressive », plus élevée dans les structures pluriprofessionnelles, et un accès direct à la prescription vu comme la reconnaissance d'un raisonnement clinique déjà exercé.",
+      "source": "SoFRIPA",
+      "url": "https://www.sofripa.org/actualites/enquete-national-capa-produire-des-donnees-scientifiques-pour-eclairer-levolution-de-la-pratique-avancee-infirmiere/"
     },
     {
       "category": "profession",
-      "title": "Ratios infirmiers : en 2027, la sécurité des patients doit devenir une obligation réelle",
-      "summary": "À cinq semaines de l'entrée en vigueur prévue le 1er janvier 2027, le SNPI-CFE-CGC alerte : les décrets d'application de la loi sur les ratios soignants ne sont toujours pas parus, et le syndicat réclame des normes nationales contraignantes, des contrôles et un financement dédié.",
-      "source": "Santé Mentale",
-      "url": "https://www.santementale.fr/2026/11/ratios-infirmiers-en-2027-la-securite-des-patients-doit-devenir-une-obligation-reelle/"
+      "title": "Les infirmiers en situation de handicap : favoriser l'inclusion, l'accès à la profession et l'évolution des parcours",
+      "summary": "Le Conseil national de l'Ordre des infirmiers publie le 27 novembre une prise de position sur l'inclusion des infirmiers en situation de handicap, le jour même de l'ouverture des candidatures aux élections (inter)régionales ordinales, jusqu'au 30 décembre 16 h.",
+      "source": "Ordre infirmier",
+      "url": "https://www.ordre-infirmiers.fr/publications"
     },
     {
       "category": "technique",
-      "title": "Endoscope (accessoire) – Trousse anti-buée Fred 2 – Medtronic / Covidien LLC",
-      "summary": "Medtronic engage une action de sécurité sur sa solution anti-buée Fred 2 pour optiques d'endoscopes (n° ANSM R2635859) : les pharmacies à usage intérieur concernées ont reçu un courrier détaillant la conduite à tenir, à relayer aux équipes de bloc et d'endoscopie.",
-      "source": "ANSM",
-      "url": "https://ansm.sante.fr/informations-de-securite/endoscope-accessoire-trousse-anti-buee-fred-2-medtronic-covidien-llc"
+      "title": "Diabète de type 1 : un nouveau capteur de glucose remboursé dès l'âge de 2 ans",
+      "summary": "Deux arrêtés du 26 novembre élargissent la prise en charge de la boucle semi-fermée Mylife CamAPS FX : associé au capteur Dexcom G7, le système sera remboursable dès le 10 décembre chez l'adulte et l'enfant dès 2 ans sous pompe, avec au moins 8 UI d'insuline par jour.",
+      "source": "Le Moniteur des pharmacies",
+      "url": "https://www.lemoniteurdespharmacies.fr/profession/socio-professionnel/diabete-de-type-1-un-nouveau-capteur-de-glucose-rembourse-des-lage-de-2-ans"
     },
     {
       "category": "formation",
-      "title": "Congrès Français de Psychiatrie 2026 : inscriptions",
-      "summary": "Le CFP se tient à Strasbourg du 2 au 5 décembre, avec dès le mercredi 2 décembre la journée JSIRP consacrée aux sciences infirmières et à la recherche paramédicale, des sessions DPC dédiées et un accès paramédical aux quatre jours à partir de 65 €.",
-      "source": "Congrès Français de Psychiatrie",
-      "url": "https://congresfrancaispsychiatrie.org/congres/inscription/"
+      "title": "Formation prescription vaccinale infirmier (DPC)",
+      "summary": "IDEESANTE programme des sessions DPC sur la prescription vaccinale infirmière le 3 décembre à Clermont-Ferrand et le 14 décembre à Lyon, avec des inscriptions ouvertes jusqu'à 5 jours avant le début de la formation.",
+      "source": "IDEESANTE",
+      "url": "https://www.ideesante.fr/formations/formation-prescription-vaccinale-infirmier/"
     }
   ],
   "word": {
-    "field": "Gestes & soins",
-    "term": "Vérification du positionnement de la sonde nasogastrique",
-    "subtitle": "Avant de passer quoi que ce soit dans la sonde, s'assurer qu'elle est bien dans l'estomac",
-    "definition": "La vérification du positionnement de la sonde nasogastrique est l'ensemble des contrôles permettant de confirmer que l'extrémité de la sonde se situe dans l'estomac et non dans l'arbre respiratoire, avant toute première utilisation puis avant chaque administration d'alimentation, d'eau ou de médicament.",
+    "field": "Pharmaco & thérapeutique",
+    "term": "Thrombopénie induite par l'héparine (TIH)",
+    "subtitle": "Quand l'anticoagulant fait chuter les plaquettes… et provoque des thromboses",
+    "definition": "La thrombopénie induite par l'héparine de type II est une complication immuno-allergique grave des héparines (surtout l'HNF, plus rarement les HBPM) : des anticorps anti-PF4/héparine activent les plaquettes, entraînant une chute de leur nombre, typiquement entre le 5e et le 21e jour de traitement, et paradoxalement des thromboses veineuses ou artérielles.",
     "steps": [
       {
         "n": "1",
-        "h": "Mesurer et repérer",
-        "t": "avant la pose, mesurer la longueur nez-lobe de l'oreille-appendice xiphoïde (NEX), puis noter le repère centimétrique au niveau de la narine une fois la sonde fixée ; toute variation de ce repère fait suspecter un déplacement."
+        "h": "Surveiller les plaquettes",
+        "t": "réaliser la numération plaquettaire de référence avant ou dès le début du traitement, puis selon le protocole et le contexte (notamment en post-opératoire, chirurgie cardiaque ou orthopédique) ; une baisse de plus de 30 à 50 % par rapport au taux initial ou une valeur < 100 G/L doit faire évoquer une TIH."
       },
       {
         "n": "2",
-        "h": "Confirmer le positionnement",
-        "t": "aspirer le contenu gastrique et tester le pH (≤ 5,5 en faveur d'une position gastrique selon les protocoles) ; en cas de doute, de pH non concluant ou de patient à risque, la radiographie reste la référence. L'insufflation d'air à l'auscultation n'est pas une méthode fiable."
+        "h": "Repérer les signes d'alerte",
+        "t": "surveiller l'apparition d'une thrombose (mollet douloureux, dyspnée, membre froid ou ischémique), de lésions cutanées au point d'injection (nécrose, plaque érythémateuse) ou d'une réaction systémique après un bolus d'héparine, et alerter le médecin sans délai."
       },
       {
         "n": "3",
-        "h": "Recontrôler et tracer",
-        "t": "revérifier le repère externe et le positionnement avant chaque utilisation, après une toux, des vomissements ou une aspiration ; stopper toute administration et alerter devant une toux, une dyspnée ou une désaturation ; tracer la méthode et le résultat dans le dossier."
+        "h": "Agir sur prescription et tracer",
+        "t": "en cas de suspicion, arrêter toute héparine sur prescription — y compris les rinçages de cathéter héparinés — et préparer le relais par un anticoagulant non héparinique (argatroban, danaparoïde, fondaparinux selon le cas) ; tracer l'allergie dans le dossier et informer le patient. Les transfusions de plaquettes sont en règle évitées."
       }
     ],
-    "retenir": "Rien ne passe dans une sonde nasogastrique dont la position n'a pas été confirmée : repère externe, pH du liquide aspiré, radio au moindre doute — jamais le test à l'air seul. Toux ou désaturation pendant l'alimentation = on arrête et on alerte. ",
-    "sources": "Sources : NHS Improvement / NPSA (Patient Safety Alert, positionnement des sondes nasogastriques, 2016) · SFNCM (recommandations de bonnes pratiques en nutrition entérale) · Protocoles de soins infirmiers CHU."
+    "retenir": "Sous héparine, les plaquettes se surveillent : une chute de plus de 30 à 50 % ou une thrombose nouvelle doit faire penser à une TIH. On arrête toute héparine (même le rinçage), on relaie par un autre anticoagulant, et l'allergie est notée à vie dans le dossier. ",
+    "sources": "Sources : HAS / ANSM (surveillance plaquettaire sous héparines, RCP des HNF et HBPM) · GFHT (Groupe français d'études sur l'hémostase et la thrombose, recommandations TIH) · ASH 2018 Guidelines on heparin-induced thrombocytopenia."
   }
 }
